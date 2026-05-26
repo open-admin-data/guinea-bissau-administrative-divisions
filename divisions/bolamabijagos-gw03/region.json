@@ -1,0 +1,30 @@
+{
+  "id": "GW03",
+  "level": 1,
+  "level_name": {
+    "local": "Região",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Bolama/Bijagos",
+    "en": "Bolama/Bijagos",
+    "slug": "bolamabijagos-gw03"
+  },
+  "code": {
+    "id": "GW03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sector": 4,
+    "tabanca": 248
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.542",
+    "lon": "-16.343"
+  },
+  "metadata": {},
+  "source": {}
+}

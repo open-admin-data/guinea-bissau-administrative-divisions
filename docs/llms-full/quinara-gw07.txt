@@ -1,0 +1,909 @@
+# Quinara — Guinea-Bissau Administrative Divisions
+
+> 4 sectors, 220 tabancas
+> Code: GW07
+> Coordinates: 11.635, -14.97
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Sectors
+
+### Buba
+
+Code: GW0701, Coordinates: 11.622, -14.975
+Tabancas: 0
+
+### Empada
+
+Code: GW0702, Coordinates: 11.487, -15.25
+Tabancas: 87
+
+#### Aidara Balanta
+
+Code: GW0702_aidara-balanta, Coordinates: 11.5, -15.167
+
+#### Aidara Beafada
+
+Code: GW0702_aidara-beafada, Coordinates: 11.483, -15.167
+
+#### Bambaia
+
+Code: GW0702_bambaia, Coordinates: 12.3, -14.7
+
+#### Batambali
+
+Code: GW0702_batambali, Coordinates: 11.487, -15.25
+
+#### Batambali Balanta
+
+Code: GW0702_batambali-balanta, Coordinates: 11.517, -15.167
+
+#### Beja
+
+Code: GW0702_beja, Coordinates: 11.55, -15.167
+
+#### Biassa
+
+Code: GW0702_biassa, Coordinates: 11.567, -15.217
+
+#### Bijante
+
+Code: GW0702_bijante, Coordinates: 11.167, -16.067
+
+#### Binhal
+
+Code: GW0702_binhal, Coordinates: 11.533, -15.317
+
+#### Bisasema de Baixo
+
+Code: GW0702_bisasema-de-baixo, Coordinates: 11.487, -15.25
+
+#### Bolanha Longe
+
+Code: GW0702_bolanha-longe, Coordinates: 11.487, -15.25
+
+#### Botche Bitchala Cudom
+
+Code: GW0702_botche-bitchala-cudom, Coordinates: 11.487, -15.25
+
+#### Bricama
+
+Code: GW0702_bricama, Coordinates: 11.45, -14.95
+
+#### Buduco
+
+Code: GW0702_buduco, Coordinates: 11.733, -15.3
+
+#### Cancumba Balanta
+
+Code: GW0702_cancumba-balanta, Coordinates: 11.5, -15.233
+
+#### Catchampa Balanta
+
+Code: GW0702_catchampa-balanta, Coordinates: 11.487, -15.25
+
+#### Catchobar Balanta
+
+Code: GW0702_catchobar-balanta, Coordinates: 11.487, -15.25
+
+#### Catchobar Papel
+
+Code: GW0702_catchobar-papel, Coordinates: 11.487, -15.25
+
+#### Caunto
+
+Code: GW0702_caunto, Coordinates: 11.467, -15.35
+
+#### Caur Balanta
+
+Code: GW0702_caur-balanta, Coordinates: 11.487, -15.25
+
+#### Caur Beafada de Baixo
+
+Code: GW0702_caur-beafada-de-baixo, Coordinates: 11.487, -15.25
+
+#### Caur de Cima
+
+Code: GW0702_caur-de-cima, Coordinates: 11.55, -15.133
+
+#### Cidade de Empada Bairro Ga-Beafada
+
+Code: GW0702_cidade-de-empada-bairro-ga-beafada, Coordinates: 11.487, -15.25
+
+#### Cidade de Empada Bairro Ga-Cote
+
+Code: GW0702_cidade-de-empada-bairro-ga-cote, Coordinates: 11.487, -15.25
+
+#### Cubia Biafada
+
+Code: GW0702_cubia-biafada, Coordinates: 11.487, -15.25
+
+#### Cudom Quissana
+
+Code: GW0702_cudom-quissana, Coordinates: 11.487, -15.25
+
+#### Dakarzinho
+
+Code: GW0702_dakarzinho, Coordinates: 11.487, -15.25
+
+#### Darsalame de Baixo
+
+Code: GW0702_darsalame-de-baixo, Coordinates: 11.487, -15.25
+
+#### Darsalame de Cima
+
+Code: GW0702_darsalame-de-cima, Coordinates: 11.487, -15.25
+
+#### Dua Djabi
+
+Code: GW0702_dua-djabi, Coordinates: 11.487, -15.25
+
+#### Etudumbo
+
+Code: GW0702_etudumbo, Coordinates: 11.487, -15.25
+
+#### Francunda Balanta
+
+Code: GW0702_francunda-balanta, Coordinates: 11.487, -15.25
+
+#### Francunda Beafada
+
+Code: GW0702_francunda-beafada, Coordinates: 11.487, -15.25
+
+#### Fulacunda
+
+Code: GW0702_fulacunda, Coordinates: 11.433, -15.417
+
+#### Ga Tchuma Beafada
+
+Code: GW0702_ga-tchuma-beafada, Coordinates: 11.487, -15.25
+
+#### Ga Tchuma Manjaco
+
+Code: GW0702_ga-tchuma-manjaco, Coordinates: 11.487, -15.25
+
+#### Ga- Baque
+
+Code: GW0702_ga--baque, Coordinates: 11.487, -15.25
+
+#### Ga- pereira
+
+Code: GW0702_ga--pereira, Coordinates: 11.487, -15.25
+
+#### Ga- Potoque
+
+Code: GW0702_ga--potoque, Coordinates: 11.487, -15.25
+
+#### Ga- Tamba
+
+Code: GW0702_ga--tamba, Coordinates: 11.487, -15.25
+
+#### Ga- Tchombe de Baixo
+
+Code: GW0702_ga--tchombe-de-baixo, Coordinates: 11.487, -15.25
+
+#### Ga- tchombe de Cima
+
+Code: GW0702_ga--tchombe-de-cima, Coordinates: 11.487, -15.25
+
+#### Ga-Balanta
+
+Code: GW0702_ga-balanta, Coordinates: 11.487, -15.25
+
+#### Ga-Caba
+
+Code: GW0702_ga-caba, Coordinates: 11.487, -15.25
+
+#### Ga-Chiquinho
+
+Code: GW0702_ga-chiquinho, Coordinates: 11.487, -15.25
+
+#### Ga-Comba Beafada
+
+Code: GW0702_ga-comba-beafada, Coordinates: 11.487, -15.25
+
+#### Ga-Denos
+
+Code: GW0702_ga-denos, Coordinates: 11.487, -15.25
+
+#### Ga-Djimba
+
+Code: GW0702_ga-djimba, Coordinates: 11.487, -15.25
+
+#### Ga-Genia
+
+Code: GW0702_ga-genia, Coordinates: 11.487, -15.25
+
+#### Ga-Mamudu Ba
+
+Code: GW0702_ga-mamudu-ba, Coordinates: 11.487, -15.25
+
+#### Ga-Mariama
+
+Code: GW0702_ga-mariama, Coordinates: 11.487, -15.25
+
+#### Ga-Tumane
+
+Code: GW0702_ga-tumane, Coordinates: 11.487, -15.25
+
+#### Ga-Ture
+
+Code: GW0702_ga-ture, Coordinates: 11.487, -15.25
+
+#### Gambai de Cima
+
+Code: GW0702_gambai-de-cima, Coordinates: 11.487, -15.25
+
+#### Gambaio de Baixo
+
+Code: GW0702_gambaio-de-baixo, Coordinates: 11.487, -15.25
+
+#### Ganafa de Baixo
+
+Code: GW0702_ganafa-de-baixo, Coordinates: 11.487, -15.25
+
+#### Ganafa de Cima
+
+Code: GW0702_ganafa-de-cima, Coordinates: 11.487, -15.25
+
+#### Iangue
+
+Code: GW0702_iangue, Coordinates: 11.467, -15.25
+
+#### Intusse
+
+Code: GW0702_intusse, Coordinates: 11.487, -15.25
+
+#### Madina de Baixo
+
+Code: GW0702_madina-de-baixo, Coordinates: 11.487, -15.25
+
+#### Madina de Cima Beafada
+
+Code: GW0702_madina-de-cima-beafada, Coordinates: 11.487, -15.25
+
+#### Madina Lala
+
+Code: GW0702_madina-lala, Coordinates: 11.487, -15.25
+
+#### Mampata Cubiseco
+
+Code: GW0702_mampata-cubiseco, Coordinates: 11.487, -15.25
+
+#### Mansaba
+
+Code: GW0702_mansaba, Coordinates: 12.292, -15.183
+
+#### Mil
+
+Code: GW0702_mil, Coordinates: 12.233, -15.517
+
+#### Missira
+
+Code: GW0702_missira, Coordinates: 12.017, -14.65
+
+#### N`djuruco
+
+Code: GW0702_ndjuruco, Coordinates: 11.487, -15.25
+
+#### N´Tchancol
+
+Code: GW0702_ntchancol, Coordinates: 11.487, -15.25
+
+#### N´Timbonco (Intimboco)
+
+Code: GW0702_ntimbonco-intimboco, Coordinates: 11.487, -15.25
+
+#### Paunca
+
+Code: GW0702_paunca, Coordinates: 12, -14.667
+
+#### Pobreza
+
+Code: GW0702_pobreza, Coordinates: 11.4, -15.333
+
+#### Ponta America
+
+Code: GW0702_ponta-america, Coordinates: 11.487, -15.25
+
+#### Ponta Kwait
+
+Code: GW0702_ponta-kwait, Coordinates: 11.487, -15.25
+
+#### Ponta Pai
+
+Code: GW0702_ponta-pai, Coordinates: 11.487, -15.25
+
+#### Ponta Tinto
+
+Code: GW0702_ponta-tinto, Coordinates: 11.487, -15.25
+
+#### Rinhana II
+
+Code: GW0702_rinhana-ii, Coordinates: 11.487, -15.25
+
+#### Samba Grande
+
+Code: GW0702_samba-grande, Coordinates: 11.487, -15.25
+
+#### Sambazinho Fintinde
+
+Code: GW0702_sambazinho-fintinde, Coordinates: 11.487, -15.25
+
+#### Sao Domingos
+
+Code: GW0702_sao-domingos, Coordinates: 12.25, -14.65
+
+#### Sao Martinho
+
+Code: GW0702_sao-martinho, Coordinates: 11.417, -15.45
+
+#### Sao Miguel Balanta
+
+Code: GW0702_sao-miguel-balanta, Coordinates: 11.5, -15.217
+
+#### Sao Miguel Beafada
+
+Code: GW0702_sao-miguel-beafada, Coordinates: 11.5, -15.2
+
+#### Satecuta
+
+Code: GW0702_satecuta, Coordinates: 11.483, -15.267
+
+#### Saucunda Balanta
+
+Code: GW0702_saucunda-balanta, Coordinates: 11.487, -15.25
+
+#### Saucunda Beafada
+
+Code: GW0702_saucunda-beafada, Coordinates: 11.517, -15.133
+
+#### Tabanca Nova
+
+Code: GW0702_tabanca-nova, Coordinates: 11.467, -15.433
+
+#### Walada
+
+Code: GW0702_walada, Coordinates: 11.487, -15.25
+
+### Fulacunda
+
+Code: GW0703, Coordinates: 11.788, -15.141
+Tabancas: 71
+
+#### Abandy
+
+Code: GW0703_abandy, Coordinates: 11.788, -15.141
+
+#### Adide
+
+Code: GW0703_adide, Coordinates: 11.788, -15.141
+
+#### Bambadinca Beafada
+
+Code: GW0703_bambadinca-beafada, Coordinates: 11.95, -15.067
+
+#### Bambadinca Mancanha
+
+Code: GW0703_bambadinca-mancanha, Coordinates: 11.95, -15.05
+
+#### Bani
+
+Code: GW0703_bani, Coordinates: 11.733, -15.1
+
+#### Baria
+
+Code: GW0703_baria, Coordinates: 11.8, -15.25
+
+#### Bianga
+
+Code: GW0703_bianga, Coordinates: 11.783, -15.2
+
+#### Binholom
+
+Code: GW0703_binholom, Coordinates: 11.788, -15.141
+
+#### Bodjol
+
+Code: GW0703_bodjol, Coordinates: 11.788, -15.141
+
+#### Braia
+
+Code: GW0703_braia, Coordinates: 11.317, -15.1
+
+#### Buba Intchenque
+
+Code: GW0703_buba-intchenque, Coordinates: 11.788, -15.141
+
+#### Buduco
+
+Code: GW0703_buduco, Coordinates: 11.733, -15.3
+
+#### Cidade de FULACUNDA Barrio Fulacunda 1 (Baixada)
+
+Code: GW0703_cidade-de-fulacunda-barrio-fulacunda-1-baixada, Coordinates: 11.788, -15.141
+
+#### Cidade de FULACUNDA Barrio Fulacunda 2
+
+Code: GW0703_cidade-de-fulacunda-barrio-fulacunda-2, Coordinates: 11.788, -15.141
+
+#### Contra Fome
+
+Code: GW0703_contra-fome, Coordinates: 11.788, -15.141
+
+#### Cubajal
+
+Code: GW0703_cubajal, Coordinates: 11.85, -15.15
+
+#### Cubambol
+
+Code: GW0703_cubambol, Coordinates: 11.788, -15.141
+
+#### Djondi
+
+Code: GW0703_djondi, Coordinates: 11.788, -15.141
+
+#### Dodoco
+
+Code: GW0703_dodoco, Coordinates: 11.85, -15.3
+
+#### Farana Beafada
+
+Code: GW0703_farana-beafada, Coordinates: 11.788, -15.141
+
+#### Foia
+
+Code: GW0703_foia, Coordinates: 11.817, -15.417
+
+#### Ga Bana
+
+Code: GW0703_ga-bana, Coordinates: 11.788, -15.141
+
+#### Ga Djauara Beafada
+
+Code: GW0703_ga-djauara-beafada, Coordinates: 11.788, -15.141
+
+#### Ga Sene
+
+Code: GW0703_ga-sene, Coordinates: 11.788, -15.141
+
+#### Ga-Bapur
+
+Code: GW0703_ga-bapur, Coordinates: 11.788, -15.141
+
+#### Ga-Cantora
+
+Code: GW0703_ga-cantora, Coordinates: 11.788, -15.141
+
+#### Ga-Chiquinho
+
+Code: GW0703_ga-chiquinho, Coordinates: 11.788, -15.141
+
+#### Ga-Djatra
+
+Code: GW0703_ga-djatra, Coordinates: 11.788, -15.141
+
+#### Ga-Djaura Balanta
+
+Code: GW0703_ga-djaura-balanta, Coordinates: 11.788, -15.141
+
+#### Ga-Djene
+
+Code: GW0703_ga-djene, Coordinates: 11.788, -15.141
+
+#### Ga-Djobo
+
+Code: GW0703_ga-djobo, Coordinates: 11.788, -15.141
+
+#### Ga-Formoso
+
+Code: GW0703_ga-formoso, Coordinates: 11.788, -15.141
+
+#### Ga-Joao
+
+Code: GW0703_ga-joao, Coordinates: 11.788, -15.141
+
+#### Ga-Mamudu
+
+Code: GW0703_ga-mamudu, Coordinates: 11.788, -15.141
+
+#### Ga-Mela
+
+Code: GW0703_ga-mela, Coordinates: 11.788, -15.141
+
+#### Ga-Paulo Imbana
+
+Code: GW0703_ga-paulo-imbana, Coordinates: 11.788, -15.141
+
+#### Ga-Perto
+
+Code: GW0703_ga-perto, Coordinates: 11.788, -15.141
+
+#### Ga-Quecuta
+
+Code: GW0703_ga-quecuta, Coordinates: 11.788, -15.141
+
+#### Ga-Ture Balanta
+
+Code: GW0703_ga-ture-balanta, Coordinates: 11.788, -15.141
+
+#### Ga-Ture Mandinga
+
+Code: GW0703_ga-ture-mandinga, Coordinates: 11.788, -15.141
+
+#### Ga-Victor
+
+Code: GW0703_ga-victor, Coordinates: 11.788, -15.141
+
+#### Gambachicha
+
+Code: GW0703_gambachicha, Coordinates: 11.9, -15.05
+
+#### Gamol
+
+Code: GW0703_gamol, Coordinates: 11.788, -15.141
+
+#### Gancale
+
+Code: GW0703_gancale, Coordinates: 11.788, -15.141
+
+#### Gandjeque
+
+Code: GW0703_gandjeque, Coordinates: 11.788, -15.141
+
+#### Gandua Mandinga
+
+Code: GW0703_gandua-mandinga, Coordinates: 11.85, -15.25
+
+#### Gandua Porto
+
+Code: GW0703_gandua-porto, Coordinates: 11.867, -15.267
+
+#### Ilha de Quinta
+
+Code: GW0703_ilha-de-quinta, Coordinates: 11.788, -15.141
+
+#### Imbam
+
+Code: GW0703_imbam, Coordinates: 11.788, -15.141
+
+#### Lamane
+
+Code: GW0703_lamane, Coordinates: 11.683, -15.183
+
+#### Madina
+
+Code: GW0703_madina, Coordinates: 12.067, -14.717
+
+#### Mauritaninha
+
+Code: GW0703_mauritaninha, Coordinates: 11.788, -15.141
+
+#### Minna
+
+Code: GW0703_minna, Coordinates: 11.788, -15.141
+
+#### Missira (Dada)
+
+Code: GW0703_missira-dada, Coordinates: 11.788, -15.141
+
+#### Nauanhe
+
+Code: GW0703_nauanhe, Coordinates: 11.733, -15.333
+
+#### Perda Agulha
+
+Code: GW0703_perda-agulha, Coordinates: 11.788, -15.141
+
+#### Ponta Madina I
+
+Code: GW0703_ponta-madina-i, Coordinates: 11.788, -15.141
+
+#### Ponta Madina II
+
+Code: GW0703_ponta-madina-ii, Coordinates: 11.788, -15.141
+
+#### Priame
+
+Code: GW0703_priame, Coordinates: 11.783, -15.267
+
+#### Rinhana
+
+Code: GW0703_rinhana, Coordinates: 11.788, -15.141
+
+#### Ronco (Satecuta Beafada)
+
+Code: GW0703_ronco-satecuta-beafada, Coordinates: 11.788, -15.141
+
+#### Sam-Nhinte
+
+Code: GW0703_sam-nhinte, Coordinates: 11.788, -15.141
+
+#### Sama
+
+Code: GW0703_sama, Coordinates: 12.283, -13.983
+
+#### Santao
+
+Code: GW0703_santao, Coordinates: 11.788, -15.141
+
+#### Satecuta Balanta
+
+Code: GW0703_satecuta-balanta, Coordinates: 11.788, -15.141
+
+#### Senintche
+
+Code: GW0703_senintche, Coordinates: 11.788, -15.141
+
+#### Tumana Balanta
+
+Code: GW0703_tumana-balanta, Coordinates: 11.788, -15.141
+
+#### Tumana Beafada
+
+Code: GW0703_tumana-beafada, Coordinates: 11.788, -15.141
+
+#### Uana Beafada
+
+Code: GW0703_uana-beafada, Coordinates: 11.75, -15.083
+
+#### Uana Porto
+
+Code: GW0703_uana-porto, Coordinates: 11.788, -15.141
+
+#### Umbassa
+
+Code: GW0703_umbassa, Coordinates: 11.75, -15.25
+
+### Tite
+
+Code: GW0704, Coordinates: 11.759, -15.403
+Tabancas: 62
+
+#### Abelei
+
+Code: GW0704_abelei, Coordinates: 11.759, -15.403
+
+#### Bila
+
+Code: GW0704_bila, Coordinates: 11.767, -15.333
+
+#### Bissassema de Baixo
+
+Code: GW0704_bissassema-de-baixo, Coordinates: 11.767, -15.467
+
+#### Bissassema de Cima
+
+Code: GW0704_bissassema-de-cima, Coordinates: 11.75, -15.467
+
+#### Bissilao Flaque Minde
+
+Code: GW0704_bissilao-flaque-minde, Coordinates: 11.759, -15.403
+
+#### Branbanda
+
+Code: GW0704_branbanda, Coordinates: 11.759, -15.403
+
+#### Brandao
+
+Code: GW0704_brandao, Coordinates: 11.733, -15.317
+
+#### Buduco
+
+Code: GW0704_buduco, Coordinates: 11.733, -15.3
+
+#### Buduco Darun
+
+Code: GW0704_buduco-darun, Coordinates: 11.759, -15.403
+
+#### Bunaussa
+
+Code: GW0704_bunaussa, Coordinates: 11.733, -15.433
+
+#### Canjabel
+
+Code: GW0704_canjabel, Coordinates: 11.717, -15.333
+
+#### Cidade de Tite
+
+Code: GW0704_cidade-de-tite, Coordinates: 11.759, -15.403
+
+#### Djabada Beafada
+
+Code: GW0704_djabada-beafada, Coordinates: 11.759, -15.403
+
+#### Djabada PortoII
+
+Code: GW0704_djabada-portoii, Coordinates: 11.759, -15.403
+
+#### Djufa
+
+Code: GW0704_djufa, Coordinates: 11.759, -15.403
+
+#### Enxude
+
+Code: GW0704_enxude, Coordinates: 11.759, -15.403
+
+#### Erga
+
+Code: GW0704_erga, Coordinates: 11.759, -15.403
+
+#### Faracunda Dabo
+
+Code: GW0704_faracunda-dabo, Coordinates: 11.759, -15.403
+
+#### Finiman
+
+Code: GW0704_finiman, Coordinates: 11.759, -15.403
+
+#### Fininque
+
+Code: GW0704_fininque, Coordinates: 11.759, -15.403
+
+#### Flaque
+
+Code: GW0704_flaque, Coordinates: 11.759, -15.403
+
+#### Flaque Bissunha
+
+Code: GW0704_flaque-bissunha, Coordinates: 11.759, -15.403
+
+#### Flaque Cibi
+
+Code: GW0704_flaque-cibi, Coordinates: 11.759, -15.403
+
+#### Flaque Intela
+
+Code: GW0704_flaque-intela, Coordinates: 11.759, -15.403
+
+#### Flaque Nhabal
+
+Code: GW0704_flaque-nhabal, Coordinates: 11.759, -15.403
+
+#### Flora
+
+Code: GW0704_flora, Coordinates: 11.767, -15.45
+
+#### Foia
+
+Code: GW0704_foia, Coordinates: 11.817, -15.417
+
+#### Ga- Binta
+
+Code: GW0704_ga--binta, Coordinates: 11.759, -15.403
+
+#### Ga-Djai
+
+Code: GW0704_ga-djai, Coordinates: 11.759, -15.403
+
+#### Ga-Malam
+
+Code: GW0704_ga-malam, Coordinates: 11.759, -15.403
+
+#### Ga-Mitilia
+
+Code: GW0704_ga-mitilia, Coordinates: 11.759, -15.403
+
+#### Ga-Pedro
+
+Code: GW0704_ga-pedro, Coordinates: 11.759, -15.403
+
+#### Ga-Saude
+
+Code: GW0704_ga-saude, Coordinates: 11.759, -15.403
+
+#### Galecunde
+
+Code: GW0704_galecunde, Coordinates: 11.759, -15.403
+
+#### Ilheu de Mancebo
+
+Code: GW0704_ilheu-de-mancebo, Coordinates: 11.759, -15.403
+
+#### Iusse
+
+Code: GW0704_iusse, Coordinates: 11.767, -15.383
+
+#### Junqueira
+
+Code: GW0704_junqueira, Coordinates: 11.65, -15.45
+
+#### Louvado
+
+Code: GW0704_louvado, Coordinates: 11.75, -15.35
+
+#### Manandim
+
+Code: GW0704_manandim, Coordinates: 11.759, -15.403
+
+#### manha
+
+Code: GW0704_manha, Coordinates: 11.759, -15.403
+
+#### Mara Bota
+
+Code: GW0704_mara-bota, Coordinates: 11.759, -15.403
+
+#### Menique
+
+Code: GW0704_menique, Coordinates: 11.759, -15.403
+
+#### Nam Balanta
+
+Code: GW0704_nam-balanta, Coordinates: 11.759, -15.403
+
+#### Nema
+
+Code: GW0704_nema, Coordinates: 12.441, -16.088
+
+#### Nhala de Baixo
+
+Code: GW0704_nhala-de-baixo, Coordinates: 11.717, -15.5
+
+#### Nhala de Cima
+
+Code: GW0704_nhala-de-cima, Coordinates: 11.75, -15.483
+
+#### Nova Sitra
+
+Code: GW0704_nova-sitra, Coordinates: 11.759, -15.403
+
+#### Ponta Cabral
+
+Code: GW0704_ponta-cabral, Coordinates: 12.417, -15.067
+
+#### Ponta de Sadja
+
+Code: GW0704_ponta-de-sadja, Coordinates: 11.759, -15.403
+
+#### Ponta malila
+
+Code: GW0704_ponta-malila, Coordinates: 11.759, -15.403
+
+#### Ponta Nova de Àgua
+
+Code: GW0704_ponta-nova-de-gua, Coordinates: 11.759, -15.403
+
+#### Ponta Nova de Foia
+
+Code: GW0704_ponta-nova-de-foia, Coordinates: 11.759, -15.403
+
+#### Ponta Priame
+
+Code: GW0704_ponta-priame, Coordinates: 11.759, -15.403
+
+#### Ponta Rui
+
+Code: GW0704_ponta-rui, Coordinates: 11.759, -15.403
+
+#### Porto Djabada I
+
+Code: GW0704_porto-djabada-i, Coordinates: 11.759, -15.403
+
+#### Quidanhol
+
+Code: GW0704_quidanhol, Coordinates: 11.759, -15.403
+
+#### Salanca
+
+Code: GW0704_salanca, Coordinates: 11.533, -15.567
+
+#### Santa Joana Maria
+
+Code: GW0704_santa-joana-maria, Coordinates: 11.759, -15.403
+
+#### Sao Jose Crato
+
+Code: GW0704_sao-jose-crato, Coordinates: 11.759, -15.403
+
+#### Sera Leoa
+
+Code: GW0704_sera-leoa, Coordinates: 11.759, -15.403
+
+#### Sintcha Lega
+
+Code: GW0704_sintcha-lega, Coordinates: 11.759, -15.403
+
+#### Tite de Baixo
+
+Code: GW0704_tite-de-baixo, Coordinates: 11.759, -15.403
+

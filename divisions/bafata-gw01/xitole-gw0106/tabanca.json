@@ -1,0 +1,6698 @@
+[
+  {
+    "id": "GW0106_afia-corubal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Afia Corubal",
+      "en": "Afia Corubal",
+      "slug": "afia-corubal"
+    },
+    "code": {
+      "id": "GW0106_afia-corubal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_afia-embalocunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Afia Embalocunda",
+      "en": "Afia Embalocunda",
+      "slug": "afia-embalocunda"
+    },
+    "code": {
+      "id": "GW0106_afia-embalocunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_afia-pulom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Afia Pulom",
+      "en": "Afia Pulom",
+      "slug": "afia-pulom"
+    },
+    "code": {
+      "id": "GW0106_afia-pulom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_aliel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Aliel",
+      "en": "Aliel",
+      "slug": "aliel"
+    },
+    "code": {
+      "id": "GW0106_aliel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.917",
+      "lon": "-14.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_andsine",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Andsine",
+      "en": "Andsine",
+      "slug": "andsine"
+    },
+    "code": {
+      "id": "GW0106_andsine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_assana-jau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Assana Jau",
+      "en": "Assana Jau",
+      "slug": "assana-jau"
+    },
+    "code": {
+      "id": "GW0106_assana-jau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_bairro-colos",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bairro Colos",
+      "en": "Bairro Colos",
+      "slug": "bairro-colos"
+    },
+    "code": {
+      "id": "GW0106_bairro-colos",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_bairro-militar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bairro Militar",
+      "en": "Bairro Militar",
+      "slug": "bairro-militar"
+    },
+    "code": {
+      "id": "GW0106_bairro-militar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_biro-nbi-uru",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Biro (Nbi-Uru)",
+      "en": "Biro (Nbi-Uru)",
+      "slug": "biro-nbi-uru"
+    },
+    "code": {
+      "id": "GW0106_biro-nbi-uru",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_bissa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissa",
+      "en": "Bissa",
+      "slug": "bissa"
+    },
+    "code": {
+      "id": "GW0106_bissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.383",
+      "lon": "-15.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_bissau-novo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissau Novo",
+      "en": "Bissau Novo",
+      "slug": "bissau-novo"
+    },
+    "code": {
+      "id": "GW0106_bissau-novo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.867",
+      "lon": "-15.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_bissazinho-bissauzinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissazinho (Bissauzinho)",
+      "en": "Bissazinho (Bissauzinho)",
+      "slug": "bissazinho-bissauzinho"
+    },
+    "code": {
+      "id": "GW0106_bissazinho-bissauzinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_bolo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bolo",
+      "en": "Bolo",
+      "slug": "bolo"
+    },
+    "code": {
+      "id": "GW0106_bolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.9",
+      "lon": "-14.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_braima-sori",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Braima Sori",
+      "en": "Braima Sori",
+      "slug": "braima-sori"
+    },
+    "code": {
+      "id": "GW0106_braima-sori",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_camara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Camara",
+      "en": "Camara",
+      "slug": "camara"
+    },
+    "code": {
+      "id": "GW0106_camara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_cambesse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cambesse",
+      "en": "Cambesse",
+      "slug": "cambesse"
+    },
+    "code": {
+      "id": "GW0106_cambesse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.683",
+      "lon": "-14.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_cancode-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cancode Balanta",
+      "en": "Cancode Balanta",
+      "slug": "cancode-balanta"
+    },
+    "code": {
+      "id": "GW0106_cancode-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_cancode-mandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cancode Mandinga",
+      "en": "Cancode Mandinga",
+      "slug": "cancode-mandinga"
+    },
+    "code": {
+      "id": "GW0106_cancode-mandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_candama",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Candama",
+      "en": "Candama",
+      "slug": "candama"
+    },
+    "code": {
+      "id": "GW0106_candama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.9",
+      "lon": "-14.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_cansamangue",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cansamangue",
+      "en": "Cansamangue",
+      "slug": "cansamangue"
+    },
+    "code": {
+      "id": "GW0106_cansamangue",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ciama",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ciama",
+      "en": "Ciama",
+      "slug": "ciama"
+    },
+    "code": {
+      "id": "GW0106_ciama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_corrubal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Corrubal",
+      "en": "Corrubal",
+      "slug": "corrubal"
+    },
+    "code": {
+      "id": "GW0106_corrubal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_damdum-jonco-tabandinto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Damdum (Jonco Tabandinto)",
+      "en": "Damdum (Jonco Tabandinto)",
+      "slug": "damdum-jonco-tabandinto"
+    },
+    "code": {
+      "id": "GW0106_damdum-jonco-tabandinto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_dando",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dando",
+      "en": "Dando",
+      "slug": "dando"
+    },
+    "code": {
+      "id": "GW0106_dando",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-14.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_darsalame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Darsalame",
+      "en": "Darsalame",
+      "slug": "darsalame"
+    },
+    "code": {
+      "id": "GW0106_darsalame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-14.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_darsalame-seco-braima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Darsalame (Seco Braima )",
+      "en": "Darsalame (Seco Braima )",
+      "slug": "darsalame-seco-braima"
+    },
+    "code": {
+      "id": "GW0106_darsalame-seco-braima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_demaudo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Demaudo",
+      "en": "Demaudo",
+      "slug": "demaudo"
+    },
+    "code": {
+      "id": "GW0106_demaudo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_demba-molo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Demba Molo",
+      "en": "Demba Molo",
+      "slug": "demba-molo"
+    },
+    "code": {
+      "id": "GW0106_demba-molo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_demba-nduro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Demba Nduro",
+      "en": "Demba Nduro",
+      "slug": "demba-nduro"
+    },
+    "code": {
+      "id": "GW0106_demba-nduro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_djagaradje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djagaradje",
+      "en": "Djagaradje",
+      "slug": "djagaradje"
+    },
+    "code": {
+      "id": "GW0106_djagaradje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_djicoi-ponta-fernando",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djicoi (Ponta Fernando)",
+      "en": "Djicoi (Ponta Fernando)",
+      "slug": "djicoi-ponta-fernando"
+    },
+    "code": {
+      "id": "GW0106_djicoi-ponta-fernando",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_dulo-sangele",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dulo Sangele",
+      "en": "Dulo Sangele",
+      "slug": "dulo-sangele"
+    },
+    "code": {
+      "id": "GW0106_dulo-sangele",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_dulombi-currual",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dulombi Currual",
+      "en": "Dulombi Currual",
+      "slug": "dulombi-currual"
+    },
+    "code": {
+      "id": "GW0106_dulombi-currual",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_fadiba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fadiba",
+      "en": "Fadiba",
+      "slug": "fadiba"
+    },
+    "code": {
+      "id": "GW0106_fadiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_fifioli",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fifioli",
+      "en": "Fifioli",
+      "slug": "fifioli"
+    },
+    "code": {
+      "id": "GW0106_fifioli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ga-djul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Djul",
+      "en": "Ga-Djul",
+      "slug": "ga-djul"
+    },
+    "code": {
+      "id": "GW0106_ga-djul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ga-sonco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Sonco",
+      "en": "Ga-Sonco",
+      "slug": "ga-sonco"
+    },
+    "code": {
+      "id": "GW0106_ga-sonco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_gandjai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gandjai",
+      "en": "Gandjai",
+      "slug": "gandjai"
+    },
+    "code": {
+      "id": "GW0106_gandjai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ganha-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ganha Balanta",
+      "en": "Ganha Balanta",
+      "slug": "ganha-balanta"
+    },
+    "code": {
+      "id": "GW0106_ganha-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "-14.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_gunti",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gunti",
+      "en": "Gunti",
+      "slug": "gunti"
+    },
+    "code": {
+      "id": "GW0106_gunti",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.633",
+      "lon": "-14.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_horta-barros",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Horta Barros",
+      "en": "Horta Barros",
+      "slug": "horta-barros"
+    },
+    "code": {
+      "id": "GW0106_horta-barros",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_jose-bucar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jose Bucar",
+      "en": "Jose Bucar",
+      "slug": "jose-bucar"
+    },
+    "code": {
+      "id": "GW0106_jose-bucar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_jose-pereira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jose Pereira",
+      "en": "Jose Pereira",
+      "slug": "jose-pereira"
+    },
+    "code": {
+      "id": "GW0106_jose-pereira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_lunba-djodo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lunba Djodo",
+      "en": "Lunba Djodo",
+      "slug": "lunba-djodo"
+    },
+    "code": {
+      "id": "GW0106_lunba-djodo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_madina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina",
+      "en": "Madina",
+      "slug": "madina"
+    },
+    "code": {
+      "id": "GW0106_madina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-14.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_mampata",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mampata",
+      "en": "Mampata",
+      "slug": "mampata"
+    },
+    "code": {
+      "id": "GW0106_mampata",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-14.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_mampata-corubal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mampata Corubal",
+      "en": "Mampata Corubal",
+      "slug": "mampata-corubal"
+    },
+    "code": {
+      "id": "GW0106_mampata-corubal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_mande-ba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mande Ba",
+      "en": "Mande Ba",
+      "slug": "mande-ba"
+    },
+    "code": {
+      "id": "GW0106_mande-ba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_mansumba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mansumba",
+      "en": "Mansumba",
+      "slug": "mansumba"
+    },
+    "code": {
+      "id": "GW0106_mansumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_mina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mina",
+      "en": "Mina",
+      "slug": "mina"
+    },
+    "code": {
+      "id": "GW0106_mina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.8",
+      "lon": "-14.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_mussa-iero",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mussa Iero",
+      "en": "Mussa Iero",
+      "slug": "mussa-iero"
+    },
+    "code": {
+      "id": "GW0106_mussa-iero",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.867",
+      "lon": "-14.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_nhando-pi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhando Pi",
+      "en": "Nhando Pi",
+      "slug": "nhando-pi"
+    },
+    "code": {
+      "id": "GW0106_nhando-pi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_panre-jabecunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Panre ( Jabecunda )",
+      "en": "Panre ( Jabecunda )",
+      "slug": "panre-jabecunda"
+    },
+    "code": {
+      "id": "GW0106_panre-jabecunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_pante-budjube",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pante Budjube",
+      "en": "Pante Budjube",
+      "slug": "pante-budjube"
+    },
+    "code": {
+      "id": "GW0106_pante-budjube",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_patche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Patche",
+      "en": "Patche",
+      "slug": "patche"
+    },
+    "code": {
+      "id": "GW0106_patche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_pate-jau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pate Jau",
+      "en": "Pate Jau",
+      "slug": "pate-jau"
+    },
+    "code": {
+      "id": "GW0106_pate-jau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.7",
+      "lon": "-14.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_pate-uindi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pate Uindi",
+      "en": "Pate Uindi",
+      "slug": "pate-uindi"
+    },
+    "code": {
+      "id": "GW0106_pate-uindi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ponta-bispo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Bispo",
+      "en": "Ponta Bispo",
+      "slug": "ponta-bispo"
+    },
+    "code": {
+      "id": "GW0106_ponta-bispo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ponta-dam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Dam",
+      "en": "Ponta Dam",
+      "slug": "ponta-dam"
+    },
+    "code": {
+      "id": "GW0106_ponta-dam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ponta-domingos",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Domingos",
+      "en": "Ponta Domingos",
+      "slug": "ponta-domingos"
+    },
+    "code": {
+      "id": "GW0106_ponta-domingos",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ponta-faro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Faro",
+      "en": "Ponta Faro",
+      "slug": "ponta-faro"
+    },
+    "code": {
+      "id": "GW0106_ponta-faro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ponta-joao-bico",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Joao Bico",
+      "en": "Ponta Joao Bico",
+      "slug": "ponta-joao-bico"
+    },
+    "code": {
+      "id": "GW0106_ponta-joao-bico",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ponta-joaquim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Joaquim",
+      "en": "Ponta Joaquim",
+      "slug": "ponta-joaquim"
+    },
+    "code": {
+      "id": "GW0106_ponta-joaquim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ponta-nbunhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta N'Bunhe",
+      "en": "Ponta N'Bunhe",
+      "slug": "ponta-nbunhe"
+    },
+    "code": {
+      "id": "GW0106_ponta-nbunhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ponta-ndjuf",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta N'Djuf",
+      "en": "Ponta N'Djuf",
+      "slug": "ponta-ndjuf"
+    },
+    "code": {
+      "id": "GW0106_ponta-ndjuf",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ponta-omaca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Omaca",
+      "en": "Ponta Omaca",
+      "slug": "ponta-omaca"
+    },
+    "code": {
+      "id": "GW0106_ponta-omaca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ponta-santo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Santo",
+      "en": "Ponta Santo",
+      "slug": "ponta-santo"
+    },
+    "code": {
+      "id": "GW0106_ponta-santo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ponta-simao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Simao",
+      "en": "Ponta Simao",
+      "slug": "ponta-simao"
+    },
+    "code": {
+      "id": "GW0106_ponta-simao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.25",
+      "lon": "-16.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_ponta-wassa-njarga---vida",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Wassa ( Njarga - Vida )",
+      "en": "Ponta Wassa ( Njarga - Vida )",
+      "slug": "ponta-wassa-njarga---vida"
+    },
+    "code": {
+      "id": "GW0106_ponta-wassa-njarga---vida",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_queneba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Queneba",
+      "en": "Queneba",
+      "slug": "queneba"
+    },
+    "code": {
+      "id": "GW0106_queneba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.383",
+      "lon": "-14.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_quirafo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quirafo",
+      "en": "Quirafo",
+      "slug": "quirafo"
+    },
+    "code": {
+      "id": "GW0106_quirafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.717",
+      "lon": "-14.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_saltinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Saltinho",
+      "en": "Saltinho",
+      "slug": "saltinho"
+    },
+    "code": {
+      "id": "GW0106_saltinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_samba-querel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samba Querel",
+      "en": "Samba Querel",
+      "slug": "samba-querel"
+    },
+    "code": {
+      "id": "GW0106_samba-querel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sambale",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sambale",
+      "en": "Sambale",
+      "slug": "sambale"
+    },
+    "code": {
+      "id": "GW0106_sambale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-14.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sambuia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sambuia",
+      "en": "Sambuia",
+      "slug": "sambuia"
+    },
+    "code": {
+      "id": "GW0106_sambuia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.917",
+      "lon": "-14.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sana-marum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sana Marum",
+      "en": "Sana Marum",
+      "slug": "sana-marum"
+    },
+    "code": {
+      "id": "GW0106_sana-marum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.65",
+      "lon": "-14.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sanhu-abasse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sanhu Abasse",
+      "en": "Sanhu Abasse",
+      "slug": "sanhu-abasse"
+    },
+    "code": {
+      "id": "GW0106_sanhu-abasse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.7",
+      "lon": "-14.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sanque-bissari",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sanque Bissari",
+      "en": "Sanque Bissari",
+      "slug": "sanque-bissari"
+    },
+    "code": {
+      "id": "GW0106_sanque-bissari",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sare-iunca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Iunca",
+      "en": "Sare Iunca",
+      "slug": "sare-iunca"
+    },
+    "code": {
+      "id": "GW0106_sare-iunca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.717",
+      "lon": "-14.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sare-lale",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Lale",
+      "en": "Sare Lale",
+      "slug": "sare-lale"
+    },
+    "code": {
+      "id": "GW0106_sare-lale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.8",
+      "lon": "-14.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sare-mansal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Mansal",
+      "en": "Sare Mansal",
+      "slug": "sare-mansal"
+    },
+    "code": {
+      "id": "GW0106_sare-mansal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_satecuta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Satecuta",
+      "en": "Satecuta",
+      "slug": "satecuta"
+    },
+    "code": {
+      "id": "GW0106_satecuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.483",
+      "lon": "-15.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-adulai-barros",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Adulai Barros",
+      "en": "Sintcha Adulai Barros",
+      "slug": "sintcha-adulai-barros"
+    },
+    "code": {
+      "id": "GW0106_sintcha-adulai-barros",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-bonco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Bonco",
+      "en": "Sintcha Bonco",
+      "slug": "sintcha-bonco"
+    },
+    "code": {
+      "id": "GW0106_sintcha-bonco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-braima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Braima",
+      "en": "Sintcha Braima",
+      "slug": "sintcha-braima"
+    },
+    "code": {
+      "id": "GW0106_sintcha-braima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-buba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Buba",
+      "en": "Sintcha Buba",
+      "slug": "sintcha-buba"
+    },
+    "code": {
+      "id": "GW0106_sintcha-buba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-carimo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Carimo",
+      "en": "Sintcha Carimo",
+      "slug": "sintcha-carimo"
+    },
+    "code": {
+      "id": "GW0106_sintcha-carimo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-conta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Conta",
+      "en": "Sintcha Conta",
+      "slug": "sintcha-conta"
+    },
+    "code": {
+      "id": "GW0106_sintcha-conta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-cule",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Cule",
+      "en": "Sintcha Cule",
+      "slug": "sintcha-cule"
+    },
+    "code": {
+      "id": "GW0106_sintcha-cule",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-culum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Culum",
+      "en": "Sintcha Culum",
+      "slug": "sintcha-culum"
+    },
+    "code": {
+      "id": "GW0106_sintcha-culum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-demba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Demba",
+      "en": "Sintcha Demba",
+      "slug": "sintcha-demba"
+    },
+    "code": {
+      "id": "GW0106_sintcha-demba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-demba-gano",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Demba Gano",
+      "en": "Sintcha Demba Gano",
+      "slug": "sintcha-demba-gano"
+    },
+    "code": {
+      "id": "GW0106_sintcha-demba-gano",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-dembaro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Dembaro",
+      "en": "Sintcha Dembaro",
+      "slug": "sintcha-dembaro"
+    },
+    "code": {
+      "id": "GW0106_sintcha-dembaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-djai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Djai",
+      "en": "Sintcha Djai",
+      "slug": "sintcha-djai"
+    },
+    "code": {
+      "id": "GW0106_sintcha-djai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-djeno",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Djeno",
+      "en": "Sintcha Djeno",
+      "slug": "sintcha-djeno"
+    },
+    "code": {
+      "id": "GW0106_sintcha-djeno",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-djobel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Djobel",
+      "en": "Sintcha Djobel",
+      "slug": "sintcha-djobel"
+    },
+    "code": {
+      "id": "GW0106_sintcha-djobel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-golo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Golo",
+      "en": "Sintcha Golo",
+      "slug": "sintcha-golo"
+    },
+    "code": {
+      "id": "GW0106_sintcha-golo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-iaia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Iaia",
+      "en": "Sintcha Iaia",
+      "slug": "sintcha-iaia"
+    },
+    "code": {
+      "id": "GW0106_sintcha-iaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-lama",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Lama",
+      "en": "Sintcha Lama",
+      "slug": "sintcha-lama"
+    },
+    "code": {
+      "id": "GW0106_sintcha-lama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-lonco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Lonco",
+      "en": "Sintcha Lonco",
+      "slug": "sintcha-lonco"
+    },
+    "code": {
+      "id": "GW0106_sintcha-lonco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-madina-saliu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Madina Saliu",
+      "en": "Sintcha Madina Saliu",
+      "slug": "sintcha-madina-saliu"
+    },
+    "code": {
+      "id": "GW0106_sintcha-madina-saliu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-madiu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Madiu",
+      "en": "Sintcha Madiu",
+      "slug": "sintcha-madiu"
+    },
+    "code": {
+      "id": "GW0106_sintcha-madiu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-mamadu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Mamadu",
+      "en": "Sintcha Mamadu",
+      "slug": "sintcha-mamadu"
+    },
+    "code": {
+      "id": "GW0106_sintcha-mamadu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-moli",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Moli",
+      "en": "Sintcha Moli",
+      "slug": "sintcha-moli"
+    },
+    "code": {
+      "id": "GW0106_sintcha-moli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-morri",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Morri",
+      "en": "Sintcha Morri",
+      "slug": "sintcha-morri"
+    },
+    "code": {
+      "id": "GW0106_sintcha-morri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-opa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Opa",
+      "en": "Sintcha Opa",
+      "slug": "sintcha-opa"
+    },
+    "code": {
+      "id": "GW0106_sintcha-opa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-saido",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Saido",
+      "en": "Sintcha Saido",
+      "slug": "sintcha-saido"
+    },
+    "code": {
+      "id": "GW0106_sintcha-saido",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-samba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Samba",
+      "en": "Sintcha Samba",
+      "slug": "sintcha-samba"
+    },
+    "code": {
+      "id": "GW0106_sintcha-samba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-samba-djalia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Samba Djalia",
+      "en": "Sintcha Samba Djalia",
+      "slug": "sintcha-samba-djalia"
+    },
+    "code": {
+      "id": "GW0106_sintcha-samba-djalia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-satcho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Satcho",
+      "en": "Sintcha Satcho",
+      "slug": "sintcha-satcho"
+    },
+    "code": {
+      "id": "GW0106_sintcha-satcho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-seco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Seco",
+      "en": "Sintcha Seco",
+      "slug": "sintcha-seco"
+    },
+    "code": {
+      "id": "GW0106_sintcha-seco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-sori",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Sori",
+      "en": "Sintcha Sori",
+      "slug": "sintcha-sori"
+    },
+    "code": {
+      "id": "GW0106_sintcha-sori",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-tumane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Tumane",
+      "en": "Sintcha Tumane",
+      "slug": "sintcha-tumane"
+    },
+    "code": {
+      "id": "GW0106_sintcha-tumane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-ugai---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Ugai - I",
+      "en": "Sintcha Ugai - I",
+      "slug": "sintcha-ugai---i"
+    },
+    "code": {
+      "id": "GW0106_sintcha-ugai---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintcha-ugai---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Ugai - II",
+      "en": "Sintcha Ugai - II",
+      "slug": "sintcha-ugai---ii"
+    },
+    "code": {
+      "id": "GW0106_sintcha-ugai---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintchandje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintchandje",
+      "en": "Sintchandje",
+      "slug": "sintchandje"
+    },
+    "code": {
+      "id": "GW0106_sintchandje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_sintchanje-sintchandje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintchanje ( Sintchandje)",
+      "en": "Sintchanje ( Sintchandje)",
+      "slug": "sintchanje-sintchandje"
+    },
+    "code": {
+      "id": "GW0106_sintchanje-sintchandje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_tchante-sintcha-samba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchante (Sintcha Samba)",
+      "en": "Tchante (Sintcha Samba)",
+      "slug": "tchante-sintcha-samba"
+    },
+    "code": {
+      "id": "GW0106_tchante-sintcha-samba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_tchumael",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchumael",
+      "en": "Tchumael",
+      "slug": "tchumael"
+    },
+    "code": {
+      "id": "GW0106_tchumael",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_tendito",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tendito",
+      "en": "Tendito",
+      "slug": "tendito"
+    },
+    "code": {
+      "id": "GW0106_tendito",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_tongali",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tongali",
+      "en": "Tongali",
+      "slug": "tongali"
+    },
+    "code": {
+      "id": "GW0106_tongali",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_tuba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tuba",
+      "en": "Tuba",
+      "slug": "tuba"
+    },
+    "code": {
+      "id": "GW0106_tuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_uracande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uracande",
+      "en": "Uracande",
+      "slug": "uracande"
+    },
+    "code": {
+      "id": "GW0106_uracande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106_xitole",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Xitole",
+      "en": "Xitole",
+      "slug": "xitole"
+    },
+    "code": {
+      "id": "GW0106_xitole",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0106",
+      "level": 2,
+      "name": {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0106",
+        "level": 2,
+        "name": {
+          "local": "Xitole",
+          "en": "Xitole",
+          "slug": "xitole-gw0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

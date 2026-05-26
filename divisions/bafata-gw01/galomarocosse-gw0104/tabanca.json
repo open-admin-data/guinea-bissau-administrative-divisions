@@ -1,0 +1,4646 @@
+[
+  {
+    "id": "GW0104_afia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Afia",
+      "en": "Afia",
+      "slug": "afia"
+    },
+    "code": {
+      "id": "GW0104_afia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.083",
+      "lon": "-14.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_alua-sintcha-dembel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Alua Sintcha (Dembel)",
+      "en": "Alua Sintcha (Dembel)",
+      "slug": "alua-sintcha-dembel"
+    },
+    "code": {
+      "id": "GW0104_alua-sintcha-dembel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_anambe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Anambe",
+      "en": "Anambe",
+      "slug": "anambe"
+    },
+    "code": {
+      "id": "GW0104_anambe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-14.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_asintcha-iero",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "aSintcha Iero",
+      "en": "aSintcha Iero",
+      "slug": "asintcha-iero"
+    },
+    "code": {
+      "id": "GW0104_asintcha-iero",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_bajobo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bajobo",
+      "en": "Bajobo",
+      "slug": "bajobo"
+    },
+    "code": {
+      "id": "GW0104_bajobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_banhama",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Banhama",
+      "en": "Banhama",
+      "slug": "banhama"
+    },
+    "code": {
+      "id": "GW0104_banhama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_bojo-fulbe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bojo Fulbe",
+      "en": "Bojo Fulbe",
+      "slug": "bojo-fulbe"
+    },
+    "code": {
+      "id": "GW0104_bojo-fulbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-14.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_bora-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bora de Baixo",
+      "en": "Bora de Baixo",
+      "slug": "bora-de-baixo"
+    },
+    "code": {
+      "id": "GW0104_bora-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_bora-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bora de Cima",
+      "en": "Bora de Cima",
+      "slug": "bora-de-cima"
+    },
+    "code": {
+      "id": "GW0104_bora-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_cabambo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabambo",
+      "en": "Cabambo",
+      "slug": "cabambo"
+    },
+    "code": {
+      "id": "GW0104_cabambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_cabufara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabufara",
+      "en": "Cabufara",
+      "slug": "cabufara"
+    },
+    "code": {
+      "id": "GW0104_cabufara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_campate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campate",
+      "en": "Campate",
+      "slug": "campate"
+    },
+    "code": {
+      "id": "GW0104_campate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.383",
+      "lon": "-14.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_candjara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Candjara",
+      "en": "Candjara",
+      "slug": "candjara"
+    },
+    "code": {
+      "id": "GW0104_candjara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_canjecula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canjecula",
+      "en": "Canjecula",
+      "slug": "canjecula"
+    },
+    "code": {
+      "id": "GW0104_canjecula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_cansomba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cansomba",
+      "en": "Cansomba",
+      "slug": "cansomba"
+    },
+    "code": {
+      "id": "GW0104_cansomba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_dade",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dade",
+      "en": "Dade",
+      "slug": "dade"
+    },
+    "code": {
+      "id": "GW0104_dade",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_demba-arabe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Demba Arabe",
+      "en": "Demba Arabe",
+      "slug": "demba-arabe"
+    },
+    "code": {
+      "id": "GW0104_demba-arabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-14.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_demba-lenguel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Demba Lenguel",
+      "en": "Demba Lenguel",
+      "slug": "demba-lenguel"
+    },
+    "code": {
+      "id": "GW0104_demba-lenguel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_demba-meta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Demba Meta",
+      "en": "Demba Meta",
+      "slug": "demba-meta"
+    },
+    "code": {
+      "id": "GW0104_demba-meta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-14.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_duas-fontes-bangacia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Duas Fontes (Bangacia)",
+      "en": "Duas Fontes (Bangacia)",
+      "slug": "duas-fontes-bangacia"
+    },
+    "code": {
+      "id": "GW0104_duas-fontes-bangacia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_dulombi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dulombi",
+      "en": "Dulombi",
+      "slug": "dulombi"
+    },
+    "code": {
+      "id": "GW0104_dulombi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_embalocunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Embalocunda",
+      "en": "Embalocunda",
+      "slug": "embalocunda"
+    },
+    "code": {
+      "id": "GW0104_embalocunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-14.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_ga-gueloge",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Gueloge",
+      "en": "Ga-Gueloge",
+      "slug": "ga-gueloge"
+    },
+    "code": {
+      "id": "GW0104_ga-gueloge",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_galomaro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Galomaro",
+      "en": "Galomaro",
+      "slug": "galomaro"
+    },
+    "code": {
+      "id": "GW0104_galomaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.7",
+      "lon": "-14.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_gengele",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gengele",
+      "en": "Gengele",
+      "slug": "gengele"
+    },
+    "code": {
+      "id": "GW0104_gengele",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-14.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_lenque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lenque",
+      "en": "Lenque",
+      "slug": "lenque"
+    },
+    "code": {
+      "id": "GW0104_lenque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-14.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_madina-aladje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Aladje",
+      "en": "Madina Aladje",
+      "slug": "madina-aladje"
+    },
+    "code": {
+      "id": "GW0104_madina-aladje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_madina-fali",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Fali",
+      "en": "Madina Fali",
+      "slug": "madina-fali"
+    },
+    "code": {
+      "id": "GW0104_madina-fali",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_maraquissa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Maraquissa",
+      "en": "Maraquissa",
+      "slug": "maraquissa"
+    },
+    "code": {
+      "id": "GW0104_maraquissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-14.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_mile-bula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mile Bula",
+      "en": "Mile Bula",
+      "slug": "mile-bula"
+    },
+    "code": {
+      "id": "GW0104_mile-bula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_missira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Missira",
+      "en": "Missira",
+      "slug": "missira"
+    },
+    "code": {
+      "id": "GW0104_missira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-14.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_missira-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Missira de Cima",
+      "en": "Missira de Cima",
+      "slug": "missira-de-cima"
+    },
+    "code": {
+      "id": "GW0104_missira-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_monda-jane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Monda Jane",
+      "en": "Monda Jane",
+      "slug": "monda-jane"
+    },
+    "code": {
+      "id": "GW0104_monda-jane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_munhine",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Munhine",
+      "en": "Munhine",
+      "slug": "munhine"
+    },
+    "code": {
+      "id": "GW0104_munhine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-14.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_parquer-curu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Parquer Curu",
+      "en": "Parquer Curu",
+      "slug": "parquer-curu"
+    },
+    "code": {
+      "id": "GW0104_parquer-curu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_parquer-loli",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Parquer Loli",
+      "en": "Parquer Loli",
+      "slug": "parquer-loli"
+    },
+    "code": {
+      "id": "GW0104_parquer-loli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_pate-bana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pate Bana",
+      "en": "Pate Bana",
+      "slug": "pate-bana"
+    },
+    "code": {
+      "id": "GW0104_pate-bana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_pate-buia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pate Buia",
+      "en": "Pate Buia",
+      "slug": "pate-buia"
+    },
+    "code": {
+      "id": "GW0104_pate-buia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_pate-gribel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pate Gribel",
+      "en": "Pate Gribel",
+      "slug": "pate-gribel"
+    },
+    "code": {
+      "id": "GW0104_pate-gribel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_pate-seidi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pate Seidi",
+      "en": "Pate Seidi",
+      "slug": "pate-seidi"
+    },
+    "code": {
+      "id": "GW0104_pate-seidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_salia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Salia",
+      "en": "Salia",
+      "slug": "salia"
+    },
+    "code": {
+      "id": "GW0104_salia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.983",
+      "lon": "-14.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_samba-ari",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samba Ari",
+      "en": "Samba Ari",
+      "slug": "samba-ari"
+    },
+    "code": {
+      "id": "GW0104_samba-ari",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_samba-cumbere",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samba Cumbere",
+      "en": "Samba Cumbere",
+      "slug": "samba-cumbere"
+    },
+    "code": {
+      "id": "GW0104_samba-cumbere",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_samba-tchabe-cabom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samba Tchabe Cabom",
+      "en": "Samba Tchabe Cabom",
+      "slug": "samba-tchabe-cabom"
+    },
+    "code": {
+      "id": "GW0104_samba-tchabe-cabom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_samba-tchabe-gundaga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samba Tchabe Gundaga",
+      "en": "Samba Tchabe Gundaga",
+      "slug": "samba-tchabe-gundaga"
+    },
+    "code": {
+      "id": "GW0104_samba-tchabe-gundaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sambodado",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sambodado",
+      "en": "Sambodado",
+      "slug": "sambodado"
+    },
+    "code": {
+      "id": "GW0104_sambodado",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sarancho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sarancho",
+      "en": "Sarancho",
+      "slug": "sarancho"
+    },
+    "code": {
+      "id": "GW0104_sarancho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12",
+      "lon": "-14.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sare-guroel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Guroel",
+      "en": "Sare Guroel",
+      "slug": "sare-guroel"
+    },
+    "code": {
+      "id": "GW0104_sare-guroel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sare-mansa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Mansa",
+      "en": "Sare Mansa",
+      "slug": "sare-mansa"
+    },
+    "code": {
+      "id": "GW0104_sare-mansa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sare-ura",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Ura",
+      "en": "Sare Ura",
+      "slug": "sare-ura"
+    },
+    "code": {
+      "id": "GW0104_sare-ura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.2",
+      "lon": "-14.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sere-bodjam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sere Bodjam",
+      "en": "Sere Bodjam",
+      "slug": "sere-bodjam"
+    },
+    "code": {
+      "id": "GW0104_sere-bodjam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-aladje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Aladje",
+      "en": "Sintcha Aladje",
+      "slug": "sintcha-aladje"
+    },
+    "code": {
+      "id": "GW0104_sintcha-aladje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-alalba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Alalba",
+      "en": "Sintcha Alalba",
+      "slug": "sintcha-alalba"
+    },
+    "code": {
+      "id": "GW0104_sintcha-alalba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-aliuel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Aliuel",
+      "en": "Sintcha Aliuel",
+      "slug": "sintcha-aliuel"
+    },
+    "code": {
+      "id": "GW0104_sintcha-aliuel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-bambia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Bambia",
+      "en": "Sintcha Bambia",
+      "slug": "sintcha-bambia"
+    },
+    "code": {
+      "id": "GW0104_sintcha-bambia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-boi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Boi",
+      "en": "Sintcha Boi",
+      "slug": "sintcha-boi"
+    },
+    "code": {
+      "id": "GW0104_sintcha-boi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-coli",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Coli",
+      "en": "Sintcha Coli",
+      "slug": "sintcha-coli"
+    },
+    "code": {
+      "id": "GW0104_sintcha-coli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-corca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Corca",
+      "en": "Sintcha Corca",
+      "slug": "sintcha-corca"
+    },
+    "code": {
+      "id": "GW0104_sintcha-corca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-delo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Delo",
+      "en": "Sintcha Delo",
+      "slug": "sintcha-delo"
+    },
+    "code": {
+      "id": "GW0104_sintcha-delo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-dembel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Dembel",
+      "en": "Sintcha Dembel",
+      "slug": "sintcha-dembel"
+    },
+    "code": {
+      "id": "GW0104_sintcha-dembel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-djale",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Djale",
+      "en": "Sintcha Djale",
+      "slug": "sintcha-djale"
+    },
+    "code": {
+      "id": "GW0104_sintcha-djale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-djei",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Djei",
+      "en": "Sintcha Djei",
+      "slug": "sintcha-djei"
+    },
+    "code": {
+      "id": "GW0104_sintcha-djei",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-fara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Fara",
+      "en": "Sintcha Fara",
+      "slug": "sintcha-fara"
+    },
+    "code": {
+      "id": "GW0104_sintcha-fara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-gaulo-uelingara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Gaulo Uelingara",
+      "en": "Sintcha Gaulo Uelingara",
+      "slug": "sintcha-gaulo-uelingara"
+    },
+    "code": {
+      "id": "GW0104_sintcha-gaulo-uelingara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-ieroba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Ieroba",
+      "en": "Sintcha Ieroba",
+      "slug": "sintcha-ieroba"
+    },
+    "code": {
+      "id": "GW0104_sintcha-ieroba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-ieroba-querocune",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Ieroba (Querocune )",
+      "en": "Sintcha Ieroba (Querocune )",
+      "slug": "sintcha-ieroba-querocune"
+    },
+    "code": {
+      "id": "GW0104_sintcha-ieroba-querocune",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-ierondim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Ierondim",
+      "en": "Sintcha Ierondim",
+      "slug": "sintcha-ierondim"
+    },
+    "code": {
+      "id": "GW0104_sintcha-ierondim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-ioba-sintcha-mamadi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Ioba ( Sintcha Mamadi )",
+      "en": "Sintcha Ioba ( Sintcha Mamadi )",
+      "slug": "sintcha-ioba-sintcha-mamadi"
+    },
+    "code": {
+      "id": "GW0104_sintcha-ioba-sintcha-mamadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-leuro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Leuro",
+      "en": "Sintcha Leuro",
+      "slug": "sintcha-leuro"
+    },
+    "code": {
+      "id": "GW0104_sintcha-leuro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-madina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Madina",
+      "en": "Sintcha Madina",
+      "slug": "sintcha-madina"
+    },
+    "code": {
+      "id": "GW0104_sintcha-madina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-malam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Malam",
+      "en": "Sintcha Malam",
+      "slug": "sintcha-malam"
+    },
+    "code": {
+      "id": "GW0104_sintcha-malam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-mussa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Mussa",
+      "en": "Sintcha Mussa",
+      "slug": "sintcha-mussa"
+    },
+    "code": {
+      "id": "GW0104_sintcha-mussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-nhabum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Nhabum",
+      "en": "Sintcha Nhabum",
+      "slug": "sintcha-nhabum"
+    },
+    "code": {
+      "id": "GW0104_sintcha-nhabum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-nhacori",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Nhacori",
+      "en": "Sintcha Nhacori",
+      "slug": "sintcha-nhacori"
+    },
+    "code": {
+      "id": "GW0104_sintcha-nhacori",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-nhinha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Nhinha",
+      "en": "Sintcha Nhinha",
+      "slug": "sintcha-nhinha"
+    },
+    "code": {
+      "id": "GW0104_sintcha-nhinha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-pularo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Pularo",
+      "en": "Sintcha Pularo",
+      "slug": "sintcha-pularo"
+    },
+    "code": {
+      "id": "GW0104_sintcha-pularo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-queba---ii-patetoja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Queba - II ( Patetoja )",
+      "en": "Sintcha Queba - II ( Patetoja )",
+      "slug": "sintcha-queba---ii-patetoja"
+    },
+    "code": {
+      "id": "GW0104_sintcha-queba---ii-patetoja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-quela",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Quela",
+      "en": "Sintcha Quela",
+      "slug": "sintcha-quela"
+    },
+    "code": {
+      "id": "GW0104_sintcha-quela",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-quendo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Quendo",
+      "en": "Sintcha Quendo",
+      "slug": "sintcha-quendo"
+    },
+    "code": {
+      "id": "GW0104_sintcha-quendo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-sadjo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Sadjo",
+      "en": "Sintcha Sadjo",
+      "slug": "sintcha-sadjo"
+    },
+    "code": {
+      "id": "GW0104_sintcha-sadjo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-samba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Samba",
+      "en": "Sintcha Samba",
+      "slug": "sintcha-samba"
+    },
+    "code": {
+      "id": "GW0104_sintcha-samba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-umaro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Umaro",
+      "en": "Sintcha Umaro",
+      "slug": "sintcha-umaro"
+    },
+    "code": {
+      "id": "GW0104_sintcha-umaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_sintcha-usso",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Usso",
+      "en": "Sintcha Usso",
+      "slug": "sintcha-usso"
+    },
+    "code": {
+      "id": "GW0104_sintcha-usso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_tchabado",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchabado",
+      "en": "Tchabado",
+      "slug": "tchabado"
+    },
+    "code": {
+      "id": "GW0104_tchabado",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_uacaba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uacaba",
+      "en": "Uacaba",
+      "slug": "uacaba"
+    },
+    "code": {
+      "id": "GW0104_uacaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-14.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104_umaro-cosse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Umaro Cosse",
+      "en": "Umaro Cosse",
+      "slug": "umaro-cosse"
+    },
+    "code": {
+      "id": "GW0104_umaro-cosse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0104",
+      "level": 2,
+      "name": {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0104",
+        "level": 2,
+        "name": {
+          "local": "Galomaro/Cosse",
+          "en": "Galomaro/Cosse",
+          "slug": "galomarocosse-gw0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.983",
+      "lon": "-14.583"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

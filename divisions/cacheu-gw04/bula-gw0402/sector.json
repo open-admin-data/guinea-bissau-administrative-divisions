@@ -1,0 +1,47 @@
+{
+  "id": "GW0402",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Bula",
+    "en": "Bula",
+    "slug": "bula-gw0402"
+  },
+  "code": {
+    "id": "GW0402",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW04",
+    "level": 1,
+    "name": {
+      "local": "Cacheu",
+      "en": "Cacheu",
+      "slug": "cacheu-gw04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW04",
+      "level": 1,
+      "name": {
+        "local": "Cacheu",
+        "en": "Cacheu",
+        "slug": "cacheu-gw04"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 141
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.141",
+    "lon": "-15.757"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "GW0301",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bolama",
+      "en": "Bolama",
+      "slug": "bolama-gw0301"
+    },
+    "code": {
+      "id": "GW0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW03",
+      "level": 1,
+      "name": {
+        "local": "Bolama/Bijagos",
+        "en": "Bolama/Bijagos",
+        "slug": "bolamabijagos-gw03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 80
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bubaque",
+      "en": "Bubaque",
+      "slug": "bubaque-gw0302"
+    },
+    "code": {
+      "id": "GW0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW03",
+      "level": 1,
+      "name": {
+        "local": "Bolama/Bijagos",
+        "en": "Bolama/Bijagos",
+        "slug": "bolamabijagos-gw03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Caravela",
+      "en": "Caravela",
+      "slug": "caravela-gw0303"
+    },
+    "code": {
+      "id": "GW0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW03",
+      "level": 1,
+      "name": {
+        "local": "Bolama/Bijagos",
+        "en": "Bolama/Bijagos",
+        "slug": "bolamabijagos-gw03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Uno",
+      "en": "Uno",
+      "slug": "uno-gw0304"
+    },
+    "code": {
+      "id": "GW0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW03",
+      "level": 1,
+      "name": {
+        "local": "Bolama/Bijagos",
+        "en": "Bolama/Bijagos",
+        "slug": "bolamabijagos-gw03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 62
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

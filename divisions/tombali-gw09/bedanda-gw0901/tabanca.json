@@ -1,0 +1,7400 @@
+[
+  {
+    "id": "GW0901_afia-guiledje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Afia Guiledje",
+      "en": "Afia Guiledje",
+      "slug": "afia-guiledje"
+    },
+    "code": {
+      "id": "GW0901_afia-guiledje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_amdalai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Amdalai",
+      "en": "Amdalai",
+      "slug": "amdalai"
+    },
+    "code": {
+      "id": "GW0901_amdalai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_amedalai-iemberem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Amedalai Iemberem",
+      "en": "Amedalai Iemberem",
+      "slug": "amedalai-iemberem"
+    },
+    "code": {
+      "id": "GW0901_amedalai-iemberem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_amidara-nalu-de-haidara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Amidara Nalu de Haidara",
+      "en": "Amidara Nalu de Haidara",
+      "slug": "amidara-nalu-de-haidara"
+    },
+    "code": {
+      "id": "GW0901_amidara-nalu-de-haidara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_antula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Antula",
+      "en": "Antula",
+      "slug": "antula"
+    },
+    "code": {
+      "id": "GW0901_antula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_balana-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Balana Balanta",
+      "en": "Balana Balanta",
+      "slug": "balana-balanta"
+    },
+    "code": {
+      "id": "GW0901_balana-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_balinde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Balinde",
+      "en": "Balinde",
+      "slug": "balinde"
+    },
+    "code": {
+      "id": "GW0901_balinde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_bendugo-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bendugo Balanta",
+      "en": "Bendugo Balanta",
+      "slug": "bendugo-balanta"
+    },
+    "code": {
+      "id": "GW0901_bendugo-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_bobdem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bobdem",
+      "en": "Bobdem",
+      "slug": "bobdem"
+    },
+    "code": {
+      "id": "GW0901_bobdem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_botche-cul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Botche Cul",
+      "en": "Botche Cul",
+      "slug": "botche-cul"
+    },
+    "code": {
+      "id": "GW0901_botche-cul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_botche-djate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Botche Djate",
+      "en": "Botche Djate",
+      "slug": "botche-djate"
+    },
+    "code": {
+      "id": "GW0901_botche-djate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_botche-hotcha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Botche Hotcha",
+      "en": "Botche Hotcha",
+      "slug": "botche-hotcha"
+    },
+    "code": {
+      "id": "GW0901_botche-hotcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_botche-imbali",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Botche Imbali",
+      "en": "Botche Imbali",
+      "slug": "botche-imbali"
+    },
+    "code": {
+      "id": "GW0901_botche-imbali",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_botche-masse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Botche Masse",
+      "en": "Botche Masse",
+      "slug": "botche-masse"
+    },
+    "code": {
+      "id": "GW0901_botche-masse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_botche-sansau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Botche Sansau",
+      "en": "Botche Sansau",
+      "slug": "botche-sansau"
+    },
+    "code": {
+      "id": "GW0901_botche-sansau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_botche-wibunhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Botche Wibunhe",
+      "en": "Botche Wibunhe",
+      "slug": "botche-wibunhe"
+    },
+    "code": {
+      "id": "GW0901_botche-wibunhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cabanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabanta",
+      "en": "Cabanta",
+      "slug": "cabanta"
+    },
+    "code": {
+      "id": "GW0901_cabanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.167",
+      "lon": "-15.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cabaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabaque",
+      "en": "Cabaque",
+      "slug": "cabaque"
+    },
+    "code": {
+      "id": "GW0901_cabaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cabedu-quartel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabedu (Quartel)",
+      "en": "Cabedu (Quartel)",
+      "slug": "cabedu-quartel"
+    },
+    "code": {
+      "id": "GW0901_cabedu-quartel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cabedu-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabedu Balanta",
+      "en": "Cabedu Balanta",
+      "slug": "cabedu-balanta"
+    },
+    "code": {
+      "id": "GW0901_cabedu-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.1",
+      "lon": "-15.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cabedu-cunhawade",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabedu Cunhawade",
+      "en": "Cabedu Cunhawade",
+      "slug": "cabedu-cunhawade"
+    },
+    "code": {
+      "id": "GW0901_cabedu-cunhawade",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_caboxanque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caboxanque",
+      "en": "Caboxanque",
+      "slug": "caboxanque"
+    },
+    "code": {
+      "id": "GW0901_caboxanque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cabudu-missira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabudu Missira",
+      "en": "Cabudu Missira",
+      "slug": "cabudu-missira"
+    },
+    "code": {
+      "id": "GW0901_cabudu-missira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cachamba-nalu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cachamba Nalu",
+      "en": "Cachamba Nalu",
+      "slug": "cachamba-nalu"
+    },
+    "code": {
+      "id": "GW0901_cachamba-nalu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.2",
+      "lon": "-15.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cachamba-papel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cachamba Papel",
+      "en": "Cachamba Papel",
+      "slug": "cachamba-papel"
+    },
+    "code": {
+      "id": "GW0901_cachamba-papel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.2",
+      "lon": "-15.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cachamba-sosso",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cachamba Sosso",
+      "en": "Cachamba Sosso",
+      "slug": "cachamba-sosso"
+    },
+    "code": {
+      "id": "GW0901_cachamba-sosso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cadique-iala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cadique Iala",
+      "en": "Cadique Iala",
+      "slug": "cadique-iala"
+    },
+    "code": {
+      "id": "GW0901_cadique-iala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.25",
+      "lon": "-15.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cadique-nalu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cadique Nalu",
+      "en": "Cadique Nalu",
+      "slug": "cadique-nalu"
+    },
+    "code": {
+      "id": "GW0901_cadique-nalu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cafal-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cafal Balanta",
+      "en": "Cafal Balanta",
+      "slug": "cafal-balanta"
+    },
+    "code": {
+      "id": "GW0901_cafal-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.2",
+      "lon": "-15.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cafal-nalu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cafal Nalu",
+      "en": "Cafal Nalu",
+      "slug": "cafal-nalu"
+    },
+    "code": {
+      "id": "GW0901_cafal-nalu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cafine",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cafine",
+      "en": "Cafine",
+      "slug": "cafine"
+    },
+    "code": {
+      "id": "GW0901_cafine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.217",
+      "lon": "-15.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_caiequene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caiequene",
+      "en": "Caiequene",
+      "slug": "caiequene"
+    },
+    "code": {
+      "id": "GW0901_caiequene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_calaque-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Calaque Balanta",
+      "en": "Calaque Balanta",
+      "slug": "calaque-balanta"
+    },
+    "code": {
+      "id": "GW0901_calaque-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.2",
+      "lon": "-15.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_calbante",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Calbante",
+      "en": "Calbante",
+      "slug": "calbante"
+    },
+    "code": {
+      "id": "GW0901_calbante",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_camarempo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Camarempo",
+      "en": "Camarempo",
+      "slug": "camarempo"
+    },
+    "code": {
+      "id": "GW0901_camarempo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_camecote",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Camecote",
+      "en": "Camecote",
+      "slug": "camecote"
+    },
+    "code": {
+      "id": "GW0901_camecote",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.233",
+      "lon": "-15.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_candjamba-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Candjamba Balanta",
+      "en": "Candjamba Balanta",
+      "slug": "candjamba-balanta"
+    },
+    "code": {
+      "id": "GW0901_candjamba-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_candjatra",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Candjatra",
+      "en": "Candjatra",
+      "slug": "candjatra"
+    },
+    "code": {
+      "id": "GW0901_candjatra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cante-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cante II",
+      "en": "Cante II",
+      "slug": "cante-ii"
+    },
+    "code": {
+      "id": "GW0901_cante-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_carracuak",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Carracuak",
+      "en": "Carracuak",
+      "slug": "carracuak"
+    },
+    "code": {
+      "id": "GW0901_carracuak",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cassamine-de-cima-quibir",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassamine de Cima (Quibir)",
+      "en": "Cassamine de Cima (Quibir)",
+      "slug": "cassamine-de-cima-quibir"
+    },
+    "code": {
+      "id": "GW0901_cassamine-de-cima-quibir",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cassis",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassis",
+      "en": "Cassis",
+      "slug": "cassis"
+    },
+    "code": {
+      "id": "GW0901_cassis",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cassitcha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassitcha",
+      "en": "Cassitcha",
+      "slug": "cassitcha"
+    },
+    "code": {
+      "id": "GW0901_cassitcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cassumba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassumba",
+      "en": "Cassumba",
+      "slug": "cassumba"
+    },
+    "code": {
+      "id": "GW0901_cassumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.967",
+      "lon": "-15.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_catabonhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catabonhe",
+      "en": "Catabonhe",
+      "slug": "catabonhe"
+    },
+    "code": {
+      "id": "GW0901_catabonhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_catefine",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catefine",
+      "en": "Catefine",
+      "slug": "catefine"
+    },
+    "code": {
+      "id": "GW0901_catefine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_catesse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catesse",
+      "en": "Catesse",
+      "slug": "catesse"
+    },
+    "code": {
+      "id": "GW0901_catesse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.167",
+      "lon": "-15.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cauntchinque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cauntchinque",
+      "en": "Cauntchinque",
+      "slug": "cauntchinque"
+    },
+    "code": {
+      "id": "GW0901_cauntchinque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cidade-de-bedanda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de BEDANDA",
+      "en": "Cidade de BEDANDA",
+      "slug": "cidade-de-bedanda"
+    },
+    "code": {
+      "id": "GW0901_cidade-de-bedanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_claque-nalu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Claque Nalu",
+      "en": "Claque Nalu",
+      "slug": "claque-nalu"
+    },
+    "code": {
+      "id": "GW0901_claque-nalu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_com",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Com",
+      "en": "Com",
+      "slug": "com"
+    },
+    "code": {
+      "id": "GW0901_com",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cruzamento-de-botche-cul-amedalai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cruzamento de Botche Cul (Amedalai)",
+      "en": "Cruzamento de Botche Cul (Amedalai)",
+      "slug": "cruzamento-de-botche-cul-amedalai"
+    },
+    "code": {
+      "id": "GW0901_cruzamento-de-botche-cul-amedalai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cruzamento-de-cabudo-cabudozinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cruzamento de Cabudo (Cabudozinho)",
+      "en": "Cruzamento de Cabudo (Cabudozinho)",
+      "slug": "cruzamento-de-cabudo-cabudozinho"
+    },
+    "code": {
+      "id": "GW0901_cruzamento-de-cabudo-cabudozinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cuntubum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cuntubum",
+      "en": "Cuntubum",
+      "slug": "cuntubum"
+    },
+    "code": {
+      "id": "GW0901_cuntubum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_cura",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cura",
+      "en": "Cura",
+      "slug": "cura"
+    },
+    "code": {
+      "id": "GW0901_cura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.317",
+      "lon": "-15.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_darsalame-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Darsalame II",
+      "en": "Darsalame II",
+      "slug": "darsalame-ii"
+    },
+    "code": {
+      "id": "GW0901_darsalame-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_darssalame-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Darssalame I",
+      "en": "Darssalame I",
+      "slug": "darssalame-i"
+    },
+    "code": {
+      "id": "GW0901_darssalame-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_darulda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Darulda",
+      "en": "Darulda",
+      "slug": "darulda"
+    },
+    "code": {
+      "id": "GW0901_darulda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_dem-fala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dem Fala",
+      "en": "Dem Fala",
+      "slug": "dem-fala"
+    },
+    "code": {
+      "id": "GW0901_dem-fala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_djamam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djamam",
+      "en": "Djamam",
+      "slug": "djamam"
+    },
+    "code": {
+      "id": "GW0901_djamam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_dor-mumimo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dor Mumimo",
+      "en": "Dor Mumimo",
+      "slug": "dor-mumimo"
+    },
+    "code": {
+      "id": "GW0901_dor-mumimo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_entroncamento-de-catesse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Entroncamento de Catesse",
+      "en": "Entroncamento de Catesse",
+      "slug": "entroncamento-de-catesse"
+    },
+    "code": {
+      "id": "GW0901_entroncamento-de-catesse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_fabrate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fabrate",
+      "en": "Fabrate",
+      "slug": "fabrate"
+    },
+    "code": {
+      "id": "GW0901_fabrate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_fabrit-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fabrit I",
+      "en": "Fabrit I",
+      "slug": "fabrit-i"
+    },
+    "code": {
+      "id": "GW0901_fabrit-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_farim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Farim",
+      "en": "Farim",
+      "slug": "farim"
+    },
+    "code": {
+      "id": "GW0901_farim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.484",
+      "lon": "-15.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_faro-satchuma",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Faro Satchuma",
+      "en": "Faro Satchuma",
+      "slug": "faro-satchuma"
+    },
+    "code": {
+      "id": "GW0901_faro-satchuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_feribrique",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Feribrique",
+      "en": "Feribrique",
+      "slug": "feribrique"
+    },
+    "code": {
+      "id": "GW0901_feribrique",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_flanhobum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Flanhobum",
+      "en": "Flanhobum",
+      "slug": "flanhobum"
+    },
+    "code": {
+      "id": "GW0901_flanhobum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_flaque-bidisinde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Flaque Bidisinde",
+      "en": "Flaque Bidisinde",
+      "slug": "flaque-bidisinde"
+    },
+    "code": {
+      "id": "GW0901_flaque-bidisinde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_flaque-imbitna",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Flaque Imbitna",
+      "en": "Flaque Imbitna",
+      "slug": "flaque-imbitna"
+    },
+    "code": {
+      "id": "GW0901_flaque-imbitna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_flaque-ndjan",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Flaque N´Djan",
+      "en": "Flaque N´Djan",
+      "slug": "flaque-ndjan"
+    },
+    "code": {
+      "id": "GW0901_flaque-ndjan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ga-hode-cam-hode",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Hode (Cam Hode)",
+      "en": "Ga-Hode (Cam Hode)",
+      "slug": "ga-hode-cam-hode"
+    },
+    "code": {
+      "id": "GW0901_ga-hode-cam-hode",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ga-mela",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Mela",
+      "en": "Ga-Mela",
+      "slug": "ga-mela"
+    },
+    "code": {
+      "id": "GW0901_ga-mela",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ga-sousso",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Sousso",
+      "en": "Ga-Sousso",
+      "slug": "ga-sousso"
+    },
+    "code": {
+      "id": "GW0901_ga-sousso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_gantes-nina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gantes Nina",
+      "en": "Gantes Nina",
+      "slug": "gantes-nina"
+    },
+    "code": {
+      "id": "GW0901_gantes-nina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_gosso-ghol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gosso Ghol",
+      "en": "Gosso Ghol",
+      "slug": "gosso-ghol"
+    },
+    "code": {
+      "id": "GW0901_gosso-ghol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_guiledje-sao-beduque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Guiledje (Sao Beduque)",
+      "en": "Guiledje (Sao Beduque)",
+      "slug": "guiledje-sao-beduque"
+    },
+    "code": {
+      "id": "GW0901_guiledje-sao-beduque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_iemberem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Iemberem",
+      "en": "Iemberem",
+      "slug": "iemberem"
+    },
+    "code": {
+      "id": "GW0901_iemberem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ilheu-de-melo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilheu de Melo",
+      "en": "Ilheu de Melo",
+      "slug": "ilheu-de-melo"
+    },
+    "code": {
+      "id": "GW0901_ilheu-de-melo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.017",
+      "lon": "-15.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ilheu-de-melo-caianque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilheu de Melo (Caianque)",
+      "en": "Ilheu de Melo (Caianque)",
+      "slug": "ilheu-de-melo-caianque"
+    },
+    "code": {
+      "id": "GW0901_ilheu-de-melo-caianque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ilheu-de-melo-camine",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilheu de Melo (Camine)",
+      "en": "Ilheu de Melo (Camine)",
+      "slug": "ilheu-de-melo-camine"
+    },
+    "code": {
+      "id": "GW0901_ilheu-de-melo-camine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_intchangue",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Intchangue",
+      "en": "Intchangue",
+      "slug": "intchangue"
+    },
+    "code": {
+      "id": "GW0901_intchangue",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_lanagha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lanagha",
+      "en": "Lanagha",
+      "slug": "lanagha"
+    },
+    "code": {
+      "id": "GW0901_lanagha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_lauzande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lauzande",
+      "en": "Lauzande",
+      "slug": "lauzande"
+    },
+    "code": {
+      "id": "GW0901_lauzande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_luanda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Luanda",
+      "en": "Luanda",
+      "slug": "luanda"
+    },
+    "code": {
+      "id": "GW0901_luanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_madina-djacanca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Djacanca",
+      "en": "Madina Djacanca",
+      "slug": "madina-djacanca"
+    },
+    "code": {
+      "id": "GW0901_madina-djacanca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_madina-iemberem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Iemberem",
+      "en": "Madina Iemberem",
+      "slug": "madina-iemberem"
+    },
+    "code": {
+      "id": "GW0901_madina-iemberem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_maila",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Maila",
+      "en": "Maila",
+      "slug": "maila"
+    },
+    "code": {
+      "id": "GW0901_maila",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_mancunta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mancunta",
+      "en": "Mancunta",
+      "slug": "mancunta"
+    },
+    "code": {
+      "id": "GW0901_mancunta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_mejo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mejo",
+      "en": "Mejo",
+      "slug": "mejo"
+    },
+    "code": {
+      "id": "GW0901_mejo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.367",
+      "lon": "-14.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_misside-dauia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Misside Dauia",
+      "en": "Misside Dauia",
+      "slug": "misside-dauia"
+    },
+    "code": {
+      "id": "GW0901_misside-dauia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_missira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Missira",
+      "en": "Missira",
+      "slug": "missira"
+    },
+    "code": {
+      "id": "GW0901_missira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-14.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_muna",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Muna",
+      "en": "Muna",
+      "slug": "muna"
+    },
+    "code": {
+      "id": "GW0901_muna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_nbaibaite",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Baibaite",
+      "en": "N´Baibaite",
+      "slug": "nbaibaite"
+    },
+    "code": {
+      "id": "GW0901_nbaibaite",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_nbongur",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Bongur",
+      "en": "N´Bongur",
+      "slug": "nbongur"
+    },
+    "code": {
+      "id": "GW0901_nbongur",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ncala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Cala",
+      "en": "N´Cala",
+      "slug": "ncala"
+    },
+    "code": {
+      "id": "GW0901_ncala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ncuia-cassamine-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Cuia Cassamine de Baixo",
+      "en": "N´Cuia Cassamine de Baixo",
+      "slug": "ncuia-cassamine-de-baixo"
+    },
+    "code": {
+      "id": "GW0901_ncuia-cassamine-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ndaba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Daba",
+      "en": "N´Daba",
+      "slug": "ndaba"
+    },
+    "code": {
+      "id": "GW0901_ndaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ndalo-amedalai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Dalo (Amedalai)",
+      "en": "N´Dalo (Amedalai)",
+      "slug": "ndalo-amedalai"
+    },
+    "code": {
+      "id": "GW0901_ndalo-amedalai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ndjalim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Djalim",
+      "en": "N´Djalim",
+      "slug": "ndjalim"
+    },
+    "code": {
+      "id": "GW0901_ndjalim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ntchulba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Tchulba",
+      "en": "N´Tchulba",
+      "slug": "ntchulba"
+    },
+    "code": {
+      "id": "GW0901_ntchulba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ntote",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Tote",
+      "en": "N´Tote",
+      "slug": "ntote"
+    },
+    "code": {
+      "id": "GW0901_ntote",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_nhae",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhae",
+      "en": "Nhae",
+      "slug": "nhae"
+    },
+    "code": {
+      "id": "GW0901_nhae",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.127",
+      "lon": "-15.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_pamone",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pamone",
+      "en": "Pamone",
+      "slug": "pamone"
+    },
+    "code": {
+      "id": "GW0901_pamone",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ponta-apilo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Apilo",
+      "en": "Ponta Apilo",
+      "slug": "ponta-apilo"
+    },
+    "code": {
+      "id": "GW0901_ponta-apilo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ponta-bidinte-nmabte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Bidinte N´Mabte",
+      "en": "Ponta Bidinte N´Mabte",
+      "slug": "ponta-bidinte-nmabte"
+    },
+    "code": {
+      "id": "GW0901_ponta-bidinte-nmabte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ponta-gabril",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Gabril",
+      "en": "Ponta Gabril",
+      "slug": "ponta-gabril"
+    },
+    "code": {
+      "id": "GW0901_ponta-gabril",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ponta-jose-soares",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Jose Soares",
+      "en": "Ponta Jose Soares",
+      "slug": "ponta-jose-soares"
+    },
+    "code": {
+      "id": "GW0901_ponta-jose-soares",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ponta-mario",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Mario",
+      "en": "Ponta Mario",
+      "slug": "ponta-mario"
+    },
+    "code": {
+      "id": "GW0901_ponta-mario",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ponta-mota",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Mota",
+      "en": "Ponta Mota",
+      "slug": "ponta-mota"
+    },
+    "code": {
+      "id": "GW0901_ponta-mota",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ponta-nova-sintcha-core",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Nova (Sintcha Core)",
+      "en": "Ponta Nova (Sintcha Core)",
+      "slug": "ponta-nova-sintcha-core"
+    },
+    "code": {
+      "id": "GW0901_ponta-nova-sintcha-core",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ponta-santa-lenguere",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Santa Lenguere",
+      "en": "Ponta Santa Lenguere",
+      "slug": "ponta-santa-lenguere"
+    },
+    "code": {
+      "id": "GW0901_ponta-santa-lenguere",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ponta-sifa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Sifa",
+      "en": "Ponta Sifa",
+      "slug": "ponta-sifa"
+    },
+    "code": {
+      "id": "GW0901_ponta-sifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ponta-vicente",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Vicente",
+      "en": "Ponta Vicente",
+      "slug": "ponta-vicente"
+    },
+    "code": {
+      "id": "GW0901_ponta-vicente",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_quebo-sutuba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quebo Sutuba",
+      "en": "Quebo Sutuba",
+      "slug": "quebo-sutuba"
+    },
+    "code": {
+      "id": "GW0901_quebo-sutuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_quinssarcan",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quinssarcan",
+      "en": "Quinssarcan",
+      "slug": "quinssarcan"
+    },
+    "code": {
+      "id": "GW0901_quinssarcan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_saitcheu-campama",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Saitcheu Campama",
+      "en": "Saitcheu Campama",
+      "slug": "saitcheu-campama"
+    },
+    "code": {
+      "id": "GW0901_saitcheu-campama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_salancaur",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Salancaur",
+      "en": "Salancaur",
+      "slug": "salancaur"
+    },
+    "code": {
+      "id": "GW0901_salancaur",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_saleiro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Saleiro",
+      "en": "Saleiro",
+      "slug": "saleiro"
+    },
+    "code": {
+      "id": "GW0901_saleiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_sam-nhinte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sam-Nhinte",
+      "en": "Sam-Nhinte",
+      "slug": "sam-nhinte"
+    },
+    "code": {
+      "id": "GW0901_sam-nhinte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_sangue-damaba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sangue Damaba",
+      "en": "Sangue Damaba",
+      "slug": "sangue-damaba"
+    },
+    "code": {
+      "id": "GW0901_sangue-damaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_santa-clara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Santa Clara",
+      "en": "Santa Clara",
+      "slug": "santa-clara"
+    },
+    "code": {
+      "id": "GW0901_santa-clara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.2",
+      "lon": "-15.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_sao-francisco-de-floresta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sao Francisco de Floresta",
+      "en": "Sao Francisco de Floresta",
+      "slug": "sao-francisco-de-floresta"
+    },
+    "code": {
+      "id": "GW0901_sao-francisco-de-floresta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_sintcha-botche-guiledje-cruzamento",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Botche (Guiledje Cruzamento)",
+      "en": "Sintcha Botche (Guiledje Cruzamento)",
+      "slug": "sintcha-botche-guiledje-cruzamento"
+    },
+    "code": {
+      "id": "GW0901_sintcha-botche-guiledje-cruzamento",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_sintcha-braima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Braima",
+      "en": "Sintcha Braima",
+      "slug": "sintcha-braima"
+    },
+    "code": {
+      "id": "GW0901_sintcha-braima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_sintcha-caramba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Caramba",
+      "en": "Sintcha Caramba",
+      "slug": "sintcha-caramba"
+    },
+    "code": {
+      "id": "GW0901_sintcha-caramba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_sintcha-toma",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Toma",
+      "en": "Sintcha Toma",
+      "slug": "sintcha-toma"
+    },
+    "code": {
+      "id": "GW0901_sintcha-toma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_sintcham-braima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcham Braima",
+      "en": "Sintcham Braima",
+      "slug": "sintcham-braima"
+    },
+    "code": {
+      "id": "GW0901_sintcham-braima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_socubol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Socubol",
+      "en": "Socubol",
+      "slug": "socubol"
+    },
+    "code": {
+      "id": "GW0901_socubol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_tabanca-bedjul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tabanca Bedjul",
+      "en": "Tabanca Bedjul",
+      "slug": "tabanca-bedjul"
+    },
+    "code": {
+      "id": "GW0901_tabanca-bedjul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_tchintchi-dare",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchintchi Dare",
+      "en": "Tchintchi Dare",
+      "slug": "tchintchi-dare"
+    },
+    "code": {
+      "id": "GW0901_tchintchi-dare",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_timbo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Timbo",
+      "en": "Timbo",
+      "slug": "timbo"
+    },
+    "code": {
+      "id": "GW0901_timbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.417",
+      "lon": "-15.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_tin-tim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tin-Tim",
+      "en": "Tin-Tim",
+      "slug": "tin-tim"
+    },
+    "code": {
+      "id": "GW0901_tin-tim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_tolame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tolame",
+      "en": "Tolame",
+      "slug": "tolame"
+    },
+    "code": {
+      "id": "GW0901_tolame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_tomecer",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tomecer",
+      "en": "Tomecer",
+      "slug": "tomecer"
+    },
+    "code": {
+      "id": "GW0901_tomecer",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_tubadim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tubadim",
+      "en": "Tubadim",
+      "slug": "tubadim"
+    },
+    "code": {
+      "id": "GW0901_tubadim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.1",
+      "lon": "-14.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0901_ture-cunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ture Cunda",
+      "en": "Ture Cunda",
+      "slug": "ture-cunda"
+    },
+    "code": {
+      "id": "GW0901_ture-cunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0901",
+      "level": 2,
+      "name": {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0901",
+        "level": 2,
+        "name": {
+          "local": "Bedanda",
+          "en": "Bedanda",
+          "slug": "bedanda-gw0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

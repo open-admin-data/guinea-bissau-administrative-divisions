@@ -1,0 +1,47 @@
+{
+  "id": "GW0401",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Bigene",
+    "en": "Bigene",
+    "slug": "bigene-gw0401"
+  },
+  "code": {
+    "id": "GW0401",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW04",
+    "level": 1,
+    "name": {
+      "local": "Cacheu",
+      "en": "Cacheu",
+      "slug": "cacheu-gw04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW04",
+      "level": 1,
+      "name": {
+        "local": "Cacheu",
+        "en": "Cacheu",
+        "slug": "cacheu-gw04"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 184
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.362",
+    "lon": "-15.836"
+  },
+  "metadata": {},
+  "source": {}
+}

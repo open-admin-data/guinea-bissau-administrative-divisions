@@ -1,0 +1,3026 @@
+[
+  {
+    "id": "GW0904_afia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Afia",
+      "en": "Afia",
+      "slug": "afia"
+    },
+    "code": {
+      "id": "GW0904_afia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.083",
+      "lon": "-14.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_afia-balana-ngaduro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Afia Balana (N´Gaduro)",
+      "en": "Afia Balana (N´Gaduro)",
+      "slug": "afia-balana-ngaduro"
+    },
+    "code": {
+      "id": "GW0904_afia-balana-ngaduro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_balana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Balana",
+      "en": "Balana",
+      "slug": "balana"
+    },
+    "code": {
+      "id": "GW0904_balana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.4",
+      "lon": "-14.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_balana-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Balana II",
+      "en": "Balana II",
+      "slug": "balana-ii"
+    },
+    "code": {
+      "id": "GW0904_balana-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_boi-hela",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Boi Hela",
+      "en": "Boi Hela",
+      "slug": "boi-hela"
+    },
+    "code": {
+      "id": "GW0904_boi-hela",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_bonissa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bonissa",
+      "en": "Bonissa",
+      "slug": "bonissa"
+    },
+    "code": {
+      "id": "GW0904_bonissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_bunha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bunha",
+      "en": "Bunha",
+      "slug": "bunha"
+    },
+    "code": {
+      "id": "GW0904_bunha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_campate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campate",
+      "en": "Campate",
+      "slug": "campate"
+    },
+    "code": {
+      "id": "GW0904_campate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.383",
+      "lon": "-14.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_chamarra",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Chamarra",
+      "en": "Chamarra",
+      "slug": "chamarra"
+    },
+    "code": {
+      "id": "GW0904_chamarra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5",
+      "lon": "-14.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_cidade-de-quebo-bairro-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de QUEBO Bairro 1",
+      "en": "Cidade de QUEBO Bairro 1",
+      "slug": "cidade-de-quebo-bairro-1"
+    },
+    "code": {
+      "id": "GW0904_cidade-de-quebo-bairro-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_cidade-de-quebo-bairro-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de QUEBO Bairro 2",
+      "en": "Cidade de QUEBO Bairro 2",
+      "slug": "cidade-de-quebo-bairro-2"
+    },
+    "code": {
+      "id": "GW0904_cidade-de-quebo-bairro-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_cidade-de-quebo-bairro-3",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de QUEBO Bairro 3",
+      "en": "Cidade de QUEBO Bairro 3",
+      "slug": "cidade-de-quebo-bairro-3"
+    },
+    "code": {
+      "id": "GW0904_cidade-de-quebo-bairro-3",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_cidade-de-quebo-bairro-morsanto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de QUEBO Bairro Morsanto",
+      "en": "Cidade de QUEBO Bairro Morsanto",
+      "slug": "cidade-de-quebo-bairro-morsanto"
+    },
+    "code": {
+      "id": "GW0904_cidade-de-quebo-bairro-morsanto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_cidade-de-quebo-bairro-taibata",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de QUEBO Bairro Taibata",
+      "en": "Cidade de QUEBO Bairro Taibata",
+      "slug": "cidade-de-quebo-bairro-taibata"
+    },
+    "code": {
+      "id": "GW0904_cidade-de-quebo-bairro-taibata",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_colibuia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Colibuia",
+      "en": "Colibuia",
+      "slug": "colibuia"
+    },
+    "code": {
+      "id": "GW0904_colibuia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_contabane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Contabane",
+      "en": "Contabane",
+      "slug": "contabane"
+    },
+    "code": {
+      "id": "GW0904_contabane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.55",
+      "lon": "-14.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_cumbija",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cumbija",
+      "en": "Cumbija",
+      "slug": "cumbija"
+    },
+    "code": {
+      "id": "GW0904_cumbija",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.638",
+      "lon": "-15.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_dagala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dagala",
+      "en": "Dagala",
+      "slug": "dagala"
+    },
+    "code": {
+      "id": "GW0904_dagala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_dakarzinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dakarzinho",
+      "en": "Dakarzinho",
+      "slug": "dakarzinho"
+    },
+    "code": {
+      "id": "GW0904_dakarzinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_darsalame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Darsalame",
+      "en": "Darsalame",
+      "slug": "darsalame"
+    },
+    "code": {
+      "id": "GW0904_darsalame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-14.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_ga-dembel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga Dembel",
+      "en": "Ga Dembel",
+      "slug": "ga-dembel"
+    },
+    "code": {
+      "id": "GW0904_ga-dembel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_jai-jule",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jai Jule",
+      "en": "Jai Jule",
+      "slug": "jai-jule"
+    },
+    "code": {
+      "id": "GW0904_jai-jule",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_lenguel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lenguel",
+      "en": "Lenguel",
+      "slug": "lenguel"
+    },
+    "code": {
+      "id": "GW0904_lenguel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.467",
+      "lon": "-14.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_mabia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mabia",
+      "en": "Mabia",
+      "slug": "mabia"
+    },
+    "code": {
+      "id": "GW0904_mabia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_madina-ali",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Ali",
+      "en": "Madina Ali",
+      "slug": "madina-ali"
+    },
+    "code": {
+      "id": "GW0904_madina-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-14.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_mampata-baciro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mampata Baciro",
+      "en": "Mampata Baciro",
+      "slug": "mampata-baciro"
+    },
+    "code": {
+      "id": "GW0904_mampata-baciro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_mampata-forea",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mampata Forea",
+      "en": "Mampata Forea",
+      "slug": "mampata-forea"
+    },
+    "code": {
+      "id": "GW0904_mampata-forea",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_nnhacoba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´nhacoba",
+      "en": "N´nhacoba",
+      "slug": "nnhacoba"
+    },
+    "code": {
+      "id": "GW0904_nnhacoba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_pate-embalo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pate Embalo",
+      "en": "Pate Embalo",
+      "slug": "pate-embalo"
+    },
+    "code": {
+      "id": "GW0904_pate-embalo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-14.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_poll-cana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Poll (Cana)",
+      "en": "Poll (Cana)",
+      "slug": "poll-cana"
+    },
+    "code": {
+      "id": "GW0904_poll-cana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_ponta-bantagha-sanganale",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Bantagha (Sanganale)",
+      "en": "Ponta Bantagha (Sanganale)",
+      "slug": "ponta-bantagha-sanganale"
+    },
+    "code": {
+      "id": "GW0904_ponta-bantagha-sanganale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_ponta-iero-salde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Iero Salde",
+      "en": "Ponta Iero Salde",
+      "slug": "ponta-iero-salde"
+    },
+    "code": {
+      "id": "GW0904_ponta-iero-salde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_ponta-nhanha-tano-balde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Nhanha (Tano Balde)",
+      "en": "Ponta Nhanha (Tano Balde)",
+      "slug": "ponta-nhanha-tano-balde"
+    },
+    "code": {
+      "id": "GW0904_ponta-nhanha-tano-balde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_ponta-sanquinha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Sanquinha",
+      "en": "Ponta Sanquinha",
+      "slug": "ponta-sanquinha"
+    },
+    "code": {
+      "id": "GW0904_ponta-sanquinha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_recuba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Recuba",
+      "en": "Recuba",
+      "slug": "recuba"
+    },
+    "code": {
+      "id": "GW0904_recuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.45",
+      "lon": "-15.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_samba-bussura",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samba Bussura",
+      "en": "Samba Bussura",
+      "slug": "samba-bussura"
+    },
+    "code": {
+      "id": "GW0904_samba-bussura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sambasso-fula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sambasso Fula",
+      "en": "Sambasso Fula",
+      "slug": "sambasso-fula"
+    },
+    "code": {
+      "id": "GW0904_sambasso-fula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sare-ali",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Ali",
+      "en": "Sare Ali",
+      "slug": "sare-ali"
+    },
+    "code": {
+      "id": "GW0904_sare-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-14.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sare-amadi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Amadi",
+      "en": "Sare Amadi",
+      "slug": "sare-amadi"
+    },
+    "code": {
+      "id": "GW0904_sare-amadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sare-ussu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Ussu",
+      "en": "Sare Ussu",
+      "slug": "sare-ussu"
+    },
+    "code": {
+      "id": "GW0904_sare-ussu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sintcha-aliu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Aliu",
+      "en": "Sintcha Aliu",
+      "slug": "sintcha-aliu"
+    },
+    "code": {
+      "id": "GW0904_sintcha-aliu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sintcha-amadu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Amadu",
+      "en": "Sintcha Amadu",
+      "slug": "sintcha-amadu"
+    },
+    "code": {
+      "id": "GW0904_sintcha-amadu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sintcha-braima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Braima",
+      "en": "Sintcha Braima",
+      "slug": "sintcha-braima"
+    },
+    "code": {
+      "id": "GW0904_sintcha-braima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sintcha-djalo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Djalo",
+      "en": "Sintcha Djalo",
+      "slug": "sintcha-djalo"
+    },
+    "code": {
+      "id": "GW0904_sintcha-djalo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sintcha-djue",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Djue",
+      "en": "Sintcha Djue",
+      "slug": "sintcha-djue"
+    },
+    "code": {
+      "id": "GW0904_sintcha-djue",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sintcha-manga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Manga",
+      "en": "Sintcha Manga",
+      "slug": "sintcha-manga"
+    },
+    "code": {
+      "id": "GW0904_sintcha-manga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sintcha-sambel-saltinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Sambel Saltinho",
+      "en": "Sintcha Sambel Saltinho",
+      "slug": "sintcha-sambel-saltinho"
+    },
+    "code": {
+      "id": "GW0904_sintcha-sambel-saltinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sintcha-sana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Sana",
+      "en": "Sintcha Sana",
+      "slug": "sintcha-sana"
+    },
+    "code": {
+      "id": "GW0904_sintcha-sana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sintcha-serifo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Serifo",
+      "en": "Sintcha Serifo",
+      "slug": "sintcha-serifo"
+    },
+    "code": {
+      "id": "GW0904_sintcha-serifo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sintcha-tonsodje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Tonsodje",
+      "en": "Sintcha Tonsodje",
+      "slug": "sintcha-tonsodje"
+    },
+    "code": {
+      "id": "GW0904_sintcha-tonsodje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_sintcha-ufala-mendes",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Ufala Mendes",
+      "en": "Sintcha Ufala Mendes",
+      "slug": "sintcha-ufala-mendes"
+    },
+    "code": {
+      "id": "GW0904_sintcha-ufala-mendes",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_suntcha-suleimane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Suntcha Suleimane",
+      "en": "Suntcha Suleimane",
+      "slug": "suntcha-suleimane"
+    },
+    "code": {
+      "id": "GW0904_suntcha-suleimane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_tabanca-nova-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tabanca Nova 2",
+      "en": "Tabanca Nova 2",
+      "slug": "tabanca-nova-2"
+    },
+    "code": {
+      "id": "GW0904_tabanca-nova-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_tchangue-iaia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchangue Iaia",
+      "en": "Tchangue Iaia",
+      "slug": "tchangue-iaia"
+    },
+    "code": {
+      "id": "GW0904_tchangue-iaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_umaro-hela",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Umaro Hela",
+      "en": "Umaro Hela",
+      "slug": "umaro-hela"
+    },
+    "code": {
+      "id": "GW0904_umaro-hela",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904_unal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Unal",
+      "en": "Unal",
+      "slug": "unal"
+    },
+    "code": {
+      "id": "GW0904_unal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0904",
+      "level": 2,
+      "name": {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0904",
+        "level": 2,
+        "name": {
+          "local": "Quebo",
+          "en": "Quebo",
+          "slug": "quebo-gw0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

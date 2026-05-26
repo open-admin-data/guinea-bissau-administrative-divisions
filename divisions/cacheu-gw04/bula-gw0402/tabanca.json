@@ -1,0 +1,7616 @@
+[
+  {
+    "id": "GW0402_acunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Acunda",
+      "en": "Acunda",
+      "slug": "acunda"
+    },
+    "code": {
+      "id": "GW0402_acunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_aisna-nhinte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "AISNA (NHINTE)",
+      "en": "AISNA (NHINTE)",
+      "slug": "aisna-nhinte"
+    },
+    "code": {
+      "id": "GW0402_aisna-nhinte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_andami-nhinte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "ANDAMI (NHINTE)",
+      "en": "ANDAMI (NHINTE)",
+      "slug": "andami-nhinte"
+    },
+    "code": {
+      "id": "GW0402_andami-nhinte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_angola",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Angola",
+      "en": "Angola",
+      "slug": "angola"
+    },
+    "code": {
+      "id": "GW0402_angola",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_anhar-nhinte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "ANHAR (NHINTE)",
+      "en": "ANHAR (NHINTE)",
+      "slug": "anhar-nhinte"
+    },
+    "code": {
+      "id": "GW0402_anhar-nhinte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_anuma-nhinte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "ANUMA (NHINTE)",
+      "en": "ANUMA (NHINTE)",
+      "slug": "anuma-nhinte"
+    },
+    "code": {
+      "id": "GW0402_anuma-nhinte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_apugo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Apugo",
+      "en": "Apugo",
+      "slug": "apugo"
+    },
+    "code": {
+      "id": "GW0402_apugo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_aradju-nhinte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "ARADJU (NHINTE)",
+      "en": "ARADJU (NHINTE)",
+      "slug": "aradju-nhinte"
+    },
+    "code": {
+      "id": "GW0402_aradju-nhinte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_badi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Badi",
+      "en": "Badi",
+      "slug": "badi"
+    },
+    "code": {
+      "id": "GW0402_badi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_badjiqui",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Badjiqui",
+      "en": "Badjiqui",
+      "slug": "badjiqui"
+    },
+    "code": {
+      "id": "GW0402_badjiqui",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_bedasse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bedasse",
+      "en": "Bedasse",
+      "slug": "bedasse"
+    },
+    "code": {
+      "id": "GW0402_bedasse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_beio",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Beio",
+      "en": "Beio",
+      "slug": "beio"
+    },
+    "code": {
+      "id": "GW0402_beio",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_bessensangam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bessensangam",
+      "en": "Bessensangam",
+      "slug": "bessensangam"
+    },
+    "code": {
+      "id": "GW0402_bessensangam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_betabi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Betabi",
+      "en": "Betabi",
+      "slug": "betabi"
+    },
+    "code": {
+      "id": "GW0402_betabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_bete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bete",
+      "en": "Bete",
+      "slug": "bete"
+    },
+    "code": {
+      "id": "GW0402_bete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_bidasse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bidasse",
+      "en": "Bidasse",
+      "slug": "bidasse"
+    },
+    "code": {
+      "id": "GW0402_bidasse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_bidica",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bidica",
+      "en": "Bidica",
+      "slug": "bidica"
+    },
+    "code": {
+      "id": "GW0402_bidica",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_bidjimam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bidjimam",
+      "en": "Bidjimam",
+      "slug": "bidjimam"
+    },
+    "code": {
+      "id": "GW0402_bidjimam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_bies",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bies",
+      "en": "Bies",
+      "slug": "bies"
+    },
+    "code": {
+      "id": "GW0402_bies",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_bipo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bipo",
+      "en": "Bipo",
+      "slug": "bipo"
+    },
+    "code": {
+      "id": "GW0402_bipo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.166",
+      "lon": "-15.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_bissauzinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissauzinho",
+      "en": "Bissauzinho",
+      "slug": "bissauzinho"
+    },
+    "code": {
+      "id": "GW0402_bissauzinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.6",
+      "lon": "-15.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_biura",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Biura",
+      "en": "Biura",
+      "slug": "biura"
+    },
+    "code": {
+      "id": "GW0402_biura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.167",
+      "lon": "-15.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_blele",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blele",
+      "en": "Blele",
+      "slug": "blele"
+    },
+    "code": {
+      "id": "GW0402_blele",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_blequisse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blequisse",
+      "en": "Blequisse",
+      "slug": "blequisse"
+    },
+    "code": {
+      "id": "GW0402_blequisse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.097",
+      "lon": "-15.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_blom-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blom Balanta",
+      "en": "Blom Balanta",
+      "slug": "blom-balanta"
+    },
+    "code": {
+      "id": "GW0402_blom-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_blom-mancanha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blom Mancanha",
+      "en": "Blom Mancanha",
+      "slug": "blom-mancanha"
+    },
+    "code": {
+      "id": "GW0402_blom-mancanha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_blu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blu",
+      "en": "Blu",
+      "slug": "blu"
+    },
+    "code": {
+      "id": "GW0402_blu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_boto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Boto",
+      "en": "Boto",
+      "slug": "boto"
+    },
+    "code": {
+      "id": "GW0402_boto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.183",
+      "lon": "-15.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_braia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Braia",
+      "en": "Braia",
+      "slug": "braia"
+    },
+    "code": {
+      "id": "GW0402_braia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.317",
+      "lon": "-15.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_bufu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bufu",
+      "en": "Bufu",
+      "slug": "bufu"
+    },
+    "code": {
+      "id": "GW0402_bufu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_buio",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Buio",
+      "en": "Buio",
+      "slug": "buio"
+    },
+    "code": {
+      "id": "GW0402_buio",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.533",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_but",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "But",
+      "en": "But",
+      "slug": "but"
+    },
+    "code": {
+      "id": "GW0402_but",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cabam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabam",
+      "en": "Cabam",
+      "slug": "cabam"
+    },
+    "code": {
+      "id": "GW0402_cabam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cacoque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cacoque",
+      "en": "Cacoque",
+      "slug": "cacoque"
+    },
+    "code": {
+      "id": "GW0402_cacoque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.117",
+      "lon": "-15.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_canchungozinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canchungozinho",
+      "en": "Canchungozinho",
+      "slug": "canchungozinho"
+    },
+    "code": {
+      "id": "GW0402_canchungozinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.417",
+      "lon": "-15.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_canjinha-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canjinha de Baixo",
+      "en": "Canjinha de Baixo",
+      "slug": "canjinha-de-baixo"
+    },
+    "code": {
+      "id": "GW0402_canjinha-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_canjinha-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canjinha de Cima",
+      "en": "Canjinha de Cima",
+      "slug": "canjinha-de-cima"
+    },
+    "code": {
+      "id": "GW0402_canjinha-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_capafa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Capafa",
+      "en": "Capafa",
+      "slug": "capafa"
+    },
+    "code": {
+      "id": "GW0402_capafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.157",
+      "lon": "-15.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_capunhan-capunga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Capunhan (Capunga)",
+      "en": "Capunhan (Capunga)",
+      "slug": "capunhan-capunga"
+    },
+    "code": {
+      "id": "GW0402_capunhan-capunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cassa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassa",
+      "en": "Cassa",
+      "slug": "cassa"
+    },
+    "code": {
+      "id": "GW0402_cassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.065",
+      "lon": "-15.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cassalope",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassalope",
+      "en": "Cassalope",
+      "slug": "cassalope"
+    },
+    "code": {
+      "id": "GW0402_cassalope",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cassama",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassama",
+      "en": "Cassama",
+      "slug": "cassama"
+    },
+    "code": {
+      "id": "GW0402_cassama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cassama-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassama I",
+      "en": "Cassama I",
+      "slug": "cassama-i"
+    },
+    "code": {
+      "id": "GW0402_cassama-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cassama-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassama II",
+      "en": "Cassama II",
+      "slug": "cassama-ii"
+    },
+    "code": {
+      "id": "GW0402_cassama-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cassante",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassante",
+      "en": "Cassante",
+      "slug": "cassante"
+    },
+    "code": {
+      "id": "GW0402_cassante",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_catem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catem",
+      "en": "Catem",
+      "slug": "catem"
+    },
+    "code": {
+      "id": "GW0402_catem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.45",
+      "lon": "-15.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_catora",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catora",
+      "en": "Catora",
+      "slug": "catora"
+    },
+    "code": {
+      "id": "GW0402_catora",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.1",
+      "lon": "-15.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_catora-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catora de Baixo",
+      "en": "Catora de Baixo",
+      "slug": "catora-de-baixo"
+    },
+    "code": {
+      "id": "GW0402_catora-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cau",
+      "en": "Cau",
+      "slug": "cau"
+    },
+    "code": {
+      "id": "GW0402_cau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_chaquemone-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Chaquemone I",
+      "en": "Chaquemone I",
+      "slug": "chaquemone-i"
+    },
+    "code": {
+      "id": "GW0402_chaquemone-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cidade-de-bula-bairro-banco-de-falena-dingal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE BULA Bairro Banco de Falença (Dingal )",
+      "en": "CIDADE DE BULA Bairro Banco de Falença (Dingal )",
+      "slug": "cidade-de-bula-bairro-banco-de-falena-dingal"
+    },
+    "code": {
+      "id": "GW0402_cidade-de-bula-bairro-banco-de-falena-dingal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cidade-de-bula-bairro-bulamete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE BULA Bairro Bulamete",
+      "en": "CIDADE DE BULA Bairro Bulamete",
+      "slug": "cidade-de-bula-bairro-bulamete"
+    },
+    "code": {
+      "id": "GW0402_cidade-de-bula-bairro-bulamete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cidade-de-bula-bairro-cifap-dingal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE BULA Bairro CIFAP (Dingal )",
+      "en": "CIDADE DE BULA Bairro CIFAP (Dingal )",
+      "slug": "cidade-de-bula-bairro-cifap-dingal"
+    },
+    "code": {
+      "id": "GW0402_cidade-de-bula-bairro-cifap-dingal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cidade-de-bula-bairro-fei",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE BULA Bairro Fei",
+      "en": "CIDADE DE BULA Bairro Fei",
+      "slug": "cidade-de-bula-bairro-fei"
+    },
+    "code": {
+      "id": "GW0402_cidade-de-bula-bairro-fei",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cidade-de-bula-bairro-praa-de-bula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE BULA Bairro Praça de Bula",
+      "en": "CIDADE DE BULA Bairro Praça de Bula",
+      "slug": "cidade-de-bula-bairro-praa-de-bula"
+    },
+    "code": {
+      "id": "GW0402_cidade-de-bula-bairro-praa-de-bula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cidade-de-bula-bairro-projecto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE BULA Bairro Projecto",
+      "en": "CIDADE DE BULA Bairro Projecto",
+      "slug": "cidade-de-bula-bairro-projecto"
+    },
+    "code": {
+      "id": "GW0402_cidade-de-bula-bairro-projecto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cidade-de-bula-bairro-pubos",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE BULA Bairro Pubos",
+      "en": "CIDADE DE BULA Bairro Pubos",
+      "slug": "cidade-de-bula-bairro-pubos"
+    },
+    "code": {
+      "id": "GW0402_cidade-de-bula-bairro-pubos",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cidade-de-bula-bairro-pubos-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE BULA Bairro Pubos de Baixo",
+      "en": "CIDADE DE BULA Bairro Pubos de Baixo",
+      "slug": "cidade-de-bula-bairro-pubos-de-baixo"
+    },
+    "code": {
+      "id": "GW0402_cidade-de-bula-bairro-pubos-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cidade-de-bula-bairro-pubos-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE BULA Bairro Pubos de Cima",
+      "en": "CIDADE DE BULA Bairro Pubos de Cima",
+      "slug": "cidade-de-bula-bairro-pubos-de-cima"
+    },
+    "code": {
+      "id": "GW0402_cidade-de-bula-bairro-pubos-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cidade-de-bula-bairro-pussuque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE BULA Bairro Pussuque",
+      "en": "CIDADE DE BULA Bairro Pussuque",
+      "slug": "cidade-de-bula-bairro-pussuque"
+    },
+    "code": {
+      "id": "GW0402_cidade-de-bula-bairro-pussuque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cidade-de-bula-bairro-reino",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE BULA Bairro Reino",
+      "en": "CIDADE DE BULA Bairro Reino",
+      "slug": "cidade-de-bula-bairro-reino"
+    },
+    "code": {
+      "id": "GW0402_cidade-de-bula-bairro-reino",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cidade-de-bula-bairro-rua-novo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE BULA Bairro Rua Novo",
+      "en": "CIDADE DE BULA Bairro Rua Novo",
+      "slug": "cidade-de-bula-bairro-rua-novo"
+    },
+    "code": {
+      "id": "GW0402_cidade-de-bula-bairro-rua-novo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cidade-de-bula-bairro-sintcha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE BULA Bairro Sintcha",
+      "en": "CIDADE DE BULA Bairro Sintcha",
+      "slug": "cidade-de-bula-bairro-sintcha"
+    },
+    "code": {
+      "id": "GW0402_cidade-de-bula-bairro-sintcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_cidade-de-bula-bairro-umon",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE BULA Bairro Umon",
+      "en": "CIDADE DE BULA Bairro Umon",
+      "slug": "cidade-de-bula-bairro-umon"
+    },
+    "code": {
+      "id": "GW0402_cidade-de-bula-bairro-umon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_co-bassa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Co (Bassa)",
+      "en": "Co (Bassa)",
+      "slug": "co-bassa"
+    },
+    "code": {
+      "id": "GW0402_co-bassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_co-cantintanha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Co-Cantintanha",
+      "en": "Co-Cantintanha",
+      "slug": "co-cantintanha"
+    },
+    "code": {
+      "id": "GW0402_co-cantintanha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_dabatiar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dabatiar",
+      "en": "Dabatiar",
+      "slug": "dabatiar"
+    },
+    "code": {
+      "id": "GW0402_dabatiar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_djita-candonga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djita Candonga",
+      "en": "Djita Candonga",
+      "slug": "djita-candonga"
+    },
+    "code": {
+      "id": "GW0402_djita-candonga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_djita-central",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djita Central",
+      "en": "Djita Central",
+      "slug": "djita-central"
+    },
+    "code": {
+      "id": "GW0402_djita-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_djita-dimpil",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djita Dimpil",
+      "en": "Djita Dimpil",
+      "slug": "djita-dimpil"
+    },
+    "code": {
+      "id": "GW0402_djita-dimpil",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_djita-paragem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djita Paragem",
+      "en": "Djita Paragem",
+      "slug": "djita-paragem"
+    },
+    "code": {
+      "id": "GW0402_djita-paragem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_djita-porto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djita Porto",
+      "en": "Djita Porto",
+      "slug": "djita-porto"
+    },
+    "code": {
+      "id": "GW0402_djita-porto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_djita-pubul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djita Pubul",
+      "en": "Djita Pubul",
+      "slug": "djita-pubul"
+    },
+    "code": {
+      "id": "GW0402_djita-pubul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_djita-tepa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djita Tepa",
+      "en": "Djita Tepa",
+      "slug": "djita-tepa"
+    },
+    "code": {
+      "id": "GW0402_djita-tepa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_duco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Duco",
+      "en": "Duco",
+      "slug": "duco"
+    },
+    "code": {
+      "id": "GW0402_duco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_dungur",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "DUNGUR",
+      "en": "DUNGUR",
+      "slug": "dungur"
+    },
+    "code": {
+      "id": "GW0402_dungur",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_fei",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fei",
+      "en": "Fei",
+      "slug": "fei"
+    },
+    "code": {
+      "id": "GW0402_fei",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.667",
+      "lon": "-15.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_finhoque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Finhoque",
+      "en": "Finhoque",
+      "slug": "finhoque"
+    },
+    "code": {
+      "id": "GW0402_finhoque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_guli",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Guli",
+      "en": "Guli",
+      "slug": "guli"
+    },
+    "code": {
+      "id": "GW0402_guli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_higath",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Higath",
+      "en": "Higath",
+      "slug": "higath"
+    },
+    "code": {
+      "id": "GW0402_higath",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ilha-de-nboto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de N´Boto",
+      "en": "Ilha de N´Boto",
+      "slug": "ilha-de-nboto"
+    },
+    "code": {
+      "id": "GW0402_ilha-de-nboto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_kinak-kuinak",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Kinak (Kuinak)",
+      "en": "Kinak (Kuinak)",
+      "slug": "kinak-kuinak"
+    },
+    "code": {
+      "id": "GW0402_kinak-kuinak",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_languete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Languete",
+      "en": "Languete",
+      "slug": "languete"
+    },
+    "code": {
+      "id": "GW0402_languete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_mbali-bucuba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "M´Bali Bucuba",
+      "en": "M´Bali Bucuba",
+      "slug": "mbali-bucuba"
+    },
+    "code": {
+      "id": "GW0402_mbali-bucuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_maco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Maco",
+      "en": "Maco",
+      "slug": "maco"
+    },
+    "code": {
+      "id": "GW0402_maco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.183",
+      "lon": "-15.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_manga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Manga",
+      "en": "Manga",
+      "slug": "manga"
+    },
+    "code": {
+      "id": "GW0402_manga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.068",
+      "lon": "-15.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_matar-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Matar I",
+      "en": "Matar I",
+      "slug": "matar-i"
+    },
+    "code": {
+      "id": "GW0402_matar-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_matar-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Matar II",
+      "en": "Matar II",
+      "slug": "matar-ii"
+    },
+    "code": {
+      "id": "GW0402_matar-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_mato-dingal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mato Dingal",
+      "en": "Mato Dingal",
+      "slug": "mato-dingal"
+    },
+    "code": {
+      "id": "GW0402_mato-dingal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_mussunsul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mussunsul",
+      "en": "Mussunsul",
+      "slug": "mussunsul"
+    },
+    "code": {
+      "id": "GW0402_mussunsul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_nbana-nhinte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´BANA (NHINTE)",
+      "en": "N´BANA (NHINTE)",
+      "slug": "nbana-nhinte"
+    },
+    "code": {
+      "id": "GW0402_nbana-nhinte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ncabi-nhinte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´CABI (NHINTE)",
+      "en": "N´CABI (NHINTE)",
+      "slug": "ncabi-nhinte"
+    },
+    "code": {
+      "id": "GW0402_ncabi-nhinte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ncherte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Cherte",
+      "en": "N´Cherte",
+      "slug": "ncherte"
+    },
+    "code": {
+      "id": "GW0402_ncherte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ndete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Dete",
+      "en": "N´Dete",
+      "slug": "ndete"
+    },
+    "code": {
+      "id": "GW0402_ndete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ndjam-nhinte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´DJAM (NHINTE)",
+      "en": "N´DJAM (NHINTE)",
+      "slug": "ndjam-nhinte"
+    },
+    "code": {
+      "id": "GW0402_ndjam-nhinte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_nfotote",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Fotote",
+      "en": "N´Fotote",
+      "slug": "nfotote"
+    },
+    "code": {
+      "id": "GW0402_nfotote",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_nheli",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Heli",
+      "en": "N´Heli",
+      "slug": "nheli"
+    },
+    "code": {
+      "id": "GW0402_nheli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_nhengue-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhengue 1",
+      "en": "Nhengue 1",
+      "slug": "nhengue-1"
+    },
+    "code": {
+      "id": "GW0402_nhengue-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ninu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ninu",
+      "en": "Ninu",
+      "slug": "ninu"
+    },
+    "code": {
+      "id": "GW0402_ninu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_pantar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pantar",
+      "en": "Pantar",
+      "slug": "pantar"
+    },
+    "code": {
+      "id": "GW0402_pantar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_pelel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pelel",
+      "en": "Pelel",
+      "slug": "pelel"
+    },
+    "code": {
+      "id": "GW0402_pelel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_pendjadje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pendjadje",
+      "en": "Pendjadje",
+      "slug": "pendjadje"
+    },
+    "code": {
+      "id": "GW0402_pendjadje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_penhasse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Penhasse",
+      "en": "Penhasse",
+      "slug": "penhasse"
+    },
+    "code": {
+      "id": "GW0402_penhasse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_pequeno-moscovo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pequeno Moscovo",
+      "en": "Pequeno Moscovo",
+      "slug": "pequeno-moscovo"
+    },
+    "code": {
+      "id": "GW0402_pequeno-moscovo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_petaca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Petaca",
+      "en": "Petaca",
+      "slug": "petaca"
+    },
+    "code": {
+      "id": "GW0402_petaca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_placo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Placo",
+      "en": "Placo",
+      "slug": "placo"
+    },
+    "code": {
+      "id": "GW0402_placo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_plama",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Plama",
+      "en": "Plama",
+      "slug": "plama"
+    },
+    "code": {
+      "id": "GW0402_plama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponate-mancanha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponate Mancanha",
+      "en": "Ponate Mancanha",
+      "slug": "ponate-mancanha"
+    },
+    "code": {
+      "id": "GW0402_ponate-mancanha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-alfama-pucum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Alfama (Pucum)",
+      "en": "Ponta Alfama (Pucum)",
+      "slug": "ponta-alfama-pucum"
+    },
+    "code": {
+      "id": "GW0402_ponta-alfama-pucum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-augusto-barros",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "PONTA AUGUSTO BARROS",
+      "en": "PONTA AUGUSTO BARROS",
+      "slug": "ponta-augusto-barros"
+    },
+    "code": {
+      "id": "GW0402_ponta-augusto-barros",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-augusto-hopfer",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Augusto Hopfer",
+      "en": "Ponta Augusto Hopfer",
+      "slug": "ponta-augusto-hopfer"
+    },
+    "code": {
+      "id": "GW0402_ponta-augusto-hopfer",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Balanta",
+      "en": "Ponta Balanta",
+      "slug": "ponta-balanta"
+    },
+    "code": {
+      "id": "GW0402_ponta-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-blom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Blom",
+      "en": "Ponta Blom",
+      "slug": "ponta-blom"
+    },
+    "code": {
+      "id": "GW0402_ponta-blom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.083",
+      "lon": "-15.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-conselhaao-pim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Conselhaçao Pim",
+      "en": "Ponta Conselhaçao Pim",
+      "slug": "ponta-conselhaao-pim"
+    },
+    "code": {
+      "id": "GW0402_ponta-conselhaao-pim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-conselho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Conselho",
+      "en": "Ponta Conselho",
+      "slug": "ponta-conselho"
+    },
+    "code": {
+      "id": "GW0402_ponta-conselho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-15.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-consolaao-nhinte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "PONTA CONSOLAÇaO (NHINTE)",
+      "en": "PONTA CONSOLAÇaO (NHINTE)",
+      "slug": "ponta-consolaao-nhinte"
+    },
+    "code": {
+      "id": "GW0402_ponta-consolaao-nhinte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-fernando",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Fernando",
+      "en": "Ponta Fernando",
+      "slug": "ponta-fernando"
+    },
+    "code": {
+      "id": "GW0402_ponta-fernando",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-fineza",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Fineza",
+      "en": "Ponta Fineza",
+      "slug": "ponta-fineza"
+    },
+    "code": {
+      "id": "GW0402_ponta-fineza",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-francisco-araujo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Francisco Araujo",
+      "en": "Ponta Francisco Araujo",
+      "slug": "ponta-francisco-araujo"
+    },
+    "code": {
+      "id": "GW0402_ponta-francisco-araujo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-furtunato-nfotatu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Furtunato (N´Fotatu)",
+      "en": "Ponta Furtunato (N´Fotatu)",
+      "slug": "ponta-furtunato-nfotatu"
+    },
+    "code": {
+      "id": "GW0402_ponta-furtunato-nfotatu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-germano-landim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Germano Landim",
+      "en": "Ponta Germano Landim",
+      "slug": "ponta-germano-landim"
+    },
+    "code": {
+      "id": "GW0402_ponta-germano-landim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-15.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-joaquim-mendes",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Joaquim Mendes",
+      "en": "Ponta Joaquim Mendes",
+      "slug": "ponta-joaquim-mendes"
+    },
+    "code": {
+      "id": "GW0402_ponta-joaquim-mendes",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-laburuna-f-mendona",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Laburuna F Mendonça",
+      "en": "Ponta Laburuna F Mendonça",
+      "slug": "ponta-laburuna-f-mendona"
+    },
+    "code": {
+      "id": "GW0402_ponta-laburuna-f-mendona",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-nburum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta N´Burum",
+      "en": "Ponta N´Burum",
+      "slug": "ponta-nburum"
+    },
+    "code": {
+      "id": "GW0402_ponta-nburum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-ndafa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta N´Dafa)",
+      "en": "Ponta N´Dafa)",
+      "slug": "ponta-ndafa"
+    },
+    "code": {
+      "id": "GW0402_ponta-ndafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-nova-manpatas",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Nova Manpatas",
+      "en": "Ponta Nova Manpatas",
+      "slug": "ponta-nova-manpatas"
+    },
+    "code": {
+      "id": "GW0402_ponta-nova-manpatas",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-ofencambe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Ofencambe",
+      "en": "Ponta Ofencambe",
+      "slug": "ponta-ofencambe"
+    },
+    "code": {
+      "id": "GW0402_ponta-ofencambe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-roberto-cordeiro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Roberto Cordeiro",
+      "en": "Ponta Roberto Cordeiro",
+      "slug": "ponta-roberto-cordeiro"
+    },
+    "code": {
+      "id": "GW0402_ponta-roberto-cordeiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-sr-antonio",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Sr Antonio",
+      "en": "Ponta Sr Antonio",
+      "slug": "ponta-sr-antonio"
+    },
+    "code": {
+      "id": "GW0402_ponta-sr-antonio",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-tomazia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Tomazia",
+      "en": "Ponta Tomazia",
+      "slug": "ponta-tomazia"
+    },
+    "code": {
+      "id": "GW0402_ponta-tomazia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-15.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_ponta-valentim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Valentim",
+      "en": "Ponta Valentim",
+      "slug": "ponta-valentim"
+    },
+    "code": {
+      "id": "GW0402_ponta-valentim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_quelele-ponta-sao-vicente",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quelele Ponta Sao Vicente",
+      "en": "Quelele Ponta Sao Vicente",
+      "slug": "quelele-ponta-sao-vicente"
+    },
+    "code": {
+      "id": "GW0402_quelele-ponta-sao-vicente",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_quidete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quidete",
+      "en": "Quidete",
+      "slug": "quidete"
+    },
+    "code": {
+      "id": "GW0402_quidete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_sao-vicente",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "SaO VICENTE",
+      "en": "SaO VICENTE",
+      "slug": "sao-vicente"
+    },
+    "code": {
+      "id": "GW0402_sao-vicente",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_tchanque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchanque",
+      "en": "Tchanque",
+      "slug": "tchanque"
+    },
+    "code": {
+      "id": "GW0402_tchanque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_tchanque-uson",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchanque Uson",
+      "en": "Tchanque Uson",
+      "slug": "tchanque-uson"
+    },
+    "code": {
+      "id": "GW0402_tchanque-uson",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_tchinfane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchinfane",
+      "en": "Tchinfane",
+      "slug": "tchinfane"
+    },
+    "code": {
+      "id": "GW0402_tchinfane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_tebre-ponta-batijaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tebre (Ponta Batijaque)",
+      "en": "Tebre (Ponta Batijaque)",
+      "slug": "tebre-ponta-batijaque"
+    },
+    "code": {
+      "id": "GW0402_tebre-ponta-batijaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_tira-camisa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tira Camisa",
+      "en": "Tira Camisa",
+      "slug": "tira-camisa"
+    },
+    "code": {
+      "id": "GW0402_tira-camisa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_utaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Utaque",
+      "en": "Utaque",
+      "slug": "utaque"
+    },
+    "code": {
+      "id": "GW0402_utaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0402_was",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Was",
+      "en": "Was",
+      "slug": "was"
+    },
+    "code": {
+      "id": "GW0402_was",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0402",
+      "level": 2,
+      "name": {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0402",
+        "level": 2,
+        "name": {
+          "local": "Bula",
+          "en": "Bula",
+          "slug": "bula-gw0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "-15.757"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GW0604",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Mansoa",
+    "en": "Mansoa",
+    "slug": "mansoa-gw0604"
+  },
+  "code": {
+    "id": "GW0604",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW06",
+    "level": 1,
+    "name": {
+      "local": "Oio",
+      "en": "Oio",
+      "slug": "oio-gw06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW06",
+      "level": 1,
+      "name": {
+        "local": "Oio",
+        "en": "Oio",
+        "slug": "oio-gw06"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 165
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.05",
+    "lon": "-15.227"
+  },
+  "metadata": {},
+  "source": {}
+}

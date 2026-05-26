@@ -1,0 +1,47 @@
+{
+  "id": "GW0104",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Galomaro/Cosse",
+    "en": "Galomaro/Cosse",
+    "slug": "galomarocosse-gw0104"
+  },
+  "code": {
+    "id": "GW0104",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW01",
+    "level": 1,
+    "name": {
+      "local": "Bafata",
+      "en": "Bafata",
+      "slug": "bafata-gw01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW01",
+      "level": 1,
+      "name": {
+        "local": "Bafata",
+        "en": "Bafata",
+        "slug": "bafata-gw01"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 86
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.967",
+    "lon": "-14.612"
+  },
+  "metadata": {},
+  "source": {}
+}

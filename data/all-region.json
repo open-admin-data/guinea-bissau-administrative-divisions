@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GW03",
+    "level": 1,
+    "level_name": {
+      "local": "Região",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Bolama/Bijagos",
+      "en": "Bolama/Bijagos",
+      "slug": "bolamabijagos-gw03"
+    },
+    "code": {
+      "id": "GW03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sector": 4,
+      "tabanca": 248
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW09",
+    "level": 1,
+    "level_name": {
+      "local": "Região",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Tombali",
+      "en": "Tombali",
+      "slug": "tombali-gw09"
+    },
+    "code": {
+      "id": "GW09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sector": 5,
+      "tabanca": 425
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.306",
+      "lon": "-15.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW08",
+    "level": 1,
+    "level_name": {
+      "local": "Região",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Bissau",
+      "en": "Bissau",
+      "slug": "bissau-gw08"
+    },
+    "code": {
+      "id": "GW08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sector": 1,
+      "tabanca": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.869",
+      "lon": "-15.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW07",
+    "level": 1,
+    "level_name": {
+      "local": "Região",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Quinara",
+      "en": "Quinara",
+      "slug": "quinara-gw07"
+    },
+    "code": {
+      "id": "GW07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sector": 4,
+      "tabanca": 220
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.635",
+      "lon": "-14.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW02",
+    "level": 1,
+    "level_name": {
+      "local": "Região",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Biombo",
+      "en": "Biombo",
+      "slug": "biombo-gw02"
+    },
+    "code": {
+      "id": "GW02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sector": 3,
+      "tabanca": 164
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.881",
+      "lon": "-15.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW04",
+    "level": 1,
+    "level_name": {
+      "local": "Região",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Cacheu",
+      "en": "Cacheu",
+      "slug": "cacheu-gw04"
+    },
+    "code": {
+      "id": "GW04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sector": 6,
+      "tabanca": 651
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.194",
+      "lon": "-15.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW05",
+    "level": 1,
+    "level_name": {
+      "local": "Região",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Gabu",
+      "en": "Gabu",
+      "slug": "gabu-gw05"
+    },
+    "code": {
+      "id": "GW05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sector": 5,
+      "tabanca": 574
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.119",
+      "lon": "-14.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW01",
+    "level": 1,
+    "level_name": {
+      "local": "Região",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Bafata",
+      "en": "Bafata",
+      "slug": "bafata-gw01"
+    },
+    "code": {
+      "id": "GW01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sector": 6,
+      "tabanca": 801
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.138",
+      "lon": "-14.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW06",
+    "level": 1,
+    "level_name": {
+      "local": "Região",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Oio",
+      "en": "Oio",
+      "slug": "oio-gw06"
+    },
+    "code": {
+      "id": "GW06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sector": 5,
+      "tabanca": 822
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.287",
+      "lon": "-15.341"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

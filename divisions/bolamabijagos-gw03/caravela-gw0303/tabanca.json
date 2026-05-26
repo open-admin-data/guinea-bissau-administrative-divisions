@@ -1,0 +1,2540 @@
+[
+  {
+    "id": "GW0303_ilha-de-carache-amandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Carache (Amandinga)",
+      "en": "Ilha de Carache (Amandinga)",
+      "slug": "ilha-de-carache-amandinga"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-carache-amandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-carache-ampintcha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Carache (Ampintcha)",
+      "en": "Ilha de Carache (Ampintcha)",
+      "slug": "ilha-de-carache-ampintcha"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-carache-ampintcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-carache-amudai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Carache (Amudai)",
+      "en": "Ilha de Carache (Amudai)",
+      "slug": "ilha-de-carache-amudai"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-carache-amudai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-carache-binte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Carache (Binte)",
+      "en": "Ilha de Carache (Binte)",
+      "slug": "ilha-de-carache-binte"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-carache-binte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-carache-bintezinho-anbetcho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Carache (Bintezinho (Anbetcho))",
+      "en": "Ilha de Carache (Bintezinho (Anbetcho))",
+      "slug": "ilha-de-carache-bintezinho-anbetcho"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-carache-bintezinho-anbetcho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-carache-cutchambe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Carache (Cutchambe)",
+      "en": "Ilha de Carache (Cutchambe)",
+      "slug": "ilha-de-carache-cutchambe"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-carache-cutchambe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-caravela-acobede",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Caravela (Acobede)",
+      "en": "Ilha de Caravela (Acobede)",
+      "slug": "ilha-de-caravela-acobede"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-caravela-acobede",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-caravela-acuminca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Caravela (Acuminca)",
+      "en": "Ilha de Caravela (Acuminca)",
+      "slug": "ilha-de-caravela-acuminca"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-caravela-acuminca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-caravela-ambedinam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Caravela (Ambedinam)",
+      "en": "Ilha de Caravela (Ambedinam)",
+      "slug": "ilha-de-caravela-ambedinam"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-caravela-ambedinam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-caravela-angongo-de-corente",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Caravela (Angongo de Corente)",
+      "en": "Ilha de Caravela (Angongo de Corente)",
+      "slug": "ilha-de-caravela-angongo-de-corente"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-caravela-angongo-de-corente",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-caravela-anopoc",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Caravela (Anopoc)",
+      "en": "Ilha de Caravela (Anopoc)",
+      "slug": "ilha-de-caravela-anopoc"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-caravela-anopoc",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-caravela-bitchau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Caravela (Bitchau)",
+      "en": "Ilha de Caravela (Bitchau)",
+      "slug": "ilha-de-caravela-bitchau"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-caravela-bitchau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-caravela-bitelhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Caravela (Bitelhe)",
+      "en": "Ilha de Caravela (Bitelhe)",
+      "slug": "ilha-de-caravela-bitelhe"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-caravela-bitelhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-caravela-cabua",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Caravela (Cabua)",
+      "en": "Ilha de Caravela (Cabua)",
+      "slug": "ilha-de-caravela-cabua"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-caravela-cabua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-caravela-eticunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Caravela (Eticunda)",
+      "en": "Ilha de Caravela (Eticunda)",
+      "slug": "ilha-de-caravela-eticunda"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-caravela-eticunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-abu-rcussun",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Abu (Rcussun))",
+      "en": "Ilha de Formosa (Abu (Rcussun))",
+      "slug": "ilha-de-formosa-abu-rcussun"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-abu-rcussun",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-acoco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Acoco)",
+      "en": "Ilha de Formosa (Acoco)",
+      "slug": "ilha-de-formosa-acoco"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-acoco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-acuno",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Acuno)",
+      "en": "Ilha de Formosa (Acuno)",
+      "slug": "ilha-de-formosa-acuno"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-acuno",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-ambo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Ambo)",
+      "en": "Ilha de Formosa (Ambo)",
+      "slug": "ilha-de-formosa-ambo"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-ambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-ancadaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Ancadaque)",
+      "en": "Ilha de Formosa (Ancadaque)",
+      "slug": "ilha-de-formosa-ancadaque"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-ancadaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-anquedjo-anquelho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Anquedjo (Anquelho))",
+      "en": "Ilha de Formosa (Anquedjo (Anquelho))",
+      "slug": "ilha-de-formosa-anquedjo-anquelho"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-anquedjo-anquelho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-anquedjo-papel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Anquedjo Papel)",
+      "en": "Ilha de Formosa (Anquedjo Papel)",
+      "slug": "ilha-de-formosa-anquedjo-papel"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-anquedjo-papel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-bampion",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Bampion)",
+      "en": "Ilha de Formosa (Bampion)",
+      "slug": "ilha-de-formosa-bampion"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-bampion",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-cabinhate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Cabinhate)",
+      "en": "Ilha de Formosa (Cabinhate)",
+      "slug": "ilha-de-formosa-cabinhate"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-cabinhate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-catend",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Catend)",
+      "en": "Ilha de Formosa (Catend)",
+      "slug": "ilha-de-formosa-catend"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-catend",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-cudjanque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Cudjanque)",
+      "en": "Ilha de Formosa (Cudjanque)",
+      "slug": "ilha-de-formosa-cudjanque"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-cudjanque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-cuiane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Cuiane)",
+      "en": "Ilha de Formosa (Cuiane)",
+      "slug": "ilha-de-formosa-cuiane"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-cuiane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-cumpada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Cumpada)",
+      "en": "Ilha de Formosa (Cumpada)",
+      "slug": "ilha-de-formosa-cumpada"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-cumpada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-pandja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Pandja)",
+      "en": "Ilha de Formosa (Pandja)",
+      "slug": "ilha-de-formosa-pandja"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-pandja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-soie",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Soie)",
+      "en": "Ilha de Formosa (Soie)",
+      "slug": "ilha-de-formosa-soie"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-soie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-formosa-uada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Formosa (Uada)",
+      "en": "Ilha de Formosa (Uada)",
+      "slug": "ilha-de-formosa-uada"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-formosa-uada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-maio-botai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Maio (Botai)",
+      "en": "Ilha de Maio (Botai)",
+      "slug": "ilha-de-maio-botai"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-maio-botai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-maio-cassucuta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Maio (Cassucuta)",
+      "en": "Ilha de Maio (Cassucuta)",
+      "slug": "ilha-de-maio-cassucuta"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-maio-cassucuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-maio-chedia-tchedengha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Maio (Chedia (Tchedengha))",
+      "en": "Ilha de Maio (Chedia (Tchedengha))",
+      "slug": "ilha-de-maio-chedia-tchedengha"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-maio-chedia-tchedengha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-maio-eticoguen-quiquia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Maio (Eticoguen (Quiquia))",
+      "en": "Ilha de Maio (Eticoguen (Quiquia))",
+      "slug": "ilha-de-maio-eticoguen-quiquia"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-maio-eticoguen-quiquia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-maio-etimpen-porto-de-nhominca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Maio (Etimpen (Porto de Nhominca))",
+      "en": "Ilha de Maio (Etimpen (Porto de Nhominca))",
+      "slug": "ilha-de-maio-etimpen-porto-de-nhominca"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-maio-etimpen-porto-de-nhominca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-maio-ntenbaca-aghucussa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Maio (N'tenbaca (Aghucussa))",
+      "en": "Ilha de Maio (N'tenbaca (Aghucussa))",
+      "slug": "ilha-de-maio-ntenbaca-aghucussa"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-maio-ntenbaca-aghucussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-maio-sidja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Maio (Sidja)",
+      "en": "Ilha de Maio (Sidja)",
+      "slug": "ilha-de-maio-sidja"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-maio-sidja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-ponta-nago-angha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Ponta (Nago) Angha",
+      "en": "Ilha de Ponta (Nago) Angha",
+      "slug": "ilha-de-ponta-nago-angha"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-ponta-nago-angha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-ponta-nago-candjirba-de-antoniozinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Ponta (Nago) Candjirba de Antoniozinho",
+      "en": "Ilha de Ponta (Nago) Candjirba de Antoniozinho",
+      "slug": "ilha-de-ponta-nago-candjirba-de-antoniozinho"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-ponta-nago-candjirba-de-antoniozinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-ponta-nago-candjirba-de-nhambane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Ponta (Nago) Candjirba de Nhambane",
+      "en": "Ilha de Ponta (Nago) Candjirba de Nhambane",
+      "slug": "ilha-de-ponta-nago-candjirba-de-nhambane"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-ponta-nago-candjirba-de-nhambane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-ponta-nago-candjirba-de-paulo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Ponta (Nago) Candjirba de Paulo",
+      "en": "Ilha de Ponta (Nago) Candjirba de Paulo",
+      "slug": "ilha-de-ponta-nago-candjirba-de-paulo"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-ponta-nago-candjirba-de-paulo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-ponta-nago-inder",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Ponta (Nago) Inder",
+      "en": "Ilha de Ponta (Nago) Inder",
+      "slug": "ilha-de-ponta-nago-inder"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-ponta-nago-inder",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-ponta-nago-audja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Ponta Nago (Audja)",
+      "en": "Ilha de Ponta Nago (Audja)",
+      "slug": "ilha-de-ponta-nago-audja"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-ponta-nago-audja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-ponta-nago-ghago",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Ponta Nago (Ghago)",
+      "en": "Ilha de Ponta Nago (Ghago)",
+      "slug": "ilha-de-ponta-nago-ghago"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-ponta-nago-ghago",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-ponta-nago-pante-budjubi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Ponta Nago (Pante Budjubi)",
+      "en": "Ilha de Ponta Nago (Pante Budjubi)",
+      "slug": "ilha-de-ponta-nago-pante-budjubi"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-ponta-nago-pante-budjubi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0303_ilha-de-ponta-nago-porto-de-nhominca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Ponta Nago (Porto de Nhominca)",
+      "en": "Ilha de Ponta Nago (Porto de Nhominca)",
+      "slug": "ilha-de-ponta-nago-porto-de-nhominca"
+    },
+    "code": {
+      "id": "GW0303_ilha-de-ponta-nago-porto-de-nhominca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0303",
+      "level": 2,
+      "name": {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0303",
+        "level": 2,
+        "name": {
+          "local": "Caravela",
+          "en": "Caravela",
+          "slug": "caravela-gw0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.542",
+      "lon": "-16.343"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

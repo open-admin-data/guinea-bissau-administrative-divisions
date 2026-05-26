@@ -1,0 +1,47 @@
+{
+  "id": "GW0203",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Safim",
+    "en": "Safim",
+    "slug": "safim-gw0203"
+  },
+  "code": {
+    "id": "GW0203",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW02",
+    "level": 1,
+    "name": {
+      "local": "Biombo",
+      "en": "Biombo",
+      "slug": "biombo-gw02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW02",
+      "level": 1,
+      "name": {
+        "local": "Biombo",
+        "en": "Biombo",
+        "slug": "biombo-gw02"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 43
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.941",
+    "lon": "-15.674"
+  },
+  "metadata": {},
+  "source": {}
+}

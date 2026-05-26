@@ -1,0 +1,237 @@
+[
+  {
+    "id": "GW0901",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bedanda",
+      "en": "Bedanda",
+      "slug": "bedanda-gw0901"
+    },
+    "code": {
+      "id": "GW0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW09",
+      "level": 1,
+      "name": {
+        "local": "Tombali",
+        "en": "Tombali",
+        "slug": "tombali-gw09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 137
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.257",
+      "lon": "-15.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Cacine",
+      "en": "Cacine",
+      "slug": "cacine-gw0902"
+    },
+    "code": {
+      "id": "GW0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW09",
+      "level": 1,
+      "name": {
+        "local": "Tombali",
+        "en": "Tombali",
+        "slug": "tombali-gw09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 94
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0903",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Catio",
+      "en": "Catio",
+      "slug": "catio-gw0903"
+    },
+    "code": {
+      "id": "GW0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW09",
+      "level": 1,
+      "name": {
+        "local": "Tombali",
+        "en": "Tombali",
+        "slug": "tombali-gw09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 105
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.342",
+      "lon": "-15.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Komo",
+      "en": "Komo",
+      "slug": "komo-gw0905"
+    },
+    "code": {
+      "id": "GW0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW09",
+      "level": 1,
+      "name": {
+        "local": "Tombali",
+        "en": "Tombali",
+        "slug": "tombali-gw09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0904",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Quebo",
+      "en": "Quebo",
+      "slug": "quebo-gw0904"
+    },
+    "code": {
+      "id": "GW0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW09",
+      "level": 1,
+      "name": {
+        "local": "Tombali",
+        "en": "Tombali",
+        "slug": "tombali-gw09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "-14.706"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

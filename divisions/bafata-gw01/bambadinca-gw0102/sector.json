@@ -1,0 +1,47 @@
+{
+  "id": "GW0102",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Bambadinca",
+    "en": "Bambadinca",
+    "slug": "bambadinca-gw0102"
+  },
+  "code": {
+    "id": "GW0102",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW01",
+    "level": 1,
+    "name": {
+      "local": "Bafata",
+      "en": "Bafata",
+      "slug": "bafata-gw01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW01",
+      "level": 1,
+      "name": {
+        "local": "Bafata",
+        "en": "Bafata",
+        "slug": "bafata-gw01"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 135
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.019",
+    "lon": "-14.853"
+  },
+  "metadata": {},
+  "source": {}
+}

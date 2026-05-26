@@ -1,0 +1,47 @@
+{
+  "id": "GW0303",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Caravela",
+    "en": "Caravela",
+    "slug": "caravela-gw0303"
+  },
+  "code": {
+    "id": "GW0303",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW03",
+    "level": 1,
+    "name": {
+      "local": "Bolama/Bijagos",
+      "en": "Bolama/Bijagos",
+      "slug": "bolamabijagos-gw03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW03",
+      "level": 1,
+      "name": {
+        "local": "Bolama/Bijagos",
+        "en": "Bolama/Bijagos",
+        "slug": "bolamabijagos-gw03"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.542",
+    "lon": "-16.343"
+  },
+  "metadata": {},
+  "source": {}
+}

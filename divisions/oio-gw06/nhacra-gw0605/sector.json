@@ -1,0 +1,47 @@
+{
+  "id": "GW0605",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Nhacra",
+    "en": "Nhacra",
+    "slug": "nhacra-gw0605"
+  },
+  "code": {
+    "id": "GW0605",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW06",
+    "level": 1,
+    "name": {
+      "local": "Oio",
+      "en": "Oio",
+      "slug": "oio-gw06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW06",
+      "level": 1,
+      "name": {
+        "local": "Oio",
+        "en": "Oio",
+        "slug": "oio-gw06"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 67
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.972",
+    "lon": "-15.509"
+  },
+  "metadata": {},
+  "source": {}
+}

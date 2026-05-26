@@ -1,0 +1,6374 @@
+[
+  {
+    "id": "GW0503_afia-djam-sadjo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Afia Djam Sadjo",
+      "en": "Afia Djam Sadjo",
+      "slug": "afia-djam-sadjo"
+    },
+    "code": {
+      "id": "GW0503_afia-djam-sadjo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_amado-lai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Amado lai",
+      "en": "Amado lai",
+      "slug": "amado-lai"
+    },
+    "code": {
+      "id": "GW0503_amado-lai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_amedalai-sintcha-amadu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Amedalai (Sintcha Amadu)",
+      "en": "Amedalai (Sintcha Amadu)",
+      "slug": "amedalai-sintcha-amadu"
+    },
+    "code": {
+      "id": "GW0503_amedalai-sintcha-amadu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_aua-ponta-qunara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Aua (Ponta Quínara)",
+      "en": "Aua (Ponta Quínara)",
+      "slug": "aua-ponta-qunara"
+    },
+    "code": {
+      "id": "GW0503_aua-ponta-qunara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_bagingara-sintcha-el",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bagingara Sintcha El",
+      "en": "Bagingara Sintcha El",
+      "slug": "bagingara-sintcha-el"
+    },
+    "code": {
+      "id": "GW0503_bagingara-sintcha-el",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_bajocunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bajocunda",
+      "en": "Bajocunda",
+      "slug": "bajocunda"
+    },
+    "code": {
+      "id": "GW0503_bajocunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_barcato",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barcato",
+      "en": "Barcato",
+      "slug": "barcato"
+    },
+    "code": {
+      "id": "GW0503_barcato",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_bassecunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "BASSECUNDA",
+      "en": "BASSECUNDA",
+      "slug": "bassecunda"
+    },
+    "code": {
+      "id": "GW0503_bassecunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_cacandi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cacandi",
+      "en": "Cacandi",
+      "slug": "cacandi"
+    },
+    "code": {
+      "id": "GW0503_cacandi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.45",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_camaliga-so",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Camaliga So",
+      "en": "Camaliga So",
+      "slug": "camaliga-so"
+    },
+    "code": {
+      "id": "GW0503_camaliga-so",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_camba-maunde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Camba Maunde",
+      "en": "Camba Maunde",
+      "slug": "camba-maunde"
+    },
+    "code": {
+      "id": "GW0503_camba-maunde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_cancaba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cancaba",
+      "en": "Cancaba",
+      "slug": "cancaba"
+    },
+    "code": {
+      "id": "GW0503_cancaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_cancomelo-maunde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cancomelo Maunde",
+      "en": "Cancomelo Maunde",
+      "slug": "cancomelo-maunde"
+    },
+    "code": {
+      "id": "GW0503_cancomelo-maunde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_cancomelozinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cancomelozinho",
+      "en": "Cancomelozinho",
+      "slug": "cancomelozinho"
+    },
+    "code": {
+      "id": "GW0503_cancomelozinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_canjufa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CANJUFA",
+      "en": "CANJUFA",
+      "slug": "canjufa"
+    },
+    "code": {
+      "id": "GW0503_canjufa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.433",
+      "lon": "-14.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_cantacunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cantacunda",
+      "en": "Cantacunda",
+      "slug": "cantacunda"
+    },
+    "code": {
+      "id": "GW0503_cantacunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-14.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_cheuibessi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cheuibessi",
+      "en": "Cheuibessi",
+      "slug": "cheuibessi"
+    },
+    "code": {
+      "id": "GW0503_cheuibessi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.267",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_cidade-de-pirada-bairro-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de PIRADA Bairro 1",
+      "en": "Cidade de PIRADA Bairro 1",
+      "slug": "cidade-de-pirada-bairro-1"
+    },
+    "code": {
+      "id": "GW0503_cidade-de-pirada-bairro-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_cidade-de-pirada-bairro-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de PIRADA Bairro 2",
+      "en": "Cidade de PIRADA Bairro 2",
+      "slug": "cidade-de-pirada-bairro-2"
+    },
+    "code": {
+      "id": "GW0503_cidade-de-pirada-bairro-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_colondinto-sare-mori",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "colondinto (Sare Mori)",
+      "en": "colondinto (Sare Mori)",
+      "slug": "colondinto-sare-mori"
+    },
+    "code": {
+      "id": "GW0503_colondinto-sare-mori",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_copa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Copa",
+      "en": "Copa",
+      "slug": "copa"
+    },
+    "code": {
+      "id": "GW0503_copa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.55",
+      "lon": "-14.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_copa-mangui",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Copa Mangui",
+      "en": "Copa Mangui",
+      "slug": "copa-mangui"
+    },
+    "code": {
+      "id": "GW0503_copa-mangui",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_copa-sule",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Copa Sule",
+      "en": "Copa Sule",
+      "slug": "copa-sule"
+    },
+    "code": {
+      "id": "GW0503_copa-sule",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.517",
+      "lon": "-14.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_cossi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cossi",
+      "en": "Cossi",
+      "slug": "cossi"
+    },
+    "code": {
+      "id": "GW0503_cossi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.533",
+      "lon": "-14.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_cuntim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cuntim",
+      "en": "Cuntim",
+      "slug": "cuntim"
+    },
+    "code": {
+      "id": "GW0503_cuntim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.85",
+      "lon": "-14.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_cupuda-baide",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cupuda (Baide)",
+      "en": "Cupuda (Baide)",
+      "slug": "cupuda-baide"
+    },
+    "code": {
+      "id": "GW0503_cupuda-baide",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_daifa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Daifa",
+      "en": "Daifa",
+      "slug": "daifa"
+    },
+    "code": {
+      "id": "GW0503_daifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.633",
+      "lon": "-13.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_darsalame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "DARSALAME",
+      "en": "DARSALAME",
+      "slug": "darsalame"
+    },
+    "code": {
+      "id": "GW0503_darsalame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-14.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_deabugu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Deabugu",
+      "en": "Deabugu",
+      "slug": "deabugu"
+    },
+    "code": {
+      "id": "GW0503_deabugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.617",
+      "lon": "-14.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_demosor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Demosor",
+      "en": "Demosor",
+      "slug": "demosor"
+    },
+    "code": {
+      "id": "GW0503_demosor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.683",
+      "lon": "-14.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_dinga-bantanguel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dinga Bantanguel",
+      "en": "Dinga Bantanguel",
+      "slug": "dinga-bantanguel"
+    },
+    "code": {
+      "id": "GW0503_dinga-bantanguel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.567",
+      "lon": "-13.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_dinga-ioba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dinga Ioba",
+      "en": "Dinga Ioba",
+      "slug": "dinga-ioba"
+    },
+    "code": {
+      "id": "GW0503_dinga-ioba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.567",
+      "lon": "-14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_dinga-samba-chagi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dinga Samba Chagi",
+      "en": "Dinga Samba Chagi",
+      "slug": "dinga-samba-chagi"
+    },
+    "code": {
+      "id": "GW0503_dinga-samba-chagi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.55",
+      "lon": "-13.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_djida-sintcha-sada-ou-s-laube9",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djida (Sintcha Sada ou S Laube9",
+      "en": "Djida (Sintcha Sada ou S Laube9",
+      "slug": "djida-sintcha-sada-ou-s-laube9"
+    },
+    "code": {
+      "id": "GW0503_djida-sintcha-sada-ou-s-laube9",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_durubali",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "DURUBALI",
+      "en": "DURUBALI",
+      "slug": "durubali"
+    },
+    "code": {
+      "id": "GW0503_durubali",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_elacunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Elacunda",
+      "en": "Elacunda",
+      "slug": "elacunda"
+    },
+    "code": {
+      "id": "GW0503_elacunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.633",
+      "lon": "-14.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_farina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Farina",
+      "en": "Farina",
+      "slug": "farina"
+    },
+    "code": {
+      "id": "GW0503_farina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_funtofuntulo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Funtofuntulo",
+      "en": "Funtofuntulo",
+      "slug": "funtofuntulo"
+    },
+    "code": {
+      "id": "GW0503_funtofuntulo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_golere-sintcha-samba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Golere Sintcha Samba",
+      "en": "Golere Sintcha Samba",
+      "slug": "golere-sintcha-samba"
+    },
+    "code": {
+      "id": "GW0503_golere-sintcha-samba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_guirocunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Guirocunda",
+      "en": "Guirocunda",
+      "slug": "guirocunda"
+    },
+    "code": {
+      "id": "GW0503_guirocunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_ideal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ideal",
+      "en": "Ideal",
+      "slug": "ideal"
+    },
+    "code": {
+      "id": "GW0503_ideal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_ierobacunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ierobacunda",
+      "en": "Ierobacunda",
+      "slug": "ierobacunda"
+    },
+    "code": {
+      "id": "GW0503_ierobacunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.5",
+      "lon": "-14.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_jana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jana",
+      "en": "Jana",
+      "slug": "jana"
+    },
+    "code": {
+      "id": "GW0503_jana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.267",
+      "lon": "-14.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_jaucunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jaucunda",
+      "en": "Jaucunda",
+      "slug": "jaucunda"
+    },
+    "code": {
+      "id": "GW0503_jaucunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-14.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_jomelcunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jomelcunda",
+      "en": "Jomelcunda",
+      "slug": "jomelcunda"
+    },
+    "code": {
+      "id": "GW0503_jomelcunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_jufana-sintcha-moto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jufana (Sintcha Moto)",
+      "en": "Jufana (Sintcha Moto)",
+      "slug": "jufana-sintcha-moto"
+    },
+    "code": {
+      "id": "GW0503_jufana-sintcha-moto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_kundara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Kundara",
+      "en": "Kundara",
+      "slug": "kundara"
+    },
+    "code": {
+      "id": "GW0503_kundara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_lumbutugo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lumbutugo",
+      "en": "Lumbutugo",
+      "slug": "lumbutugo"
+    },
+    "code": {
+      "id": "GW0503_lumbutugo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5",
+      "lon": "-14.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_madina-aladje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Aladje",
+      "en": "Madina Aladje",
+      "slug": "madina-aladje"
+    },
+    "code": {
+      "id": "GW0503_madina-aladje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_madina-bacar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Bacar",
+      "en": "Madina Bacar",
+      "slug": "madina-bacar"
+    },
+    "code": {
+      "id": "GW0503_madina-bacar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_madina-iero-sili-camiara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Iero Sili Camiara",
+      "en": "Madina Iero Sili Camiara",
+      "slug": "madina-iero-sili-camiara"
+    },
+    "code": {
+      "id": "GW0503_madina-iero-sili-camiara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_madina-quelefa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Quelefa",
+      "en": "Madina Quelefa",
+      "slug": "madina-quelefa"
+    },
+    "code": {
+      "id": "GW0503_madina-quelefa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.633",
+      "lon": "-13.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_madina-samba-seidi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Samba Seidi",
+      "en": "Madina Samba Seidi",
+      "slug": "madina-samba-seidi"
+    },
+    "code": {
+      "id": "GW0503_madina-samba-seidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.5",
+      "lon": "-14.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_madina-sene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Sene",
+      "en": "Madina Sene",
+      "slug": "madina-sene"
+    },
+    "code": {
+      "id": "GW0503_madina-sene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_madina-sori",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Sori",
+      "en": "Madina Sori",
+      "slug": "madina-sori"
+    },
+    "code": {
+      "id": "GW0503_madina-sori",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_madina-ussumane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Ussumane",
+      "en": "Madina Ussumane",
+      "slug": "madina-ussumane"
+    },
+    "code": {
+      "id": "GW0503_madina-ussumane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_mamadu-quidafo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mamadu Quidafo",
+      "en": "Mamadu Quidafo",
+      "slug": "mamadu-quidafo"
+    },
+    "code": {
+      "id": "GW0503_mamadu-quidafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_mampuro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mampuro",
+      "en": "Mampuro",
+      "slug": "mampuro"
+    },
+    "code": {
+      "id": "GW0503_mampuro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_mansacunda-maunde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mansacunda Maunde",
+      "en": "Mansacunda Maunde",
+      "slug": "mansacunda-maunde"
+    },
+    "code": {
+      "id": "GW0503_mansacunda-maunde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_mansacunda-sintcha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mansacunda Sintcha",
+      "en": "Mansacunda Sintcha",
+      "slug": "mansacunda-sintcha"
+    },
+    "code": {
+      "id": "GW0503_mansacunda-sintcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_marene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Marene",
+      "en": "Marene",
+      "slug": "marene"
+    },
+    "code": {
+      "id": "GW0503_marene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.517",
+      "lon": "-14.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_missira-iero",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Missira Iero",
+      "en": "Missira Iero",
+      "slug": "missira-iero"
+    },
+    "code": {
+      "id": "GW0503_missira-iero",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_nhapo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhapo",
+      "en": "Nhapo",
+      "slug": "nhapo"
+    },
+    "code": {
+      "id": "GW0503_nhapo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.25",
+      "lon": "-14.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_olocunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Olocunda",
+      "en": "Olocunda",
+      "slug": "olocunda"
+    },
+    "code": {
+      "id": "GW0503_olocunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.617",
+      "lon": "-14.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_ore-bode",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ore Bode",
+      "en": "Ore Bode",
+      "slug": "ore-bode"
+    },
+    "code": {
+      "id": "GW0503_ore-bode",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_ore-maunde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ore Maunde",
+      "en": "Ore Maunde",
+      "slug": "ore-maunde"
+    },
+    "code": {
+      "id": "GW0503_ore-maunde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.633",
+      "lon": "-13.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_samadoro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samadoro",
+      "en": "Samadoro",
+      "slug": "samadoro"
+    },
+    "code": {
+      "id": "GW0503_samadoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_samba-cande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samba Cande",
+      "en": "Samba Cande",
+      "slug": "samba-cande"
+    },
+    "code": {
+      "id": "GW0503_samba-cande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.8",
+      "lon": "-14.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_samba-fa-candemba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samba Fa (Candemba)",
+      "en": "Samba Fa (Candemba)",
+      "slug": "samba-fa-candemba"
+    },
+    "code": {
+      "id": "GW0503_samba-fa-candemba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_samba-jau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samba Jau",
+      "en": "Samba Jau",
+      "slug": "samba-jau"
+    },
+    "code": {
+      "id": "GW0503_samba-jau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.433",
+      "lon": "-14.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_samba-uro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samba Uro",
+      "en": "Samba Uro",
+      "slug": "samba-uro"
+    },
+    "code": {
+      "id": "GW0503_samba-uro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sare-demba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Demba",
+      "en": "Sare Demba",
+      "slug": "sare-demba"
+    },
+    "code": {
+      "id": "GW0503_sare-demba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.521",
+      "lon": "-15.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sare-ilo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Ilo",
+      "en": "Sare Ilo",
+      "slug": "sare-ilo"
+    },
+    "code": {
+      "id": "GW0503_sare-ilo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.517",
+      "lon": "-14.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sare-juma",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Juma",
+      "en": "Sare Juma",
+      "slug": "sare-juma"
+    },
+    "code": {
+      "id": "GW0503_sare-juma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.65",
+      "lon": "-14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sare-lumbatu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Lumbatu",
+      "en": "Sare Lumbatu",
+      "slug": "sare-lumbatu"
+    },
+    "code": {
+      "id": "GW0503_sare-lumbatu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sare-samba-djalo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Samba Djalo",
+      "en": "Sare Samba Djalo",
+      "slug": "sare-samba-djalo"
+    },
+    "code": {
+      "id": "GW0503_sare-samba-djalo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sare-sambi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Sambi",
+      "en": "Sare Sambi",
+      "slug": "sare-sambi"
+    },
+    "code": {
+      "id": "GW0503_sare-sambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.6",
+      "lon": "-14.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sejo-fula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sejo Fula",
+      "en": "Sejo Fula",
+      "slug": "sejo-fula"
+    },
+    "code": {
+      "id": "GW0503_sejo-fula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.517",
+      "lon": "-14.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sejo-mandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sejo Mandinga",
+      "en": "Sejo Mandinga",
+      "slug": "sejo-mandinga"
+    },
+    "code": {
+      "id": "GW0503_sejo-mandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.517",
+      "lon": "-14.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-aladje-bubacar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Aladje Bubacar",
+      "en": "Sintcha Aladje Bubacar",
+      "slug": "sintcha-aladje-bubacar"
+    },
+    "code": {
+      "id": "GW0503_sintcha-aladje-bubacar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-baciro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Baciro",
+      "en": "Sintcha Baciro",
+      "slug": "sintcha-baciro"
+    },
+    "code": {
+      "id": "GW0503_sintcha-baciro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-bela",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Bela",
+      "en": "Sintcha Bela",
+      "slug": "sintcha-bela"
+    },
+    "code": {
+      "id": "GW0503_sintcha-bela",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-bocar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Bocar",
+      "en": "Sintcha Bocar",
+      "slug": "sintcha-bocar"
+    },
+    "code": {
+      "id": "GW0503_sintcha-bocar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-botche-ou-boxa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "SINTCHa BOTCHE ( ou Boxa)",
+      "en": "SINTCHa BOTCHE ( ou Boxa)",
+      "slug": "sintcha-botche-ou-boxa"
+    },
+    "code": {
+      "id": "GW0503_sintcha-botche-ou-boxa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-dado",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Dado",
+      "en": "Sintcha Dado",
+      "slug": "sintcha-dado"
+    },
+    "code": {
+      "id": "GW0503_sintcha-dado",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-demba-danejo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Demba Danejo",
+      "en": "Sintcha Demba Danejo",
+      "slug": "sintcha-demba-danejo"
+    },
+    "code": {
+      "id": "GW0503_sintcha-demba-danejo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-dembel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Dembel",
+      "en": "Sintcha Dembel",
+      "slug": "sintcha-dembel"
+    },
+    "code": {
+      "id": "GW0503_sintcha-dembel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-dula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Dula",
+      "en": "Sintcha Dula",
+      "slug": "sintcha-dula"
+    },
+    "code": {
+      "id": "GW0503_sintcha-dula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-dulo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Dulo",
+      "en": "Sintcha Dulo",
+      "slug": "sintcha-dulo"
+    },
+    "code": {
+      "id": "GW0503_sintcha-dulo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-dura",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Dura",
+      "en": "Sintcha Dura",
+      "slug": "sintcha-dura"
+    },
+    "code": {
+      "id": "GW0503_sintcha-dura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-ga-bana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Ga-bana",
+      "en": "Sintcha Ga-bana",
+      "slug": "sintcha-ga-bana"
+    },
+    "code": {
+      "id": "GW0503_sintcha-ga-bana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-iero-djadja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Iero Djadja",
+      "en": "Sintcha Iero Djadja",
+      "slug": "sintcha-iero-djadja"
+    },
+    "code": {
+      "id": "GW0503_sintcha-iero-djadja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-iero-fololo-djissira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Iero Fololo (Djissira)",
+      "en": "Sintcha Iero Fololo (Djissira)",
+      "slug": "sintcha-iero-fololo-djissira"
+    },
+    "code": {
+      "id": "GW0503_sintcha-iero-fololo-djissira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-iero-mudum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Iero Mudum",
+      "en": "Sintcha Iero Mudum",
+      "slug": "sintcha-iero-mudum"
+    },
+    "code": {
+      "id": "GW0503_sintcha-iero-mudum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-imabe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Imabe",
+      "en": "Sintcha Imabe",
+      "slug": "sintcha-imabe"
+    },
+    "code": {
+      "id": "GW0503_sintcha-imabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-jali",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Jali",
+      "en": "Sintcha Jali",
+      "slug": "sintcha-jali"
+    },
+    "code": {
+      "id": "GW0503_sintcha-jali",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-mamadu-aliu-balde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Mamadu Aliu Balde",
+      "en": "Sintcha Mamadu Aliu Balde",
+      "slug": "sintcha-mamadu-aliu-balde"
+    },
+    "code": {
+      "id": "GW0503_sintcha-mamadu-aliu-balde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-mamadu-balde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Mamadu Balde",
+      "en": "Sintcha Mamadu Balde",
+      "slug": "sintcha-mamadu-balde"
+    },
+    "code": {
+      "id": "GW0503_sintcha-mamadu-balde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-munjur-melhor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Munjur (Melhor)",
+      "en": "Sintcha Munjur (Melhor)",
+      "slug": "sintcha-munjur-melhor"
+    },
+    "code": {
+      "id": "GW0503_sintcha-munjur-melhor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-numbero",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Numbero",
+      "en": "Sintcha Numbero",
+      "slug": "sintcha-numbero"
+    },
+    "code": {
+      "id": "GW0503_sintcha-numbero",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-pate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Pate",
+      "en": "Sintcha Pate",
+      "slug": "sintcha-pate"
+    },
+    "code": {
+      "id": "GW0503_sintcha-pate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-sala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Sala",
+      "en": "Sintcha Sala",
+      "slug": "sintcha-sala"
+    },
+    "code": {
+      "id": "GW0503_sintcha-sala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-saliu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Saliu",
+      "en": "Sintcha Saliu",
+      "slug": "sintcha-saliu"
+    },
+    "code": {
+      "id": "GW0503_sintcha-saliu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-samba-jiba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Samba Jiba",
+      "en": "Sintcha Samba Jiba",
+      "slug": "sintcha-samba-jiba"
+    },
+    "code": {
+      "id": "GW0503_sintcha-samba-jiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-samba-taco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Samba Taco",
+      "en": "Sintcha Samba Taco",
+      "slug": "sintcha-samba-taco"
+    },
+    "code": {
+      "id": "GW0503_sintcha-samba-taco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-sambanja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Sambanja",
+      "en": "Sintcha Sambanja",
+      "slug": "sintcha-sambanja"
+    },
+    "code": {
+      "id": "GW0503_sintcha-sambanja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-sambel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Sambel",
+      "en": "Sintcha Sambel",
+      "slug": "sintcha-sambel"
+    },
+    "code": {
+      "id": "GW0503_sintcha-sambel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-sori",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Sori",
+      "en": "Sintcha Sori",
+      "slug": "sintcha-sori"
+    },
+    "code": {
+      "id": "GW0503_sintcha-sori",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-suncaro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Suncaro",
+      "en": "Sintcha Suncaro",
+      "slug": "sintcha-suncaro"
+    },
+    "code": {
+      "id": "GW0503_sintcha-suncaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sintcha-tcherno",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Tcherno",
+      "en": "Sintcha Tcherno",
+      "slug": "sintcha-tcherno"
+    },
+    "code": {
+      "id": "GW0503_sintcha-tcherno",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sissaucunda-aliu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sissaucunda Aliu",
+      "en": "Sissaucunda Aliu",
+      "slug": "sissaucunda-aliu"
+    },
+    "code": {
+      "id": "GW0503_sissaucunda-aliu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.633",
+      "lon": "-14.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_sissaucunda-samaco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sissaucunda Samaco",
+      "en": "Sissaucunda Samaco",
+      "slug": "sissaucunda-samaco"
+    },
+    "code": {
+      "id": "GW0503_sissaucunda-samaco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_soncocunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "SONCOCUNDA",
+      "en": "SONCOCUNDA",
+      "slug": "soncocunda"
+    },
+    "code": {
+      "id": "GW0503_soncocunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_suluba-sotuba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Suluba (Sotuba)",
+      "en": "Suluba (Sotuba)",
+      "slug": "suluba-sotuba"
+    },
+    "code": {
+      "id": "GW0503_suluba-sotuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_tabassi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tabassi",
+      "en": "Tabassi",
+      "slug": "tabassi"
+    },
+    "code": {
+      "id": "GW0503_tabassi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_taibata",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Taibata",
+      "en": "Taibata",
+      "slug": "taibata"
+    },
+    "code": {
+      "id": "GW0503_taibata",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_umaro-bela",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Umaro Bela",
+      "en": "Umaro Bela",
+      "slug": "umaro-bela"
+    },
+    "code": {
+      "id": "GW0503_umaro-bela",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.542",
+      "lon": "-14.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0503_unango",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Unango",
+      "en": "Unango",
+      "slug": "unango"
+    },
+    "code": {
+      "id": "GW0503_unango",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0503",
+      "level": 2,
+      "name": {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0503",
+        "level": 2,
+        "name": {
+          "local": "Pirada",
+          "en": "Pirada",
+          "slug": "pirada-gw0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.45",
+      "lon": "-14.083"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

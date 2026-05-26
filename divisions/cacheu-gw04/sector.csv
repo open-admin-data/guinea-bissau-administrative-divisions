@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.tabanca,geo.lat,geo.lon
+GW0401,Bigene,Bigene,bigene-gw0401,GW0401,184,12.362,-15.836
+GW0402,Bula,Bula,bula-gw0402,GW0402,141,12.141,-15.757
+GW0403,Cacheu/Calequisse,Cacheu/Calequisse,cacheucalequisse-gw0403,GW0403,0,12.164,-16.11
+GW0404,Caio,Caio,caio-gw0404,GW0404,87,11.952,-16.181
+GW0405,Canchungo,Canchungo,canchungo-gw0405,GW0405,122,12.071,-16.012
+GW0406,Sao Domingos,Sao Domingos,sao-domingos-gw0406,GW0406,117,12.321,-16.364

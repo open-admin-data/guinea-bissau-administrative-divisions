@@ -1,0 +1,47 @@
+{
+  "id": "GW0701",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Buba",
+    "en": "Buba",
+    "slug": "buba-gw0701"
+  },
+  "code": {
+    "id": "GW0701",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW07",
+    "level": 1,
+    "name": {
+      "local": "Quinara",
+      "en": "Quinara",
+      "slug": "quinara-gw07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW07",
+      "level": 1,
+      "name": {
+        "local": "Quinara",
+        "en": "Quinara",
+        "slug": "quinara-gw07"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.622",
+    "lon": "-14.975"
+  },
+  "metadata": {},
+  "source": {}
+}

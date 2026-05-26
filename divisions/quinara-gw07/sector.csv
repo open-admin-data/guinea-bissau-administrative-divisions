@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.tabanca,geo.lat,geo.lon
+GW0701,Buba,Buba,buba-gw0701,GW0701,0,11.622,-14.975
+GW0702,Empada,Empada,empada-gw0702,GW0702,87,11.487,-15.25
+GW0703,Fulacunda,Fulacunda,fulacunda-gw0703,GW0703,71,11.788,-15.141
+GW0704,Tite,Tite,tite-gw0704,GW0704,62,11.759,-15.403

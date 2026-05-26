@@ -1,0 +1,47 @@
+{
+  "id": "GW0905",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Komo",
+    "en": "Komo",
+    "slug": "komo-gw0905"
+  },
+  "code": {
+    "id": "GW0905",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW09",
+    "level": 1,
+    "name": {
+      "local": "Tombali",
+      "en": "Tombali",
+      "slug": "tombali-gw09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW09",
+      "level": 1,
+      "name": {
+        "local": "Tombali",
+        "en": "Tombali",
+        "slug": "tombali-gw09"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.197",
+    "lon": "-15.318"
+  },
+  "metadata": {},
+  "source": {}
+}

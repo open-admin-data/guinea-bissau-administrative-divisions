@@ -1,0 +1,2972 @@
+[
+  {
+    "id": "GW0202_assiete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Assiete",
+      "en": "Assiete",
+      "slug": "assiete"
+    },
+    "code": {
+      "id": "GW0202_assiete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_bambadinca-mancanha-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bambadinca Mancanha de Cima",
+      "en": "Bambadinca Mancanha de Cima",
+      "slug": "bambadinca-mancanha-de-cima"
+    },
+    "code": {
+      "id": "GW0202_bambadinca-mancanha-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_banbadinca-balanta-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Banbadinca Balanta de Baixo",
+      "en": "Banbadinca Balanta de Baixo",
+      "slug": "banbadinca-balanta-de-baixo"
+    },
+    "code": {
+      "id": "GW0202_banbadinca-balanta-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_bele",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bele",
+      "en": "Bele",
+      "slug": "bele"
+    },
+    "code": {
+      "id": "GW0202_bele",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.85",
+      "lon": "-13.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_bequeje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bequeje",
+      "en": "Bequeje",
+      "slug": "bequeje"
+    },
+    "code": {
+      "id": "GW0202_bequeje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_betesga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Betesga",
+      "en": "Betesga",
+      "slug": "betesga"
+    },
+    "code": {
+      "id": "GW0202_betesga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.833",
+      "lon": "-15.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_bidjala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bidjala",
+      "en": "Bidjala",
+      "slug": "bidjala"
+    },
+    "code": {
+      "id": "GW0202_bidjala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_blunde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blunde",
+      "en": "Blunde",
+      "slug": "blunde"
+    },
+    "code": {
+      "id": "GW0202_blunde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.8",
+      "lon": "-15.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_bomino",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bomino",
+      "en": "Bomino",
+      "slug": "bomino"
+    },
+    "code": {
+      "id": "GW0202_bomino",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_bor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bor",
+      "en": "Bor",
+      "slug": "bor"
+    },
+    "code": {
+      "id": "GW0202_bor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.85",
+      "lon": "-15.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_branco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Branco",
+      "en": "Branco",
+      "slug": "branco"
+    },
+    "code": {
+      "id": "GW0202_branco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.8",
+      "lon": "-15.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_bugate-gota",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bugate (Gota)",
+      "en": "Bugate (Gota)",
+      "slug": "bugate-gota"
+    },
+    "code": {
+      "id": "GW0202_bugate-gota",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_bugunlar-c-papel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bugunlar C Papel",
+      "en": "Bugunlar C Papel",
+      "slug": "bugunlar-c-papel"
+    },
+    "code": {
+      "id": "GW0202_bugunlar-c-papel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_bunau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bunau",
+      "en": "Bunau",
+      "slug": "bunau"
+    },
+    "code": {
+      "id": "GW0202_bunau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_buno",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Buno",
+      "en": "Buno",
+      "slug": "buno"
+    },
+    "code": {
+      "id": "GW0202_buno",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_buta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Buta",
+      "en": "Buta",
+      "slug": "buta"
+    },
+    "code": {
+      "id": "GW0202_buta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_butafete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Butafete",
+      "en": "Butafete",
+      "slug": "butafete"
+    },
+    "code": {
+      "id": "GW0202_butafete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_cidade-de-prabis-bairo-reino-de-prabis",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Prabis Bairo Reino de Prabis",
+      "en": "Cidade de Prabis Bairo Reino de Prabis",
+      "slug": "cidade-de-prabis-bairo-reino-de-prabis"
+    },
+    "code": {
+      "id": "GW0202_cidade-de-prabis-bairo-reino-de-prabis",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_cidade-de-prabis-bairro-ameta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Prabis Bairro Ameta",
+      "en": "Cidade de Prabis Bairro Ameta",
+      "slug": "cidade-de-prabis-bairro-ameta"
+    },
+    "code": {
+      "id": "GW0202_cidade-de-prabis-bairro-ameta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_cidade-de-prabis-bairro-carnocam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Prabis Bairro Carnocam",
+      "en": "Cidade de Prabis Bairro Carnocam",
+      "slug": "cidade-de-prabis-bairro-carnocam"
+    },
+    "code": {
+      "id": "GW0202_cidade-de-prabis-bairro-carnocam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_cidade-de-prabis-bairro-catarina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Prabis Bairro Catarina",
+      "en": "Cidade de Prabis Bairro Catarina",
+      "slug": "cidade-de-prabis-bairro-catarina"
+    },
+    "code": {
+      "id": "GW0202_cidade-de-prabis-bairro-catarina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_cidade-de-prabis-bairro-novo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Prabis Bairro Novo",
+      "en": "Cidade de Prabis Bairro Novo",
+      "slug": "cidade-de-prabis-bairro-novo"
+    },
+    "code": {
+      "id": "GW0202_cidade-de-prabis-bairro-novo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_cidade-de-prabis-bairro-sintcha-bombo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Prabis Bairro Sintcha Bombo",
+      "en": "Cidade de Prabis Bairro Sintcha Bombo",
+      "slug": "cidade-de-prabis-bairro-sintcha-bombo"
+    },
+    "code": {
+      "id": "GW0202_cidade-de-prabis-bairro-sintcha-bombo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_crich",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Crich",
+      "en": "Crich",
+      "slug": "crich"
+    },
+    "code": {
+      "id": "GW0202_crich",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_cumura-de-padre",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cumura de Padre",
+      "en": "Cumura de Padre",
+      "slug": "cumura-de-padre"
+    },
+    "code": {
+      "id": "GW0202_cumura-de-padre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_cupol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cupol",
+      "en": "Cupol",
+      "slug": "cupol"
+    },
+    "code": {
+      "id": "GW0202_cupol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_enteramento",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Enteramento",
+      "en": "Enteramento",
+      "slug": "enteramento"
+    },
+    "code": {
+      "id": "GW0202_enteramento",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_iem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Iem",
+      "en": "Iem",
+      "slug": "iem"
+    },
+    "code": {
+      "id": "GW0202_iem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_insiquil",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Insiquil",
+      "en": "Insiquil",
+      "slug": "insiquil"
+    },
+    "code": {
+      "id": "GW0202_insiquil",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.817",
+      "lon": "-15.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_insumba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Insumba",
+      "en": "Insumba",
+      "slug": "insumba"
+    },
+    "code": {
+      "id": "GW0202_insumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_intunhande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Intunhande",
+      "en": "Intunhande",
+      "slug": "intunhande"
+    },
+    "code": {
+      "id": "GW0202_intunhande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_jogre",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jogre",
+      "en": "Jogre",
+      "slug": "jogre"
+    },
+    "code": {
+      "id": "GW0202_jogre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_lala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lala",
+      "en": "Lala",
+      "slug": "lala"
+    },
+    "code": {
+      "id": "GW0202_lala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5",
+      "lon": "-15.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_luanda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Luanda",
+      "en": "Luanda",
+      "slug": "luanda"
+    },
+    "code": {
+      "id": "GW0202_luanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_mua",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mua",
+      "en": "Mua",
+      "slug": "mua"
+    },
+    "code": {
+      "id": "GW0202_mua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_naga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Naga",
+      "en": "Naga",
+      "slug": "naga"
+    },
+    "code": {
+      "id": "GW0202_naga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.817",
+      "lon": "-15.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_nanque-de-estrada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nanque de Estrada",
+      "en": "Nanque de Estrada",
+      "slug": "nanque-de-estrada"
+    },
+    "code": {
+      "id": "GW0202_nanque-de-estrada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_oco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Oco",
+      "en": "Oco",
+      "slug": "oco"
+    },
+    "code": {
+      "id": "GW0202_oco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.8",
+      "lon": "-15.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_pacaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pacaque",
+      "en": "Pacaque",
+      "slug": "pacaque"
+    },
+    "code": {
+      "id": "GW0202_pacaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_pastam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pastam",
+      "en": "Pastam",
+      "slug": "pastam"
+    },
+    "code": {
+      "id": "GW0202_pastam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_pefine-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pefine Balanta",
+      "en": "Pefine Balanta",
+      "slug": "pefine-balanta"
+    },
+    "code": {
+      "id": "GW0202_pefine-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_pefine-papel-areia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pefine Papel Areia",
+      "en": "Pefine Papel Areia",
+      "slug": "pefine-papel-areia"
+    },
+    "code": {
+      "id": "GW0202_pefine-papel-areia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_pefine-pescador",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pefine Pescador",
+      "en": "Pefine Pescador",
+      "slug": "pefine-pescador"
+    },
+    "code": {
+      "id": "GW0202_pefine-pescador",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_petale",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Petale",
+      "en": "Petale",
+      "slug": "petale"
+    },
+    "code": {
+      "id": "GW0202_petale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_ponta-afia---ii-cassumai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Afia - II (Cassumai)",
+      "en": "Ponta Afia - II (Cassumai)",
+      "slug": "ponta-afia---ii-cassumai"
+    },
+    "code": {
+      "id": "GW0202_ponta-afia---ii-cassumai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_ponta-djamaica",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Djamaica",
+      "en": "Ponta Djamaica",
+      "slug": "ponta-djamaica"
+    },
+    "code": {
+      "id": "GW0202_ponta-djamaica",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_ponta-gardete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Gardete",
+      "en": "Ponta Gardete",
+      "slug": "ponta-gardete"
+    },
+    "code": {
+      "id": "GW0202_ponta-gardete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.817",
+      "lon": "-15.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_ponta-joao-carlos",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Joao Carlos",
+      "en": "Ponta Joao Carlos",
+      "slug": "ponta-joao-carlos"
+    },
+    "code": {
+      "id": "GW0202_ponta-joao-carlos",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.85",
+      "lon": "-15.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_ponta-nugueira-cumura-papel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Nugueira (Cumura Papel)",
+      "en": "Ponta Nugueira (Cumura Papel)",
+      "slug": "ponta-nugueira-cumura-papel"
+    },
+    "code": {
+      "id": "GW0202_ponta-nugueira-cumura-papel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_prite",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Prite",
+      "en": "Prite",
+      "slug": "prite"
+    },
+    "code": {
+      "id": "GW0202_prite",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_quecete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quecete",
+      "en": "Quecete",
+      "slug": "quecete"
+    },
+    "code": {
+      "id": "GW0202_quecete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_sintcha-bobo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Bobo",
+      "en": "Sintcha Bobo",
+      "slug": "sintcha-bobo"
+    },
+    "code": {
+      "id": "GW0202_sintcha-bobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_suro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Suro",
+      "en": "Suro",
+      "slug": "suro"
+    },
+    "code": {
+      "id": "GW0202_suro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.783",
+      "lon": "-15.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_tamara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tamara",
+      "en": "Tamara",
+      "slug": "tamara"
+    },
+    "code": {
+      "id": "GW0202_tamara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0202_tandi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tandi",
+      "en": "Tandi",
+      "slug": "tandi"
+    },
+    "code": {
+      "id": "GW0202_tandi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0202",
+      "level": 2,
+      "name": {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0202",
+        "level": 2,
+        "name": {
+          "local": "Prabis",
+          "en": "Prabis",
+          "slug": "prabis-gw0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.811",
+      "lon": "-15.739"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

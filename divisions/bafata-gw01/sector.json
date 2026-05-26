@@ -1,0 +1,284 @@
+[
+  {
+    "id": "GW0101",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bafata",
+      "en": "Bafata",
+      "slug": "bafata-gw0101"
+    },
+    "code": {
+      "id": "GW0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW01",
+      "level": 1,
+      "name": {
+        "local": "Bafata",
+        "en": "Bafata",
+        "slug": "bafata-gw01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 200
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.188",
+      "lon": "-14.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bambadinca",
+      "en": "Bambadinca",
+      "slug": "bambadinca-gw0102"
+    },
+    "code": {
+      "id": "GW0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW01",
+      "level": 1,
+      "name": {
+        "local": "Bafata",
+        "en": "Bafata",
+        "slug": "bafata-gw01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 135
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0103",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Contuboel",
+      "en": "Contuboel",
+      "slug": "contuboel-gw0103"
+    },
+    "code": {
+      "id": "GW0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW01",
+      "level": 1,
+      "name": {
+        "local": "Bafata",
+        "en": "Bafata",
+        "slug": "bafata-gw01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 256
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.481",
+      "lon": "-14.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0104",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Galomaro/Cosse",
+      "en": "Galomaro/Cosse",
+      "slug": "galomarocosse-gw0104"
+    },
+    "code": {
+      "id": "GW0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW01",
+      "level": 1,
+      "name": {
+        "local": "Bafata",
+        "en": "Bafata",
+        "slug": "bafata-gw01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 86
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-14.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0105",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Gamamudo/Ganadu",
+      "en": "Gamamudo/Ganadu",
+      "slug": "gamamudoganadu-gw0105"
+    },
+    "code": {
+      "id": "GW0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW01",
+      "level": 1,
+      "name": {
+        "local": "Bafata",
+        "en": "Bafata",
+        "slug": "bafata-gw01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.275",
+      "lon": "-14.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0106",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Xitole",
+      "en": "Xitole",
+      "slug": "xitole-gw0106"
+    },
+    "code": {
+      "id": "GW0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW01",
+      "level": 1,
+      "name": {
+        "local": "Bafata",
+        "en": "Bafata",
+        "slug": "bafata-gw01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 124
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "-14.68"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

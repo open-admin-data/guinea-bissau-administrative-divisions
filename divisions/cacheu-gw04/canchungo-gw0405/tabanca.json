@@ -1,0 +1,6590 @@
+[
+  {
+    "id": "GW0405_bachebacute",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bachebacute",
+      "en": "Bachebacute",
+      "slug": "bachebacute"
+    },
+    "code": {
+      "id": "GW0405_bachebacute",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_bachegue",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bachegue",
+      "en": "Bachegue",
+      "slug": "bachegue"
+    },
+    "code": {
+      "id": "GW0405_bachegue",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-16.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_baixada-djolmete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Baixada (Djolmete)",
+      "en": "Baixada (Djolmete)",
+      "slug": "baixada-djolmete"
+    },
+    "code": {
+      "id": "GW0405_baixada-djolmete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_bajope",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bajope",
+      "en": "Bajope",
+      "slug": "bajope"
+    },
+    "code": {
+      "id": "GW0405_bajope",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.114",
+      "lon": "-16.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_bajuaca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bajuaca",
+      "en": "Bajuaca",
+      "slug": "bajuaca"
+    },
+    "code": {
+      "id": "GW0405_bajuaca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.018",
+      "lon": "-16.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_balili",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Balili",
+      "en": "Balili",
+      "slug": "balili"
+    },
+    "code": {
+      "id": "GW0405_balili",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_bara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bara",
+      "en": "Bara",
+      "slug": "bara"
+    },
+    "code": {
+      "id": "GW0405_bara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-15.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_barrunhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barrunhe",
+      "en": "Barrunhe",
+      "slug": "barrunhe"
+    },
+    "code": {
+      "id": "GW0405_barrunhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-15.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_batio",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Batio",
+      "en": "Batio",
+      "slug": "batio"
+    },
+    "code": {
+      "id": "GW0405_batio",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-16.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_batucar-quartel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Batucar (Quartel)",
+      "en": "Batucar (Quartel)",
+      "slug": "batucar-quartel"
+    },
+    "code": {
+      "id": "GW0405_batucar-quartel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_baxhetcor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Baxhetcor",
+      "en": "Baxhetcor",
+      "slug": "baxhetcor"
+    },
+    "code": {
+      "id": "GW0405_baxhetcor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_beniche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "BENICHE",
+      "en": "BENICHE",
+      "slug": "beniche"
+    },
+    "code": {
+      "id": "GW0405_beniche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.105",
+      "lon": "-16.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_benobe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Benobe",
+      "en": "Benobe",
+      "slug": "benobe"
+    },
+    "code": {
+      "id": "GW0405_benobe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-15.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_beteque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Beteque",
+      "en": "Beteque",
+      "slug": "beteque"
+    },
+    "code": {
+      "id": "GW0405_beteque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_betucuntche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Betucuntche",
+      "en": "Betucuntche",
+      "slug": "betucuntche"
+    },
+    "code": {
+      "id": "GW0405_betucuntche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_binhante-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Binhante I",
+      "en": "Binhante I",
+      "slug": "binhante-i"
+    },
+    "code": {
+      "id": "GW0405_binhante-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_binhante-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Binhante II",
+      "en": "Binhante II",
+      "slug": "binhante-ii"
+    },
+    "code": {
+      "id": "GW0405_binhante-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_bitame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bitame",
+      "en": "Bitame",
+      "slug": "bitame"
+    },
+    "code": {
+      "id": "GW0405_bitame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_bitchima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bitchima",
+      "en": "Bitchima",
+      "slug": "bitchima"
+    },
+    "code": {
+      "id": "GW0405_bitchima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_bliege",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bliege",
+      "en": "Bliege",
+      "slug": "bliege"
+    },
+    "code": {
+      "id": "GW0405_bliege",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_blute",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blute",
+      "en": "Blute",
+      "slug": "blute"
+    },
+    "code": {
+      "id": "GW0405_blute",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_blute-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blute I",
+      "en": "Blute I",
+      "slug": "blute-i"
+    },
+    "code": {
+      "id": "GW0405_blute-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_bodja-bedja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bodja (Bedja)",
+      "en": "Bodja (Bedja)",
+      "slug": "bodja-bedja"
+    },
+    "code": {
+      "id": "GW0405_bodja-bedja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_buacal-bindjanca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Buacal (Bindjanca)",
+      "en": "Buacal (Bindjanca)",
+      "slug": "buacal-bindjanca"
+    },
+    "code": {
+      "id": "GW0405_buacal-bindjanca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_buatchitcha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Buatchitcha",
+      "en": "Buatchitcha",
+      "slug": "buatchitcha"
+    },
+    "code": {
+      "id": "GW0405_buatchitcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_bucucute",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bucucute",
+      "en": "Bucucute",
+      "slug": "bucucute"
+    },
+    "code": {
+      "id": "GW0405_bucucute",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_bucul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bucul",
+      "en": "Bucul",
+      "slug": "bucul"
+    },
+    "code": {
+      "id": "GW0405_bucul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.083",
+      "lon": "-16.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_bugula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bugula",
+      "en": "Bugula",
+      "slug": "bugula"
+    },
+    "code": {
+      "id": "GW0405_bugula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.173",
+      "lon": "-15.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_bugulhalete-bugudjalet",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bugulhalete Bugudjalet",
+      "en": "Bugulhalete Bugudjalet",
+      "slug": "bugulhalete-bugudjalet"
+    },
+    "code": {
+      "id": "GW0405_bugulhalete-bugudjalet",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_buluoba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Buluoba",
+      "en": "Buluoba",
+      "slug": "buluoba"
+    },
+    "code": {
+      "id": "GW0405_buluoba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_bumal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bumal",
+      "en": "Bumal",
+      "slug": "bumal"
+    },
+    "code": {
+      "id": "GW0405_bumal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.243",
+      "lon": "-15.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cabeen",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabeen",
+      "en": "Cabeen",
+      "slug": "cabeen"
+    },
+    "code": {
+      "id": "GW0405_cabeen",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cabienque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabienque",
+      "en": "Cabienque",
+      "slug": "cabienque"
+    },
+    "code": {
+      "id": "GW0405_cabienque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.046",
+      "lon": "-16.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cacante",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cacante",
+      "en": "Cacante",
+      "slug": "cacante"
+    },
+    "code": {
+      "id": "GW0405_cacante",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cachame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cachame",
+      "en": "Cachame",
+      "slug": "cachame"
+    },
+    "code": {
+      "id": "GW0405_cachame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.983",
+      "lon": "-16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cacungul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cacungul",
+      "en": "Cacungul",
+      "slug": "cacungul"
+    },
+    "code": {
+      "id": "GW0405_cacungul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cagal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cagal",
+      "en": "Cagal",
+      "slug": "cagal"
+    },
+    "code": {
+      "id": "GW0405_cagal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cagonque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cagonque",
+      "en": "Cagonque",
+      "slug": "cagonque"
+    },
+    "code": {
+      "id": "GW0405_cagonque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_calaco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Calaco",
+      "en": "Calaco",
+      "slug": "calaco"
+    },
+    "code": {
+      "id": "GW0405_calaco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_calaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Calaque",
+      "en": "Calaque",
+      "slug": "calaque"
+    },
+    "code": {
+      "id": "GW0405_calaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.033",
+      "lon": "-15.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_caliud",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caliud",
+      "en": "Caliud",
+      "slug": "caliud"
+    },
+    "code": {
+      "id": "GW0405_caliud",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_calum-calua",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Calum (Calua)",
+      "en": "Calum (Calua)",
+      "slug": "calum-calua"
+    },
+    "code": {
+      "id": "GW0405_calum-calua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_canau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canau",
+      "en": "Canau",
+      "slug": "canau"
+    },
+    "code": {
+      "id": "GW0405_canau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cancal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cancal",
+      "en": "Cancal",
+      "slug": "cancal"
+    },
+    "code": {
+      "id": "GW0405_cancal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12",
+      "lon": "-16.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cancal-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cancal I",
+      "en": "Cancal I",
+      "slug": "cancal-i"
+    },
+    "code": {
+      "id": "GW0405_cancal-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_canjambal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canjambal",
+      "en": "Canjambal",
+      "slug": "canjambal"
+    },
+    "code": {
+      "id": "GW0405_canjambal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_canob",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canob",
+      "en": "Canob",
+      "slug": "canob"
+    },
+    "code": {
+      "id": "GW0405_canob",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_canou",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canou",
+      "en": "Canou",
+      "slug": "canou"
+    },
+    "code": {
+      "id": "GW0405_canou",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_canungal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canungal",
+      "en": "Canungal",
+      "slug": "canungal"
+    },
+    "code": {
+      "id": "GW0405_canungal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_capatal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Capatal",
+      "en": "Capatal",
+      "slug": "capatal"
+    },
+    "code": {
+      "id": "GW0405_capatal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_capol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Capol",
+      "en": "Capol",
+      "slug": "capol"
+    },
+    "code": {
+      "id": "GW0405_capol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.467",
+      "lon": "-15.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_carenque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Carenque",
+      "en": "Carenque",
+      "slug": "carenque"
+    },
+    "code": {
+      "id": "GW0405_carenque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_caronca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caronca",
+      "en": "Caronca",
+      "slug": "caronca"
+    },
+    "code": {
+      "id": "GW0405_caronca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cassical",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassical",
+      "en": "Cassical",
+      "slug": "cassical"
+    },
+    "code": {
+      "id": "GW0405_cassical",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.268",
+      "lon": "-15.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_catame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catame",
+      "en": "Catame",
+      "slug": "catame"
+    },
+    "code": {
+      "id": "GW0405_catame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-16.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_catchat",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catchat",
+      "en": "Catchat",
+      "slug": "catchat"
+    },
+    "code": {
+      "id": "GW0405_catchat",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_catchobar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CATCHOBAR",
+      "en": "CATCHOBAR",
+      "slug": "catchobar"
+    },
+    "code": {
+      "id": "GW0405_catchobar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cidade-de-canchungo-bairro-betame-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE CANCHUNGO Bairro Betame 1",
+      "en": "CIDADE DE CANCHUNGO Bairro Betame 1",
+      "slug": "cidade-de-canchungo-bairro-betame-1"
+    },
+    "code": {
+      "id": "GW0405_cidade-de-canchungo-bairro-betame-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cidade-de-canchungo-bairro-betame-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE CANCHUNGO Bairro Betame 2",
+      "en": "CIDADE DE CANCHUNGO Bairro Betame 2",
+      "slug": "cidade-de-canchungo-bairro-betame-2"
+    },
+    "code": {
+      "id": "GW0405_cidade-de-canchungo-bairro-betame-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cidade-de-canchungo-bairro-catacumba-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE CANCHUNGO Bairro Catacumba 1",
+      "en": "CIDADE DE CANCHUNGO Bairro Catacumba 1",
+      "slug": "cidade-de-canchungo-bairro-catacumba-1"
+    },
+    "code": {
+      "id": "GW0405_cidade-de-canchungo-bairro-catacumba-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cidade-de-canchungo-bairro-catacumba-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE CANCHUNGO Bairro Catacumba 2",
+      "en": "CIDADE DE CANCHUNGO Bairro Catacumba 2",
+      "slug": "cidade-de-canchungo-bairro-catacumba-2"
+    },
+    "code": {
+      "id": "GW0405_cidade-de-canchungo-bairro-catacumba-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cidade-de-canchungo-bairro-djaraf",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE CANCHUNGO Bairro Djaraf",
+      "en": "CIDADE DE CANCHUNGO Bairro Djaraf",
+      "slug": "cidade-de-canchungo-bairro-djaraf"
+    },
+    "code": {
+      "id": "GW0405_cidade-de-canchungo-bairro-djaraf",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cidade-de-canchungo-bairro-novo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE CANCHUNGO Bairro Novo",
+      "en": "CIDADE DE CANCHUNGO Bairro Novo",
+      "slug": "cidade-de-canchungo-bairro-novo"
+    },
+    "code": {
+      "id": "GW0405_cidade-de-canchungo-bairro-novo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cidade-de-canchungo-bairro-pendai-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE CANCHUNGO Bairro Pendai 1",
+      "en": "CIDADE DE CANCHUNGO Bairro Pendai 1",
+      "slug": "cidade-de-canchungo-bairro-pendai-1"
+    },
+    "code": {
+      "id": "GW0405_cidade-de-canchungo-bairro-pendai-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cidade-de-canchungo-bairro-pendai-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE CANCHUNGO Bairro Pendai 2",
+      "en": "CIDADE DE CANCHUNGO Bairro Pendai 2",
+      "slug": "cidade-de-canchungo-bairro-pendai-2"
+    },
+    "code": {
+      "id": "GW0405_cidade-de-canchungo-bairro-pendai-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cidade-de-canchungo-bairro-pendinglo-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE CANCHUNGO Bairro Pendinglo 1",
+      "en": "CIDADE DE CANCHUNGO Bairro Pendinglo 1",
+      "slug": "cidade-de-canchungo-bairro-pendinglo-1"
+    },
+    "code": {
+      "id": "GW0405_cidade-de-canchungo-bairro-pendinglo-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cidade-de-canchungo-bairro-pendinglo-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE CANCHUNGO Bairro Pendinglo 2",
+      "en": "CIDADE DE CANCHUNGO Bairro Pendinglo 2",
+      "slug": "cidade-de-canchungo-bairro-pendinglo-2"
+    },
+    "code": {
+      "id": "GW0405_cidade-de-canchungo-bairro-pendinglo-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cidade-de-canchungo-bairro-tchada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE CANCHUNGO Bairro Tchada",
+      "en": "CIDADE DE CANCHUNGO Bairro Tchada",
+      "slug": "cidade-de-canchungo-bairro-tchada"
+    },
+    "code": {
+      "id": "GW0405_cidade-de-canchungo-bairro-tchada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_cuecue",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cuecue",
+      "en": "Cuecue",
+      "slug": "cuecue"
+    },
+    "code": {
+      "id": "GW0405_cuecue",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_curua-nqueta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Curua N´Queta",
+      "en": "Curua N´Queta",
+      "slug": "curua-nqueta"
+    },
+    "code": {
+      "id": "GW0405_curua-nqueta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_dapatai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dapatai",
+      "en": "Dapatai",
+      "slug": "dapatai"
+    },
+    "code": {
+      "id": "GW0405_dapatai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-15.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_dinga-djolmete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dinga (Djolmete)",
+      "en": "Dinga (Djolmete)",
+      "slug": "dinga-djolmete"
+    },
+    "code": {
+      "id": "GW0405_dinga-djolmete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_djip",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djip",
+      "en": "Djip",
+      "slug": "djip"
+    },
+    "code": {
+      "id": "GW0405_djip",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_djita-cauol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djita Cauol",
+      "en": "Djita Cauol",
+      "slug": "djita-cauol"
+    },
+    "code": {
+      "id": "GW0405_djita-cauol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_gel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gel",
+      "en": "Gel",
+      "slug": "gel"
+    },
+    "code": {
+      "id": "GW0405_gel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.21",
+      "lon": "-15.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_glucar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Glucar",
+      "en": "Glucar",
+      "slug": "glucar"
+    },
+    "code": {
+      "id": "GW0405_glucar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-16.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_guipete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Guipete",
+      "en": "Guipete",
+      "slug": "guipete"
+    },
+    "code": {
+      "id": "GW0405_guipete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_ilha-de-djeta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Djeta",
+      "en": "Ilha de Djeta",
+      "slug": "ilha-de-djeta"
+    },
+    "code": {
+      "id": "GW0405_ilha-de-djeta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_jolabute",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jolabute",
+      "en": "Jolabute",
+      "slug": "jolabute"
+    },
+    "code": {
+      "id": "GW0405_jolabute",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_jolmete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "JOLMETE",
+      "en": "JOLMETE",
+      "slug": "jolmete"
+    },
+    "code": {
+      "id": "GW0405_jolmete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_lampate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lampate",
+      "en": "Lampate",
+      "slug": "lampate"
+    },
+    "code": {
+      "id": "GW0405_lampate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_ncutul-djolmete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Cutul (Djolmete)",
+      "en": "N´Cutul (Djolmete)",
+      "slug": "ncutul-djolmete"
+    },
+    "code": {
+      "id": "GW0405_ncutul-djolmete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_nghoga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Ghoga",
+      "en": "N´Ghoga",
+      "slug": "nghoga"
+    },
+    "code": {
+      "id": "GW0405_nghoga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_pantufa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pantufa",
+      "en": "Pantufa",
+      "slug": "pantufa"
+    },
+    "code": {
+      "id": "GW0405_pantufa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.144",
+      "lon": "-15.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_parunde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Parunde",
+      "en": "Parunde",
+      "slug": "parunde"
+    },
+    "code": {
+      "id": "GW0405_parunde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_patacha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Patacha",
+      "en": "Patacha",
+      "slug": "patacha"
+    },
+    "code": {
+      "id": "GW0405_patacha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_peboss",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Peboss",
+      "en": "Peboss",
+      "slug": "peboss"
+    },
+    "code": {
+      "id": "GW0405_peboss",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_pecomal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pecomal",
+      "en": "Pecomal",
+      "slug": "pecomal"
+    },
+    "code": {
+      "id": "GW0405_pecomal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_pecon",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pecon",
+      "en": "Pecon",
+      "slug": "pecon"
+    },
+    "code": {
+      "id": "GW0405_pecon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_pecuatar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pecuatar",
+      "en": "Pecuatar",
+      "slug": "pecuatar"
+    },
+    "code": {
+      "id": "GW0405_pecuatar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_peleper",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Peleper",
+      "en": "Peleper",
+      "slug": "peleper"
+    },
+    "code": {
+      "id": "GW0405_peleper",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_pelieje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pelieje",
+      "en": "Pelieje",
+      "slug": "pelieje"
+    },
+    "code": {
+      "id": "GW0405_pelieje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_pelundo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "PELUNDO",
+      "en": "PELUNDO",
+      "slug": "pelundo"
+    },
+    "code": {
+      "id": "GW0405_pelundo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.117",
+      "lon": "-15.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_pencuntche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pencuntche",
+      "en": "Pencuntche",
+      "slug": "pencuntche"
+    },
+    "code": {
+      "id": "GW0405_pencuntche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_pendinglo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pendinglo",
+      "en": "Pendinglo",
+      "slug": "pendinglo"
+    },
+    "code": {
+      "id": "GW0405_pendinglo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.012",
+      "lon": "-16.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_penter",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Penter",
+      "en": "Penter",
+      "slug": "penter"
+    },
+    "code": {
+      "id": "GW0405_penter",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_petabe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "PETABE",
+      "en": "PETABE",
+      "slug": "petabe"
+    },
+    "code": {
+      "id": "GW0405_petabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.1",
+      "lon": "-16.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_petampil",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Petampil",
+      "en": "Petampil",
+      "slug": "petampil"
+    },
+    "code": {
+      "id": "GW0405_petampil",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_piasse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Piasse",
+      "en": "Piasse",
+      "slug": "piasse"
+    },
+    "code": {
+      "id": "GW0405_piasse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_plufe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Plufe",
+      "en": "Plufe",
+      "slug": "plufe"
+    },
+    "code": {
+      "id": "GW0405_plufe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12",
+      "lon": "-16.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_ponta-catchata",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Catchata",
+      "en": "Ponta Catchata",
+      "slug": "ponta-catchata"
+    },
+    "code": {
+      "id": "GW0405_ponta-catchata",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_ponta-formosa-padjan",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Formosa (Padjan)",
+      "en": "Ponta Formosa (Padjan)",
+      "slug": "ponta-formosa-padjan"
+    },
+    "code": {
+      "id": "GW0405_ponta-formosa-padjan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_ponta-mobel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Mobel",
+      "en": "Ponta Mobel",
+      "slug": "ponta-mobel"
+    },
+    "code": {
+      "id": "GW0405_ponta-mobel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_ponta-nhaga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Nhaga",
+      "en": "Ponta Nhaga",
+      "slug": "ponta-nhaga"
+    },
+    "code": {
+      "id": "GW0405_ponta-nhaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.2",
+      "lon": "-15.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_pupal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pupal",
+      "en": "Pupal",
+      "slug": "pupal"
+    },
+    "code": {
+      "id": "GW0405_pupal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.078",
+      "lon": "-16.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_quebaca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quebaca",
+      "en": "Quebaca",
+      "slug": "quebaca"
+    },
+    "code": {
+      "id": "GW0405_quebaca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-16.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_quessas",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quessas",
+      "en": "Quessas",
+      "slug": "quessas"
+    },
+    "code": {
+      "id": "GW0405_quessas",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_quetebado",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quetebado",
+      "en": "Quetebado",
+      "slug": "quetebado"
+    },
+    "code": {
+      "id": "GW0405_quetebado",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_sibande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sibande",
+      "en": "Sibande",
+      "slug": "sibande"
+    },
+    "code": {
+      "id": "GW0405_sibande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_tchafar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchafar",
+      "en": "Tchafar",
+      "slug": "tchafar"
+    },
+    "code": {
+      "id": "GW0405_tchafar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_tchaghate-ponta-paulo-ban",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchaghate (Ponta Paulo Ban)",
+      "en": "Tchaghate (Ponta Paulo Ban)",
+      "slug": "tchaghate-ponta-paulo-ban"
+    },
+    "code": {
+      "id": "GW0405_tchaghate-ponta-paulo-ban",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_tchate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchate",
+      "en": "Tchate",
+      "slug": "tchate"
+    },
+    "code": {
+      "id": "GW0405_tchate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_tchente",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchente",
+      "en": "Tchente",
+      "slug": "tchente"
+    },
+    "code": {
+      "id": "GW0405_tchente",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_tchogabe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchogabe",
+      "en": "Tchogabe",
+      "slug": "tchogabe"
+    },
+    "code": {
+      "id": "GW0405_tchogabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_tchulame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "TCHULAME",
+      "en": "TCHULAME",
+      "slug": "tchulame"
+    },
+    "code": {
+      "id": "GW0405_tchulame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_ubasse-potche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ubasse (Potche)",
+      "en": "Ubasse (Potche)",
+      "slug": "ubasse-potche"
+    },
+    "code": {
+      "id": "GW0405_ubasse-potche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_ucanhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ucanhe",
+      "en": "Ucanhe",
+      "slug": "ucanhe"
+    },
+    "code": {
+      "id": "GW0405_ucanhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_umbuganhete-bembuntchate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Umbuganhete (Bembuntchate)",
+      "en": "Umbuganhete (Bembuntchate)",
+      "slug": "umbuganhete-bembuntchate"
+    },
+    "code": {
+      "id": "GW0405_umbuganhete-bembuntchate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_umpacaca-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Umpacaca II",
+      "en": "Umpacaca II",
+      "slug": "umpacaca-ii"
+    },
+    "code": {
+      "id": "GW0405_umpacaca-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_undungal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Undungal",
+      "en": "Undungal",
+      "slug": "undungal"
+    },
+    "code": {
+      "id": "GW0405_undungal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_ungura",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ungura",
+      "en": "Ungura",
+      "slug": "ungura"
+    },
+    "code": {
+      "id": "GW0405_ungura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0405_utia-cor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Utia Cor",
+      "en": "Utia Cor",
+      "slug": "utia-cor"
+    },
+    "code": {
+      "id": "GW0405_utia-cor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0405",
+      "level": 2,
+      "name": {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0405",
+        "level": 2,
+        "name": {
+          "local": "Canchungo",
+          "en": "Canchungo",
+          "slug": "canchungo-gw0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.071",
+      "lon": "-16.012"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GW0702",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Empada",
+    "en": "Empada",
+    "slug": "empada-gw0702"
+  },
+  "code": {
+    "id": "GW0702",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW07",
+    "level": 1,
+    "name": {
+      "local": "Quinara",
+      "en": "Quinara",
+      "slug": "quinara-gw07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW07",
+      "level": 1,
+      "name": {
+        "local": "Quinara",
+        "en": "Quinara",
+        "slug": "quinara-gw07"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 87
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.487",
+    "lon": "-15.25"
+  },
+  "metadata": {},
+  "source": {}
+}

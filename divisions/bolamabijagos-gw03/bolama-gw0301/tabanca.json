@@ -1,0 +1,4322 @@
+[
+  {
+    "id": "GW0301_afia-cores",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Afia Cores",
+      "en": "Afia Cores",
+      "slug": "afia-cores"
+    },
+    "code": {
+      "id": "GW0301_afia-cores",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_bercolom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bercolom",
+      "en": "Bercolom",
+      "slug": "bercolom"
+    },
+    "code": {
+      "id": "GW0301_bercolom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_canjaba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canjaba",
+      "en": "Canjaba",
+      "slug": "canjaba"
+    },
+    "code": {
+      "id": "GW0301_canjaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_cantene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cantene",
+      "en": "Cantene",
+      "slug": "cantene"
+    },
+    "code": {
+      "id": "GW0301_cantene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.517",
+      "lon": "-15.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_colonia-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Colonia de Baixo",
+      "en": "Colonia de Baixo",
+      "slug": "colonia-de-baixo"
+    },
+    "code": {
+      "id": "GW0301_colonia-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_farancunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Farancunda",
+      "en": "Farancunda",
+      "slug": "farancunda"
+    },
+    "code": {
+      "id": "GW0301_farancunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.283",
+      "lon": "-14.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ga---bacar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Bacar",
+      "en": "Ga - Bacar",
+      "slug": "ga---bacar"
+    },
+    "code": {
+      "id": "GW0301_ga---bacar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ga---balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Balanta",
+      "en": "Ga - Balanta",
+      "slug": "ga---balanta"
+    },
+    "code": {
+      "id": "GW0301_ga---balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ga---bangura",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Bangura",
+      "en": "Ga - Bangura",
+      "slug": "ga---bangura"
+    },
+    "code": {
+      "id": "GW0301_ga---bangura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ga---marque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Marque",
+      "en": "Ga - Marque",
+      "slug": "ga---marque"
+    },
+    "code": {
+      "id": "GW0301_ga---marque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ga---mela",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Mela",
+      "en": "Ga - Mela",
+      "slug": "ga---mela"
+    },
+    "code": {
+      "id": "GW0301_ga---mela",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ga---mindjor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Mindjor",
+      "en": "Ga - Mindjor",
+      "slug": "ga---mindjor"
+    },
+    "code": {
+      "id": "GW0301_ga---mindjor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ga---sene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Sene",
+      "en": "Ga - Sene",
+      "slug": "ga---sene"
+    },
+    "code": {
+      "id": "GW0301_ga---sene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ga-luis-antonio",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Luis Antonio",
+      "en": "Ga-Luis Antonio",
+      "slug": "ga-luis-antonio"
+    },
+    "code": {
+      "id": "GW0301_ga-luis-antonio",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_gantongo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gantongo",
+      "en": "Gantongo",
+      "slug": "gantongo"
+    },
+    "code": {
+      "id": "GW0301_gantongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ihas-das-galinhas-ancano-de-uno",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ihas das Galinhas (Ancano de Uno)",
+      "en": "Ihas das Galinhas (Ancano de Uno)",
+      "slug": "ihas-das-galinhas-ancano-de-uno"
+    },
+    "code": {
+      "id": "GW0301_ihas-das-galinhas-ancano-de-uno",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-alto-cabral",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Alto Cabral)",
+      "en": "Ilha de Bolama (Alto Cabral)",
+      "slug": "ilha-de-bolama-alto-cabral"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-alto-cabral",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-caboupa-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Caboupa Balanta)",
+      "en": "Ilha de Bolama (Caboupa Balanta)",
+      "slug": "ilha-de-bolama-caboupa-balanta"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-caboupa-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-caboupa-cabral",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Caboupa Cabral)",
+      "en": "Ilha de Bolama (Caboupa Cabral)",
+      "slug": "ilha-de-bolama-caboupa-cabral"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-caboupa-cabral",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-calege",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Calege)",
+      "en": "Ilha de Bolama (Calege)",
+      "slug": "ilha-de-bolama-calege"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-calege",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-canema",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Canema)",
+      "en": "Ilha de Bolama (Canema)",
+      "slug": "ilha-de-bolama-canema"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-canema",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-casa-nobo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Casa Nobo)",
+      "en": "Ilha de Bolama (Casa Nobo)",
+      "slug": "ilha-de-bolama-casa-nobo"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-casa-nobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-catim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Catim)",
+      "en": "Ilha de Bolama (Catim)",
+      "slug": "ilha-de-bolama-catim"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-catim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-ga---muria",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Ga - Muria)",
+      "en": "Ilha de Bolama (Ga - Muria)",
+      "slug": "ilha-de-bolama-ga---muria"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-ga---muria",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-ilha-de-cobra",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Ilha de Cobra)",
+      "en": "Ilha de Bolama (Ilha de Cobra)",
+      "slug": "ilha-de-bolama-ilha-de-cobra"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-ilha-de-cobra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-lala-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Lala Balanta)",
+      "en": "Ilha de Bolama (Lala Balanta)",
+      "slug": "ilha-de-bolama-lala-balanta"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-lala-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-lala-mancanha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Lala Mancanha)",
+      "en": "Ilha de Bolama (Lala Mancanha)",
+      "slug": "ilha-de-bolama-lala-mancanha"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-lala-mancanha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-madina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Madina)",
+      "en": "Ilha de Bolama (Madina)",
+      "slug": "ilha-de-bolama-madina"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-madina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-marssace",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Marssace)",
+      "en": "Ilha de Bolama (Marssace)",
+      "slug": "ilha-de-bolama-marssace"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-marssace",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-ntim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Ntim)",
+      "en": "Ilha de Bolama (Ntim)",
+      "slug": "ilha-de-bolama-ntim"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-ntim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-pidjunguto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Pidjunguto)",
+      "en": "Ilha de Bolama (Pidjunguto)",
+      "slug": "ilha-de-bolama-pidjunguto"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-pidjunguto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-ponta-apile",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Ponta Apile)",
+      "en": "Ilha de Bolama (Ponta Apile)",
+      "slug": "ilha-de-bolama-ponta-apile"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-ponta-apile",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-ponta-bissau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Ponta Bissau)",
+      "en": "Ilha de Bolama (Ponta Bissau)",
+      "slug": "ilha-de-bolama-ponta-bissau"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-ponta-bissau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-sinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Sinho)",
+      "en": "Ilha de Bolama (Sinho)",
+      "slug": "ilha-de-bolama-sinho"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-sinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-wato-fula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Wato Fula)",
+      "en": "Ilha de Bolama (Wato Fula)",
+      "slug": "ilha-de-bolama-wato-fula"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-wato-fula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-wato-mancanha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Wato Mancanha)",
+      "en": "Ilha de Bolama (Wato Mancanha)",
+      "slug": "ilha-de-bolama-wato-mancanha"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-wato-mancanha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-wato-mandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama (Wato Mandinga)",
+      "en": "Ilha de Bolama (Wato Mandinga)",
+      "slug": "ilha-de-bolama-wato-mandinga"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-wato-mandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-14",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro 14",
+      "en": "Ilha de Bolama Bairro 14",
+      "slug": "ilha-de-bolama-bairro-14"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-14",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-assomada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Assomada",
+      "en": "Ilha de Bolama Bairro Assomada",
+      "slug": "ilha-de-bolama-bairro-assomada"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-assomada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-boca-de-lobo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Boca de Lobo",
+      "en": "Ilha de Bolama Bairro Boca de Lobo",
+      "slug": "ilha-de-bolama-bairro-boca-de-lobo"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-boca-de-lobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-calmacunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Calmacunda",
+      "en": "Ilha de Bolama Bairro Calmacunda",
+      "slug": "ilha-de-bolama-bairro-calmacunda"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-calmacunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-cassucai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Cassucai",
+      "en": "Ilha de Bolama Bairro Cassucai",
+      "slug": "ilha-de-bolama-bairro-cassucai"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-cassucai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-castelo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Castelo",
+      "en": "Ilha de Bolama Bairro Castelo",
+      "slug": "ilha-de-bolama-bairro-castelo"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-castelo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-centro-de-cidade",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Centro de cidade",
+      "en": "Ilha de Bolama Bairro Centro de cidade",
+      "slug": "ilha-de-bolama-bairro-centro-de-cidade"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-centro-de-cidade",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-ga-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Ga-Beafada",
+      "en": "Ilha de Bolama Bairro Ga-Beafada",
+      "slug": "ilha-de-bolama-bairro-ga-beafada"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-ga-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-ga-nafa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Ga-Nafa",
+      "en": "Ilha de Bolama Bairro Ga-Nafa",
+      "slug": "ilha-de-bolama-bairro-ga-nafa"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-ga-nafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-goiaba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Goiaba",
+      "en": "Ilha de Bolama Bairro Goiaba",
+      "slug": "ilha-de-bolama-bairro-goiaba"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-goiaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-luanda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Luanda",
+      "en": "Ilha de Bolama Bairro Luanda",
+      "slug": "ilha-de-bolama-bairro-luanda"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-luanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-ntatcha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro N'tatcha",
+      "en": "Ilha de Bolama Bairro N'tatcha",
+      "slug": "ilha-de-bolama-bairro-ntatcha"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-ntatcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-nova-sintra",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Nova Sintra",
+      "en": "Ilha de Bolama Bairro Nova Sintra",
+      "slug": "ilha-de-bolama-bairro-nova-sintra"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-nova-sintra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-pleslebre",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Pleslebre",
+      "en": "Ilha de Bolama Bairro Pleslebre",
+      "slug": "ilha-de-bolama-bairro-pleslebre"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-pleslebre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-portugal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Portugal",
+      "en": "Ilha de Bolama Bairro Portugal",
+      "slug": "ilha-de-bolama-bairro-portugal"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-portugal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-sansala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Sansala",
+      "en": "Ilha de Bolama Bairro Sansala",
+      "slug": "ilha-de-bolama-bairro-sansala"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-sansala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-sintcha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Sintcha",
+      "en": "Ilha de Bolama Bairro Sintcha",
+      "slug": "ilha-de-bolama-bairro-sintcha"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-sintcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-sintra",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Sintra",
+      "en": "Ilha de Bolama Bairro Sintra",
+      "slug": "ilha-de-bolama-bairro-sintra"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-sintra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-tabancazinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Tabancazinho",
+      "en": "Ilha de Bolama Bairro Tabancazinho",
+      "slug": "ilha-de-bolama-bairro-tabancazinho"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-tabancazinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-bairro-telegra",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Bairro Telegra",
+      "en": "Ilha de Bolama Bairro Telegra",
+      "slug": "ilha-de-bolama-bairro-telegra"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-bairro-telegra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-djiu-de-casseque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Djiu de Casseque",
+      "en": "Ilha de Bolama Djiu de Casseque",
+      "slug": "ilha-de-bolama-djiu-de-casseque"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-djiu-de-casseque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-ga---papel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Ga - Papel",
+      "en": "Ilha de Bolama Ga - Papel",
+      "slug": "ilha-de-bolama-ga---papel"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-ga---papel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilha-de-bolama-ga-fodeba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bolama Ga-Fodeba",
+      "en": "Ilha de Bolama Ga-Fodeba",
+      "slug": "ilha-de-bolama-ga-fodeba"
+    },
+    "code": {
+      "id": "GW0301_ilha-de-bolama-ga-fodeba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilhas-das-galinhas-acapamento",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilhas das Galinhas (Acapamento)",
+      "en": "Ilhas das Galinhas (Acapamento)",
+      "slug": "ilhas-das-galinhas-acapamento"
+    },
+    "code": {
+      "id": "GW0301_ilhas-das-galinhas-acapamento",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilhas-das-galinhas-ambancanam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilhas das Galinhas (Ambancanam)",
+      "en": "Ilhas das Galinhas (Ambancanam)",
+      "slug": "ilhas-das-galinhas-ambancanam"
+    },
+    "code": {
+      "id": "GW0301_ilhas-das-galinhas-ambancanam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilhas-das-galinhas-ametite",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilhas das Galinhas (Ametite)",
+      "en": "Ilhas das Galinhas (Ametite)",
+      "slug": "ilhas-das-galinhas-ametite"
+    },
+    "code": {
+      "id": "GW0301_ilhas-das-galinhas-ametite",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilhas-das-galinhas-angonho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilhas das Galinhas (Angonho)",
+      "en": "Ilhas das Galinhas (Angonho)",
+      "slug": "ilhas-das-galinhas-angonho"
+    },
+    "code": {
+      "id": "GW0301_ilhas-das-galinhas-angonho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilhas-das-galinhas-canema",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilhas das Galinhas (Canema)",
+      "en": "Ilhas das Galinhas (Canema)",
+      "slug": "ilhas-das-galinhas-canema"
+    },
+    "code": {
+      "id": "GW0301_ilhas-das-galinhas-canema",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilhas-das-galinhas-canture",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilhas das Galinhas (Canture)",
+      "en": "Ilhas das Galinhas (Canture)",
+      "slug": "ilhas-das-galinhas-canture"
+    },
+    "code": {
+      "id": "GW0301_ilhas-das-galinhas-canture",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilhas-das-galinhas-engenharia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilhas das Galinhas (Engenharia)",
+      "en": "Ilhas das Galinhas (Engenharia)",
+      "slug": "ilhas-das-galinhas-engenharia"
+    },
+    "code": {
+      "id": "GW0301_ilhas-das-galinhas-engenharia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilhas-das-galinhas-etigauro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilhas das Galinhas (Etigauro)",
+      "en": "Ilhas das Galinhas (Etigauro)",
+      "slug": "ilhas-das-galinhas-etigauro"
+    },
+    "code": {
+      "id": "GW0301_ilhas-das-galinhas-etigauro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilhas-das-galinhas-ga---papel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilhas das Galinhas (Ga - Papel)",
+      "en": "Ilhas das Galinhas (Ga - Papel)",
+      "slug": "ilhas-das-galinhas-ga---papel"
+    },
+    "code": {
+      "id": "GW0301_ilhas-das-galinhas-ga---papel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilhas-das-galinhas-ponta-anghane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilhas das Galinhas (Ponta Anghane)",
+      "en": "Ilhas das Galinhas (Ponta Anghane)",
+      "slug": "ilhas-das-galinhas-ponta-anghane"
+    },
+    "code": {
+      "id": "GW0301_ilhas-das-galinhas-ponta-anghane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilhas-das-glinhas-antchropina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilhas das Glinhas (Antchropina)",
+      "en": "Ilhas das Glinhas (Antchropina)",
+      "slug": "ilhas-das-glinhas-antchropina"
+    },
+    "code": {
+      "id": "GW0301_ilhas-das-glinhas-antchropina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ilhas-de-bolama-bolama-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilhas de Bolama (Bolama de Baixo)",
+      "en": "Ilhas de Bolama (Bolama de Baixo)",
+      "slug": "ilhas-de-bolama-bolama-de-baixo"
+    },
+    "code": {
+      "id": "GW0301_ilhas-de-bolama-bolama-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_lala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lala",
+      "en": "Lala",
+      "slug": "lala"
+    },
+    "code": {
+      "id": "GW0301_lala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5",
+      "lon": "-15.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_lhas-das-galinhas-ancano-de-canhabaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "lhas das Galinhas (Ancano de Canhabaque)",
+      "en": "lhas das Galinhas (Ancano de Canhabaque)",
+      "slug": "lhas-das-galinhas-ancano-de-canhabaque"
+    },
+    "code": {
+      "id": "GW0301_lhas-das-galinhas-ancano-de-canhabaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_ngue-nfum-nbim-busca-n-odja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ngue Nfum (Nbim Busca N odja)",
+      "en": "Ngue Nfum (Nbim Busca N odja)",
+      "slug": "ngue-nfum-nbim-busca-n-odja"
+    },
+    "code": {
+      "id": "GW0301_ngue-nfum-nbim-busca-n-odja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_nova-luanda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nova Luanda",
+      "en": "Nova Luanda",
+      "slug": "nova-luanda"
+    },
+    "code": {
+      "id": "GW0301_nova-luanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_pidjunguto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pidjunguto",
+      "en": "Pidjunguto",
+      "slug": "pidjunguto"
+    },
+    "code": {
+      "id": "GW0301_pidjunguto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_santa-maria",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Santa Maria",
+      "en": "Santa Maria",
+      "slug": "santa-maria"
+    },
+    "code": {
+      "id": "GW0301_santa-maria",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.617",
+      "lon": "-15.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_sao-joao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sao Joao",
+      "en": "Sao Joao",
+      "slug": "sao-joao"
+    },
+    "code": {
+      "id": "GW0301_sao-joao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.433",
+      "lon": "-15.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0301_titezinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Titezinho",
+      "en": "Titezinho",
+      "slug": "titezinho"
+    },
+    "code": {
+      "id": "GW0301_titezinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0301",
+      "level": 2,
+      "name": {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0301",
+        "level": 2,
+        "name": {
+          "local": "Bolama",
+          "en": "Bolama",
+          "slug": "bolama-gw0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.536"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

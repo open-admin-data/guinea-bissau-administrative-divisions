@@ -1,0 +1,3620 @@
+[
+  {
+    "id": "GW0605_abiom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Abiom",
+      "en": "Abiom",
+      "slug": "abiom"
+    },
+    "code": {
+      "id": "GW0605_abiom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_agui",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Agui",
+      "en": "Agui",
+      "slug": "agui"
+    },
+    "code": {
+      "id": "GW0605_agui",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_amede-ans",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Amede Ans",
+      "en": "Amede Ans",
+      "slug": "amede-ans"
+    },
+    "code": {
+      "id": "GW0605_amede-ans",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_ancone",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ancone",
+      "en": "Ancone",
+      "slug": "ancone"
+    },
+    "code": {
+      "id": "GW0605_ancone",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_anfitna",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Anfitna",
+      "en": "Anfitna",
+      "slug": "anfitna"
+    },
+    "code": {
+      "id": "GW0605_anfitna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_atchaca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Atchaca",
+      "en": "Atchaca",
+      "slug": "atchaca"
+    },
+    "code": {
+      "id": "GW0605_atchaca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_atim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Atim",
+      "en": "Atim",
+      "slug": "atim"
+    },
+    "code": {
+      "id": "GW0605_atim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_bira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bira",
+      "en": "Bira",
+      "slug": "bira"
+    },
+    "code": {
+      "id": "GW0605_bira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.55",
+      "lon": "-14.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_bulisau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bulisau",
+      "en": "Bulisau",
+      "slug": "bulisau"
+    },
+    "code": {
+      "id": "GW0605_bulisau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_bup-cubute",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bup Cubute",
+      "en": "Bup Cubute",
+      "slug": "bup-cubute"
+    },
+    "code": {
+      "id": "GW0605_bup-cubute",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_bup-ncassi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bup N'cassi",
+      "en": "Bup N'cassi",
+      "slug": "bup-ncassi"
+    },
+    "code": {
+      "id": "GW0605_bup-ncassi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_bup-ncar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bup Ncar",
+      "en": "Bup Ncar",
+      "slug": "bup-ncar"
+    },
+    "code": {
+      "id": "GW0605_bup-ncar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_bup-tchuru",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bup Tchuru",
+      "en": "Bup Tchuru",
+      "slug": "bup-tchuru"
+    },
+    "code": {
+      "id": "GW0605_bup-tchuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_cade",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cade",
+      "en": "Cade",
+      "slug": "cade"
+    },
+    "code": {
+      "id": "GW0605_cade",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.983",
+      "lon": "-15.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_caiana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caiana",
+      "en": "Caiana",
+      "slug": "caiana"
+    },
+    "code": {
+      "id": "GW0605_caiana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.917",
+      "lon": "-15.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_cantanga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cantanga",
+      "en": "Cantanga",
+      "slug": "cantanga"
+    },
+    "code": {
+      "id": "GW0605_cantanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_caranmoco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caranmoco",
+      "en": "Caranmoco",
+      "slug": "caranmoco"
+    },
+    "code": {
+      "id": "GW0605_caranmoco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_cidade-de-nhacra",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Nhacra",
+      "en": "Cidade de Nhacra",
+      "slug": "cidade-de-nhacra"
+    },
+    "code": {
+      "id": "GW0605_cidade-de-nhacra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_com",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Com",
+      "en": "Com",
+      "slug": "com"
+    },
+    "code": {
+      "id": "GW0605_com",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_cum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "cum",
+      "en": "cum",
+      "slug": "cum"
+    },
+    "code": {
+      "id": "GW0605_cum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_cumere",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cumere",
+      "en": "Cumere",
+      "slug": "cumere"
+    },
+    "code": {
+      "id": "GW0605_cumere",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.9",
+      "lon": "-15.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_dugal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dugal",
+      "en": "Dugal",
+      "slug": "dugal"
+    },
+    "code": {
+      "id": "GW0605_dugal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.983",
+      "lon": "-15.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_dugal---raga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dugal - Raga",
+      "en": "Dugal - Raga",
+      "slug": "dugal---raga"
+    },
+    "code": {
+      "id": "GW0605_dugal---raga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_fabrica",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fabrica",
+      "en": "Fabrica",
+      "slug": "fabrica"
+    },
+    "code": {
+      "id": "GW0605_fabrica",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_fanhey",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fanhey",
+      "en": "Fanhey",
+      "slug": "fanhey"
+    },
+    "code": {
+      "id": "GW0605_fanhey",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_fatime-fatn",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fatime Fatn",
+      "en": "Fatime Fatn",
+      "slug": "fatime-fatn"
+    },
+    "code": {
+      "id": "GW0605_fatime-fatn",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_flefe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Flefe",
+      "en": "Flefe",
+      "slug": "flefe"
+    },
+    "code": {
+      "id": "GW0605_flefe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_ga-ducure",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Ducure",
+      "en": "Ga-Ducure",
+      "slug": "ga-ducure"
+    },
+    "code": {
+      "id": "GW0605_ga-ducure",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_iungume",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Iungume",
+      "en": "Iungume",
+      "slug": "iungume"
+    },
+    "code": {
+      "id": "GW0605_iungume",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_jugudul-com",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jugudul Com",
+      "en": "Jugudul Com",
+      "slug": "jugudul-com"
+    },
+    "code": {
+      "id": "GW0605_jugudul-com",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.005",
+      "lon": "-15.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_murcande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Murcande",
+      "en": "Murcande",
+      "slug": "murcande"
+    },
+    "code": {
+      "id": "GW0605_murcande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_nague-abentche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nague Abentche",
+      "en": "Nague Abentche",
+      "slug": "nague-abentche"
+    },
+    "code": {
+      "id": "GW0605_nague-abentche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_nague-brama",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nague Brama",
+      "en": "Nague Brama",
+      "slug": "nague-brama"
+    },
+    "code": {
+      "id": "GW0605_nague-brama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_nague-lunda-de-norte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nague Lunda de Norte",
+      "en": "Nague Lunda de Norte",
+      "slug": "nague-lunda-de-norte"
+    },
+    "code": {
+      "id": "GW0605_nague-lunda-de-norte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_nague-patch",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nague Patch",
+      "en": "Nague Patch",
+      "slug": "nague-patch"
+    },
+    "code": {
+      "id": "GW0605_nague-patch",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_ncuna",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ncuna",
+      "en": "Ncuna",
+      "slug": "ncuna"
+    },
+    "code": {
+      "id": "GW0605_ncuna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_nhacra-teda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhacra Teda",
+      "en": "Nhacra Teda",
+      "slug": "nhacra-teda"
+    },
+    "code": {
+      "id": "GW0605_nhacra-teda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.983",
+      "lon": "-15.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_nhode-nbuium",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhode Nbuium",
+      "en": "Nhode Nbuium",
+      "slug": "nhode-nbuium"
+    },
+    "code": {
+      "id": "GW0605_nhode-nbuium",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_nhoma",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhoma",
+      "en": "Nhoma",
+      "slug": "nhoma"
+    },
+    "code": {
+      "id": "GW0605_nhoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.983",
+      "lon": "-15.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_nhomazinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhomazinho",
+      "en": "Nhomazinho",
+      "slug": "nhomazinho"
+    },
+    "code": {
+      "id": "GW0605_nhomazinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_nsul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nsul",
+      "en": "Nsul",
+      "slug": "nsul"
+    },
+    "code": {
+      "id": "GW0605_nsul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_ntchangue-bedeta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ntchangue Bedeta",
+      "en": "Ntchangue Bedeta",
+      "slug": "ntchangue-bedeta"
+    },
+    "code": {
+      "id": "GW0605_ntchangue-bedeta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_oco-grande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Oco Grande",
+      "en": "Oco Grande",
+      "slug": "oco-grande"
+    },
+    "code": {
+      "id": "GW0605_oco-grande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-15.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_ocozinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ocozinho",
+      "en": "Ocozinho",
+      "slug": "ocozinho"
+    },
+    "code": {
+      "id": "GW0605_ocozinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_ponta-sussute",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Sussute",
+      "en": "Ponta Sussute",
+      "slug": "ponta-sussute"
+    },
+    "code": {
+      "id": "GW0605_ponta-sussute",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_quesses",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quesses",
+      "en": "Quesses",
+      "slug": "quesses"
+    },
+    "code": {
+      "id": "GW0605_quesses",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_quide",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quide",
+      "en": "Quide",
+      "slug": "quide"
+    },
+    "code": {
+      "id": "GW0605_quide",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-15.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_quifitche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quifitche",
+      "en": "Quifitche",
+      "slug": "quifitche"
+    },
+    "code": {
+      "id": "GW0605_quifitche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_rom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Rom",
+      "en": "Rom",
+      "slug": "rom"
+    },
+    "code": {
+      "id": "GW0605_rom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_rotchum-morna",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Rotchum Morna",
+      "en": "Rotchum Morna",
+      "slug": "rotchum-morna"
+    },
+    "code": {
+      "id": "GW0605_rotchum-morna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_rotchum-ndam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Rotchum Ndam",
+      "en": "Rotchum Ndam",
+      "slug": "rotchum-ndam"
+    },
+    "code": {
+      "id": "GW0605_rotchum-ndam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_rucuto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Rucuto",
+      "en": "Rucuto",
+      "slug": "rucuto"
+    },
+    "code": {
+      "id": "GW0605_rucuto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-15.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_sau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sau",
+      "en": "Sau",
+      "slug": "sau"
+    },
+    "code": {
+      "id": "GW0605_sau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12",
+      "lon": "-15.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_som",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Som",
+      "en": "Som",
+      "slug": "som"
+    },
+    "code": {
+      "id": "GW0605_som",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_sucuto-canhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sucuto Canhe",
+      "en": "Sucuto Canhe",
+      "slug": "sucuto-canhe"
+    },
+    "code": {
+      "id": "GW0605_sucuto-canhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_sucuto-nlaga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sucuto N'laga",
+      "en": "Sucuto N'laga",
+      "slug": "sucuto-nlaga"
+    },
+    "code": {
+      "id": "GW0605_sucuto-nlaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_sucuto-nhogui",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sucuto Nhogui",
+      "en": "Sucuto Nhogui",
+      "slug": "sucuto-nhogui"
+    },
+    "code": {
+      "id": "GW0605_sucuto-nhogui",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_sucuto-quedaga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sucuto Quedaga",
+      "en": "Sucuto Quedaga",
+      "slug": "sucuto-quedaga"
+    },
+    "code": {
+      "id": "GW0605_sucuto-quedaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_sumo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sumo",
+      "en": "Sumo",
+      "slug": "sumo"
+    },
+    "code": {
+      "id": "GW0605_sumo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_sumo-canhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sumo Canhe",
+      "en": "Sumo Canhe",
+      "slug": "sumo-canhe"
+    },
+    "code": {
+      "id": "GW0605_sumo-canhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_sumo-quindefa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sumo Quindefa",
+      "en": "Sumo Quindefa",
+      "slug": "sumo-quindefa"
+    },
+    "code": {
+      "id": "GW0605_sumo-quindefa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_tchanque-subal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchanque Subal",
+      "en": "Tchanque Subal",
+      "slug": "tchanque-subal"
+    },
+    "code": {
+      "id": "GW0605_tchanque-subal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_tchete-queia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchete Queia",
+      "en": "Tchete Queia",
+      "slug": "tchete-queia"
+    },
+    "code": {
+      "id": "GW0605_tchete-queia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_tchugue-comteda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchugue Comteda",
+      "en": "Tchugue Comteda",
+      "slug": "tchugue-comteda"
+    },
+    "code": {
+      "id": "GW0605_tchugue-comteda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_tchugue-ncanha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchugue N'canha",
+      "en": "Tchugue N'canha",
+      "slug": "tchugue-ncanha"
+    },
+    "code": {
+      "id": "GW0605_tchugue-ncanha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_tchulof-npaba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchulof Npaba",
+      "en": "Tchulof Npaba",
+      "slug": "tchulof-npaba"
+    },
+    "code": {
+      "id": "GW0605_tchulof-npaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605_tchuluf",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchuluf",
+      "en": "Tchuluf",
+      "slug": "tchuluf"
+    },
+    "code": {
+      "id": "GW0605_tchuluf",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0605",
+      "level": 2,
+      "name": {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0605",
+        "level": 2,
+        "name": {
+          "local": "Nhacra",
+          "en": "Nhacra",
+          "slug": "nhacra-gw0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

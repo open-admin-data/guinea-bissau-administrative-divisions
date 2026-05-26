@@ -1,0 +1,30 @@
+{
+  "id": "GW04",
+  "level": 1,
+  "level_name": {
+    "local": "Região",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Cacheu",
+    "en": "Cacheu",
+    "slug": "cacheu-gw04"
+  },
+  "code": {
+    "id": "GW04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sector": 6,
+    "tabanca": 651
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.194",
+    "lon": "-15.99"
+  },
+  "metadata": {},
+  "source": {}
+}

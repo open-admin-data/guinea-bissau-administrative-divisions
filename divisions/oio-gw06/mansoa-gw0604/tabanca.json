@@ -1,0 +1,8912 @@
+[
+  {
+    "id": "GW0604_acure",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Acure",
+      "en": "Acure",
+      "slug": "acure"
+    },
+    "code": {
+      "id": "GW0604_acure",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_amedalai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Amedalai",
+      "en": "Amedalai",
+      "slug": "amedalai"
+    },
+    "code": {
+      "id": "GW0604_amedalai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.183",
+      "lon": "-14.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ansonhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ansonhe",
+      "en": "Ansonhe",
+      "slug": "ansonhe"
+    },
+    "code": {
+      "id": "GW0604_ansonhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_aongna",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Aongna",
+      "en": "Aongna",
+      "slug": "aongna"
+    },
+    "code": {
+      "id": "GW0604_aongna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_atiozinho-cacuma",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Atiozinho ( Cacuma )",
+      "en": "Atiozinho ( Cacuma )",
+      "slug": "atiozinho-cacuma"
+    },
+    "code": {
+      "id": "GW0604_atiozinho-cacuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_bairro-banco-mundial",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bairro Banco Mundial",
+      "en": "Bairro Banco Mundial",
+      "slug": "bairro-banco-mundial"
+    },
+    "code": {
+      "id": "GW0604_bairro-banco-mundial",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_bara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bara",
+      "en": "Bara",
+      "slug": "bara"
+    },
+    "code": {
+      "id": "GW0604_bara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-15.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_bara-sime",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bara Sime",
+      "en": "Bara Sime",
+      "slug": "bara-sime"
+    },
+    "code": {
+      "id": "GW0604_bara-sime",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_baradulo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Baradulo",
+      "en": "Baradulo",
+      "slug": "baradulo"
+    },
+    "code": {
+      "id": "GW0604_baradulo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_benif",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Benif",
+      "en": "Benif",
+      "slug": "benif"
+    },
+    "code": {
+      "id": "GW0604_benif",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_bessunha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bessunha",
+      "en": "Bessunha",
+      "slug": "bessunha"
+    },
+    "code": {
+      "id": "GW0604_bessunha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.983",
+      "lon": "-15.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_bindur-catamba---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bindur Catamba - II",
+      "en": "Bindur Catamba - II",
+      "slug": "bindur-catamba---ii"
+    },
+    "code": {
+      "id": "GW0604_bindur-catamba---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_bindur-duga---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bindur Duga - I",
+      "en": "Bindur Duga - I",
+      "slug": "bindur-duga---i"
+    },
+    "code": {
+      "id": "GW0604_bindur-duga---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_bindur-sam-bidem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bindur Sam-Bidem",
+      "en": "Bindur Sam-Bidem",
+      "slug": "bindur-sam-bidem"
+    },
+    "code": {
+      "id": "GW0604_bindur-sam-bidem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_binibaque---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Binibaque - I",
+      "en": "Binibaque - I",
+      "slug": "binibaque---i"
+    },
+    "code": {
+      "id": "GW0604_binibaque---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_binibaque---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Binibaque - II",
+      "en": "Binibaque - II",
+      "slug": "binibaque---ii"
+    },
+    "code": {
+      "id": "GW0604_binibaque---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_binibaque-teda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Binibaque Teda",
+      "en": "Binibaque Teda",
+      "slug": "binibaque-teda"
+    },
+    "code": {
+      "id": "GW0604_binibaque-teda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_bissa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissa",
+      "en": "Bissa",
+      "slug": "bissa"
+    },
+    "code": {
+      "id": "GW0604_bissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.383",
+      "lon": "-15.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_bissora",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissora",
+      "en": "Bissora",
+      "slug": "bissora"
+    },
+    "code": {
+      "id": "GW0604_bissora",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.04",
+      "lon": "-15.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_blasse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blasse",
+      "en": "Blasse",
+      "slug": "blasse"
+    },
+    "code": {
+      "id": "GW0604_blasse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-15.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_bolondja-tabanca-novo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bolondja Tabanca Novo",
+      "en": "Bolondja Tabanca Novo",
+      "slug": "bolondja-tabanca-novo"
+    },
+    "code": {
+      "id": "GW0604_bolondja-tabanca-novo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_braia-claia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Braia Claia",
+      "en": "Braia Claia",
+      "slug": "braia-claia"
+    },
+    "code": {
+      "id": "GW0604_braia-claia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_braia-cufos",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Braia Cufos",
+      "en": "Braia Cufos",
+      "slug": "braia-cufos"
+    },
+    "code": {
+      "id": "GW0604_braia-cufos",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_braia-nete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Braia Nete",
+      "en": "Braia Nete",
+      "slug": "braia-nete"
+    },
+    "code": {
+      "id": "GW0604_braia-nete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cabuca-ponta-luis",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabuca Ponta Luis",
+      "en": "Cabuca Ponta Luis",
+      "slug": "cabuca-ponta-luis"
+    },
+    "code": {
+      "id": "GW0604_cabuca-ponta-luis",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_canhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canhe",
+      "en": "Canhe",
+      "slug": "canhe"
+    },
+    "code": {
+      "id": "GW0604_canhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cantchur",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cantchur",
+      "en": "Cantchur",
+      "slug": "cantchur"
+    },
+    "code": {
+      "id": "GW0604_cantchur",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_caur-algodao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caur Algodao",
+      "en": "Caur Algodao",
+      "slug": "caur-algodao"
+    },
+    "code": {
+      "id": "GW0604_caur-algodao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cidade-de-mansoa-bairrio-15",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Mansoa Bairrio 15",
+      "en": "Cidade de Mansoa Bairrio 15",
+      "slug": "cidade-de-mansoa-bairrio-15"
+    },
+    "code": {
+      "id": "GW0604_cidade-de-mansoa-bairrio-15",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cidade-de-mansoa-bairrio-cumasse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Mansoa Bairrio Cumasse",
+      "en": "Cidade de Mansoa Bairrio Cumasse",
+      "slug": "cidade-de-mansoa-bairrio-cumasse"
+    },
+    "code": {
+      "id": "GW0604_cidade-de-mansoa-bairrio-cumasse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cidade-de-mansoa-bairro-areia-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Mansoa Bairro Areia 2",
+      "en": "Cidade de Mansoa Bairro Areia 2",
+      "slug": "cidade-de-mansoa-bairro-areia-2"
+    },
+    "code": {
+      "id": "GW0604_cidade-de-mansoa-bairro-areia-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cidade-de-mansoa-bairro-luanda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Mansoa Bairro Luanda",
+      "en": "Cidade de Mansoa Bairro Luanda",
+      "slug": "cidade-de-mansoa-bairro-luanda"
+    },
+    "code": {
+      "id": "GW0604_cidade-de-mansoa-bairro-luanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cidade-de-mansoa-bairro-misson",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Mansoa Bairro Misson",
+      "en": "Cidade de Mansoa Bairro Misson",
+      "slug": "cidade-de-mansoa-bairro-misson"
+    },
+    "code": {
+      "id": "GW0604_cidade-de-mansoa-bairro-misson",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cidade-de-mansoa-bairro-praca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Mansoa Bairro Praca",
+      "en": "Cidade de Mansoa Bairro Praca",
+      "slug": "cidade-de-mansoa-bairro-praca"
+    },
+    "code": {
+      "id": "GW0604_cidade-de-mansoa-bairro-praca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cidade-de-mansoa-bairro-ribada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Mansoa Bairro Ribada",
+      "en": "Cidade de Mansoa Bairro Ribada",
+      "slug": "cidade-de-mansoa-bairro-ribada"
+    },
+    "code": {
+      "id": "GW0604_cidade-de-mansoa-bairro-ribada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cidade-de-mansoa-bairro-sao-tome",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Mansoa Bairro Sao Tome",
+      "en": "Cidade de Mansoa Bairro Sao Tome",
+      "slug": "cidade-de-mansoa-bairro-sao-tome"
+    },
+    "code": {
+      "id": "GW0604_cidade-de-mansoa-bairro-sao-tome",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_claque-iala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Claque Iala",
+      "en": "Claque Iala",
+      "slug": "claque-iala"
+    },
+    "code": {
+      "id": "GW0604_claque-iala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_claque-na-isna",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Claque na Isna",
+      "en": "Claque na Isna",
+      "slug": "claque-na-isna"
+    },
+    "code": {
+      "id": "GW0604_claque-na-isna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_colicunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Colicunda",
+      "en": "Colicunda",
+      "slug": "colicunda"
+    },
+    "code": {
+      "id": "GW0604_colicunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.367",
+      "lon": "-14.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cooperativa-de-ga---mamudo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cooperativa de Ga - Mamudo",
+      "en": "Cooperativa de Ga - Mamudo",
+      "slug": "cooperativa-de-ga---mamudo"
+    },
+    "code": {
+      "id": "GW0604_cooperativa-de-ga---mamudo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cruzamento-de-cabuca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cruzamento de Cabuca",
+      "en": "Cruzamento de Cabuca",
+      "slug": "cruzamento-de-cabuca"
+    },
+    "code": {
+      "id": "GW0604_cruzamento-de-cabuca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cubadjal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cubadjal",
+      "en": "Cubadjal",
+      "slug": "cubadjal"
+    },
+    "code": {
+      "id": "GW0604_cubadjal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cubui---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cubui - I",
+      "en": "Cubui - I",
+      "slug": "cubui---i"
+    },
+    "code": {
+      "id": "GW0604_cubui---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cubui---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cubui - II",
+      "en": "Cubui - II",
+      "slug": "cubui---ii"
+    },
+    "code": {
+      "id": "GW0604_cubui---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cufar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cufar",
+      "en": "Cufar",
+      "slug": "cufar"
+    },
+    "code": {
+      "id": "GW0604_cufar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.043",
+      "lon": "-15.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_culicunhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Culicunhe",
+      "en": "Culicunhe",
+      "slug": "culicunhe"
+    },
+    "code": {
+      "id": "GW0604_culicunhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cuntubo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cuntubo",
+      "en": "Cuntubo",
+      "slug": "cuntubo"
+    },
+    "code": {
+      "id": "GW0604_cuntubo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_curene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Curene",
+      "en": "Curene",
+      "slug": "curene"
+    },
+    "code": {
+      "id": "GW0604_curene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_curva-samba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Curva Samba",
+      "en": "Curva Samba",
+      "slug": "curva-samba"
+    },
+    "code": {
+      "id": "GW0604_curva-samba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cussana---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cussana - I",
+      "en": "Cussana - I",
+      "slug": "cussana---i"
+    },
+    "code": {
+      "id": "GW0604_cussana---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cussana---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cussana - II",
+      "en": "Cussana - II",
+      "slug": "cussana---ii"
+    },
+    "code": {
+      "id": "GW0604_cussana---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cussana---iii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cussana - III",
+      "en": "Cussana - III",
+      "slug": "cussana---iii"
+    },
+    "code": {
+      "id": "GW0604_cussana---iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cussedje-anduk",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cussedje ( Anduk )",
+      "en": "Cussedje ( Anduk )",
+      "slug": "cussedje-anduk"
+    },
+    "code": {
+      "id": "GW0604_cussedje-anduk",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cussedje-assuma",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cussedje Assuma",
+      "en": "Cussedje Assuma",
+      "slug": "cussedje-assuma"
+    },
+    "code": {
+      "id": "GW0604_cussedje-assuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cutia-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cutia de Baixo",
+      "en": "Cutia de Baixo",
+      "slug": "cutia-de-baixo"
+    },
+    "code": {
+      "id": "GW0604_cutia-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cutia-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cutia de Cima",
+      "en": "Cutia de Cima",
+      "slug": "cutia-de-cima"
+    },
+    "code": {
+      "id": "GW0604_cutia-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_cutia-manjaco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cutia Manjaco",
+      "en": "Cutia Manjaco",
+      "slug": "cutia-manjaco"
+    },
+    "code": {
+      "id": "GW0604_cutia-manjaco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_dam-cubontche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dam Cubontche",
+      "en": "Dam Cubontche",
+      "slug": "dam-cubontche"
+    },
+    "code": {
+      "id": "GW0604_dam-cubontche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_dana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dana",
+      "en": "Dana",
+      "slug": "dana"
+    },
+    "code": {
+      "id": "GW0604_dana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.006",
+      "lon": "-15.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_danduzinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Danduzinho",
+      "en": "Danduzinho",
+      "slug": "danduzinho"
+    },
+    "code": {
+      "id": "GW0604_danduzinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_darsalame-baio",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Darsalame Baio",
+      "en": "Darsalame Baio",
+      "slug": "darsalame-baio"
+    },
+    "code": {
+      "id": "GW0604_darsalame-baio",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_date",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Date",
+      "en": "Date",
+      "slug": "date"
+    },
+    "code": {
+      "id": "GW0604_date",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-15.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_enxale-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Enxale de Baixo",
+      "en": "Enxale de Baixo",
+      "slug": "enxale-de-baixo"
+    },
+    "code": {
+      "id": "GW0604_enxale-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_enxale-de-cima-flaque-iala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Enxale de Cima Flaque Iala",
+      "en": "Enxale de Cima Flaque Iala",
+      "slug": "enxale-de-cima-flaque-iala"
+    },
+    "code": {
+      "id": "GW0604_enxale-de-cima-flaque-iala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_falam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Falam",
+      "en": "Falam",
+      "slug": "falam"
+    },
+    "code": {
+      "id": "GW0604_falam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_flora",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Flora",
+      "en": "Flora",
+      "slug": "flora"
+    },
+    "code": {
+      "id": "GW0604_flora",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.767",
+      "lon": "-15.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_funcor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Funcor",
+      "en": "Funcor",
+      "slug": "funcor"
+    },
+    "code": {
+      "id": "GW0604_funcor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-15.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ga---mamudo-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Mamudo de Baixo",
+      "en": "Ga - Mamudo de Baixo",
+      "slug": "ga---mamudo-de-baixo"
+    },
+    "code": {
+      "id": "GW0604_ga---mamudo-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ga---mamudo-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Mamudo de Cima",
+      "en": "Ga - Mamudo de Cima",
+      "slug": "ga---mamudo-de-cima"
+    },
+    "code": {
+      "id": "GW0604_ga---mamudo-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ga---molzinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Molzinho",
+      "en": "Ga - Molzinho",
+      "slug": "ga---molzinho"
+    },
+    "code": {
+      "id": "GW0604_ga---molzinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_gambia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gambia",
+      "en": "Gambia",
+      "slug": "gambia"
+    },
+    "code": {
+      "id": "GW0604_gambia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.056",
+      "lon": "-15.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_injasse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Injasse",
+      "en": "Injasse",
+      "slug": "injasse"
+    },
+    "code": {
+      "id": "GW0604_injasse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_jerusalem-lala-quema",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jerusalem (Lala Quema)",
+      "en": "Jerusalem (Lala Quema)",
+      "slug": "jerusalem-lala-quema"
+    },
+    "code": {
+      "id": "GW0604_jerusalem-lala-quema",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_jugudul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jugudul",
+      "en": "Jugudul",
+      "slug": "jugudul"
+    },
+    "code": {
+      "id": "GW0604_jugudul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_kindia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Kindia",
+      "en": "Kindia",
+      "slug": "kindia"
+    },
+    "code": {
+      "id": "GW0604_kindia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_lotche-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lotche de Baixo",
+      "en": "Lotche de Baixo",
+      "slug": "lotche-de-baixo"
+    },
+    "code": {
+      "id": "GW0604_lotche-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_lotche-fula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lotche Fula",
+      "en": "Lotche Fula",
+      "slug": "lotche-fula"
+    },
+    "code": {
+      "id": "GW0604_lotche-fula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_lotche-mandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lotche Mandinga",
+      "en": "Lotche Mandinga",
+      "slug": "lotche-mandinga"
+    },
+    "code": {
+      "id": "GW0604_lotche-mandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_lotche-wediqueia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lotche Wediqueia",
+      "en": "Lotche Wediqueia",
+      "slug": "lotche-wediqueia"
+    },
+    "code": {
+      "id": "GW0604_lotche-wediqueia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_madina-sara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Sara",
+      "en": "Madina Sara",
+      "slug": "madina-sara"
+    },
+    "code": {
+      "id": "GW0604_madina-sara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_madina-tchalana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Tchalana",
+      "en": "Madina Tchalana",
+      "slug": "madina-tchalana"
+    },
+    "code": {
+      "id": "GW0604_madina-tchalana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_malafo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Malafo",
+      "en": "Malafo",
+      "slug": "malafo"
+    },
+    "code": {
+      "id": "GW0604_malafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.016",
+      "lon": "-15.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_malafo---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Malafo - II",
+      "en": "Malafo - II",
+      "slug": "malafo---ii"
+    },
+    "code": {
+      "id": "GW0604_malafo---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_mancala-cuntum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mancala Cuntum",
+      "en": "Mancala Cuntum",
+      "slug": "mancala-cuntum"
+    },
+    "code": {
+      "id": "GW0604_mancala-cuntum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_mancala-ncore",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mancala Ncore",
+      "en": "Mancala Ncore",
+      "slug": "mancala-ncore"
+    },
+    "code": {
+      "id": "GW0604_mancala-ncore",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_mancalam-nsanga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mancalam Nsanga",
+      "en": "Mancalam Nsanga",
+      "slug": "mancalam-nsanga"
+    },
+    "code": {
+      "id": "GW0604_mancalam-nsanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_mancalam-rumbo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mancalam Rumbo",
+      "en": "Mancalam Rumbo",
+      "slug": "mancalam-rumbo"
+    },
+    "code": {
+      "id": "GW0604_mancalam-rumbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_manconfe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Manconfe",
+      "en": "Manconfe",
+      "slug": "manconfe"
+    },
+    "code": {
+      "id": "GW0604_manconfe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_mancunto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mancunto",
+      "en": "Mancunto",
+      "slug": "mancunto"
+    },
+    "code": {
+      "id": "GW0604_mancunto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_mandingara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mandingara",
+      "en": "Mandingara",
+      "slug": "mandingara"
+    },
+    "code": {
+      "id": "GW0604_mandingara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.171",
+      "lon": "-15.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_manquintico",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Manquintico",
+      "en": "Manquintico",
+      "slug": "manquintico"
+    },
+    "code": {
+      "id": "GW0604_manquintico",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_manquintico-fula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Manquintico Fula",
+      "en": "Manquintico Fula",
+      "slug": "manquintico-fula"
+    },
+    "code": {
+      "id": "GW0604_manquintico-fula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_mansabandim-darsalame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mansabandim ( Darsalame )",
+      "en": "Mansabandim ( Darsalame )",
+      "slug": "mansabandim-darsalame"
+    },
+    "code": {
+      "id": "GW0604_mansabandim-darsalame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_mansacrem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mansacrem",
+      "en": "Mansacrem",
+      "slug": "mansacrem"
+    },
+    "code": {
+      "id": "GW0604_mansacrem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_mantefa-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mantefa de Cima",
+      "en": "Mantefa de Cima",
+      "slug": "mantefa-de-cima"
+    },
+    "code": {
+      "id": "GW0604_mantefa-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_mantem---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mantem - I",
+      "en": "Mantem - I",
+      "slug": "mantem---i"
+    },
+    "code": {
+      "id": "GW0604_mantem---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_mantem---ii-agri-bissau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mantem - II ( Agri-Bissau)",
+      "en": "Mantem - II ( Agri-Bissau)",
+      "slug": "mantem---ii-agri-bissau"
+    },
+    "code": {
+      "id": "GW0604_mantem---ii-agri-bissau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_maque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Maque",
+      "en": "Maque",
+      "slug": "maque"
+    },
+    "code": {
+      "id": "GW0604_maque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_massina---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Massina - I",
+      "en": "Massina - I",
+      "slug": "massina---i"
+    },
+    "code": {
+      "id": "GW0604_massina---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_massina---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Massina - II",
+      "en": "Massina - II",
+      "slug": "massina---ii"
+    },
+    "code": {
+      "id": "GW0604_massina---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_missira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Missira",
+      "en": "Missira",
+      "slug": "missira"
+    },
+    "code": {
+      "id": "GW0604_missira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-14.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_missira---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Missira - I",
+      "en": "Missira - I",
+      "slug": "missira---i"
+    },
+    "code": {
+      "id": "GW0604_missira---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_n-fandre-abunque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N fandre (Abunque )",
+      "en": "N fandre (Abunque )",
+      "slug": "n-fandre-abunque"
+    },
+    "code": {
+      "id": "GW0604_n-fandre-abunque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_n-lore",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N lore",
+      "en": "N lore",
+      "slug": "n-lore"
+    },
+    "code": {
+      "id": "GW0604_n-lore",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_nbaque-manbaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N'Baque ( Manbaque )",
+      "en": "N'Baque ( Manbaque )",
+      "slug": "nbaque-manbaque"
+    },
+    "code": {
+      "id": "GW0604_nbaque-manbaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_nbodja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N'Bodja",
+      "en": "N'Bodja",
+      "slug": "nbodja"
+    },
+    "code": {
+      "id": "GW0604_nbodja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ncor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N'cor",
+      "en": "N'cor",
+      "slug": "ncor"
+    },
+    "code": {
+      "id": "GW0604_ncor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ngonguilim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N'gonguilim",
+      "en": "N'gonguilim",
+      "slug": "ngonguilim"
+    },
+    "code": {
+      "id": "GW0604_ngonguilim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ntati",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N'tati",
+      "en": "N'tati",
+      "slug": "ntati"
+    },
+    "code": {
+      "id": "GW0604_ntati",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ntchula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N'Tchula",
+      "en": "N'Tchula",
+      "slug": "ntchula"
+    },
+    "code": {
+      "id": "GW0604_ntchula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ntongue",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N'tongue",
+      "en": "N'tongue",
+      "slug": "ntongue"
+    },
+    "code": {
+      "id": "GW0604_ntongue",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_nbum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nbum",
+      "en": "Nbum",
+      "slug": "nbum"
+    },
+    "code": {
+      "id": "GW0604_nbum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_nghafu-nhafu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nghafu ( Nhafu )",
+      "en": "Nghafu ( Nhafu )",
+      "slug": "nghafu-nhafu"
+    },
+    "code": {
+      "id": "GW0604_nghafu-nhafu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_nguida",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nguida",
+      "en": "Nguida",
+      "slug": "nguida"
+    },
+    "code": {
+      "id": "GW0604_nguida",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_nhae-uqui",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhae ( Uqui )",
+      "en": "Nhae ( Uqui )",
+      "slug": "nhae-uqui"
+    },
+    "code": {
+      "id": "GW0604_nhae-uqui",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_nhala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhala",
+      "en": "Nhala",
+      "slug": "nhala"
+    },
+    "code": {
+      "id": "GW0604_nhala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.633",
+      "lon": "-14.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_nhenque---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhenque - I",
+      "en": "Nhenque - I",
+      "slug": "nhenque---i"
+    },
+    "code": {
+      "id": "GW0604_nhenque---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_nhiman",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhiman",
+      "en": "Nhiman",
+      "slug": "nhiman"
+    },
+    "code": {
+      "id": "GW0604_nhiman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_nhimbi---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhimbi - I",
+      "en": "Nhimbi - I",
+      "slug": "nhimbi---i"
+    },
+    "code": {
+      "id": "GW0604_nhimbi---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_nhimbi---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhimbi - II",
+      "en": "Nhimbi - II",
+      "slug": "nhimbi---ii"
+    },
+    "code": {
+      "id": "GW0604_nhimbi---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ntchan",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ntchan",
+      "en": "Ntchan",
+      "slug": "ntchan"
+    },
+    "code": {
+      "id": "GW0604_ntchan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_olom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Olom",
+      "en": "Olom",
+      "slug": "olom"
+    },
+    "code": {
+      "id": "GW0604_olom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.116",
+      "lon": "-15.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_paulo-baque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Paulo Baque",
+      "en": "Paulo Baque",
+      "slug": "paulo-baque"
+    },
+    "code": {
+      "id": "GW0604_paulo-baque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_plantaao-de-sul-adpp",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Plantaçao de Sul (ADPP)",
+      "en": "Plantaçao de Sul (ADPP)",
+      "slug": "plantaao-de-sul-adpp"
+    },
+    "code": {
+      "id": "GW0604_plantaao-de-sul-adpp",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_pluba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pluba",
+      "en": "Pluba",
+      "slug": "pluba"
+    },
+    "code": {
+      "id": "GW0604_pluba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ponta-antonio-a-sanha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Antonio A Sanha",
+      "en": "Ponta Antonio A Sanha",
+      "slug": "ponta-antonio-a-sanha"
+    },
+    "code": {
+      "id": "GW0604_ponta-antonio-a-sanha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ponta-domingos",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Domingos",
+      "en": "Ponta Domingos",
+      "slug": "ponta-domingos"
+    },
+    "code": {
+      "id": "GW0604_ponta-domingos",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ponta-eminigildo-clode",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Eminigildo Clode",
+      "en": "Ponta Eminigildo Clode",
+      "slug": "ponta-eminigildo-clode"
+    },
+    "code": {
+      "id": "GW0604_ponta-eminigildo-clode",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ponta-fo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Fo",
+      "en": "Ponta Fo",
+      "slug": "ponta-fo"
+    },
+    "code": {
+      "id": "GW0604_ponta-fo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ponta-joao-bernardo-vieira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Joao Bernardo Vieira",
+      "en": "Ponta Joao Bernardo Vieira",
+      "slug": "ponta-joao-bernardo-vieira"
+    },
+    "code": {
+      "id": "GW0604_ponta-joao-bernardo-vieira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ponta-ndile-jose-correia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Ndile ( Jose Correia )",
+      "en": "Ponta Ndile ( Jose Correia )",
+      "slug": "ponta-ndile-jose-correia"
+    },
+    "code": {
+      "id": "GW0604_ponta-ndile-jose-correia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ponta-nobo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Nobo",
+      "en": "Ponta Nobo",
+      "slug": "ponta-nobo"
+    },
+    "code": {
+      "id": "GW0604_ponta-nobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ponta-tavares",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Tavares",
+      "en": "Ponta Tavares",
+      "slug": "ponta-tavares"
+    },
+    "code": {
+      "id": "GW0604_ponta-tavares",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ponta-varela",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Varela",
+      "en": "Ponta Varela",
+      "slug": "ponta-varela"
+    },
+    "code": {
+      "id": "GW0604_ponta-varela",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-14.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_ponta-wna-sambe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Wna Sambe",
+      "en": "Ponta Wna Sambe",
+      "slug": "ponta-wna-sambe"
+    },
+    "code": {
+      "id": "GW0604_ponta-wna-sambe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_portogol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Portogol",
+      "en": "Portogol",
+      "slug": "portogol"
+    },
+    "code": {
+      "id": "GW0604_portogol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_quedemete---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quedemete - I",
+      "en": "Quedemete - I",
+      "slug": "quedemete---i"
+    },
+    "code": {
+      "id": "GW0604_quedemete---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_quenhequenheto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quenhequenheto",
+      "en": "Quenhequenheto",
+      "slug": "quenhequenheto"
+    },
+    "code": {
+      "id": "GW0604_quenhequenheto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.151",
+      "lon": "-15.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_quenhequenheto-fula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quenhequenheto Fula",
+      "en": "Quenhequenheto Fula",
+      "slug": "quenhequenheto-fula"
+    },
+    "code": {
+      "id": "GW0604_quenhequenheto-fula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_qui---seel-see---quife",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Qui - Seel ( See - Quife )",
+      "en": "Qui - Seel ( See - Quife )",
+      "slug": "qui---seel-see---quife"
+    },
+    "code": {
+      "id": "GW0604_qui---seel-see---quife",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_quibir",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quibir",
+      "en": "Quibir",
+      "slug": "quibir"
+    },
+    "code": {
+      "id": "GW0604_quibir",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.983",
+      "lon": "-15.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_quinhaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quinhaque",
+      "en": "Quinhaque",
+      "slug": "quinhaque"
+    },
+    "code": {
+      "id": "GW0604_quinhaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.181",
+      "lon": "-15.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_rocha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Rocha",
+      "en": "Rocha",
+      "slug": "rocha"
+    },
+    "code": {
+      "id": "GW0604_rocha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_rossum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Rossum",
+      "en": "Rossum",
+      "slug": "rossum"
+    },
+    "code": {
+      "id": "GW0604_rossum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.383",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_saba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Saba",
+      "en": "Saba",
+      "slug": "saba"
+    },
+    "code": {
+      "id": "GW0604_saba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.127",
+      "lon": "-15.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_sai-fala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sai Fala",
+      "en": "Sai Fala",
+      "slug": "sai-fala"
+    },
+    "code": {
+      "id": "GW0604_sai-fala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_sansanto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sansanto",
+      "en": "Sansanto",
+      "slug": "sansanto"
+    },
+    "code": {
+      "id": "GW0604_sansanto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.114",
+      "lon": "-15.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_sara-balanta---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sara Balanta - II",
+      "en": "Sara Balanta - II",
+      "slug": "sara-balanta---ii"
+    },
+    "code": {
+      "id": "GW0604_sara-balanta---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_sara-balanta---iii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sara Balanta - III",
+      "en": "Sara Balanta - III",
+      "slug": "sara-balanta---iii"
+    },
+    "code": {
+      "id": "GW0604_sara-balanta---iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_sara-manjaco---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sara Manjaco - I",
+      "en": "Sara Manjaco - I",
+      "slug": "sara-manjaco---i"
+    },
+    "code": {
+      "id": "GW0604_sara-manjaco---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_sinre-simdri",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sinre ( Simdri )",
+      "en": "Sinre ( Simdri )",
+      "slug": "sinre-simdri"
+    },
+    "code": {
+      "id": "GW0604_sinre-simdri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_sintcha-mussa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Mussa",
+      "en": "Sintcha Mussa",
+      "slug": "sintcha-mussa"
+    },
+    "code": {
+      "id": "GW0604_sintcha-mussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_somec",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Somec",
+      "en": "Somec",
+      "slug": "somec"
+    },
+    "code": {
+      "id": "GW0604_somec",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_suarecunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Suarecunda",
+      "en": "Suarecunda",
+      "slug": "suarecunda"
+    },
+    "code": {
+      "id": "GW0604_suarecunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.192",
+      "lon": "-15.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_sucum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sucum",
+      "en": "Sucum",
+      "slug": "sucum"
+    },
+    "code": {
+      "id": "GW0604_sucum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_tchalam-ingaila",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchalam Ingaila",
+      "en": "Tchalam Ingaila",
+      "slug": "tchalam-ingaila"
+    },
+    "code": {
+      "id": "GW0604_tchalam-ingaila",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_tchalana---iii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchalana - III",
+      "en": "Tchalana - III",
+      "slug": "tchalana---iii"
+    },
+    "code": {
+      "id": "GW0604_tchalana---iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_tchangha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchangha",
+      "en": "Tchangha",
+      "slug": "tchangha"
+    },
+    "code": {
+      "id": "GW0604_tchangha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_tchere",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchere",
+      "en": "Tchere",
+      "slug": "tchere"
+    },
+    "code": {
+      "id": "GW0604_tchere",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_tchombam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchombam",
+      "en": "Tchombam",
+      "slug": "tchombam"
+    },
+    "code": {
+      "id": "GW0604_tchombam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_tchube",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchube",
+      "en": "Tchube",
+      "slug": "tchube"
+    },
+    "code": {
+      "id": "GW0604_tchube",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_tchugal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchugal",
+      "en": "Tchugal",
+      "slug": "tchugal"
+    },
+    "code": {
+      "id": "GW0604_tchugal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_tchumbe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchumbe",
+      "en": "Tchumbe",
+      "slug": "tchumbe"
+    },
+    "code": {
+      "id": "GW0604_tchumbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_tira-camisa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tira Camisa",
+      "en": "Tira Camisa",
+      "slug": "tira-camisa"
+    },
+    "code": {
+      "id": "GW0604_tira-camisa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604_uncome-ndate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uncome Ndate",
+      "en": "Uncome Ndate",
+      "slug": "uncome-ndate"
+    },
+    "code": {
+      "id": "GW0604_uncome-ndate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0604",
+      "level": 2,
+      "name": {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0604",
+        "level": 2,
+        "name": {
+          "local": "Mansoa",
+          "en": "Mansoa",
+          "slug": "mansoa-gw0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

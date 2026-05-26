@@ -1,0 +1,47 @@
+{
+  "id": "GW0502",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Gabu",
+    "en": "Gabu",
+    "slug": "gabu-gw0502"
+  },
+  "code": {
+    "id": "GW0502",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW05",
+    "level": 1,
+    "name": {
+      "local": "Gabu",
+      "en": "Gabu",
+      "slug": "gabu-gw05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW05",
+      "level": 1,
+      "name": {
+        "local": "Gabu",
+        "en": "Gabu",
+        "slug": "gabu-gw05"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.173",
+    "lon": "-14.223"
+  },
+  "metadata": {},
+  "source": {}
+}

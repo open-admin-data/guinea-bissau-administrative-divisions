@@ -1,0 +1,3350 @@
+[
+  {
+    "id": "GW0304_ilha-de-orango-grande---ambuduco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Ambuduco",
+      "en": "Ilha de Orango Grande - Ambuduco",
+      "slug": "ilha-de-orango-grande---ambuduco"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---ambuduco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---amecpa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Amecpa",
+      "en": "Ilha de Orango Grande - Amecpa",
+      "slug": "ilha-de-orango-grande---amecpa"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---amecpa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---amindo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Amindo",
+      "en": "Ilha de Orango Grande - Amindo",
+      "slug": "ilha-de-orango-grande---amindo"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---amindo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---ancaboca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Ancaboca",
+      "en": "Ilha de Orango Grande - Ancaboca",
+      "slug": "ilha-de-orango-grande---ancaboca"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---ancaboca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---ancagume",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Ancagume",
+      "en": "Ilha de Orango Grande - Ancagume",
+      "slug": "ilha-de-orango-grande---ancagume"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---ancagume",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---ancamona",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Ancamona",
+      "en": "Ilha de Orango Grande - Ancamona",
+      "slug": "ilha-de-orango-grande---ancamona"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---ancamona",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---ancaquia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Ancaquia",
+      "en": "Ilha de Orango Grande - Ancaquia",
+      "slug": "ilha-de-orango-grande---ancaquia"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---ancaquia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---ancodaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Ancodaque",
+      "en": "Ilha de Orango Grande - Ancodaque",
+      "slug": "ilha-de-orango-grande---ancodaque"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---ancodaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---ancopado",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Ancopado",
+      "en": "Ilha de Orango Grande - Ancopado",
+      "slug": "ilha-de-orango-grande---ancopado"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---ancopado",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---ancubima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Ancubima",
+      "en": "Ilha de Orango Grande - Ancubima",
+      "slug": "ilha-de-orango-grande---ancubima"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---ancubima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---anevoca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Anevoca",
+      "en": "Ilha de Orango Grande - Anevoca",
+      "slug": "ilha-de-orango-grande---anevoca"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---anevoca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---anghor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Anghor",
+      "en": "Ilha de Orango Grande - Anghor",
+      "slug": "ilha-de-orango-grande---anghor"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---anghor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---bijante",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Bijante",
+      "en": "Ilha de Orango Grande - Bijante",
+      "slug": "ilha-de-orango-grande---bijante"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---bijante",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---dinos",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Dinos",
+      "en": "Ilha de Orango Grande - Dinos",
+      "slug": "ilha-de-orango-grande---dinos"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---dinos",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---etepa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Etepa",
+      "en": "Ilha de Orango Grande - Etepa",
+      "slug": "ilha-de-orango-grande---etepa"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---etepa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---eticoga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Eticoga",
+      "en": "Ilha de Orango Grande - Eticoga",
+      "slug": "ilha-de-orango-grande---eticoga"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---eticoga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---etinhoque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Etinhoque",
+      "en": "Ilha de Orango Grande - Etinhoque",
+      "slug": "ilha-de-orango-grande---etinhoque"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---etinhoque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---etiogo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Etiogo",
+      "en": "Ilha de Orango Grande - Etiogo",
+      "slug": "ilha-de-orango-grande---etiogo"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---etiogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---gassica",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Gassica",
+      "en": "Ilha de Orango Grande - Gassica",
+      "slug": "ilha-de-orango-grande---gassica"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---gassica",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---imbone",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Imbone",
+      "en": "Ilha de Orango Grande - Imbone",
+      "slug": "ilha-de-orango-grande---imbone"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---imbone",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-orango-grande---madina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orango Grande - Madina",
+      "en": "Ilha de Orango Grande - Madina",
+      "slug": "ilha-de-orango-grande---madina"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-orango-grande---madina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-unhocomo-amesso",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Unhocomo (Amesso)",
+      "en": "Ilha de Unhocomo (Amesso)",
+      "slug": "ilha-de-unhocomo-amesso"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-unhocomo-amesso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-unhocomo-anaburo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Unhocomo (Anaburo)",
+      "en": "Ilha de Unhocomo (Anaburo)",
+      "slug": "ilha-de-unhocomo-anaburo"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-unhocomo-anaburo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-unhocomo-egara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Unhocomo (Egara)",
+      "en": "Ilha de Unhocomo (Egara)",
+      "slug": "ilha-de-unhocomo-egara"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-unhocomo-egara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-unhocomozinho-equinado",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Unhocomozinho (Equinado)",
+      "en": "Ilha de Unhocomozinho (Equinado)",
+      "slug": "ilha-de-unhocomozinho-equinado"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-unhocomozinho-equinado",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---anbuduco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Anbuduco",
+      "en": "Ilha de Uno - Anbuduco",
+      "slug": "ilha-de-uno---anbuduco"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---anbuduco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---ancadone",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Ancadone",
+      "en": "Ilha de Uno - Ancadone",
+      "slug": "ilha-de-uno---ancadone"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---ancadone",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---ancarabe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Ancarabe",
+      "en": "Ilha de Uno - Ancarabe",
+      "slug": "ilha-de-uno---ancarabe"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---ancarabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---ancobano",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Ancobano",
+      "en": "Ilha de Uno - Ancobano",
+      "slug": "ilha-de-uno---ancobano"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---ancobano",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---ancobara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Ancobara",
+      "en": "Ilha de Uno - Ancobara",
+      "slug": "ilha-de-uno---ancobara"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---ancobara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---ancodaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Ancodaque",
+      "en": "Ilha de Uno - Ancodaque",
+      "slug": "ilha-de-uno---ancodaque"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---ancodaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---ancope",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Ancope",
+      "en": "Ilha de Uno - Ancope",
+      "slug": "ilha-de-uno---ancope"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---ancope",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---ancorete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Ancorete",
+      "en": "Ilha de Uno - Ancorete",
+      "slug": "ilha-de-uno---ancorete"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---ancorete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---ancuiem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Ancuiem",
+      "en": "Ilha de Uno - Ancuiem",
+      "slug": "ilha-de-uno---ancuiem"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---ancuiem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---ancumbe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Ancumbe",
+      "en": "Ilha de Uno - Ancumbe",
+      "slug": "ilha-de-uno---ancumbe"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---ancumbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---anebend",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Anebend",
+      "en": "Ilha de Uno - Anebend",
+      "slug": "ilha-de-uno---anebend"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---anebend",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---anghan-ne",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Anghan-ne",
+      "en": "Ilha de Uno - Anghan-ne",
+      "slug": "ilha-de-uno---anghan-ne"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---anghan-ne",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---anghara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Anghara",
+      "en": "Ilha de Uno - Anghara",
+      "slug": "ilha-de-uno---anghara"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---anghara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---anghodante",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Anghodante",
+      "en": "Ilha de Uno - Anghodante",
+      "slug": "ilha-de-uno---anghodante"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---anghodante",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---anghodigo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Anghodigo",
+      "en": "Ilha de Uno - Anghodigo",
+      "slug": "ilha-de-uno---anghodigo"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---anghodigo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---anghonho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Anghonho",
+      "en": "Ilha de Uno - Anghonho",
+      "slug": "ilha-de-uno---anghonho"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---anghonho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---angumpa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Angumpa",
+      "en": "Ilha de Uno - Angumpa",
+      "slug": "ilha-de-uno---angumpa"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---angumpa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---angundji",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Angundji",
+      "en": "Ilha de Uno - Angundji",
+      "slug": "ilha-de-uno---angundji"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---angundji",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---bidjembe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Bidjembe",
+      "en": "Ilha de Uno - Bidjembe",
+      "slug": "ilha-de-uno---bidjembe"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---bidjembe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---bijambe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Bijambe",
+      "en": "Ilha de Uno - Bijambe",
+      "slug": "ilha-de-uno---bijambe"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---bijambe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---bijante",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Bijante",
+      "en": "Ilha de Uno - Bijante",
+      "slug": "ilha-de-uno---bijante"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---bijante",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---bruce",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Bruce",
+      "en": "Ilha de Uno - Bruce",
+      "slug": "ilha-de-uno---bruce"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---bruce",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---cabuno",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Cabuno",
+      "en": "Ilha de Uno - Cabuno",
+      "slug": "ilha-de-uno---cabuno"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---cabuno",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---catchinrima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Catchinrima",
+      "en": "Ilha de Uno - Catchinrima",
+      "slug": "ilha-de-uno---catchinrima"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---catchinrima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---cumburum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Cumburum",
+      "en": "Ilha de Uno - Cumburum",
+      "slug": "ilha-de-uno---cumburum"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---cumburum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---erree",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Erree",
+      "en": "Ilha de Uno - Erree",
+      "slug": "ilha-de-uno---erree"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---erree",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---eticoba-ambuduco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Eticoba (Ambuduco)",
+      "en": "Ilha de Uno - Eticoba (Ambuduco)",
+      "slug": "ilha-de-uno---eticoba-ambuduco"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---eticoba-ambuduco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---etimago",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Etimago",
+      "en": "Ilha de Uno - Etimago",
+      "slug": "ilha-de-uno---etimago"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---etimago",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---ossacane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Ossacane",
+      "en": "Ilha de Uno - Ossacane",
+      "slug": "ilha-de-uno---ossacane"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---ossacane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---ossambar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Ossambar",
+      "en": "Ilha de Uno - Ossambar",
+      "slug": "ilha-de-uno---ossambar"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---ossambar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uno---ossaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uno - Ossaque",
+      "en": "Ilha de Uno - Ossaque",
+      "slug": "ilha-de-uno---ossaque"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uno---ossaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uracane---ancadjo-ancalhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uracane - Ancadjo (Ancalhe)",
+      "en": "Ilha de Uracane - Ancadjo (Ancalhe)",
+      "slug": "ilha-de-uracane---ancadjo-ancalhe"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uracane---ancadjo-ancalhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uracane---ancopate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uracane - Ancopate",
+      "en": "Ilha de Uracane - Ancopate",
+      "slug": "ilha-de-uracane---ancopate"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uracane---ancopate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uracane---ancumbo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uracane - Ancumbo",
+      "en": "Ilha de Uracane - Ancumbo",
+      "slug": "ilha-de-uracane---ancumbo"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uracane---ancumbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uracane---bruce",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uracane - Bruce",
+      "en": "Ilha de Uracane - Bruce",
+      "slug": "ilha-de-uracane---bruce"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uracane---bruce",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uracane---porto-de-nhominca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uracane - Porto de Nhominca",
+      "en": "Ilha de Uracane - Porto de Nhominca",
+      "slug": "ilha-de-uracane---porto-de-nhominca"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uracane---porto-de-nhominca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0304_ilha-de-uracane---porto-de-oracan",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Uracane - Porto de Oracan",
+      "en": "Ilha de Uracane - Porto de Oracan",
+      "slug": "ilha-de-uracane---porto-de-oracan"
+    },
+    "code": {
+      "id": "GW0304_ilha-de-uracane---porto-de-oracan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0304",
+      "level": 2,
+      "name": {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0304",
+        "level": 2,
+        "name": {
+          "local": "Uno",
+          "en": "Uno",
+          "slug": "uno-gw0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.113",
+      "lon": "-16.123"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

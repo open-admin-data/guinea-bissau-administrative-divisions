@@ -1,0 +1,49 @@
+[
+  {
+    "id": "GW0800",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Sector Autonomo de Bissau",
+      "en": "Sector Autonomo de Bissau",
+      "slug": "sector-autonomo-de-bissau-gw0800"
+    },
+    "code": {
+      "id": "GW0800",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW08",
+      "level": 1,
+      "name": {
+        "local": "Bissau",
+        "en": "Bissau",
+        "slug": "bissau-gw08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW08",
+        "level": 1,
+        "name": {
+          "local": "Bissau",
+          "en": "Bissau",
+          "slug": "bissau-gw08"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.869",
+      "lon": "-15.612"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "GW09",
+  "level": 1,
+  "level_name": {
+    "local": "Região",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Tombali",
+    "en": "Tombali",
+    "slug": "tombali-gw09"
+  },
+  "code": {
+    "id": "GW09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sector": 5,
+    "tabanca": 425
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.306",
+    "lon": "-15.112"
+  },
+  "metadata": {},
+  "source": {}
+}

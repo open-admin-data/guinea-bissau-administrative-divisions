@@ -1,0 +1,29 @@
+# Guinea-Bissau Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Bolama/Bijagos](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/blob/main/docs/llms-full/bolamabijagos-gw03.txt) — 4 sectors, 248 tabancas
+- [Tombali](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/blob/main/docs/llms-full/tombali-gw09.txt) — 5 sectors, 425 tabancas
+- [Bissau](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/blob/main/docs/llms-full/bissau-gw08.txt) — 1 sectors, 0 tabancas
+- [Quinara](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/blob/main/docs/llms-full/quinara-gw07.txt) — 4 sectors, 220 tabancas
+- [Biombo](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/blob/main/docs/llms-full/biombo-gw02.txt) — 3 sectors, 164 tabancas
+- [Cacheu](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/blob/main/docs/llms-full/cacheu-gw04.txt) — 6 sectors, 651 tabancas
+- [Gabu](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/blob/main/docs/llms-full/gabu-gw05.txt) — 5 sectors, 574 tabancas
+- [Bafata](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/blob/main/docs/llms-full/bafata-gw01.txt) — 6 sectors, 801 tabancas
+- [Oio](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/blob/main/docs/llms-full/oio-gw06.txt) — 5 sectors, 822 tabancas
+
+## Summary
+
+| Region | Sectors | Tabancas | 
+|---|---|---|
+| Bolama/Bijagos | 4 | 248 | 
+| Tombali | 5 | 425 | 
+| Bissau | 1 | 0 | 
+| Quinara | 4 | 220 | 
+| Biombo | 3 | 164 | 
+| Cacheu | 6 | 651 | 
+| Gabu | 5 | 574 | 
+| Bafata | 6 | 801 | 
+| Oio | 5 | 822 | 

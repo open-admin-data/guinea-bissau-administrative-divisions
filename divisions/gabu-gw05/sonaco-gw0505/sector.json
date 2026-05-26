@@ -1,0 +1,47 @@
+{
+  "id": "GW0505",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Sonaco",
+    "en": "Sonaco",
+    "slug": "sonaco-gw0505"
+  },
+  "code": {
+    "id": "GW0505",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW05",
+    "level": 1,
+    "name": {
+      "local": "Gabu",
+      "en": "Gabu",
+      "slug": "gabu-gw05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW05",
+      "level": 1,
+      "name": {
+        "local": "Gabu",
+        "en": "Gabu",
+        "slug": "gabu-gw05"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 148
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.39",
+    "lon": "-14.403"
+  },
+  "metadata": {},
+  "source": {}
+}

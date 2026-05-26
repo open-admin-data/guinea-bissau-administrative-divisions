@@ -1,0 +1,47 @@
+{
+  "id": "GW0106",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Xitole",
+    "en": "Xitole",
+    "slug": "xitole-gw0106"
+  },
+  "code": {
+    "id": "GW0106",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW01",
+    "level": 1,
+    "name": {
+      "local": "Bafata",
+      "en": "Bafata",
+      "slug": "bafata-gw01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW01",
+      "level": 1,
+      "name": {
+        "local": "Bafata",
+        "en": "Bafata",
+        "slug": "bafata-gw01"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 124
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.763",
+    "lon": "-14.68"
+  },
+  "metadata": {},
+  "source": {}
+}

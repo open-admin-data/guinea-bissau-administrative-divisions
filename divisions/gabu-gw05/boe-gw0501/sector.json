@@ -1,0 +1,47 @@
+{
+  "id": "GW0501",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Boe",
+    "en": "Boe",
+    "slug": "boe-gw0501"
+  },
+  "code": {
+    "id": "GW0501",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW05",
+    "level": 1,
+    "name": {
+      "local": "Gabu",
+      "en": "Gabu",
+      "slug": "gabu-gw05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW05",
+      "level": 1,
+      "name": {
+        "local": "Gabu",
+        "en": "Gabu",
+        "slug": "gabu-gw05"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 82
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.858",
+    "lon": "-14.1"
+  },
+  "metadata": {},
+  "source": {}
+}

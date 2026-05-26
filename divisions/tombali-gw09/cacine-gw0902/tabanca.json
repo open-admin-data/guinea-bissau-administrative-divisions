@@ -1,0 +1,5078 @@
+[
+  {
+    "id": "GW0902_alabam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Alabam",
+      "en": "Alabam",
+      "slug": "alabam"
+    },
+    "code": {
+      "id": "GW0902_alabam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_almamia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Almamia",
+      "en": "Almamia",
+      "slug": "almamia"
+    },
+    "code": {
+      "id": "GW0902_almamia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_banir",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Banir",
+      "en": "Banir",
+      "slug": "banir"
+    },
+    "code": {
+      "id": "GW0902_banir",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.017",
+      "lon": "-15.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_bendugo-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bendugo Balanta",
+      "en": "Bendugo Balanta",
+      "slug": "bendugo-balanta"
+    },
+    "code": {
+      "id": "GW0902_bendugo-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_berlim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Berlim",
+      "en": "Berlim",
+      "slug": "berlim"
+    },
+    "code": {
+      "id": "GW0902_berlim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_bonia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bonia",
+      "en": "Bonia",
+      "slug": "bonia"
+    },
+    "code": {
+      "id": "GW0902_bonia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.117",
+      "lon": "-15.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_bricama",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bricama",
+      "en": "Bricama",
+      "slug": "bricama"
+    },
+    "code": {
+      "id": "GW0902_bricama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.45",
+      "lon": "-14.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cabeque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabeque",
+      "en": "Cabeque",
+      "slug": "cabeque"
+    },
+    "code": {
+      "id": "GW0902_cabeque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_caboma",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caboma",
+      "en": "Caboma",
+      "slug": "caboma"
+    },
+    "code": {
+      "id": "GW0902_caboma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cabonepo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabonepo",
+      "en": "Cabonepo",
+      "slug": "cabonepo"
+    },
+    "code": {
+      "id": "GW0902_cabonepo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.05",
+      "lon": "-15.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_caboxanque-mato-faroba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caboxanque (Mato Faroba)",
+      "en": "Caboxanque (Mato Faroba)",
+      "slug": "caboxanque-mato-faroba"
+    },
+    "code": {
+      "id": "GW0902_caboxanque-mato-faroba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cabubar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabubar",
+      "en": "Cabubar",
+      "slug": "cabubar"
+    },
+    "code": {
+      "id": "GW0902_cabubar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.05",
+      "lon": "-15.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cabubarzinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabubarzinho",
+      "en": "Cabubarzinho",
+      "slug": "cabubarzinho"
+    },
+    "code": {
+      "id": "GW0902_cabubarzinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cabuxanque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabuxanque",
+      "en": "Cabuxanque",
+      "slug": "cabuxanque"
+    },
+    "code": {
+      "id": "GW0902_cabuxanque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cacafal-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cacafal Balanta",
+      "en": "Cacafal Balanta",
+      "slug": "cacafal-balanta"
+    },
+    "code": {
+      "id": "GW0902_cacafal-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cacafala-nalu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cacafala Nalu",
+      "en": "Cacafala Nalu",
+      "slug": "cacafala-nalu"
+    },
+    "code": {
+      "id": "GW0902_cacafala-nalu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cacoca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cacoca",
+      "en": "Cacoca",
+      "slug": "cacoca"
+    },
+    "code": {
+      "id": "GW0902_cacoca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.1",
+      "lon": "-14.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cadico",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cadico",
+      "en": "Cadico",
+      "slug": "cadico"
+    },
+    "code": {
+      "id": "GW0902_cadico",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cafara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cafara",
+      "en": "Cafara",
+      "slug": "cafara"
+    },
+    "code": {
+      "id": "GW0902_cafara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_caiantico",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caiantico",
+      "en": "Caiantico",
+      "slug": "caiantico"
+    },
+    "code": {
+      "id": "GW0902_caiantico",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_calaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Calaque",
+      "en": "Calaque",
+      "slug": "calaque"
+    },
+    "code": {
+      "id": "GW0902_calaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.033",
+      "lon": "-15.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cambaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cambaque",
+      "en": "Cambaque",
+      "slug": "cambaque"
+    },
+    "code": {
+      "id": "GW0902_cambaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.05",
+      "lon": "-14.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cambas-braia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cambas Braia",
+      "en": "Cambas Braia",
+      "slug": "cambas-braia"
+    },
+    "code": {
+      "id": "GW0902_cambas-braia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cambas-filma",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cambas Filma",
+      "en": "Cambas Filma",
+      "slug": "cambas-filma"
+    },
+    "code": {
+      "id": "GW0902_cambas-filma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cambras-nalu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cambras Nalu",
+      "en": "Cambras Nalu",
+      "slug": "cambras-nalu"
+    },
+    "code": {
+      "id": "GW0902_cambras-nalu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cambras-tambatcha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cambras Tambatcha",
+      "en": "Cambras Tambatcha",
+      "slug": "cambras-tambatcha"
+    },
+    "code": {
+      "id": "GW0902_cambras-tambatcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cambras-tanda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cambras Tanda",
+      "en": "Cambras Tanda",
+      "slug": "cambras-tanda"
+    },
+    "code": {
+      "id": "GW0902_cambras-tanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cameconda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cameconda",
+      "en": "Cameconda",
+      "slug": "cameconda"
+    },
+    "code": {
+      "id": "GW0902_cameconda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cametombom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cametombom",
+      "en": "Cametombom",
+      "slug": "cametombom"
+    },
+    "code": {
+      "id": "GW0902_cametombom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_camexibo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Camexibo",
+      "en": "Camexibo",
+      "slug": "camexibo"
+    },
+    "code": {
+      "id": "GW0902_camexibo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_camissorom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Camissorom",
+      "en": "Camissorom",
+      "slug": "camissorom"
+    },
+    "code": {
+      "id": "GW0902_camissorom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_campeane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campeane",
+      "en": "Campeane",
+      "slug": "campeane"
+    },
+    "code": {
+      "id": "GW0902_campeane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.033",
+      "lon": "-15.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_campo-fula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campo Fula",
+      "en": "Campo Fula",
+      "slug": "campo-fula"
+    },
+    "code": {
+      "id": "GW0902_campo-fula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_campremo-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campremo Beafada",
+      "en": "Campremo Beafada",
+      "slug": "campremo-beafada"
+    },
+    "code": {
+      "id": "GW0902_campremo-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_campremo-nalu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campremo Nalu",
+      "en": "Campremo Nalu",
+      "slug": "campremo-nalu"
+    },
+    "code": {
+      "id": "GW0902_campremo-nalu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_camtedi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Camtedi",
+      "en": "Camtedi",
+      "slug": "camtedi"
+    },
+    "code": {
+      "id": "GW0902_camtedi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_candempane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Candempane",
+      "en": "Candempane",
+      "slug": "candempane"
+    },
+    "code": {
+      "id": "GW0902_candempane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_canefaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canefaque",
+      "en": "Canefaque",
+      "slug": "canefaque"
+    },
+    "code": {
+      "id": "GW0902_canefaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.95",
+      "lon": "-15.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_canfefe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CanFefe",
+      "en": "CanFefe",
+      "slug": "canfefe"
+    },
+    "code": {
+      "id": "GW0902_canfefe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_canquetra",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canquetra",
+      "en": "Canquetra",
+      "slug": "canquetra"
+    },
+    "code": {
+      "id": "GW0902_canquetra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cantcha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cantcha",
+      "en": "Cantcha",
+      "slug": "cantcha"
+    },
+    "code": {
+      "id": "GW0902_cantcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_capom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Capom",
+      "en": "Capom",
+      "slug": "capom"
+    },
+    "code": {
+      "id": "GW0902_capom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_casafrica",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Casafrica",
+      "en": "Casafrica",
+      "slug": "casafrica"
+    },
+    "code": {
+      "id": "GW0902_casafrica",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_casfunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Casfunda",
+      "en": "Casfunda",
+      "slug": "casfunda"
+    },
+    "code": {
+      "id": "GW0902_casfunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cassabetche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassabetche",
+      "en": "Cassabetche",
+      "slug": "cassabetche"
+    },
+    "code": {
+      "id": "GW0902_cassabetche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cassaca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassaca",
+      "en": "Cassaca",
+      "slug": "cassaca"
+    },
+    "code": {
+      "id": "GW0902_cassaca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.05",
+      "lon": "-15.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cassaca-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassaca Balanta",
+      "en": "Cassaca Balanta",
+      "slug": "cassaca-balanta"
+    },
+    "code": {
+      "id": "GW0902_cassaca-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cassate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassate",
+      "en": "Cassate",
+      "slug": "cassate"
+    },
+    "code": {
+      "id": "GW0902_cassate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.967",
+      "lon": "-15.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cassentem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassentem",
+      "en": "Cassentem",
+      "slug": "cassentem"
+    },
+    "code": {
+      "id": "GW0902_cassentem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cassequela",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassequela",
+      "en": "Cassequela",
+      "slug": "cassequela"
+    },
+    "code": {
+      "id": "GW0902_cassequela",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cassomo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassomo",
+      "en": "Cassomo",
+      "slug": "cassomo"
+    },
+    "code": {
+      "id": "GW0902_cassomo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cassumai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassumai",
+      "en": "Cassumai",
+      "slug": "cassumai"
+    },
+    "code": {
+      "id": "GW0902_cassumai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cassumba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassumba",
+      "en": "Cassumba",
+      "slug": "cassumba"
+    },
+    "code": {
+      "id": "GW0902_cassumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.967",
+      "lon": "-15.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cateripo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cateripo",
+      "en": "Cateripo",
+      "slug": "cateripo"
+    },
+    "code": {
+      "id": "GW0902_cateripo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_catocla",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catocla",
+      "en": "Catocla",
+      "slug": "catocla"
+    },
+    "code": {
+      "id": "GW0902_catocla",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_catungo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catungo",
+      "en": "Catungo",
+      "slug": "catungo"
+    },
+    "code": {
+      "id": "GW0902_catungo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cauali-fula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cauali Fula",
+      "en": "Cauali Fula",
+      "slug": "cauali-fula"
+    },
+    "code": {
+      "id": "GW0902_cauali-fula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_caulaca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caulaca",
+      "en": "Caulaca",
+      "slug": "caulaca"
+    },
+    "code": {
+      "id": "GW0902_caulaca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cauli-manjaco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cauli Manjaco",
+      "en": "Cauli Manjaco",
+      "slug": "cauli-manjaco"
+    },
+    "code": {
+      "id": "GW0902_cauli-manjaco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_caumen",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caumen",
+      "en": "Caumen",
+      "slug": "caumen"
+    },
+    "code": {
+      "id": "GW0902_caumen",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_caur",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caur",
+      "en": "Caur",
+      "slug": "caur"
+    },
+    "code": {
+      "id": "GW0902_caur",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.1",
+      "lon": "-14.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cidade-de-cacine-bairro-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de CACINE Bairro 1",
+      "en": "Cidade de CACINE Bairro 1",
+      "slug": "cidade-de-cacine-bairro-1"
+    },
+    "code": {
+      "id": "GW0902_cidade-de-cacine-bairro-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cidade-de-cacine-bairro-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de CACINE Bairro 2",
+      "en": "Cidade de CACINE Bairro 2",
+      "slug": "cidade-de-cacine-bairro-2"
+    },
+    "code": {
+      "id": "GW0902_cidade-de-cacine-bairro-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cucuma",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cucuma",
+      "en": "Cucuma",
+      "slug": "cucuma"
+    },
+    "code": {
+      "id": "GW0902_cucuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_cunfo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cunfo",
+      "en": "Cunfo",
+      "slug": "cunfo"
+    },
+    "code": {
+      "id": "GW0902_cunfo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_dari-linda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dari-Linda",
+      "en": "Dari-Linda",
+      "slug": "dari-linda"
+    },
+    "code": {
+      "id": "GW0902_dari-linda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_debia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Debia",
+      "en": "Debia",
+      "slug": "debia"
+    },
+    "code": {
+      "id": "GW0902_debia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_djan-na",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djan-na",
+      "en": "Djan-na",
+      "slug": "djan-na"
+    },
+    "code": {
+      "id": "GW0902_djan-na",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_entroncamento-de-gadamael-porto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Entroncamento de Gadamael Porto",
+      "en": "Entroncamento de Gadamael Porto",
+      "slug": "entroncamento-de-gadamael-porto"
+    },
+    "code": {
+      "id": "GW0902_entroncamento-de-gadamael-porto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_ga-mela",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga Mela",
+      "en": "Ga Mela",
+      "slug": "ga-mela"
+    },
+    "code": {
+      "id": "GW0902_ga-mela",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_ga-porco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga Porco",
+      "en": "Ga Porco",
+      "slug": "ga-porco"
+    },
+    "code": {
+      "id": "GW0902_ga-porco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_ga-ture",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga Ture",
+      "en": "Ga Ture",
+      "slug": "ga-ture"
+    },
+    "code": {
+      "id": "GW0902_ga-ture",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_ga-pepel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Pepel",
+      "en": "Ga-Pepel",
+      "slug": "ga-pepel"
+    },
+    "code": {
+      "id": "GW0902_ga-pepel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_gadamael-porto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gadamael Porto",
+      "en": "Gadamael Porto",
+      "slug": "gadamael-porto"
+    },
+    "code": {
+      "id": "GW0902_gadamael-porto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_ghanha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ghanha",
+      "en": "Ghanha",
+      "slug": "ghanha"
+    },
+    "code": {
+      "id": "GW0902_ghanha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_iraque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Iraque",
+      "en": "Iraque",
+      "slug": "iraque"
+    },
+    "code": {
+      "id": "GW0902_iraque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_jabicunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jabicunda",
+      "en": "Jabicunda",
+      "slug": "jabicunda"
+    },
+    "code": {
+      "id": "GW0902_jabicunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.167",
+      "lon": "-14.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_lamoi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lamoi",
+      "en": "Lamoi",
+      "slug": "lamoi"
+    },
+    "code": {
+      "id": "GW0902_lamoi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.383",
+      "lon": "-14.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_madina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina",
+      "en": "Madina",
+      "slug": "madina"
+    },
+    "code": {
+      "id": "GW0902_madina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-14.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_mato-fareoba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mato fareoba",
+      "en": "Mato fareoba",
+      "slug": "mato-fareoba"
+    },
+    "code": {
+      "id": "GW0902_mato-fareoba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_minnan",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Minnan",
+      "en": "Minnan",
+      "slug": "minnan"
+    },
+    "code": {
+      "id": "GW0902_minnan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_missira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Missira",
+      "en": "Missira",
+      "slug": "missira"
+    },
+    "code": {
+      "id": "GW0902_missira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-14.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_pampair",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pampair",
+      "en": "Pampair",
+      "slug": "pampair"
+    },
+    "code": {
+      "id": "GW0902_pampair",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_panti-bu-djubi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Panti Bu Djubi",
+      "en": "Panti Bu Djubi",
+      "slug": "panti-bu-djubi"
+    },
+    "code": {
+      "id": "GW0902_panti-bu-djubi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_salquenhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Salquenhe",
+      "en": "Salquenhe",
+      "slug": "salquenhe"
+    },
+    "code": {
+      "id": "GW0902_salquenhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_sanconha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sanconha",
+      "en": "Sanconha",
+      "slug": "sanconha"
+    },
+    "code": {
+      "id": "GW0902_sanconha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.167",
+      "lon": "-14.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_sara-penteira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sara Penteira",
+      "en": "Sara Penteira",
+      "slug": "sara-penteira"
+    },
+    "code": {
+      "id": "GW0902_sara-penteira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_tabanca-nova",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tabanca Nova",
+      "en": "Tabanca Nova",
+      "slug": "tabanca-nova"
+    },
+    "code": {
+      "id": "GW0902_tabanca-nova",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.467",
+      "lon": "-15.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_tamaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tamaque",
+      "en": "Tamaque",
+      "slug": "tamaque"
+    },
+    "code": {
+      "id": "GW0902_tamaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_tanene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tanene",
+      "en": "Tanene",
+      "slug": "tanene"
+    },
+    "code": {
+      "id": "GW0902_tanene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_tassilima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tassilima",
+      "en": "Tassilima",
+      "slug": "tassilima"
+    },
+    "code": {
+      "id": "GW0902_tassilima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_tubandim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tubandim",
+      "en": "Tubandim",
+      "slug": "tubandim"
+    },
+    "code": {
+      "id": "GW0902_tubandim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_ture-cure",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ture Cure",
+      "en": "Ture Cure",
+      "slug": "ture-cure"
+    },
+    "code": {
+      "id": "GW0902_ture-cure",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0902_yamamuskoro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Yamamuskoro",
+      "en": "Yamamuskoro",
+      "slug": "yamamuskoro"
+    },
+    "code": {
+      "id": "GW0902_yamamuskoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0902",
+      "level": 2,
+      "name": {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0902",
+        "level": 2,
+        "name": {
+          "local": "Cacine",
+          "en": "Cacine",
+          "slug": "cacine-gw0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-14.978"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

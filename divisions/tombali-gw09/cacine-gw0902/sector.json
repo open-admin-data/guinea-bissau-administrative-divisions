@@ -1,0 +1,47 @@
+{
+  "id": "GW0902",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Cacine",
+    "en": "Cacine",
+    "slug": "cacine-gw0902"
+  },
+  "code": {
+    "id": "GW0902",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW09",
+    "level": 1,
+    "name": {
+      "local": "Tombali",
+      "en": "Tombali",
+      "slug": "tombali-gw09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW09",
+      "level": 1,
+      "name": {
+        "local": "Tombali",
+        "en": "Tombali",
+        "slug": "tombali-gw09"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 94
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.107",
+    "lon": "-14.978"
+  },
+  "metadata": {},
+  "source": {}
+}

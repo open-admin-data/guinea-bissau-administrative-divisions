@@ -1,0 +1,47 @@
+{
+  "id": "GW0404",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Caio",
+    "en": "Caio",
+    "slug": "caio-gw0404"
+  },
+  "code": {
+    "id": "GW0404",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW04",
+    "level": 1,
+    "name": {
+      "local": "Cacheu",
+      "en": "Cacheu",
+      "slug": "cacheu-gw04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW04",
+      "level": 1,
+      "name": {
+        "local": "Cacheu",
+        "en": "Cacheu",
+        "slug": "cacheu-gw04"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 87
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.952",
+    "lon": "-16.181"
+  },
+  "metadata": {},
+  "source": {}
+}

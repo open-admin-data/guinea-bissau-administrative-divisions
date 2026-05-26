@@ -1,0 +1,3350 @@
+[
+  {
+    "id": "GW0704_abelei",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Abelei",
+      "en": "Abelei",
+      "slug": "abelei"
+    },
+    "code": {
+      "id": "GW0704_abelei",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_bila",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bila",
+      "en": "Bila",
+      "slug": "bila"
+    },
+    "code": {
+      "id": "GW0704_bila",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.767",
+      "lon": "-15.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_bissassema-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissassema de Baixo",
+      "en": "Bissassema de Baixo",
+      "slug": "bissassema-de-baixo"
+    },
+    "code": {
+      "id": "GW0704_bissassema-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.767",
+      "lon": "-15.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_bissassema-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissassema de Cima",
+      "en": "Bissassema de Cima",
+      "slug": "bissassema-de-cima"
+    },
+    "code": {
+      "id": "GW0704_bissassema-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "-15.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_bissilao-flaque-minde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissilao Flaque Minde",
+      "en": "Bissilao Flaque Minde",
+      "slug": "bissilao-flaque-minde"
+    },
+    "code": {
+      "id": "GW0704_bissilao-flaque-minde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_branbanda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Branbanda",
+      "en": "Branbanda",
+      "slug": "branbanda"
+    },
+    "code": {
+      "id": "GW0704_branbanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_brandao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Brandao",
+      "en": "Brandao",
+      "slug": "brandao"
+    },
+    "code": {
+      "id": "GW0704_brandao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.733",
+      "lon": "-15.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_buduco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Buduco",
+      "en": "Buduco",
+      "slug": "buduco"
+    },
+    "code": {
+      "id": "GW0704_buduco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.733",
+      "lon": "-15.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_buduco-darun",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Buduco Darun",
+      "en": "Buduco Darun",
+      "slug": "buduco-darun"
+    },
+    "code": {
+      "id": "GW0704_buduco-darun",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_bunaussa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bunaussa",
+      "en": "Bunaussa",
+      "slug": "bunaussa"
+    },
+    "code": {
+      "id": "GW0704_bunaussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.733",
+      "lon": "-15.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_canjabel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canjabel",
+      "en": "Canjabel",
+      "slug": "canjabel"
+    },
+    "code": {
+      "id": "GW0704_canjabel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.717",
+      "lon": "-15.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_cidade-de-tite",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Tite",
+      "en": "Cidade de Tite",
+      "slug": "cidade-de-tite"
+    },
+    "code": {
+      "id": "GW0704_cidade-de-tite",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_djabada-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djabada Beafada",
+      "en": "Djabada Beafada",
+      "slug": "djabada-beafada"
+    },
+    "code": {
+      "id": "GW0704_djabada-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_djabada-portoii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djabada PortoII",
+      "en": "Djabada PortoII",
+      "slug": "djabada-portoii"
+    },
+    "code": {
+      "id": "GW0704_djabada-portoii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_djufa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djufa",
+      "en": "Djufa",
+      "slug": "djufa"
+    },
+    "code": {
+      "id": "GW0704_djufa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_enxude",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Enxude",
+      "en": "Enxude",
+      "slug": "enxude"
+    },
+    "code": {
+      "id": "GW0704_enxude",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_erga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Erga",
+      "en": "Erga",
+      "slug": "erga"
+    },
+    "code": {
+      "id": "GW0704_erga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_faracunda-dabo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Faracunda Dabo",
+      "en": "Faracunda Dabo",
+      "slug": "faracunda-dabo"
+    },
+    "code": {
+      "id": "GW0704_faracunda-dabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_finiman",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Finiman",
+      "en": "Finiman",
+      "slug": "finiman"
+    },
+    "code": {
+      "id": "GW0704_finiman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_fininque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fininque",
+      "en": "Fininque",
+      "slug": "fininque"
+    },
+    "code": {
+      "id": "GW0704_fininque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_flaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Flaque",
+      "en": "Flaque",
+      "slug": "flaque"
+    },
+    "code": {
+      "id": "GW0704_flaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_flaque-bissunha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Flaque Bissunha",
+      "en": "Flaque Bissunha",
+      "slug": "flaque-bissunha"
+    },
+    "code": {
+      "id": "GW0704_flaque-bissunha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_flaque-cibi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Flaque Cibi",
+      "en": "Flaque Cibi",
+      "slug": "flaque-cibi"
+    },
+    "code": {
+      "id": "GW0704_flaque-cibi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_flaque-intela",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Flaque Intela",
+      "en": "Flaque Intela",
+      "slug": "flaque-intela"
+    },
+    "code": {
+      "id": "GW0704_flaque-intela",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_flaque-nhabal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Flaque Nhabal",
+      "en": "Flaque Nhabal",
+      "slug": "flaque-nhabal"
+    },
+    "code": {
+      "id": "GW0704_flaque-nhabal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_flora",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Flora",
+      "en": "Flora",
+      "slug": "flora"
+    },
+    "code": {
+      "id": "GW0704_flora",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.767",
+      "lon": "-15.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_foia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Foia",
+      "en": "Foia",
+      "slug": "foia"
+    },
+    "code": {
+      "id": "GW0704_foia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.817",
+      "lon": "-15.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_ga--binta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga- Binta",
+      "en": "Ga- Binta",
+      "slug": "ga--binta"
+    },
+    "code": {
+      "id": "GW0704_ga--binta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_ga-djai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Djai",
+      "en": "Ga-Djai",
+      "slug": "ga-djai"
+    },
+    "code": {
+      "id": "GW0704_ga-djai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_ga-malam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Malam",
+      "en": "Ga-Malam",
+      "slug": "ga-malam"
+    },
+    "code": {
+      "id": "GW0704_ga-malam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_ga-mitilia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Mitilia",
+      "en": "Ga-Mitilia",
+      "slug": "ga-mitilia"
+    },
+    "code": {
+      "id": "GW0704_ga-mitilia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_ga-pedro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Pedro",
+      "en": "Ga-Pedro",
+      "slug": "ga-pedro"
+    },
+    "code": {
+      "id": "GW0704_ga-pedro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_ga-saude",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Saude",
+      "en": "Ga-Saude",
+      "slug": "ga-saude"
+    },
+    "code": {
+      "id": "GW0704_ga-saude",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_galecunde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Galecunde",
+      "en": "Galecunde",
+      "slug": "galecunde"
+    },
+    "code": {
+      "id": "GW0704_galecunde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_ilheu-de-mancebo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilheu de Mancebo",
+      "en": "Ilheu de Mancebo",
+      "slug": "ilheu-de-mancebo"
+    },
+    "code": {
+      "id": "GW0704_ilheu-de-mancebo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_iusse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Iusse",
+      "en": "Iusse",
+      "slug": "iusse"
+    },
+    "code": {
+      "id": "GW0704_iusse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.767",
+      "lon": "-15.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_junqueira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Junqueira",
+      "en": "Junqueira",
+      "slug": "junqueira"
+    },
+    "code": {
+      "id": "GW0704_junqueira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.65",
+      "lon": "-15.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_louvado",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Louvado",
+      "en": "Louvado",
+      "slug": "louvado"
+    },
+    "code": {
+      "id": "GW0704_louvado",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "-15.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_manandim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Manandim",
+      "en": "Manandim",
+      "slug": "manandim"
+    },
+    "code": {
+      "id": "GW0704_manandim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_manha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "manha",
+      "en": "manha",
+      "slug": "manha"
+    },
+    "code": {
+      "id": "GW0704_manha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_mara-bota",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mara Bota",
+      "en": "Mara Bota",
+      "slug": "mara-bota"
+    },
+    "code": {
+      "id": "GW0704_mara-bota",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_menique",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Menique",
+      "en": "Menique",
+      "slug": "menique"
+    },
+    "code": {
+      "id": "GW0704_menique",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_nam-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nam Balanta",
+      "en": "Nam Balanta",
+      "slug": "nam-balanta"
+    },
+    "code": {
+      "id": "GW0704_nam-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_nema",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nema",
+      "en": "Nema",
+      "slug": "nema"
+    },
+    "code": {
+      "id": "GW0704_nema",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.441",
+      "lon": "-16.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_nhala-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhala de Baixo",
+      "en": "Nhala de Baixo",
+      "slug": "nhala-de-baixo"
+    },
+    "code": {
+      "id": "GW0704_nhala-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.717",
+      "lon": "-15.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_nhala-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhala de Cima",
+      "en": "Nhala de Cima",
+      "slug": "nhala-de-cima"
+    },
+    "code": {
+      "id": "GW0704_nhala-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "-15.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_nova-sitra",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nova Sitra",
+      "en": "Nova Sitra",
+      "slug": "nova-sitra"
+    },
+    "code": {
+      "id": "GW0704_nova-sitra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_ponta-cabral",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Cabral",
+      "en": "Ponta Cabral",
+      "slug": "ponta-cabral"
+    },
+    "code": {
+      "id": "GW0704_ponta-cabral",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.417",
+      "lon": "-15.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_ponta-de-sadja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta de Sadja",
+      "en": "Ponta de Sadja",
+      "slug": "ponta-de-sadja"
+    },
+    "code": {
+      "id": "GW0704_ponta-de-sadja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_ponta-malila",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta malila",
+      "en": "Ponta malila",
+      "slug": "ponta-malila"
+    },
+    "code": {
+      "id": "GW0704_ponta-malila",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_ponta-nova-de-gua",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Nova de Àgua",
+      "en": "Ponta Nova de Àgua",
+      "slug": "ponta-nova-de-gua"
+    },
+    "code": {
+      "id": "GW0704_ponta-nova-de-gua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_ponta-nova-de-foia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Nova de Foia",
+      "en": "Ponta Nova de Foia",
+      "slug": "ponta-nova-de-foia"
+    },
+    "code": {
+      "id": "GW0704_ponta-nova-de-foia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_ponta-priame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Priame",
+      "en": "Ponta Priame",
+      "slug": "ponta-priame"
+    },
+    "code": {
+      "id": "GW0704_ponta-priame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_ponta-rui",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Rui",
+      "en": "Ponta Rui",
+      "slug": "ponta-rui"
+    },
+    "code": {
+      "id": "GW0704_ponta-rui",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_porto-djabada-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Porto Djabada I",
+      "en": "Porto Djabada I",
+      "slug": "porto-djabada-i"
+    },
+    "code": {
+      "id": "GW0704_porto-djabada-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_quidanhol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quidanhol",
+      "en": "Quidanhol",
+      "slug": "quidanhol"
+    },
+    "code": {
+      "id": "GW0704_quidanhol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_salanca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Salanca",
+      "en": "Salanca",
+      "slug": "salanca"
+    },
+    "code": {
+      "id": "GW0704_salanca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.533",
+      "lon": "-15.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_santa-joana-maria",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Santa Joana Maria",
+      "en": "Santa Joana Maria",
+      "slug": "santa-joana-maria"
+    },
+    "code": {
+      "id": "GW0704_santa-joana-maria",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_sao-jose-crato",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sao Jose Crato",
+      "en": "Sao Jose Crato",
+      "slug": "sao-jose-crato"
+    },
+    "code": {
+      "id": "GW0704_sao-jose-crato",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_sera-leoa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sera Leoa",
+      "en": "Sera Leoa",
+      "slug": "sera-leoa"
+    },
+    "code": {
+      "id": "GW0704_sera-leoa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_sintcha-lega",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Lega",
+      "en": "Sintcha Lega",
+      "slug": "sintcha-lega"
+    },
+    "code": {
+      "id": "GW0704_sintcha-lega",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704_tite-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tite de Baixo",
+      "en": "Tite de Baixo",
+      "slug": "tite-de-baixo"
+    },
+    "code": {
+      "id": "GW0704_tite-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0704",
+      "level": 2,
+      "name": {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0704",
+        "level": 2,
+        "name": {
+          "local": "Tite",
+          "en": "Tite",
+          "slug": "tite-gw0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

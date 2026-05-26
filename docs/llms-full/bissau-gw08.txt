@@ -1,0 +1,14 @@
+# Bissau — Guinea-Bissau Administrative Divisions
+
+> 1 sectors, 0 tabancas
+> Code: GW08
+> Coordinates: 11.869, -15.612
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Sectors
+
+### Sector Autonomo de Bissau
+
+Code: GW0800, Coordinates: 11.869, -15.612
+Tabancas: 0
+

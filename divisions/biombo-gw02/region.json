@@ -1,0 +1,30 @@
+{
+  "id": "GW02",
+  "level": 1,
+  "level_name": {
+    "local": "Região",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Biombo",
+    "en": "Biombo",
+    "slug": "biombo-gw02"
+  },
+  "code": {
+    "id": "GW02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sector": 3,
+    "tabanca": 164
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.881",
+    "lon": "-15.786"
+  },
+  "metadata": {},
+  "source": {}
+}

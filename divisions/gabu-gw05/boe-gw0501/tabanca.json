@@ -1,0 +1,4430 @@
+[
+  {
+    "id": "GW0501_afia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Afia",
+      "en": "Afia",
+      "slug": "afia"
+    },
+    "code": {
+      "id": "GW0501_afia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.083",
+      "lon": "-14.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_balandugo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Balandugo",
+      "en": "Balandugo",
+      "slug": "balandugo"
+    },
+    "code": {
+      "id": "GW0501_balandugo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.85",
+      "lon": "-13.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_beli",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Beli",
+      "en": "Beli",
+      "slug": "beli"
+    },
+    "code": {
+      "id": "GW0501_beli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_belizinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Belizinho",
+      "en": "Belizinho",
+      "slug": "belizinho"
+    },
+    "code": {
+      "id": "GW0501_belizinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_bilonco-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bilonco 1",
+      "en": "Bilonco 1",
+      "slug": "bilonco-1"
+    },
+    "code": {
+      "id": "GW0501_bilonco-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_bilonco-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bilonco 2",
+      "en": "Bilonco 2",
+      "slug": "bilonco-2"
+    },
+    "code": {
+      "id": "GW0501_bilonco-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_boulouba-cumbia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Boulouba (Cumbia)",
+      "en": "Boulouba (Cumbia)",
+      "slug": "boulouba-cumbia"
+    },
+    "code": {
+      "id": "GW0501_boulouba-cumbia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_buba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Buba",
+      "en": "Buba",
+      "slug": "buba"
+    },
+    "code": {
+      "id": "GW0501_buba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.583",
+      "lon": "-15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_bufene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bufene",
+      "en": "Bufene",
+      "slug": "bufene"
+    },
+    "code": {
+      "id": "GW0501_bufene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_bugafali",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bugafali",
+      "en": "Bugafali",
+      "slug": "bugafali"
+    },
+    "code": {
+      "id": "GW0501_bugafali",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_bunde-djubi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bunde Djubi",
+      "en": "Bunde Djubi",
+      "slug": "bunde-djubi"
+    },
+    "code": {
+      "id": "GW0501_bunde-djubi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_burgulem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Burgulem",
+      "en": "Burgulem",
+      "slug": "burgulem"
+    },
+    "code": {
+      "id": "GW0501_burgulem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_candacoli",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Candacoli",
+      "en": "Candacoli",
+      "slug": "candacoli"
+    },
+    "code": {
+      "id": "GW0501_candacoli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_canhenque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canhenque",
+      "en": "Canhenque",
+      "slug": "canhenque"
+    },
+    "code": {
+      "id": "GW0501_canhenque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_capebande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Capebande",
+      "en": "Capebande",
+      "slug": "capebande"
+    },
+    "code": {
+      "id": "GW0501_capebande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_caro-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caro I",
+      "en": "Caro I",
+      "slug": "caro-i"
+    },
+    "code": {
+      "id": "GW0501_caro-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_caro-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caro II",
+      "en": "Caro II",
+      "slug": "caro-ii"
+    },
+    "code": {
+      "id": "GW0501_caro-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_chamom-sate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Chamom Sate",
+      "en": "Chamom Sate",
+      "slug": "chamom-sate"
+    },
+    "code": {
+      "id": "GW0501_chamom-sate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_cobolom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cobolom",
+      "en": "Cobolom",
+      "slug": "cobolom"
+    },
+    "code": {
+      "id": "GW0501_cobolom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_colebe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Colebe",
+      "en": "Colebe",
+      "slug": "colebe"
+    },
+    "code": {
+      "id": "GW0501_colebe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "-13.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_cuncim-bamedjo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cuncim Bamedjo",
+      "en": "Cuncim Bamedjo",
+      "slug": "cuncim-bamedjo"
+    },
+    "code": {
+      "id": "GW0501_cuncim-bamedjo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_cura-coto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cura Coto",
+      "en": "Cura Coto",
+      "slug": "cura-coto"
+    },
+    "code": {
+      "id": "GW0501_cura-coto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_dacali",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dacali",
+      "en": "Dacali",
+      "slug": "dacali"
+    },
+    "code": {
+      "id": "GW0501_dacali",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_dalaba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dalaba",
+      "en": "Dalaba",
+      "slug": "dalaba"
+    },
+    "code": {
+      "id": "GW0501_dalaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-13.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_dande-cole-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dande Cole I",
+      "en": "Dande Cole I",
+      "slug": "dande-cole-i"
+    },
+    "code": {
+      "id": "GW0501_dande-cole-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_dande-cole-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dande Cole II",
+      "en": "Dande Cole II",
+      "slug": "dande-cole-ii"
+    },
+    "code": {
+      "id": "GW0501_dande-cole-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_dandula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dandula",
+      "en": "Dandula",
+      "slug": "dandula"
+    },
+    "code": {
+      "id": "GW0501_dandula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.983",
+      "lon": "-13.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_dandum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dandum",
+      "en": "Dandum",
+      "slug": "dandum"
+    },
+    "code": {
+      "id": "GW0501_dandum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_dinguirai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dinguirai",
+      "en": "Dinguirai",
+      "slug": "dinguirai"
+    },
+    "code": {
+      "id": "GW0501_dinguirai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.767",
+      "lon": "-13.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_diquel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Diquel",
+      "en": "Diquel",
+      "slug": "diquel"
+    },
+    "code": {
+      "id": "GW0501_diquel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.767",
+      "lon": "-14.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_djifim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djifim",
+      "en": "Djifim",
+      "slug": "djifim"
+    },
+    "code": {
+      "id": "GW0501_djifim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_famarege",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Famarege",
+      "en": "Famarege",
+      "slug": "famarege"
+    },
+    "code": {
+      "id": "GW0501_famarege",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_farambange",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Farambange",
+      "en": "Farambange",
+      "slug": "farambange"
+    },
+    "code": {
+      "id": "GW0501_farambange",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "-14.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_ga-quidima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga Quidima",
+      "en": "Ga Quidima",
+      "slug": "ga-quidima"
+    },
+    "code": {
+      "id": "GW0501_ga-quidima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_gobije",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gobije",
+      "en": "Gobije",
+      "slug": "gobije"
+    },
+    "code": {
+      "id": "GW0501_gobije",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_guiledje-coli-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Guiledje Coli I",
+      "en": "Guiledje Coli I",
+      "slug": "guiledje-coli-i"
+    },
+    "code": {
+      "id": "GW0501_guiledje-coli-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_guiledje-dinhata",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Guiledje Dinhata",
+      "en": "Guiledje Dinhata",
+      "slug": "guiledje-dinhata"
+    },
+    "code": {
+      "id": "GW0501_guiledje-dinhata",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_guiledje-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Guiledje I",
+      "en": "Guiledje I",
+      "slug": "guiledje-i"
+    },
+    "code": {
+      "id": "GW0501_guiledje-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_henguele",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Henguele",
+      "en": "Henguele",
+      "slug": "henguele"
+    },
+    "code": {
+      "id": "GW0501_henguele",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_keue",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Keue",
+      "en": "Keue",
+      "slug": "keue"
+    },
+    "code": {
+      "id": "GW0501_keue",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_lenquerim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lenquerim",
+      "en": "Lenquerim",
+      "slug": "lenquerim"
+    },
+    "code": {
+      "id": "GW0501_lenquerim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.283",
+      "lon": "-14.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_limbi-afia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Limbi Afia",
+      "en": "Limbi Afia",
+      "slug": "limbi-afia"
+    },
+    "code": {
+      "id": "GW0501_limbi-afia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_limbi-mangatamba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Limbi Mangatamba",
+      "en": "Limbi Mangatamba",
+      "slug": "limbi-mangatamba"
+    },
+    "code": {
+      "id": "GW0501_limbi-mangatamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_limbilucum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Limbilucum",
+      "en": "Limbilucum",
+      "slug": "limbilucum"
+    },
+    "code": {
+      "id": "GW0501_limbilucum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_lugajole",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lugajole",
+      "en": "Lugajole",
+      "slug": "lugajole"
+    },
+    "code": {
+      "id": "GW0501_lugajole",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.8",
+      "lon": "-13.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_mbuiodje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "M´Buiodje",
+      "en": "M´Buiodje",
+      "slug": "mbuiodje"
+    },
+    "code": {
+      "id": "GW0501_mbuiodje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_madina-de-boe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina de Boe",
+      "en": "Madina de Boe",
+      "slug": "madina-de-boe"
+    },
+    "code": {
+      "id": "GW0501_madina-de-boe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_madina-djawia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Djawia",
+      "en": "Madina Djawia",
+      "slug": "madina-djawia"
+    },
+    "code": {
+      "id": "GW0501_madina-djawia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_madina-jarga-dango",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Jarga Dango",
+      "en": "Madina Jarga Dango",
+      "slug": "madina-jarga-dango"
+    },
+    "code": {
+      "id": "GW0501_madina-jarga-dango",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_mandeafi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mandeafi",
+      "en": "Mandeafi",
+      "slug": "mandeafi"
+    },
+    "code": {
+      "id": "GW0501_mandeafi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_maria",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Maria",
+      "en": "Maria",
+      "slug": "maria"
+    },
+    "code": {
+      "id": "GW0501_maria",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.867",
+      "lon": "-14.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_missi-de-bussura",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Missi de Bussura",
+      "en": "Missi de Bussura",
+      "slug": "missi-de-bussura"
+    },
+    "code": {
+      "id": "GW0501_missi-de-bussura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_munhine",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Munhine",
+      "en": "Munhine",
+      "slug": "munhine"
+    },
+    "code": {
+      "id": "GW0501_munhine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-14.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_nhanta-ngora-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhanta Ngora I",
+      "en": "Nhanta Ngora I",
+      "slug": "nhanta-ngora-i"
+    },
+    "code": {
+      "id": "GW0501_nhanta-ngora-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_ora-chao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ora Chao",
+      "en": "Ora Chao",
+      "slug": "ora-chao"
+    },
+    "code": {
+      "id": "GW0501_ora-chao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_ore-capegi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ore Capegi",
+      "en": "Ore Capegi",
+      "slug": "ore-capegi"
+    },
+    "code": {
+      "id": "GW0501_ore-capegi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_ore-limbi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ore Limbi",
+      "en": "Ore Limbi",
+      "slug": "ore-limbi"
+    },
+    "code": {
+      "id": "GW0501_ore-limbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_paiaia-lemuneiro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Paiaia Lemuneiro",
+      "en": "Paiaia Lemuneiro",
+      "slug": "paiaia-lemuneiro"
+    },
+    "code": {
+      "id": "GW0501_paiaia-lemuneiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_paiaia-numba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Paiaia Numba",
+      "en": "Paiaia Numba",
+      "slug": "paiaia-numba"
+    },
+    "code": {
+      "id": "GW0501_paiaia-numba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_paramanquel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Paramanquel",
+      "en": "Paramanquel",
+      "slug": "paramanquel"
+    },
+    "code": {
+      "id": "GW0501_paramanquel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_pataque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pataque",
+      "en": "Pataque",
+      "slug": "pataque"
+    },
+    "code": {
+      "id": "GW0501_pataque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.883",
+      "lon": "-13.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_queuedje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Queuedje",
+      "en": "Queuedje",
+      "slug": "queuedje"
+    },
+    "code": {
+      "id": "GW0501_queuedje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_quissem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quissem",
+      "en": "Quissem",
+      "slug": "quissem"
+    },
+    "code": {
+      "id": "GW0501_quissem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.867",
+      "lon": "-13.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_santa-sare",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Santa Sare",
+      "en": "Santa Sare",
+      "slug": "santa-sare"
+    },
+    "code": {
+      "id": "GW0501_santa-sare",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_simbaum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Simbaum",
+      "en": "Simbaum",
+      "slug": "simbaum"
+    },
+    "code": {
+      "id": "GW0501_simbaum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_sintcha-mussa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Mussa",
+      "en": "Sintcha Mussa",
+      "slug": "sintcha-mussa"
+    },
+    "code": {
+      "id": "GW0501_sintcha-mussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_sintchuro-paraual-wali",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintchuro Paraual (Wali)",
+      "en": "Sintchuro Paraual (Wali)",
+      "slug": "sintchuro-paraual-wali"
+    },
+    "code": {
+      "id": "GW0501_sintchuro-paraual-wali",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_sudo-legal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sudo Legal",
+      "en": "Sudo Legal",
+      "slug": "sudo-legal"
+    },
+    "code": {
+      "id": "GW0501_sudo-legal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.717",
+      "lon": "-14.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_sutumoca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sutumoca",
+      "en": "Sutumoca",
+      "slug": "sutumoca"
+    },
+    "code": {
+      "id": "GW0501_sutumoca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_tabadara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tabadara",
+      "en": "Tabadara",
+      "slug": "tabadara"
+    },
+    "code": {
+      "id": "GW0501_tabadara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.083",
+      "lon": "-13.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_tambari",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tambari",
+      "en": "Tambari",
+      "slug": "tambari"
+    },
+    "code": {
+      "id": "GW0501_tambari",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_tarige",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tarige",
+      "en": "Tarige",
+      "slug": "tarige"
+    },
+    "code": {
+      "id": "GW0501_tarige",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.833",
+      "lon": "-13.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_tchancum-labo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchancum Labo",
+      "en": "Tchancum Labo",
+      "slug": "tchancum-labo"
+    },
+    "code": {
+      "id": "GW0501_tchancum-labo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_tchetche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchetche",
+      "en": "Tchetche",
+      "slug": "tchetche"
+    },
+    "code": {
+      "id": "GW0501_tchetche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_telire",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Telire",
+      "en": "Telire",
+      "slug": "telire"
+    },
+    "code": {
+      "id": "GW0501_telire",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_tenquinim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tenquinim",
+      "en": "Tenquinim",
+      "slug": "tenquinim"
+    },
+    "code": {
+      "id": "GW0501_tenquinim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_tuba-boe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tuba Boe",
+      "en": "Tuba Boe",
+      "slug": "tuba-boe"
+    },
+    "code": {
+      "id": "GW0501_tuba-boe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_uncire-coli",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uncire Coli",
+      "en": "Uncire Coli",
+      "slug": "uncire-coli"
+    },
+    "code": {
+      "id": "GW0501_uncire-coli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_uneire",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uneire",
+      "en": "Uneire",
+      "slug": "uneire"
+    },
+    "code": {
+      "id": "GW0501_uneire",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_vendu-carassia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Vendu Carassia",
+      "en": "Vendu Carassia",
+      "slug": "vendu-carassia"
+    },
+    "code": {
+      "id": "GW0501_vendu-carassia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_vendu-leide",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Vendu Leide",
+      "en": "Vendu Leide",
+      "slug": "vendu-leide"
+    },
+    "code": {
+      "id": "GW0501_vendu-leide",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0501_vendu-tcherno",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Vendu Tcherno",
+      "en": "Vendu Tcherno",
+      "slug": "vendu-tcherno"
+    },
+    "code": {
+      "id": "GW0501_vendu-tcherno",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0501",
+      "level": 2,
+      "name": {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW05",
+        "level": 1,
+        "name": {
+          "local": "Gabu",
+          "en": "Gabu",
+          "slug": "gabu-gw05"
+        }
+      },
+      {
+        "id": "GW0501",
+        "level": 2,
+        "name": {
+          "local": "Boe",
+          "en": "Boe",
+          "slug": "boe-gw0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.858",
+      "lon": "-14.1"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

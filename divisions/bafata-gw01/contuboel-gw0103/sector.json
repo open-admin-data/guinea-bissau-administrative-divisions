@@ -1,0 +1,47 @@
+{
+  "id": "GW0103",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Contuboel",
+    "en": "Contuboel",
+    "slug": "contuboel-gw0103"
+  },
+  "code": {
+    "id": "GW0103",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW01",
+    "level": 1,
+    "name": {
+      "local": "Bafata",
+      "en": "Bafata",
+      "slug": "bafata-gw01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW01",
+      "level": 1,
+      "name": {
+        "local": "Bafata",
+        "en": "Bafata",
+        "slug": "bafata-gw01"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 256
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.481",
+    "lon": "-14.693"
+  },
+  "metadata": {},
+  "source": {}
+}

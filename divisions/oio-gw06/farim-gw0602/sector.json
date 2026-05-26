@@ -1,0 +1,47 @@
+{
+  "id": "GW0602",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Farim",
+    "en": "Farim",
+    "slug": "farim-gw0602"
+  },
+  "code": {
+    "id": "GW0602",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW06",
+    "level": 1,
+    "name": {
+      "local": "Oio",
+      "en": "Oio",
+      "slug": "oio-gw06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW06",
+      "level": 1,
+      "name": {
+        "local": "Oio",
+        "en": "Oio",
+        "slug": "oio-gw06"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 263
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.526",
+    "lon": "-15.176"
+  },
+  "metadata": {},
+  "source": {}
+}

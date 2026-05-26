@@ -1,0 +1,4700 @@
+[
+  {
+    "id": "GW0702_aidara-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Aidara Balanta",
+      "en": "Aidara Balanta",
+      "slug": "aidara-balanta"
+    },
+    "code": {
+      "id": "GW0702_aidara-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5",
+      "lon": "-15.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_aidara-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Aidara Beafada",
+      "en": "Aidara Beafada",
+      "slug": "aidara-beafada"
+    },
+    "code": {
+      "id": "GW0702_aidara-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.483",
+      "lon": "-15.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_bambaia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bambaia",
+      "en": "Bambaia",
+      "slug": "bambaia"
+    },
+    "code": {
+      "id": "GW0702_bambaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.3",
+      "lon": "-14.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_batambali",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Batambali",
+      "en": "Batambali",
+      "slug": "batambali"
+    },
+    "code": {
+      "id": "GW0702_batambali",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_batambali-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Batambali Balanta",
+      "en": "Batambali Balanta",
+      "slug": "batambali-balanta"
+    },
+    "code": {
+      "id": "GW0702_batambali-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.517",
+      "lon": "-15.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_beja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Beja",
+      "en": "Beja",
+      "slug": "beja"
+    },
+    "code": {
+      "id": "GW0702_beja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.55",
+      "lon": "-15.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_biassa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Biassa",
+      "en": "Biassa",
+      "slug": "biassa"
+    },
+    "code": {
+      "id": "GW0702_biassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "-15.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_bijante",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bijante",
+      "en": "Bijante",
+      "slug": "bijante"
+    },
+    "code": {
+      "id": "GW0702_bijante",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.167",
+      "lon": "-16.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_binhal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Binhal",
+      "en": "Binhal",
+      "slug": "binhal"
+    },
+    "code": {
+      "id": "GW0702_binhal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.533",
+      "lon": "-15.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_bisasema-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bisasema de Baixo",
+      "en": "Bisasema de Baixo",
+      "slug": "bisasema-de-baixo"
+    },
+    "code": {
+      "id": "GW0702_bisasema-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_bolanha-longe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bolanha Longe",
+      "en": "Bolanha Longe",
+      "slug": "bolanha-longe"
+    },
+    "code": {
+      "id": "GW0702_bolanha-longe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_botche-bitchala-cudom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Botche Bitchala Cudom",
+      "en": "Botche Bitchala Cudom",
+      "slug": "botche-bitchala-cudom"
+    },
+    "code": {
+      "id": "GW0702_botche-bitchala-cudom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_bricama",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bricama",
+      "en": "Bricama",
+      "slug": "bricama"
+    },
+    "code": {
+      "id": "GW0702_bricama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.45",
+      "lon": "-14.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_buduco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Buduco",
+      "en": "Buduco",
+      "slug": "buduco"
+    },
+    "code": {
+      "id": "GW0702_buduco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.733",
+      "lon": "-15.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_cancumba-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cancumba Balanta",
+      "en": "Cancumba Balanta",
+      "slug": "cancumba-balanta"
+    },
+    "code": {
+      "id": "GW0702_cancumba-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5",
+      "lon": "-15.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_catchampa-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catchampa Balanta",
+      "en": "Catchampa Balanta",
+      "slug": "catchampa-balanta"
+    },
+    "code": {
+      "id": "GW0702_catchampa-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_catchobar-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catchobar Balanta",
+      "en": "Catchobar Balanta",
+      "slug": "catchobar-balanta"
+    },
+    "code": {
+      "id": "GW0702_catchobar-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_catchobar-papel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catchobar Papel",
+      "en": "Catchobar Papel",
+      "slug": "catchobar-papel"
+    },
+    "code": {
+      "id": "GW0702_catchobar-papel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_caunto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caunto",
+      "en": "Caunto",
+      "slug": "caunto"
+    },
+    "code": {
+      "id": "GW0702_caunto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.467",
+      "lon": "-15.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_caur-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caur Balanta",
+      "en": "Caur Balanta",
+      "slug": "caur-balanta"
+    },
+    "code": {
+      "id": "GW0702_caur-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_caur-beafada-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caur Beafada de Baixo",
+      "en": "Caur Beafada de Baixo",
+      "slug": "caur-beafada-de-baixo"
+    },
+    "code": {
+      "id": "GW0702_caur-beafada-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_caur-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caur de Cima",
+      "en": "Caur de Cima",
+      "slug": "caur-de-cima"
+    },
+    "code": {
+      "id": "GW0702_caur-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.55",
+      "lon": "-15.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_cidade-de-empada-bairro-ga-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Empada Bairro Ga-Beafada",
+      "en": "Cidade de Empada Bairro Ga-Beafada",
+      "slug": "cidade-de-empada-bairro-ga-beafada"
+    },
+    "code": {
+      "id": "GW0702_cidade-de-empada-bairro-ga-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_cidade-de-empada-bairro-ga-cote",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Empada Bairro Ga-Cote",
+      "en": "Cidade de Empada Bairro Ga-Cote",
+      "slug": "cidade-de-empada-bairro-ga-cote"
+    },
+    "code": {
+      "id": "GW0702_cidade-de-empada-bairro-ga-cote",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_cubia-biafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cubia Biafada",
+      "en": "Cubia Biafada",
+      "slug": "cubia-biafada"
+    },
+    "code": {
+      "id": "GW0702_cubia-biafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_cudom-quissana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cudom Quissana",
+      "en": "Cudom Quissana",
+      "slug": "cudom-quissana"
+    },
+    "code": {
+      "id": "GW0702_cudom-quissana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_dakarzinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dakarzinho",
+      "en": "Dakarzinho",
+      "slug": "dakarzinho"
+    },
+    "code": {
+      "id": "GW0702_dakarzinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_darsalame-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Darsalame de Baixo",
+      "en": "Darsalame de Baixo",
+      "slug": "darsalame-de-baixo"
+    },
+    "code": {
+      "id": "GW0702_darsalame-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_darsalame-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Darsalame de Cima",
+      "en": "Darsalame de Cima",
+      "slug": "darsalame-de-cima"
+    },
+    "code": {
+      "id": "GW0702_darsalame-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_dua-djabi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dua Djabi",
+      "en": "Dua Djabi",
+      "slug": "dua-djabi"
+    },
+    "code": {
+      "id": "GW0702_dua-djabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_etudumbo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Etudumbo",
+      "en": "Etudumbo",
+      "slug": "etudumbo"
+    },
+    "code": {
+      "id": "GW0702_etudumbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_francunda-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Francunda Balanta",
+      "en": "Francunda Balanta",
+      "slug": "francunda-balanta"
+    },
+    "code": {
+      "id": "GW0702_francunda-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_francunda-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Francunda Beafada",
+      "en": "Francunda Beafada",
+      "slug": "francunda-beafada"
+    },
+    "code": {
+      "id": "GW0702_francunda-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_fulacunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fulacunda",
+      "en": "Fulacunda",
+      "slug": "fulacunda"
+    },
+    "code": {
+      "id": "GW0702_fulacunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.433",
+      "lon": "-15.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga-tchuma-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga Tchuma Beafada",
+      "en": "Ga Tchuma Beafada",
+      "slug": "ga-tchuma-beafada"
+    },
+    "code": {
+      "id": "GW0702_ga-tchuma-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga-tchuma-manjaco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga Tchuma Manjaco",
+      "en": "Ga Tchuma Manjaco",
+      "slug": "ga-tchuma-manjaco"
+    },
+    "code": {
+      "id": "GW0702_ga-tchuma-manjaco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga--baque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga- Baque",
+      "en": "Ga- Baque",
+      "slug": "ga--baque"
+    },
+    "code": {
+      "id": "GW0702_ga--baque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga--pereira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga- pereira",
+      "en": "Ga- pereira",
+      "slug": "ga--pereira"
+    },
+    "code": {
+      "id": "GW0702_ga--pereira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga--potoque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga- Potoque",
+      "en": "Ga- Potoque",
+      "slug": "ga--potoque"
+    },
+    "code": {
+      "id": "GW0702_ga--potoque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga--tamba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga- Tamba",
+      "en": "Ga- Tamba",
+      "slug": "ga--tamba"
+    },
+    "code": {
+      "id": "GW0702_ga--tamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga--tchombe-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga- Tchombe de Baixo",
+      "en": "Ga- Tchombe de Baixo",
+      "slug": "ga--tchombe-de-baixo"
+    },
+    "code": {
+      "id": "GW0702_ga--tchombe-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga--tchombe-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga- tchombe de Cima",
+      "en": "Ga- tchombe de Cima",
+      "slug": "ga--tchombe-de-cima"
+    },
+    "code": {
+      "id": "GW0702_ga--tchombe-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Balanta",
+      "en": "Ga-Balanta",
+      "slug": "ga-balanta"
+    },
+    "code": {
+      "id": "GW0702_ga-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga-caba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Caba",
+      "en": "Ga-Caba",
+      "slug": "ga-caba"
+    },
+    "code": {
+      "id": "GW0702_ga-caba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga-chiquinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Chiquinho",
+      "en": "Ga-Chiquinho",
+      "slug": "ga-chiquinho"
+    },
+    "code": {
+      "id": "GW0702_ga-chiquinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga-comba-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Comba Beafada",
+      "en": "Ga-Comba Beafada",
+      "slug": "ga-comba-beafada"
+    },
+    "code": {
+      "id": "GW0702_ga-comba-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga-denos",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Denos",
+      "en": "Ga-Denos",
+      "slug": "ga-denos"
+    },
+    "code": {
+      "id": "GW0702_ga-denos",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga-djimba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Djimba",
+      "en": "Ga-Djimba",
+      "slug": "ga-djimba"
+    },
+    "code": {
+      "id": "GW0702_ga-djimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga-genia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Genia",
+      "en": "Ga-Genia",
+      "slug": "ga-genia"
+    },
+    "code": {
+      "id": "GW0702_ga-genia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga-mamudu-ba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Mamudu Ba",
+      "en": "Ga-Mamudu Ba",
+      "slug": "ga-mamudu-ba"
+    },
+    "code": {
+      "id": "GW0702_ga-mamudu-ba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga-mariama",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Mariama",
+      "en": "Ga-Mariama",
+      "slug": "ga-mariama"
+    },
+    "code": {
+      "id": "GW0702_ga-mariama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga-tumane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Tumane",
+      "en": "Ga-Tumane",
+      "slug": "ga-tumane"
+    },
+    "code": {
+      "id": "GW0702_ga-tumane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ga-ture",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Ture",
+      "en": "Ga-Ture",
+      "slug": "ga-ture"
+    },
+    "code": {
+      "id": "GW0702_ga-ture",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_gambai-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gambai de Cima",
+      "en": "Gambai de Cima",
+      "slug": "gambai-de-cima"
+    },
+    "code": {
+      "id": "GW0702_gambai-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_gambaio-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gambaio de Baixo",
+      "en": "Gambaio de Baixo",
+      "slug": "gambaio-de-baixo"
+    },
+    "code": {
+      "id": "GW0702_gambaio-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ganafa-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ganafa de Baixo",
+      "en": "Ganafa de Baixo",
+      "slug": "ganafa-de-baixo"
+    },
+    "code": {
+      "id": "GW0702_ganafa-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ganafa-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ganafa de Cima",
+      "en": "Ganafa de Cima",
+      "slug": "ganafa-de-cima"
+    },
+    "code": {
+      "id": "GW0702_ganafa-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_iangue",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Iangue",
+      "en": "Iangue",
+      "slug": "iangue"
+    },
+    "code": {
+      "id": "GW0702_iangue",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.467",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_intusse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Intusse",
+      "en": "Intusse",
+      "slug": "intusse"
+    },
+    "code": {
+      "id": "GW0702_intusse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_madina-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina de Baixo",
+      "en": "Madina de Baixo",
+      "slug": "madina-de-baixo"
+    },
+    "code": {
+      "id": "GW0702_madina-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_madina-de-cima-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina de Cima Beafada",
+      "en": "Madina de Cima Beafada",
+      "slug": "madina-de-cima-beafada"
+    },
+    "code": {
+      "id": "GW0702_madina-de-cima-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_madina-lala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Lala",
+      "en": "Madina Lala",
+      "slug": "madina-lala"
+    },
+    "code": {
+      "id": "GW0702_madina-lala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_mampata-cubiseco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mampata Cubiseco",
+      "en": "Mampata Cubiseco",
+      "slug": "mampata-cubiseco"
+    },
+    "code": {
+      "id": "GW0702_mampata-cubiseco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_mansaba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mansaba",
+      "en": "Mansaba",
+      "slug": "mansaba"
+    },
+    "code": {
+      "id": "GW0702_mansaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.292",
+      "lon": "-15.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_mil",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mil",
+      "en": "Mil",
+      "slug": "mil"
+    },
+    "code": {
+      "id": "GW0702_mil",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.233",
+      "lon": "-15.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_missira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Missira",
+      "en": "Missira",
+      "slug": "missira"
+    },
+    "code": {
+      "id": "GW0702_missira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-14.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ndjuruco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N`djuruco",
+      "en": "N`djuruco",
+      "slug": "ndjuruco"
+    },
+    "code": {
+      "id": "GW0702_ndjuruco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ntchancol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Tchancol",
+      "en": "N´Tchancol",
+      "slug": "ntchancol"
+    },
+    "code": {
+      "id": "GW0702_ntchancol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ntimbonco-intimboco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Timbonco (Intimboco)",
+      "en": "N´Timbonco (Intimboco)",
+      "slug": "ntimbonco-intimboco"
+    },
+    "code": {
+      "id": "GW0702_ntimbonco-intimboco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_paunca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Paunca",
+      "en": "Paunca",
+      "slug": "paunca"
+    },
+    "code": {
+      "id": "GW0702_paunca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12",
+      "lon": "-14.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_pobreza",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pobreza",
+      "en": "Pobreza",
+      "slug": "pobreza"
+    },
+    "code": {
+      "id": "GW0702_pobreza",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.4",
+      "lon": "-15.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ponta-america",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta America",
+      "en": "Ponta America",
+      "slug": "ponta-america"
+    },
+    "code": {
+      "id": "GW0702_ponta-america",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ponta-kwait",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Kwait",
+      "en": "Ponta Kwait",
+      "slug": "ponta-kwait"
+    },
+    "code": {
+      "id": "GW0702_ponta-kwait",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ponta-pai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Pai",
+      "en": "Ponta Pai",
+      "slug": "ponta-pai"
+    },
+    "code": {
+      "id": "GW0702_ponta-pai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_ponta-tinto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Tinto",
+      "en": "Ponta Tinto",
+      "slug": "ponta-tinto"
+    },
+    "code": {
+      "id": "GW0702_ponta-tinto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_rinhana-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Rinhana II",
+      "en": "Rinhana II",
+      "slug": "rinhana-ii"
+    },
+    "code": {
+      "id": "GW0702_rinhana-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_samba-grande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samba Grande",
+      "en": "Samba Grande",
+      "slug": "samba-grande"
+    },
+    "code": {
+      "id": "GW0702_samba-grande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_sambazinho-fintinde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sambazinho Fintinde",
+      "en": "Sambazinho Fintinde",
+      "slug": "sambazinho-fintinde"
+    },
+    "code": {
+      "id": "GW0702_sambazinho-fintinde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_sao-domingos",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sao Domingos",
+      "en": "Sao Domingos",
+      "slug": "sao-domingos"
+    },
+    "code": {
+      "id": "GW0702_sao-domingos",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.25",
+      "lon": "-14.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_sao-martinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sao Martinho",
+      "en": "Sao Martinho",
+      "slug": "sao-martinho"
+    },
+    "code": {
+      "id": "GW0702_sao-martinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.417",
+      "lon": "-15.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_sao-miguel-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sao Miguel Balanta",
+      "en": "Sao Miguel Balanta",
+      "slug": "sao-miguel-balanta"
+    },
+    "code": {
+      "id": "GW0702_sao-miguel-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5",
+      "lon": "-15.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_sao-miguel-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sao Miguel Beafada",
+      "en": "Sao Miguel Beafada",
+      "slug": "sao-miguel-beafada"
+    },
+    "code": {
+      "id": "GW0702_sao-miguel-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5",
+      "lon": "-15.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_satecuta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Satecuta",
+      "en": "Satecuta",
+      "slug": "satecuta"
+    },
+    "code": {
+      "id": "GW0702_satecuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.483",
+      "lon": "-15.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_saucunda-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Saucunda Balanta",
+      "en": "Saucunda Balanta",
+      "slug": "saucunda-balanta"
+    },
+    "code": {
+      "id": "GW0702_saucunda-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_saucunda-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Saucunda Beafada",
+      "en": "Saucunda Beafada",
+      "slug": "saucunda-beafada"
+    },
+    "code": {
+      "id": "GW0702_saucunda-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.517",
+      "lon": "-15.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_tabanca-nova",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tabanca Nova",
+      "en": "Tabanca Nova",
+      "slug": "tabanca-nova"
+    },
+    "code": {
+      "id": "GW0702_tabanca-nova",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.467",
+      "lon": "-15.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702_walada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Walada",
+      "en": "Walada",
+      "slug": "walada"
+    },
+    "code": {
+      "id": "GW0702_walada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0702",
+      "level": 2,
+      "name": {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0702",
+        "level": 2,
+        "name": {
+          "local": "Empada",
+          "en": "Empada",
+          "slug": "empada-gw0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

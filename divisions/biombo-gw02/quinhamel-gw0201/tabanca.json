@@ -1,0 +1,3566 @@
+[
+  {
+    "id": "GW0201_abigna",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Abigna",
+      "en": "Abigna",
+      "slug": "abigna"
+    },
+    "code": {
+      "id": "GW0201_abigna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.883",
+      "lon": "-15.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_bidjina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bidjina",
+      "en": "Bidjina",
+      "slug": "bidjina"
+    },
+    "code": {
+      "id": "GW0201_bidjina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_bissa-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissa de Baixo",
+      "en": "Bissa de Baixo",
+      "slug": "bissa-de-baixo"
+    },
+    "code": {
+      "id": "GW0201_bissa-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_bissa-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissa de Cima",
+      "en": "Bissa de Cima",
+      "slug": "bissa-de-cima"
+    },
+    "code": {
+      "id": "GW0201_bissa-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_bissauzinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissauzinho",
+      "en": "Bissauzinho",
+      "slug": "bissauzinho"
+    },
+    "code": {
+      "id": "GW0201_bissauzinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.6",
+      "lon": "-15.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_blimlim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blimlim",
+      "en": "Blimlim",
+      "slug": "blimlim"
+    },
+    "code": {
+      "id": "GW0201_blimlim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_blom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blom",
+      "en": "Blom",
+      "slug": "blom"
+    },
+    "code": {
+      "id": "GW0201_blom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.783",
+      "lon": "-15.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_boa-esperana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Boa Esperança",
+      "en": "Boa Esperança",
+      "slug": "boa-esperana"
+    },
+    "code": {
+      "id": "GW0201_boa-esperana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_bucomil",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bucomil",
+      "en": "Bucomil",
+      "slug": "bucomil"
+    },
+    "code": {
+      "id": "GW0201_bucomil",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.883",
+      "lon": "-15.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_cafangho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cafangho",
+      "en": "Cafangho",
+      "slug": "cafangho"
+    },
+    "code": {
+      "id": "GW0201_cafangho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_canha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canha",
+      "en": "Canha",
+      "slug": "canha"
+    },
+    "code": {
+      "id": "GW0201_canha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.467",
+      "lon": "-13.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_chaves-suga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Chaves (Suga)",
+      "en": "Chaves (Suga)",
+      "slug": "chaves-suga"
+    },
+    "code": {
+      "id": "GW0201_chaves-suga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_cidade-de-quinhamel-bairro-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Quinhamel Bairro de Baixo",
+      "en": "Cidade de Quinhamel Bairro de Baixo",
+      "slug": "cidade-de-quinhamel-bairro-de-baixo"
+    },
+    "code": {
+      "id": "GW0201_cidade-de-quinhamel-bairro-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_cidade-de-quinhamel-bairro-nao-definido",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Quinhamel Bairro NAO DEFINIDO",
+      "en": "Cidade de Quinhamel Bairro NAO DEFINIDO",
+      "slug": "cidade-de-quinhamel-bairro-nao-definido"
+    },
+    "code": {
+      "id": "GW0201_cidade-de-quinhamel-bairro-nao-definido",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_cidade-de-quinhamel-bairro-praca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Quinhamel Bairro Praca",
+      "en": "Cidade de Quinhamel Bairro Praca",
+      "slug": "cidade-de-quinhamel-bairro-praca"
+    },
+    "code": {
+      "id": "GW0201_cidade-de-quinhamel-bairro-praca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_cidade-de-quinhamel-bairro-rua-nova",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Quinhamel Bairro Rua Nova",
+      "en": "Cidade de Quinhamel Bairro Rua Nova",
+      "slug": "cidade-de-quinhamel-bairro-rua-nova"
+    },
+    "code": {
+      "id": "GW0201_cidade-de-quinhamel-bairro-rua-nova",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_claque-na-isna",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Claque na Isna",
+      "en": "Claque na Isna",
+      "slug": "claque-na-isna"
+    },
+    "code": {
+      "id": "GW0201_claque-na-isna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_clatele---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Clatele - I",
+      "en": "Clatele - I",
+      "slug": "clatele---i"
+    },
+    "code": {
+      "id": "GW0201_clatele---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_clatele---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Clatele - II",
+      "en": "Clatele - II",
+      "slug": "clatele---ii"
+    },
+    "code": {
+      "id": "GW0201_clatele---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_clonata",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Clonata",
+      "en": "Clonata",
+      "slug": "clonata"
+    },
+    "code": {
+      "id": "GW0201_clonata",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_cuchup",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cuchup",
+      "en": "Cuchup",
+      "slug": "cuchup"
+    },
+    "code": {
+      "id": "GW0201_cuchup",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_cupedo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cupedo",
+      "en": "Cupedo",
+      "slug": "cupedo"
+    },
+    "code": {
+      "id": "GW0201_cupedo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.833",
+      "lon": "-15.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_djamelak",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djamelak",
+      "en": "Djamelak",
+      "slug": "djamelak"
+    },
+    "code": {
+      "id": "GW0201_djamelak",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_dorce",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dorce",
+      "en": "Dorce",
+      "slug": "dorce"
+    },
+    "code": {
+      "id": "GW0201_dorce",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.817",
+      "lon": "-15.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_dorse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dorse",
+      "en": "Dorse",
+      "slug": "dorse"
+    },
+    "code": {
+      "id": "GW0201_dorse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_impontchande-ponta-embana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Impontchande (Ponta Embana)",
+      "en": "Impontchande (Ponta Embana)",
+      "slug": "impontchande-ponta-embana"
+    },
+    "code": {
+      "id": "GW0201_impontchande-ponta-embana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_intchude-de-baixo-ilonde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Intchude de Baixo Ilonde",
+      "en": "Intchude de Baixo Ilonde",
+      "slug": "intchude-de-baixo-ilonde"
+    },
+    "code": {
+      "id": "GW0201_intchude-de-baixo-ilonde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_mer-foia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mer Foia",
+      "en": "Mer Foia",
+      "slug": "mer-foia"
+    },
+    "code": {
+      "id": "GW0201_mer-foia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_mer-pikil",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mer Pikil",
+      "en": "Mer Pikil",
+      "slug": "mer-pikil"
+    },
+    "code": {
+      "id": "GW0201_mer-pikil",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_mer-pitana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mer Pitana",
+      "en": "Mer Pitana",
+      "slug": "mer-pitana"
+    },
+    "code": {
+      "id": "GW0201_mer-pitana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_mer-usimibo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mer Usimibo",
+      "en": "Mer Usimibo",
+      "slug": "mer-usimibo"
+    },
+    "code": {
+      "id": "GW0201_mer-usimibo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ntchude-de-cima-ilonde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ntchude de Cima Ilonde",
+      "en": "Ntchude de Cima Ilonde",
+      "slug": "ntchude-de-cima-ilonde"
+    },
+    "code": {
+      "id": "GW0201_ntchude-de-cima-ilonde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ome",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ome",
+      "en": "Ome",
+      "slug": "ome"
+    },
+    "code": {
+      "id": "GW0201_ome",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-15.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ondame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ondame",
+      "en": "Ondame",
+      "slug": "ondame"
+    },
+    "code": {
+      "id": "GW0201_ondame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.767",
+      "lon": "-15.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_pandim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pandim",
+      "en": "Pandim",
+      "slug": "pandim"
+    },
+    "code": {
+      "id": "GW0201_pandim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.883",
+      "lon": "-15.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_pinhosseno-sabor-papel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pinhosseno (Sabor Papel)",
+      "en": "Pinhosseno (Sabor Papel)",
+      "slug": "pinhosseno-sabor-papel"
+    },
+    "code": {
+      "id": "GW0201_pinhosseno-sabor-papel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_plaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Plaque",
+      "en": "Plaque",
+      "slug": "plaque"
+    },
+    "code": {
+      "id": "GW0201_plaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.867",
+      "lon": "-15.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_plut",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Plut",
+      "en": "Plut",
+      "slug": "plut"
+    },
+    "code": {
+      "id": "GW0201_plut",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ponta-armando-da-silva",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Armando da Silva",
+      "en": "Ponta Armando da Silva",
+      "slug": "ponta-armando-da-silva"
+    },
+    "code": {
+      "id": "GW0201_ponta-armando-da-silva",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ponta-blimate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Blimate",
+      "en": "Ponta Blimate",
+      "slug": "ponta-blimate"
+    },
+    "code": {
+      "id": "GW0201_ponta-blimate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ponta-brandao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Brandao",
+      "en": "Ponta Brandao",
+      "slug": "ponta-brandao"
+    },
+    "code": {
+      "id": "GW0201_ponta-brandao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ponta-cabral",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Cabral",
+      "en": "Ponta Cabral",
+      "slug": "ponta-cabral"
+    },
+    "code": {
+      "id": "GW0201_ponta-cabral",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.417",
+      "lon": "-15.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ponta-california",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta California",
+      "en": "Ponta California",
+      "slug": "ponta-california"
+    },
+    "code": {
+      "id": "GW0201_ponta-california",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ponta-carlos-adriano-sa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Carlos Adriano Sa",
+      "en": "Ponta Carlos Adriano Sa",
+      "slug": "ponta-carlos-adriano-sa"
+    },
+    "code": {
+      "id": "GW0201_ponta-carlos-adriano-sa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ponta-isac",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Isac",
+      "en": "Ponta Isac",
+      "slug": "ponta-isac"
+    },
+    "code": {
+      "id": "GW0201_ponta-isac",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ponta-leao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Leao",
+      "en": "Ponta Leao",
+      "slug": "ponta-leao"
+    },
+    "code": {
+      "id": "GW0201_ponta-leao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ponta-mendes",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Mendes",
+      "en": "Ponta Mendes",
+      "slug": "ponta-mendes"
+    },
+    "code": {
+      "id": "GW0201_ponta-mendes",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ponta-nhara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Nhara",
+      "en": "Ponta Nhara",
+      "slug": "ponta-nhara"
+    },
+    "code": {
+      "id": "GW0201_ponta-nhara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ponta-ricardo-soares",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Ricardo Soares",
+      "en": "Ponta Ricardo Soares",
+      "slug": "ponta-ricardo-soares"
+    },
+    "code": {
+      "id": "GW0201_ponta-ricardo-soares",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ponta-romana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Romana",
+      "en": "Ponta Romana",
+      "slug": "ponta-romana"
+    },
+    "code": {
+      "id": "GW0201_ponta-romana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ponta-vermelha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Vermelha",
+      "en": "Ponta Vermelha",
+      "slug": "ponta-vermelha"
+    },
+    "code": {
+      "id": "GW0201_ponta-vermelha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_quecene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quecene",
+      "en": "Quecene",
+      "slug": "quecene"
+    },
+    "code": {
+      "id": "GW0201_quecene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_quidjogro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quidjogro",
+      "en": "Quidjogro",
+      "slug": "quidjogro"
+    },
+    "code": {
+      "id": "GW0201_quidjogro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_quilande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quilande",
+      "en": "Quilande",
+      "slug": "quilande"
+    },
+    "code": {
+      "id": "GW0201_quilande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.9",
+      "lon": "-15.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_quilum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quilum",
+      "en": "Quilum",
+      "slug": "quilum"
+    },
+    "code": {
+      "id": "GW0201_quilum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.883",
+      "lon": "-15.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_quinsana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quinsana",
+      "en": "Quinsana",
+      "slug": "quinsana"
+    },
+    "code": {
+      "id": "GW0201_quinsana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_quintungul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quintungul",
+      "en": "Quintungul",
+      "slug": "quintungul"
+    },
+    "code": {
+      "id": "GW0201_quintungul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-15.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_quitaa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quitaa",
+      "en": "Quitaa",
+      "slug": "quitaa"
+    },
+    "code": {
+      "id": "GW0201_quitaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_quiuta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quiuta",
+      "en": "Quiuta",
+      "slug": "quiuta"
+    },
+    "code": {
+      "id": "GW0201_quiuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_reino-bijimita",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Reino Bijimita",
+      "en": "Reino Bijimita",
+      "slug": "reino-bijimita"
+    },
+    "code": {
+      "id": "GW0201_reino-bijimita",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_reino-de-tor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Reino de Tor",
+      "en": "Reino de Tor",
+      "slug": "reino-de-tor"
+    },
+    "code": {
+      "id": "GW0201_reino-de-tor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.85",
+      "lon": "-15.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_sidja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sidja",
+      "en": "Sidja",
+      "slug": "sidja"
+    },
+    "code": {
+      "id": "GW0201_sidja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_ungura",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ungura",
+      "en": "Ungura",
+      "slug": "ungura"
+    },
+    "code": {
+      "id": "GW0201_ungura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_uool",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uool",
+      "en": "Uool",
+      "slug": "uool"
+    },
+    "code": {
+      "id": "GW0201_uool",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_urtungul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Urtungul",
+      "en": "Urtungul",
+      "slug": "urtungul"
+    },
+    "code": {
+      "id": "GW0201_urtungul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0201_vila-flor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Vila Flor",
+      "en": "Vila Flor",
+      "slug": "vila-flor"
+    },
+    "code": {
+      "id": "GW0201_vila-flor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0201",
+      "level": 2,
+      "name": {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0201",
+        "level": 2,
+        "name": {
+          "local": "Quinhamel",
+          "en": "Quinhamel",
+          "slug": "quinhamel-gw0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "-15.869"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

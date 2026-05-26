@@ -1,0 +1,3836 @@
+[
+  {
+    "id": "GW0703_abandy",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Abandy",
+      "en": "Abandy",
+      "slug": "abandy"
+    },
+    "code": {
+      "id": "GW0703_abandy",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_adide",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Adide",
+      "en": "Adide",
+      "slug": "adide"
+    },
+    "code": {
+      "id": "GW0703_adide",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_bambadinca-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bambadinca Beafada",
+      "en": "Bambadinca Beafada",
+      "slug": "bambadinca-beafada"
+    },
+    "code": {
+      "id": "GW0703_bambadinca-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-15.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_bambadinca-mancanha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bambadinca Mancanha",
+      "en": "Bambadinca Mancanha",
+      "slug": "bambadinca-mancanha"
+    },
+    "code": {
+      "id": "GW0703_bambadinca-mancanha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-15.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_bani",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bani",
+      "en": "Bani",
+      "slug": "bani"
+    },
+    "code": {
+      "id": "GW0703_bani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.733",
+      "lon": "-15.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_baria",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Baria",
+      "en": "Baria",
+      "slug": "baria"
+    },
+    "code": {
+      "id": "GW0703_baria",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.8",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_bianga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bianga",
+      "en": "Bianga",
+      "slug": "bianga"
+    },
+    "code": {
+      "id": "GW0703_bianga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.783",
+      "lon": "-15.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_binholom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Binholom",
+      "en": "Binholom",
+      "slug": "binholom"
+    },
+    "code": {
+      "id": "GW0703_binholom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_bodjol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bodjol",
+      "en": "Bodjol",
+      "slug": "bodjol"
+    },
+    "code": {
+      "id": "GW0703_bodjol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_braia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Braia",
+      "en": "Braia",
+      "slug": "braia"
+    },
+    "code": {
+      "id": "GW0703_braia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.317",
+      "lon": "-15.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_buba-intchenque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Buba Intchenque",
+      "en": "Buba Intchenque",
+      "slug": "buba-intchenque"
+    },
+    "code": {
+      "id": "GW0703_buba-intchenque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_buduco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Buduco",
+      "en": "Buduco",
+      "slug": "buduco"
+    },
+    "code": {
+      "id": "GW0703_buduco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.733",
+      "lon": "-15.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_cidade-de-fulacunda-barrio-fulacunda-1-baixada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de FULACUNDA Barrio Fulacunda 1 (Baixada)",
+      "en": "Cidade de FULACUNDA Barrio Fulacunda 1 (Baixada)",
+      "slug": "cidade-de-fulacunda-barrio-fulacunda-1-baixada"
+    },
+    "code": {
+      "id": "GW0703_cidade-de-fulacunda-barrio-fulacunda-1-baixada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_cidade-de-fulacunda-barrio-fulacunda-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de FULACUNDA Barrio Fulacunda 2",
+      "en": "Cidade de FULACUNDA Barrio Fulacunda 2",
+      "slug": "cidade-de-fulacunda-barrio-fulacunda-2"
+    },
+    "code": {
+      "id": "GW0703_cidade-de-fulacunda-barrio-fulacunda-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_contra-fome",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Contra Fome",
+      "en": "Contra Fome",
+      "slug": "contra-fome"
+    },
+    "code": {
+      "id": "GW0703_contra-fome",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_cubajal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cubajal",
+      "en": "Cubajal",
+      "slug": "cubajal"
+    },
+    "code": {
+      "id": "GW0703_cubajal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.85",
+      "lon": "-15.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_cubambol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cubambol",
+      "en": "Cubambol",
+      "slug": "cubambol"
+    },
+    "code": {
+      "id": "GW0703_cubambol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_djondi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djondi",
+      "en": "Djondi",
+      "slug": "djondi"
+    },
+    "code": {
+      "id": "GW0703_djondi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_dodoco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dodoco",
+      "en": "Dodoco",
+      "slug": "dodoco"
+    },
+    "code": {
+      "id": "GW0703_dodoco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.85",
+      "lon": "-15.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_farana-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Farana Beafada",
+      "en": "Farana Beafada",
+      "slug": "farana-beafada"
+    },
+    "code": {
+      "id": "GW0703_farana-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_foia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Foia",
+      "en": "Foia",
+      "slug": "foia"
+    },
+    "code": {
+      "id": "GW0703_foia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.817",
+      "lon": "-15.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-bana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga Bana",
+      "en": "Ga Bana",
+      "slug": "ga-bana"
+    },
+    "code": {
+      "id": "GW0703_ga-bana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-djauara-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga Djauara Beafada",
+      "en": "Ga Djauara Beafada",
+      "slug": "ga-djauara-beafada"
+    },
+    "code": {
+      "id": "GW0703_ga-djauara-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-sene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga Sene",
+      "en": "Ga Sene",
+      "slug": "ga-sene"
+    },
+    "code": {
+      "id": "GW0703_ga-sene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-bapur",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Bapur",
+      "en": "Ga-Bapur",
+      "slug": "ga-bapur"
+    },
+    "code": {
+      "id": "GW0703_ga-bapur",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-cantora",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Cantora",
+      "en": "Ga-Cantora",
+      "slug": "ga-cantora"
+    },
+    "code": {
+      "id": "GW0703_ga-cantora",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-chiquinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Chiquinho",
+      "en": "Ga-Chiquinho",
+      "slug": "ga-chiquinho"
+    },
+    "code": {
+      "id": "GW0703_ga-chiquinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-djatra",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Djatra",
+      "en": "Ga-Djatra",
+      "slug": "ga-djatra"
+    },
+    "code": {
+      "id": "GW0703_ga-djatra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-djaura-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Djaura Balanta",
+      "en": "Ga-Djaura Balanta",
+      "slug": "ga-djaura-balanta"
+    },
+    "code": {
+      "id": "GW0703_ga-djaura-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-djene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Djene",
+      "en": "Ga-Djene",
+      "slug": "ga-djene"
+    },
+    "code": {
+      "id": "GW0703_ga-djene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-djobo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Djobo",
+      "en": "Ga-Djobo",
+      "slug": "ga-djobo"
+    },
+    "code": {
+      "id": "GW0703_ga-djobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-formoso",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Formoso",
+      "en": "Ga-Formoso",
+      "slug": "ga-formoso"
+    },
+    "code": {
+      "id": "GW0703_ga-formoso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-joao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Joao",
+      "en": "Ga-Joao",
+      "slug": "ga-joao"
+    },
+    "code": {
+      "id": "GW0703_ga-joao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-mamudu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Mamudu",
+      "en": "Ga-Mamudu",
+      "slug": "ga-mamudu"
+    },
+    "code": {
+      "id": "GW0703_ga-mamudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-mela",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Mela",
+      "en": "Ga-Mela",
+      "slug": "ga-mela"
+    },
+    "code": {
+      "id": "GW0703_ga-mela",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-paulo-imbana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Paulo Imbana",
+      "en": "Ga-Paulo Imbana",
+      "slug": "ga-paulo-imbana"
+    },
+    "code": {
+      "id": "GW0703_ga-paulo-imbana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-perto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Perto",
+      "en": "Ga-Perto",
+      "slug": "ga-perto"
+    },
+    "code": {
+      "id": "GW0703_ga-perto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-quecuta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Quecuta",
+      "en": "Ga-Quecuta",
+      "slug": "ga-quecuta"
+    },
+    "code": {
+      "id": "GW0703_ga-quecuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-ture-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Ture Balanta",
+      "en": "Ga-Ture Balanta",
+      "slug": "ga-ture-balanta"
+    },
+    "code": {
+      "id": "GW0703_ga-ture-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-ture-mandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Ture Mandinga",
+      "en": "Ga-Ture Mandinga",
+      "slug": "ga-ture-mandinga"
+    },
+    "code": {
+      "id": "GW0703_ga-ture-mandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ga-victor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Victor",
+      "en": "Ga-Victor",
+      "slug": "ga-victor"
+    },
+    "code": {
+      "id": "GW0703_ga-victor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_gambachicha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gambachicha",
+      "en": "Gambachicha",
+      "slug": "gambachicha"
+    },
+    "code": {
+      "id": "GW0703_gambachicha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.9",
+      "lon": "-15.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_gamol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gamol",
+      "en": "Gamol",
+      "slug": "gamol"
+    },
+    "code": {
+      "id": "GW0703_gamol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_gancale",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gancale",
+      "en": "Gancale",
+      "slug": "gancale"
+    },
+    "code": {
+      "id": "GW0703_gancale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_gandjeque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gandjeque",
+      "en": "Gandjeque",
+      "slug": "gandjeque"
+    },
+    "code": {
+      "id": "GW0703_gandjeque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_gandua-mandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gandua Mandinga",
+      "en": "Gandua Mandinga",
+      "slug": "gandua-mandinga"
+    },
+    "code": {
+      "id": "GW0703_gandua-mandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.85",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_gandua-porto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gandua Porto",
+      "en": "Gandua Porto",
+      "slug": "gandua-porto"
+    },
+    "code": {
+      "id": "GW0703_gandua-porto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.867",
+      "lon": "-15.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ilha-de-quinta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Quinta",
+      "en": "Ilha de Quinta",
+      "slug": "ilha-de-quinta"
+    },
+    "code": {
+      "id": "GW0703_ilha-de-quinta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_imbam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Imbam",
+      "en": "Imbam",
+      "slug": "imbam"
+    },
+    "code": {
+      "id": "GW0703_imbam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_lamane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lamane",
+      "en": "Lamane",
+      "slug": "lamane"
+    },
+    "code": {
+      "id": "GW0703_lamane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.683",
+      "lon": "-15.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_madina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina",
+      "en": "Madina",
+      "slug": "madina"
+    },
+    "code": {
+      "id": "GW0703_madina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-14.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_mauritaninha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mauritaninha",
+      "en": "Mauritaninha",
+      "slug": "mauritaninha"
+    },
+    "code": {
+      "id": "GW0703_mauritaninha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_minna",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Minna",
+      "en": "Minna",
+      "slug": "minna"
+    },
+    "code": {
+      "id": "GW0703_minna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_missira-dada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Missira (Dada)",
+      "en": "Missira (Dada)",
+      "slug": "missira-dada"
+    },
+    "code": {
+      "id": "GW0703_missira-dada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_nauanhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nauanhe",
+      "en": "Nauanhe",
+      "slug": "nauanhe"
+    },
+    "code": {
+      "id": "GW0703_nauanhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.733",
+      "lon": "-15.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_perda-agulha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Perda Agulha",
+      "en": "Perda Agulha",
+      "slug": "perda-agulha"
+    },
+    "code": {
+      "id": "GW0703_perda-agulha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ponta-madina-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Madina I",
+      "en": "Ponta Madina I",
+      "slug": "ponta-madina-i"
+    },
+    "code": {
+      "id": "GW0703_ponta-madina-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ponta-madina-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Madina II",
+      "en": "Ponta Madina II",
+      "slug": "ponta-madina-ii"
+    },
+    "code": {
+      "id": "GW0703_ponta-madina-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_priame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Priame",
+      "en": "Priame",
+      "slug": "priame"
+    },
+    "code": {
+      "id": "GW0703_priame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.783",
+      "lon": "-15.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_rinhana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Rinhana",
+      "en": "Rinhana",
+      "slug": "rinhana"
+    },
+    "code": {
+      "id": "GW0703_rinhana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_ronco-satecuta-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ronco (Satecuta Beafada)",
+      "en": "Ronco (Satecuta Beafada)",
+      "slug": "ronco-satecuta-beafada"
+    },
+    "code": {
+      "id": "GW0703_ronco-satecuta-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_sam-nhinte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sam-Nhinte",
+      "en": "Sam-Nhinte",
+      "slug": "sam-nhinte"
+    },
+    "code": {
+      "id": "GW0703_sam-nhinte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_sama",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sama",
+      "en": "Sama",
+      "slug": "sama"
+    },
+    "code": {
+      "id": "GW0703_sama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.283",
+      "lon": "-13.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_santao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Santao",
+      "en": "Santao",
+      "slug": "santao"
+    },
+    "code": {
+      "id": "GW0703_santao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_satecuta-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Satecuta Balanta",
+      "en": "Satecuta Balanta",
+      "slug": "satecuta-balanta"
+    },
+    "code": {
+      "id": "GW0703_satecuta-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_senintche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Senintche",
+      "en": "Senintche",
+      "slug": "senintche"
+    },
+    "code": {
+      "id": "GW0703_senintche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_tumana-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tumana Balanta",
+      "en": "Tumana Balanta",
+      "slug": "tumana-balanta"
+    },
+    "code": {
+      "id": "GW0703_tumana-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_tumana-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tumana Beafada",
+      "en": "Tumana Beafada",
+      "slug": "tumana-beafada"
+    },
+    "code": {
+      "id": "GW0703_tumana-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_uana-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uana Beafada",
+      "en": "Uana Beafada",
+      "slug": "uana-beafada"
+    },
+    "code": {
+      "id": "GW0703_uana-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "-15.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_uana-porto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uana Porto",
+      "en": "Uana Porto",
+      "slug": "uana-porto"
+    },
+    "code": {
+      "id": "GW0703_uana-porto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703_umbassa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Umbassa",
+      "en": "Umbassa",
+      "slug": "umbassa"
+    },
+    "code": {
+      "id": "GW0703_umbassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0703",
+      "level": 2,
+      "name": {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      },
+      {
+        "id": "GW0703",
+        "level": 2,
+        "name": {
+          "local": "Fulacunda",
+          "en": "Fulacunda",
+          "slug": "fulacunda-gw0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

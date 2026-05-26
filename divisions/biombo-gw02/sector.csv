@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.tabanca,geo.lat,geo.lon
+GW0202,Prabis,Prabis,prabis-gw0202,GW0202,55,11.811,-15.739
+GW0201,Quinhamel,Quinhamel,quinhamel-gw0201,GW0201,66,11.872,-15.869
+GW0203,Safim,Safim,safim-gw0203,GW0203,43,11.941,-15.674

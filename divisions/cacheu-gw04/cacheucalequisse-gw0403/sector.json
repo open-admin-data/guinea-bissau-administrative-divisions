@@ -1,0 +1,47 @@
+{
+  "id": "GW0403",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Cacheu/Calequisse",
+    "en": "Cacheu/Calequisse",
+    "slug": "cacheucalequisse-gw0403"
+  },
+  "code": {
+    "id": "GW0403",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW04",
+    "level": 1,
+    "name": {
+      "local": "Cacheu",
+      "en": "Cacheu",
+      "slug": "cacheu-gw04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW04",
+      "level": 1,
+      "name": {
+        "local": "Cacheu",
+        "en": "Cacheu",
+        "slug": "cacheu-gw04"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.164",
+    "lon": "-16.11"
+  },
+  "metadata": {},
+  "source": {}
+}

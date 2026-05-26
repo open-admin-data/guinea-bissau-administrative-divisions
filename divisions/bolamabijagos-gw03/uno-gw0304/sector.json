@@ -1,0 +1,47 @@
+{
+  "id": "GW0304",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Uno",
+    "en": "Uno",
+    "slug": "uno-gw0304"
+  },
+  "code": {
+    "id": "GW0304",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW03",
+    "level": 1,
+    "name": {
+      "local": "Bolama/Bijagos",
+      "en": "Bolama/Bijagos",
+      "slug": "bolamabijagos-gw03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW03",
+      "level": 1,
+      "name": {
+        "local": "Bolama/Bijagos",
+        "en": "Bolama/Bijagos",
+        "slug": "bolamabijagos-gw03"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 62
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.113",
+    "lon": "-16.123"
+  },
+  "metadata": {},
+  "source": {}
+}

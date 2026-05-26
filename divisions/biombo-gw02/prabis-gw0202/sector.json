@@ -1,0 +1,47 @@
+{
+  "id": "GW0202",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Prabis",
+    "en": "Prabis",
+    "slug": "prabis-gw0202"
+  },
+  "code": {
+    "id": "GW0202",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW02",
+    "level": 1,
+    "name": {
+      "local": "Biombo",
+      "en": "Biombo",
+      "slug": "biombo-gw02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW02",
+      "level": 1,
+      "name": {
+        "local": "Biombo",
+        "en": "Biombo",
+        "slug": "biombo-gw02"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 55
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.811",
+    "lon": "-15.739"
+  },
+  "metadata": {},
+  "source": {}
+}

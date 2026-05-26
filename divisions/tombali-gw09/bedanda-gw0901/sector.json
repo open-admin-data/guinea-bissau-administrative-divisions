@@ -1,0 +1,47 @@
+{
+  "id": "GW0901",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Bedanda",
+    "en": "Bedanda",
+    "slug": "bedanda-gw0901"
+  },
+  "code": {
+    "id": "GW0901",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW09",
+    "level": 1,
+    "name": {
+      "local": "Tombali",
+      "en": "Tombali",
+      "slug": "tombali-gw09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW09",
+      "level": 1,
+      "name": {
+        "local": "Tombali",
+        "en": "Tombali",
+        "slug": "tombali-gw09"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 137
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.257",
+    "lon": "-15.023"
+  },
+  "metadata": {},
+  "source": {}
+}

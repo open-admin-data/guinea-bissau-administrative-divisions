@@ -1,0 +1,30 @@
+{
+  "id": "GW05",
+  "level": 1,
+  "level_name": {
+    "local": "Região",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Gabu",
+    "en": "Gabu",
+    "slug": "gabu-gw05"
+  },
+  "code": {
+    "id": "GW05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sector": 5,
+    "tabanca": 574
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.119",
+    "lon": "-14.187"
+  },
+  "metadata": {},
+  "source": {}
+}

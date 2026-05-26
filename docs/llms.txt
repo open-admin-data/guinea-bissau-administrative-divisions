@@ -1,0 +1,70 @@
+# Guinea-Bissau Administrative Divisions
+
+> Open dataset of Guinea-Bissau's administrative hierarchy:
+> 9 regions, 39 sectors, 3,905 tabancas.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 9
+- Total sectors: 39
+- Total tabancas: 3,905
+- Coordinates: included (all levels)
+- Last updated: 2026-05-26
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/data/all-region.json)
+- [All sectors (JSON)](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/data/all-sector.json)
+- [All tabancas (JSON)](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/data/all-tabanca.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Bolama/Bijagos](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/tree/main/divisions/bolamabijagos-gw03/) — 4 sectors, 248 tabancas
+- [Tombali](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/tree/main/divisions/tombali-gw09/) — 5 sectors, 425 tabancas
+- [Bissau](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/tree/main/divisions/bissau-gw08/) — 1 sectors, 0 tabancas
+- [Quinara](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/tree/main/divisions/quinara-gw07/) — 4 sectors, 220 tabancas
+- [Biombo](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/tree/main/divisions/biombo-gw02/) — 3 sectors, 164 tabancas
+- [Cacheu](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/tree/main/divisions/cacheu-gw04/) — 6 sectors, 651 tabancas
+- [Gabu](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/tree/main/divisions/gabu-gw05/) — 5 sectors, 574 tabancas
+- [Bafata](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/tree/main/divisions/bafata-gw01/) — 6 sectors, 801 tabancas
+- [Oio](https://github.com/open-admin-data/guinea-bissau-administrative-divisions/tree/main/divisions/oio-gw06/) — 5 sectors, 822 tabancas
+
+## Per-Region Full Data
+
+- [Bolama/Bijagos](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/docs/llms-full/bolamabijagos-gw03.txt)
+- [Tombali](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/docs/llms-full/tombali-gw09.txt)
+- [Bissau](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/docs/llms-full/bissau-gw08.txt)
+- [Quinara](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/docs/llms-full/quinara-gw07.txt)
+- [Biombo](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/docs/llms-full/biombo-gw02.txt)
+- [Cacheu](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/docs/llms-full/cacheu-gw04.txt)
+- [Gabu](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/docs/llms-full/gabu-gw05.txt)
+- [Bafata](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/docs/llms-full/bafata-gw01.txt)
+- [Oio](https://raw.githubusercontent.com/open-admin-data/guinea-bissau-administrative-divisions/main/docs/llms-full/oio-gw06.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (sector), 3 (tabanca)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Guinea-Bissau Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/guinea-bissau-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

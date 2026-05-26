@@ -1,0 +1,4700 @@
+[
+  {
+    "id": "GW0404_bajambal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bajambal",
+      "en": "Bajambal",
+      "slug": "bajambal"
+    },
+    "code": {
+      "id": "GW0404_bajambal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_barala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barala",
+      "en": "Barala",
+      "slug": "barala"
+    },
+    "code": {
+      "id": "GW0404_barala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_belebante",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Belebante",
+      "en": "Belebante",
+      "slug": "belebante"
+    },
+    "code": {
+      "id": "GW0404_belebante",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_binhangai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "BINHANGAI",
+      "en": "BINHANGAI",
+      "slug": "binhangai"
+    },
+    "code": {
+      "id": "GW0404_binhangai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-16.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_bissoi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissoi",
+      "en": "Bissoi",
+      "slug": "bissoi"
+    },
+    "code": {
+      "id": "GW0404_bissoi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_blei",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blei",
+      "en": "Blei",
+      "slug": "blei"
+    },
+    "code": {
+      "id": "GW0404_blei",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_cadjugute-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cadjugute I",
+      "en": "Cadjugute I",
+      "slug": "cadjugute-i"
+    },
+    "code": {
+      "id": "GW0404_cadjugute-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_cadjugute-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cadjugute II",
+      "en": "Cadjugute II",
+      "slug": "cadjugute-ii"
+    },
+    "code": {
+      "id": "GW0404_cadjugute-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_cadjugute-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cadjugute III",
+      "en": "Cadjugute III",
+      "slug": "cadjugute-iii"
+    },
+    "code": {
+      "id": "GW0404_cadjugute-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_canoque-bidjame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canoque Bidjame",
+      "en": "Canoque Bidjame",
+      "slug": "canoque-bidjame"
+    },
+    "code": {
+      "id": "GW0404_canoque-bidjame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_capoi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Capoi",
+      "en": "Capoi",
+      "slug": "capoi"
+    },
+    "code": {
+      "id": "GW0404_capoi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_cassuquita",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassuquita",
+      "en": "Cassuquita",
+      "slug": "cassuquita"
+    },
+    "code": {
+      "id": "GW0404_cassuquita",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_catchem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catchem",
+      "en": "Catchem",
+      "slug": "catchem"
+    },
+    "code": {
+      "id": "GW0404_catchem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_cidade-de-caio-bairro-utchando-ulele",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Caio Bairro Utchando Ulele",
+      "en": "Cidade de Caio Bairro Utchando Ulele",
+      "slug": "cidade-de-caio-bairro-utchando-ulele"
+    },
+    "code": {
+      "id": "GW0404_cidade-de-caio-bairro-utchando-ulele",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_cidade-de-caio-bairro-utia-melique",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Caio Bairro UTIA MELIQUE",
+      "en": "Cidade de Caio Bairro UTIA MELIQUE",
+      "slug": "cidade-de-caio-bairro-utia-melique"
+    },
+    "code": {
+      "id": "GW0404_cidade-de-caio-bairro-utia-melique",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_decantem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Decantem",
+      "en": "Decantem",
+      "slug": "decantem"
+    },
+    "code": {
+      "id": "GW0404_decantem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-16.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-jeta---bagongo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Jeta - Bagongo",
+      "en": "Ilha de Jeta - Bagongo",
+      "slug": "ilha-de-jeta---bagongo"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-jeta---bagongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-jeta---pijante-praiazinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Jeta - Pijante (Praiazinho)",
+      "en": "Ilha de Jeta - Pijante (Praiazinho)",
+      "slug": "ilha-de-jeta---pijante-praiazinho"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-jeta---pijante-praiazinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-jeta---pijate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Jeta - Pijate",
+      "en": "Ilha de Jeta - Pijate",
+      "slug": "ilha-de-jeta---pijate"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-jeta---pijate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-jeta---ponta-de-mumon",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Jeta - Ponta de Mumon",
+      "en": "Ilha de Jeta - Ponta de Mumon",
+      "slug": "ilha-de-jeta---ponta-de-mumon"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-jeta---ponta-de-mumon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-jeta---ponta-de-plindam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Jeta - Ponta de Plindam",
+      "en": "Ilha de Jeta - Ponta de Plindam",
+      "slug": "ilha-de-jeta---ponta-de-plindam"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-jeta---ponta-de-plindam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-jeta---ponta-de-ponton",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Jeta - Ponta de Ponton",
+      "en": "Ilha de Jeta - Ponta de Ponton",
+      "slug": "ilha-de-jeta---ponta-de-ponton"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-jeta---ponta-de-ponton",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-jeta---prit",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Jeta - PRIT",
+      "en": "Ilha de Jeta - PRIT",
+      "slug": "ilha-de-jeta---prit"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-jeta---prit",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-jeta---quecete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Jeta - QUECETE",
+      "en": "Ilha de Jeta - QUECETE",
+      "slug": "ilha-de-jeta---quecete"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-jeta---quecete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---baiagha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Baiagha",
+      "en": "Ilha de Pexice - Baiagha",
+      "slug": "ilha-de-pexice---baiagha"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---baiagha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---bes",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Bes",
+      "en": "Ilha de Pexice - Bes",
+      "slug": "ilha-de-pexice---bes"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---bes",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---biade-iefa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Biade Iefa",
+      "en": "Ilha de Pexice - Biade Iefa",
+      "slug": "ilha-de-pexice---biade-iefa"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---biade-iefa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---bieu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Bieu",
+      "en": "Ilha de Pexice - Bieu",
+      "slug": "ilha-de-pexice---bieu"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---bieu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---bissam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Bissam",
+      "en": "Ilha de Pexice - Bissam",
+      "slug": "ilha-de-pexice---bissam"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---bissam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---bissangue",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Bissangue",
+      "en": "Ilha de Pexice - Bissangue",
+      "slug": "ilha-de-pexice---bissangue"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---bissangue",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---bitcherbo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Bitcherbo",
+      "en": "Ilha de Pexice - Bitcherbo",
+      "slug": "ilha-de-pexice---bitcherbo"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---bitcherbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---biuntar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Biuntar",
+      "en": "Ilha de Pexice - Biuntar",
+      "slug": "ilha-de-pexice---biuntar"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---biuntar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---bleque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Bleque",
+      "en": "Ilha de Pexice - Bleque",
+      "slug": "ilha-de-pexice---bleque"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---bleque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---blote",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Blote",
+      "en": "Ilha de Pexice - Blote",
+      "slug": "ilha-de-pexice---blote"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---blote",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---buata",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Buata",
+      "en": "Ilha de Pexice - Buata",
+      "slug": "ilha-de-pexice---buata"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---buata",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---cabas",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Cabas",
+      "en": "Ilha de Pexice - Cabas",
+      "slug": "ilha-de-pexice---cabas"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---cabas",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---cacalam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Cacalam",
+      "en": "Ilha de Pexice - Cacalam",
+      "slug": "ilha-de-pexice---cacalam"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---cacalam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---cacante",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Cacante",
+      "en": "Ilha de Pexice - Cacante",
+      "slug": "ilha-de-pexice---cacante"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---cacante",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---cadei",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Cadei",
+      "en": "Ilha de Pexice - Cadei",
+      "slug": "ilha-de-pexice---cadei"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---cadei",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---calequesse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Calequesse",
+      "en": "Ilha de Pexice - Calequesse",
+      "slug": "ilha-de-pexice---calequesse"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---calequesse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---cambas",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Cambas",
+      "en": "Ilha de Pexice - Cambas",
+      "slug": "ilha-de-pexice---cambas"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---cambas",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---canhaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Canhaque",
+      "en": "Ilha de Pexice - Canhaque",
+      "slug": "ilha-de-pexice---canhaque"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---canhaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---cassaca-bulana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Cassaca Bulana",
+      "en": "Ilha de Pexice - Cassaca Bulana",
+      "slug": "ilha-de-pexice---cassaca-bulana"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---cassaca-bulana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---cassaca-cadem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Cassaca Cadem",
+      "en": "Ilha de Pexice - Cassaca Cadem",
+      "slug": "ilha-de-pexice---cassaca-cadem"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---cassaca-cadem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---cassaca-palabar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Cassaca Palabar",
+      "en": "Ilha de Pexice - Cassaca Palabar",
+      "slug": "ilha-de-pexice---cassaca-palabar"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---cassaca-palabar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---culaba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Culaba",
+      "en": "Ilha de Pexice - Culaba",
+      "slug": "ilha-de-pexice---culaba"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---culaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---dasier",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Dasier",
+      "en": "Ilha de Pexice - Dasier",
+      "slug": "ilha-de-pexice---dasier"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---dasier",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---dencasse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Dencasse",
+      "en": "Ilha de Pexice - Dencasse",
+      "slug": "ilha-de-pexice---dencasse"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---dencasse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---dien",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Dien",
+      "en": "Ilha de Pexice - Dien",
+      "slug": "ilha-de-pexice---dien"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---dien",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---iafa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Iafa",
+      "en": "Ilha de Pexice - Iafa",
+      "slug": "ilha-de-pexice---iafa"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---iafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---mabombolom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Mabombolom",
+      "en": "Ilha de Pexice - Mabombolom",
+      "slug": "ilha-de-pexice---mabombolom"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---mabombolom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---metampil",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Metampil",
+      "en": "Ilha de Pexice - Metampil",
+      "slug": "ilha-de-pexice---metampil"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---metampil",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---miel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Miel",
+      "en": "Ilha de Pexice - Miel",
+      "slug": "ilha-de-pexice---miel"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---miel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---njante",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - N´Jante",
+      "en": "Ilha de Pexice - N´Jante",
+      "slug": "ilha-de-pexice---njante"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---njante",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---nkam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - N´Kam",
+      "en": "Ilha de Pexice - N´Kam",
+      "slug": "ilha-de-pexice---nkam"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---nkam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---nmau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - N´Mau",
+      "en": "Ilha de Pexice - N´Mau",
+      "slug": "ilha-de-pexice---nmau"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---nmau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---ntal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - N´Tal",
+      "en": "Ilha de Pexice - N´Tal",
+      "slug": "ilha-de-pexice---ntal"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---ntal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---nangam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Nangam",
+      "en": "Ilha de Pexice - Nangam",
+      "slug": "ilha-de-pexice---nangam"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---nangam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---pacaual",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Pacaual",
+      "en": "Ilha de Pexice - Pacaual",
+      "slug": "ilha-de-pexice---pacaual"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---pacaual",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---paru",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Paru",
+      "en": "Ilha de Pexice - Paru",
+      "slug": "ilha-de-pexice---paru"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---paru",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---pegaque-reino",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Pegaque Reino",
+      "en": "Ilha de Pexice - Pegaque Reino",
+      "slug": "ilha-de-pexice---pegaque-reino"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---pegaque-reino",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---piol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Piol",
+      "en": "Ilha de Pexice - Piol",
+      "slug": "ilha-de-pexice---piol"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---piol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---pudjucat",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Pudjucat",
+      "en": "Ilha de Pexice - Pudjucat",
+      "slug": "ilha-de-pexice---pudjucat"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---pudjucat",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---pumoa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Pumoa",
+      "en": "Ilha de Pexice - Pumoa",
+      "slug": "ilha-de-pexice---pumoa"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---pumoa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---reino-de-ntampil",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Reino de N´Tampil",
+      "en": "Ilha de Pexice - Reino de N´Tampil",
+      "slug": "ilha-de-pexice---reino-de-ntampil"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---reino-de-ntampil",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---reino-do-ndafa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Reino do N´Dafa",
+      "en": "Ilha de Pexice - Reino do N´Dafa",
+      "slug": "ilha-de-pexice---reino-do-ndafa"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---reino-do-ndafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---tepil",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Tepil",
+      "en": "Ilha de Pexice - Tepil",
+      "slug": "ilha-de-pexice---tepil"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---tepil",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---ubisse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Ubisse",
+      "en": "Ilha de Pexice - Ubisse",
+      "slug": "ilha-de-pexice---ubisse"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---ubisse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---ul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Ul",
+      "en": "Ilha de Pexice - Ul",
+      "slug": "ilha-de-pexice---ul"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---ul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ilha-de-pexice---umua",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Pexice - Umua",
+      "en": "Ilha de Pexice - Umua",
+      "slug": "ilha-de-pexice---umua"
+    },
+    "code": {
+      "id": "GW0404_ilha-de-pexice---umua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ponta-cabral-gomes",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Cabral Gomes",
+      "en": "Ponta Cabral Gomes",
+      "slug": "ponta-cabral-gomes"
+    },
+    "code": {
+      "id": "GW0404_ponta-cabral-gomes",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ponta-da-pedra",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta da Pedra",
+      "en": "Ponta da Pedra",
+      "slug": "ponta-da-pedra"
+    },
+    "code": {
+      "id": "GW0404_ponta-da-pedra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ponta-mansotchor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Mansotchor",
+      "en": "Ponta Mansotchor",
+      "slug": "ponta-mansotchor"
+    },
+    "code": {
+      "id": "GW0404_ponta-mansotchor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ponta-miguel-pereira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Miguel Pereira",
+      "en": "Ponta Miguel Pereira",
+      "slug": "ponta-miguel-pereira"
+    },
+    "code": {
+      "id": "GW0404_ponta-miguel-pereira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_ponta-singo-da-costa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Singo da Costa",
+      "en": "Ponta Singo da Costa",
+      "slug": "ponta-singo-da-costa"
+    },
+    "code": {
+      "id": "GW0404_ponta-singo-da-costa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_pupal-bighi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pupal (Bighi)",
+      "en": "Pupal (Bighi)",
+      "slug": "pupal-bighi"
+    },
+    "code": {
+      "id": "GW0404_pupal-bighi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_pupal-bissoi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pupal (Bissoi)",
+      "en": "Pupal (Bissoi)",
+      "slug": "pupal-bissoi"
+    },
+    "code": {
+      "id": "GW0404_pupal-bissoi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_pupal-cacilintchi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pupal (Cacilintchi)",
+      "en": "Pupal (Cacilintchi)",
+      "slug": "pupal-cacilintchi"
+    },
+    "code": {
+      "id": "GW0404_pupal-cacilintchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_pupal-domecaritchi",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pupal (Domecaritchi)",
+      "en": "Pupal (Domecaritchi)",
+      "slug": "pupal-domecaritchi"
+    },
+    "code": {
+      "id": "GW0404_pupal-domecaritchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_pupal-meriek",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pupal (Meriek)",
+      "en": "Pupal (Meriek)",
+      "slug": "pupal-meriek"
+    },
+    "code": {
+      "id": "GW0404_pupal-meriek",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_pupal-nhocab",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pupal (Nhocab)",
+      "en": "Pupal (Nhocab)",
+      "slug": "pupal-nhocab"
+    },
+    "code": {
+      "id": "GW0404_pupal-nhocab",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_pupal-peil",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pupal (Peil)",
+      "en": "Pupal (Peil)",
+      "slug": "pupal-peil"
+    },
+    "code": {
+      "id": "GW0404_pupal-peil",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_pupal-pilontoro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pupal (Pilontoro)",
+      "en": "Pupal (Pilontoro)",
+      "slug": "pupal-pilontoro"
+    },
+    "code": {
+      "id": "GW0404_pupal-pilontoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_pupal-plombar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pupal (Plombar)",
+      "en": "Pupal (Plombar)",
+      "slug": "pupal-plombar"
+    },
+    "code": {
+      "id": "GW0404_pupal-plombar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_temambu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Temambu",
+      "en": "Temambu",
+      "slug": "temambu"
+    },
+    "code": {
+      "id": "GW0404_temambu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_tubebe-utchand-ubibie",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tubebe Utchand Ubibie",
+      "en": "Tubebe Utchand Ubibie",
+      "slug": "tubebe-utchand-ubibie"
+    },
+    "code": {
+      "id": "GW0404_tubebe-utchand-ubibie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0404_tubebe-utchand-urala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tubebe Utchand Urala",
+      "en": "Tubebe Utchand Urala",
+      "slug": "tubebe-utchand-urala"
+    },
+    "code": {
+      "id": "GW0404_tubebe-utchand-urala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0404",
+      "level": 2,
+      "name": {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0404",
+        "level": 2,
+        "name": {
+          "local": "Caio",
+          "en": "Caio",
+          "slug": "caio-gw0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.952",
+      "lon": "-16.181"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

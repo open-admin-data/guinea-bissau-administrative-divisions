@@ -1,0 +1,6320 @@
+[
+  {
+    "id": "GW0406_asselem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Asselem",
+      "en": "Asselem",
+      "slug": "asselem"
+    },
+    "code": {
+      "id": "GW0406_asselem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_atanque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Atanque",
+      "en": "Atanque",
+      "slug": "atanque"
+    },
+    "code": {
+      "id": "GW0406_atanque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_atelene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Atelene",
+      "en": "Atelene",
+      "slug": "atelene"
+    },
+    "code": {
+      "id": "GW0406_atelene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_atem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Atem",
+      "en": "Atem",
+      "slug": "atem"
+    },
+    "code": {
+      "id": "GW0406_atem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_babonda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Babonda",
+      "en": "Babonda",
+      "slug": "babonda"
+    },
+    "code": {
+      "id": "GW0406_babonda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.433",
+      "lon": "-16.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_badique-felupe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Badique Felupe",
+      "en": "Badique Felupe",
+      "slug": "badique-felupe"
+    },
+    "code": {
+      "id": "GW0406_badique-felupe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_badique-manjaco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Badique Manjaco",
+      "en": "Badique Manjaco",
+      "slug": "badique-manjaco"
+    },
+    "code": {
+      "id": "GW0406_badique-manjaco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_bangadondo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bangadondo",
+      "en": "Bangadondo",
+      "slug": "bangadondo"
+    },
+    "code": {
+      "id": "GW0406_bangadondo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_banhino",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Banhino",
+      "en": "Banhino",
+      "slug": "banhino"
+    },
+    "code": {
+      "id": "GW0406_banhino",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_barraca-banana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barraca Banana",
+      "en": "Barraca Banana",
+      "slug": "barraca-banana"
+    },
+    "code": {
+      "id": "GW0406_barraca-banana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.467",
+      "lon": "-16.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_barraca-batata-ponta-rosa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barraca Batata (Ponta Rosa)",
+      "en": "Barraca Batata (Ponta Rosa)",
+      "slug": "barraca-batata-ponta-rosa"
+    },
+    "code": {
+      "id": "GW0406_barraca-batata-ponta-rosa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_barraca-biro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barraca Biro",
+      "en": "Barraca Biro",
+      "slug": "barraca-biro"
+    },
+    "code": {
+      "id": "GW0406_barraca-biro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.433",
+      "lon": "-16.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_barraca-bugo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barraca Bugo",
+      "en": "Barraca Bugo",
+      "slug": "barraca-bugo"
+    },
+    "code": {
+      "id": "GW0406_barraca-bugo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_barraca-coilao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barraca Coilao",
+      "en": "Barraca Coilao",
+      "slug": "barraca-coilao"
+    },
+    "code": {
+      "id": "GW0406_barraca-coilao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_barraca-froteira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barraca Froteira",
+      "en": "Barraca Froteira",
+      "slug": "barraca-froteira"
+    },
+    "code": {
+      "id": "GW0406_barraca-froteira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_barraca-lugar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barraca Lugar",
+      "en": "Barraca Lugar",
+      "slug": "barraca-lugar"
+    },
+    "code": {
+      "id": "GW0406_barraca-lugar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.435",
+      "lon": "-16.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_barraca-mandioca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barraca Mandioca",
+      "en": "Barraca Mandioca",
+      "slug": "barraca-mandioca"
+    },
+    "code": {
+      "id": "GW0406_barraca-mandioca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.433",
+      "lon": "-16.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_barraca-tara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barraca Tara",
+      "en": "Barraca Tara",
+      "slug": "barraca-tara"
+    },
+    "code": {
+      "id": "GW0406_barraca-tara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_bassear",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bassear",
+      "en": "Bassear",
+      "slug": "bassear"
+    },
+    "code": {
+      "id": "GW0406_bassear",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.339",
+      "lon": "-16.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_basseor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Basseor",
+      "en": "Basseor",
+      "slug": "basseor"
+    },
+    "code": {
+      "id": "GW0406_basseor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_batchanhor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Batchanhor",
+      "en": "Batchanhor",
+      "slug": "batchanhor"
+    },
+    "code": {
+      "id": "GW0406_batchanhor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_berebe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Berebe",
+      "en": "Berebe",
+      "slug": "berebe"
+    },
+    "code": {
+      "id": "GW0406_berebe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.386",
+      "lon": "-16.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_biguingue-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Biguingue I",
+      "en": "Biguingue I",
+      "slug": "biguingue-i"
+    },
+    "code": {
+      "id": "GW0406_biguingue-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_biguingue-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Biguingue II",
+      "en": "Biguingue II",
+      "slug": "biguingue-ii"
+    },
+    "code": {
+      "id": "GW0406_biguingue-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_bissali",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissali",
+      "en": "Bissali",
+      "slug": "bissali"
+    },
+    "code": {
+      "id": "GW0406_bissali",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_budjim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Budjim",
+      "en": "Budjim",
+      "slug": "budjim"
+    },
+    "code": {
+      "id": "GW0406_budjim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_bufa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bufa",
+      "en": "Bufa",
+      "slug": "bufa"
+    },
+    "code": {
+      "id": "GW0406_bufa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.359",
+      "lon": "-16.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_bugundo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bugundo",
+      "en": "Bugundo",
+      "slug": "bugundo"
+    },
+    "code": {
+      "id": "GW0406_bugundo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_bulol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bulol",
+      "en": "Bulol",
+      "slug": "bulol"
+    },
+    "code": {
+      "id": "GW0406_bulol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cacheuzinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cacheuzinho",
+      "en": "Cacheuzinho",
+      "slug": "cacheuzinho"
+    },
+    "code": {
+      "id": "GW0406_cacheuzinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.367",
+      "lon": "-16.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cacica",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cacica",
+      "en": "Cacica",
+      "slug": "cacica"
+    },
+    "code": {
+      "id": "GW0406_cacica",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cadenba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cadenba",
+      "en": "Cadenba",
+      "slug": "cadenba"
+    },
+    "code": {
+      "id": "GW0406_cadenba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_calage-central",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Calage Central",
+      "en": "Calage Central",
+      "slug": "calage-central"
+    },
+    "code": {
+      "id": "GW0406_calage-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_calage-oputche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Calage Oputche",
+      "en": "Calage Oputche",
+      "slug": "calage-oputche"
+    },
+    "code": {
+      "id": "GW0406_calage-oputche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_calagezinho-dgequemendo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Calagezinho (Dgequemendo II)",
+      "en": "Calagezinho (Dgequemendo II)",
+      "slug": "calagezinho-dgequemendo-ii"
+    },
+    "code": {
+      "id": "GW0406_calagezinho-dgequemendo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_campada-bagao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campada Bagaço",
+      "en": "Campada Bagaço",
+      "slug": "campada-bagao"
+    },
+    "code": {
+      "id": "GW0406_campada-bagao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_campada-bleque-joao-bico-limao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campada Bleque (Joao Bico Limao)",
+      "en": "Campada Bleque (Joao Bico Limao)",
+      "slug": "campada-bleque-joao-bico-limao"
+    },
+    "code": {
+      "id": "GW0406_campada-bleque-joao-bico-limao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_campada-bleque-naga-nova",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campada Bleque Naga (Nova)",
+      "en": "Campada Bleque Naga (Nova)",
+      "slug": "campada-bleque-naga-nova"
+    },
+    "code": {
+      "id": "GW0406_campada-bleque-naga-nova",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_campada-bleque-nule",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campada Bleque Nule",
+      "en": "Campada Bleque Nule",
+      "slug": "campada-bleque-nule"
+    },
+    "code": {
+      "id": "GW0406_campada-bleque-nule",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_campada-bleque-puboss",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campada Bleque Puboss",
+      "en": "Campada Bleque Puboss",
+      "slug": "campada-bleque-puboss"
+    },
+    "code": {
+      "id": "GW0406_campada-bleque-puboss",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_campada-namonte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campada Namonte",
+      "en": "Campada Namonte",
+      "slug": "campada-namonte"
+    },
+    "code": {
+      "id": "GW0406_campada-namonte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_campada-papai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campada Papai",
+      "en": "Campada Papai",
+      "slug": "campada-papai"
+    },
+    "code": {
+      "id": "GW0406_campada-papai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_campada-quartel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campada Quartel",
+      "en": "Campada Quartel",
+      "slug": "campada-quartel"
+    },
+    "code": {
+      "id": "GW0406_campada-quartel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cansso-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cansso I",
+      "en": "Cansso I",
+      "slug": "cansso-i"
+    },
+    "code": {
+      "id": "GW0406_cansso-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cansso-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cansso II",
+      "en": "Cansso II",
+      "slug": "cansso-ii"
+    },
+    "code": {
+      "id": "GW0406_cansso-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cassalol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassalol",
+      "en": "Cassalol",
+      "slug": "cassalol"
+    },
+    "code": {
+      "id": "GW0406_cassalol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.325",
+      "lon": "-16.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cassalol-catetia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassalol (Catetia)",
+      "en": "Cassalol (Catetia)",
+      "slug": "cassalol-catetia"
+    },
+    "code": {
+      "id": "GW0406_cassalol-catetia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.341",
+      "lon": "-16.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cassalol-indiame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassalol Indiame",
+      "en": "Cassalol Indiame",
+      "slug": "cassalol-indiame"
+    },
+    "code": {
+      "id": "GW0406_cassalol-indiame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.332",
+      "lon": "-16.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cassu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cassu",
+      "en": "Cassu",
+      "slug": "cassu"
+    },
+    "code": {
+      "id": "GW0406_cassu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_catao-butame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catao Butame",
+      "en": "Catao Butame",
+      "slug": "catao-butame"
+    },
+    "code": {
+      "id": "GW0406_catao-butame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.301",
+      "lon": "-16.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_catao-calenquin",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catao Calenquin",
+      "en": "Catao Calenquin",
+      "slug": "catao-calenquin"
+    },
+    "code": {
+      "id": "GW0406_catao-calenquin",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_catao-cassica",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catao Cassica",
+      "en": "Catao Cassica",
+      "slug": "catao-cassica"
+    },
+    "code": {
+      "id": "GW0406_catao-cassica",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_catao-jonique-edjonique",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catao Jonique (Edjonique)",
+      "en": "Catao Jonique (Edjonique)",
+      "slug": "catao-jonique-edjonique"
+    },
+    "code": {
+      "id": "GW0406_catao-jonique-edjonique",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cauale",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cauale",
+      "en": "Cauale",
+      "slug": "cauale"
+    },
+    "code": {
+      "id": "GW0406_cauale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cidade-de-sao-domingos-bairro-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE SaO DOMINGOS Bairro 1",
+      "en": "CIDADE DE SaO DOMINGOS Bairro 1",
+      "slug": "cidade-de-sao-domingos-bairro-1"
+    },
+    "code": {
+      "id": "GW0406_cidade-de-sao-domingos-bairro-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cidade-de-sao-domingos-bairro-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE SaO DOMINGOS Bairro 2",
+      "en": "CIDADE DE SaO DOMINGOS Bairro 2",
+      "slug": "cidade-de-sao-domingos-bairro-2"
+    },
+    "code": {
+      "id": "GW0406_cidade-de-sao-domingos-bairro-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cidade-de-sao-domingos-bairro-3",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE SaO DOMINGOS Bairro 3",
+      "en": "CIDADE DE SaO DOMINGOS Bairro 3",
+      "slug": "cidade-de-sao-domingos-bairro-3"
+    },
+    "code": {
+      "id": "GW0406_cidade-de-sao-domingos-bairro-3",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cidade-de-sao-domingos-bairro-4-ajuda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE SaO DOMINGOS Bairro 4 (Ajuda)",
+      "en": "CIDADE DE SaO DOMINGOS Bairro 4 (Ajuda)",
+      "slug": "cidade-de-sao-domingos-bairro-4-ajuda"
+    },
+    "code": {
+      "id": "GW0406_cidade-de-sao-domingos-bairro-4-ajuda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cidade-de-sao-domingos-bairro-4-correntas",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE SaO DOMINGOS Bairro 4 (Correntas)",
+      "en": "CIDADE DE SaO DOMINGOS Bairro 4 (Correntas)",
+      "slug": "cidade-de-sao-domingos-bairro-4-correntas"
+    },
+    "code": {
+      "id": "GW0406_cidade-de-sao-domingos-bairro-4-correntas",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cidade-de-sao-domingos-bairro-4-marcunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE SaO DOMINGOS Bairro 4 (Marcunda)",
+      "en": "CIDADE DE SaO DOMINGOS Bairro 4 (Marcunda)",
+      "slug": "cidade-de-sao-domingos-bairro-4-marcunda"
+    },
+    "code": {
+      "id": "GW0406_cidade-de-sao-domingos-bairro-4-marcunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cidade-de-sao-domingos-bairro-4-tchete-binhim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE SaO DOMINGOS Bairro 4 (Tchete Binhim)",
+      "en": "CIDADE DE SaO DOMINGOS Bairro 4 (Tchete Binhim)",
+      "slug": "cidade-de-sao-domingos-bairro-4-tchete-binhim"
+    },
+    "code": {
+      "id": "GW0406_cidade-de-sao-domingos-bairro-4-tchete-binhim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cidade-de-sao-domingos-bairro-5",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE SaO DOMINGOS Bairro 5",
+      "en": "CIDADE DE SaO DOMINGOS Bairro 5",
+      "slug": "cidade-de-sao-domingos-bairro-5"
+    },
+    "code": {
+      "id": "GW0406_cidade-de-sao-domingos-bairro-5",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cidade-de-sao-domingos-bairro-6-cupelum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE SaO DOMINGOS Bairro 6 (Cupelum)",
+      "en": "CIDADE DE SaO DOMINGOS Bairro 6 (Cupelum)",
+      "slug": "cidade-de-sao-domingos-bairro-6-cupelum"
+    },
+    "code": {
+      "id": "GW0406_cidade-de-sao-domingos-bairro-6-cupelum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cidade-de-sao-domingos-bairro-6-lanque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CIDADE DE SaO DOMINGOS Bairro 6 (Lanque)",
+      "en": "CIDADE DE SaO DOMINGOS Bairro 6 (Lanque)",
+      "slug": "cidade-de-sao-domingos-bairro-6-lanque"
+    },
+    "code": {
+      "id": "GW0406_cidade-de-sao-domingos-bairro-6-lanque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cubampor-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cubampor Balanta",
+      "en": "Cubampor Balanta",
+      "slug": "cubampor-balanta"
+    },
+    "code": {
+      "id": "GW0406_cubampor-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cubampor-felupe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cubampor Felupe",
+      "en": "Cubampor Felupe",
+      "slug": "cubampor-felupe"
+    },
+    "code": {
+      "id": "GW0406_cubampor-felupe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_cubampor-manjaco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cubampor Manjaco",
+      "en": "Cubampor Manjaco",
+      "slug": "cubampor-manjaco"
+    },
+    "code": {
+      "id": "GW0406_cubampor-manjaco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_danhobam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Danhobam",
+      "en": "Danhobam",
+      "slug": "danhobam"
+    },
+    "code": {
+      "id": "GW0406_danhobam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_djegue-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djegue I",
+      "en": "Djegue I",
+      "slug": "djegue-i"
+    },
+    "code": {
+      "id": "GW0406_djegue-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_djegue-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djegue II",
+      "en": "Djegue II",
+      "slug": "djegue-ii"
+    },
+    "code": {
+      "id": "GW0406_djegue-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_djifunco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djifunco",
+      "en": "Djifunco",
+      "slug": "djifunco"
+    },
+    "code": {
+      "id": "GW0406_djifunco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_djiquim-bul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djiquim Bul",
+      "en": "Djiquim Bul",
+      "slug": "djiquim-bul"
+    },
+    "code": {
+      "id": "GW0406_djiquim-bul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_ducujaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ducujaque",
+      "en": "Ducujaque",
+      "slug": "ducujaque"
+    },
+    "code": {
+      "id": "GW0406_ducujaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_edgim-djongofer",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Edgim Djongofer",
+      "en": "Edgim Djongofer",
+      "slug": "edgim-djongofer"
+    },
+    "code": {
+      "id": "GW0406_edgim-djongofer",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_edgim-odjoe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Edgim Odjoe",
+      "en": "Edgim Odjoe",
+      "slug": "edgim-odjoe"
+    },
+    "code": {
+      "id": "GW0406_edgim-odjoe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_edgim-sao-paulo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Edgim Sao Paulo",
+      "en": "Edgim Sao Paulo",
+      "slug": "edgim-sao-paulo"
+    },
+    "code": {
+      "id": "GW0406_edgim-sao-paulo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_ejatene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ejatene",
+      "en": "Ejatene",
+      "slug": "ejatene"
+    },
+    "code": {
+      "id": "GW0406_ejatene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_elalab-etia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Elalab Etia",
+      "en": "Elalab Etia",
+      "slug": "elalab-etia"
+    },
+    "code": {
+      "id": "GW0406_elalab-etia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_elia-bubune",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Elia Bubune",
+      "en": "Elia Bubune",
+      "slug": "elia-bubune"
+    },
+    "code": {
+      "id": "GW0406_elia-bubune",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_elia-caem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Elia Caem",
+      "en": "Elia Caem",
+      "slug": "elia-caem"
+    },
+    "code": {
+      "id": "GW0406_elia-caem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_elia-ebac",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Elia Ebac",
+      "en": "Elia Ebac",
+      "slug": "elia-ebac"
+    },
+    "code": {
+      "id": "GW0406_elia-ebac",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_elia-negio",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Elia Negio",
+      "en": "Elia Negio",
+      "slug": "elia-negio"
+    },
+    "code": {
+      "id": "GW0406_elia-negio",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_eossor-sibano",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Eossor (Sibano)",
+      "en": "Eossor (Sibano)",
+      "slug": "eossor-sibano"
+    },
+    "code": {
+      "id": "GW0406_eossor-sibano",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_eubaluma-obaluma",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Eubaluma (obaluma)",
+      "en": "Eubaluma (obaluma)",
+      "slug": "eubaluma-obaluma"
+    },
+    "code": {
+      "id": "GW0406_eubaluma-obaluma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_gondo-grande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gondo Grande",
+      "en": "Gondo Grande",
+      "slug": "gondo-grande"
+    },
+    "code": {
+      "id": "GW0406_gondo-grande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.429",
+      "lon": "-16.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_gondozinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gondozinho",
+      "en": "Gondozinho",
+      "slug": "gondozinho"
+    },
+    "code": {
+      "id": "GW0406_gondozinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.417",
+      "lon": "-16.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_guinalcunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Guinalcunda",
+      "en": "Guinalcunda",
+      "slug": "guinalcunda"
+    },
+    "code": {
+      "id": "GW0406_guinalcunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_ilha-djobel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha Djobel",
+      "en": "Ilha Djobel",
+      "slug": "ilha-djobel"
+    },
+    "code": {
+      "id": "GW0406_ilha-djobel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_jamosson",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jamosson",
+      "en": "Jamosson",
+      "slug": "jamosson"
+    },
+    "code": {
+      "id": "GW0406_jamosson",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_jugul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jugul",
+      "en": "Jugul",
+      "slug": "jugul"
+    },
+    "code": {
+      "id": "GW0406_jugul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.398",
+      "lon": "-16.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_lala-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lala I",
+      "en": "Lala I",
+      "slug": "lala-i"
+    },
+    "code": {
+      "id": "GW0406_lala-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_mbaia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "M´Baia",
+      "en": "M´Baia",
+      "slug": "mbaia"
+    },
+    "code": {
+      "id": "GW0406_mbaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_madina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina",
+      "en": "Madina",
+      "slug": "madina"
+    },
+    "code": {
+      "id": "GW0406_madina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-14.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_mato-calage-dgequemendo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mato Calage (Dgequemendo I)",
+      "en": "Mato Calage (Dgequemendo I)",
+      "slug": "mato-calage-dgequemendo-i"
+    },
+    "code": {
+      "id": "GW0406_mato-calage-dgequemendo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_mato-de-arame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mato de Arame",
+      "en": "Mato de Arame",
+      "slug": "mato-de-arame"
+    },
+    "code": {
+      "id": "GW0406_mato-de-arame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_nema-grande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nema Grande",
+      "en": "Nema Grande",
+      "slug": "nema-grande"
+    },
+    "code": {
+      "id": "GW0406_nema-grande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_nemazinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nemazinho",
+      "en": "Nemazinho",
+      "slug": "nemazinho"
+    },
+    "code": {
+      "id": "GW0406_nemazinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.433",
+      "lon": "-16.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_nhambala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhambala",
+      "en": "Nhambala",
+      "slug": "nhambala"
+    },
+    "code": {
+      "id": "GW0406_nhambala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.39",
+      "lon": "-16.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_nhataba-cobiana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhataba Cobiana",
+      "en": "Nhataba Cobiana",
+      "slug": "nhataba-cobiana"
+    },
+    "code": {
+      "id": "GW0406_nhataba-cobiana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_nhataba-nanja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhataba Nanja",
+      "en": "Nhataba Nanja",
+      "slug": "nhataba-nanja"
+    },
+    "code": {
+      "id": "GW0406_nhataba-nanja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_nhiquine",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhiquine",
+      "en": "Nhiquine",
+      "slug": "nhiquine"
+    },
+    "code": {
+      "id": "GW0406_nhiquine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_poilao-leao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Poilao Leao",
+      "en": "Poilao Leao",
+      "slug": "poilao-leao"
+    },
+    "code": {
+      "id": "GW0406_poilao-leao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_ponta-augusto-barreto-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Augusto Barreto I",
+      "en": "Ponta Augusto Barreto I",
+      "slug": "ponta-augusto-barreto-i"
+    },
+    "code": {
+      "id": "GW0406_ponta-augusto-barreto-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_ponta-augusto-barreto-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Augusto Barreto II",
+      "en": "Ponta Augusto Barreto II",
+      "slug": "ponta-augusto-barreto-ii"
+    },
+    "code": {
+      "id": "GW0406_ponta-augusto-barreto-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_ponta-becada-sao-jorge",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Becada (Sao Jorge)",
+      "en": "Ponta Becada (Sao Jorge)",
+      "slug": "ponta-becada-sao-jorge"
+    },
+    "code": {
+      "id": "GW0406_ponta-becada-sao-jorge",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_queruei-caruei",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Queruei (Caruei)",
+      "en": "Queruei (Caruei)",
+      "slug": "queruei-caruei"
+    },
+    "code": {
+      "id": "GW0406_queruei-caruei",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_sacavem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sacavem",
+      "en": "Sacavem",
+      "slug": "sacavem"
+    },
+    "code": {
+      "id": "GW0406_sacavem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_sanco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sanco",
+      "en": "Sanco",
+      "slug": "sanco"
+    },
+    "code": {
+      "id": "GW0406_sanco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_sandina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sandina",
+      "en": "Sandina",
+      "slug": "sandina"
+    },
+    "code": {
+      "id": "GW0406_sandina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_sao-domingo-alto-e-fresco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sao Domingo (Alto e Fresco)",
+      "en": "Sao Domingo (Alto e Fresco)",
+      "slug": "sao-domingo-alto-e-fresco"
+    },
+    "code": {
+      "id": "GW0406_sao-domingo-alto-e-fresco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_suncototo-tabanca-nova",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Suncototo Tabanca Nova",
+      "en": "Suncototo Tabanca Nova",
+      "slug": "suncototo-tabanca-nova"
+    },
+    "code": {
+      "id": "GW0406_suncototo-tabanca-nova",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_suncutoto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Suncutoto",
+      "en": "Suncutoto",
+      "slug": "suncutoto"
+    },
+    "code": {
+      "id": "GW0406_suncutoto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.4",
+      "lon": "-16.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_suzana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "SUZANA",
+      "en": "SUZANA",
+      "slug": "suzana"
+    },
+    "code": {
+      "id": "GW0406_suzana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_tabanca-nova",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tabanca Nova",
+      "en": "Tabanca Nova",
+      "slug": "tabanca-nova"
+    },
+    "code": {
+      "id": "GW0406_tabanca-nova",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.467",
+      "lon": "-15.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_tefes",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tefes",
+      "en": "Tefes",
+      "slug": "tefes"
+    },
+    "code": {
+      "id": "GW0406_tefes",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_tenhate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tenhate",
+      "en": "Tenhate",
+      "slug": "tenhate"
+    },
+    "code": {
+      "id": "GW0406_tenhate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.345",
+      "lon": "-16.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0406_varela-ial",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Varela (Ial)",
+      "en": "Varela (Ial)",
+      "slug": "varela-ial"
+    },
+    "code": {
+      "id": "GW0406_varela-ial",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0406",
+      "level": 2,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0406",
+        "level": 2,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-gw0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.321",
+      "lon": "-16.364"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

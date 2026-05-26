@@ -1,0 +1,30 @@
+{
+  "id": "GW08",
+  "level": 1,
+  "level_name": {
+    "local": "Região",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Bissau",
+    "en": "Bissau",
+    "slug": "bissau-gw08"
+  },
+  "code": {
+    "id": "GW08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sector": 1,
+    "tabanca": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.869",
+    "lon": "-15.612"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,3322 @@
+# Oio — Guinea-Bissau Administrative Divisions
+
+> 5 sectors, 822 tabancas
+> Code: GW06
+> Coordinates: 12.287, -15.341
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Sectors
+
+### Bissora
+
+Code: GW0601, Coordinates: 12.198, -15.503
+Tabancas: 182
+
+#### Abanta
+
+Code: GW0601_abanta, Coordinates: 12.198, -15.503
+
+#### Asanha Clonca
+
+Code: GW0601_asanha-clonca, Coordinates: 12.198, -15.503
+
+#### Banculene
+
+Code: GW0601_banculene, Coordinates: 12.198, -15.503
+
+#### Beduir
+
+Code: GW0601_beduir, Coordinates: 12.198, -15.503
+
+#### Bera
+
+Code: GW0601_bera, Coordinates: 12.043, -15.6
+
+#### Beraco
+
+Code: GW0601_beraco, Coordinates: 12.233, -15.383
+
+#### Biambe - I
+
+Code: GW0601_biambe---i, Coordinates: 12.198, -15.503
+
+#### Biambe - II
+
+Code: GW0601_biambe---ii, Coordinates: 12.198, -15.503
+
+#### Bija ( Bidja )
+
+Code: GW0601_bija-bidja, Coordinates: 12.198, -15.503
+
+#### Binaga
+
+Code: GW0601_binaga, Coordinates: 12.333, -15.533
+
+#### Binar
+
+Code: GW0601_binar, Coordinates: 12.099, -15.624
+
+#### Binhome
+
+Code: GW0601_binhome, Coordinates: 12.198, -15.503
+
+#### Bissau Novo
+
+Code: GW0601_bissau-novo, Coordinates: 11.867, -15.6
+
+#### Bissum Naga
+
+Code: GW0601_bissum-naga, Coordinates: 12.198, -15.503
+
+#### Blafetchur
+
+Code: GW0601_blafetchur, Coordinates: 12.198, -15.503
+
+#### Blassar - II
+
+Code: GW0601_blassar---ii, Coordinates: 12.198, -15.503
+
+#### Blassar- I
+
+Code: GW0601_blassar--i, Coordinates: 12.198, -15.503
+
+#### Boda Nascente
+
+Code: GW0601_boda-nascente, Coordinates: 12.198, -15.503
+
+#### Brum
+
+Code: GW0601_brum, Coordinates: 12.198, -15.503
+
+#### Bucamar
+
+Code: GW0601_bucamar, Coordinates: 12.198, -15.503
+
+#### Bucaur
+
+Code: GW0601_bucaur, Coordinates: 12.32, -15.484
+
+#### Bude
+
+Code: GW0601_bude, Coordinates: 12.283, -14.933
+
+#### Bunghara - I
+
+Code: GW0601_bunghara---i, Coordinates: 12.198, -15.503
+
+#### Bunghara - II
+
+Code: GW0601_bunghara---ii, Coordinates: 12.198, -15.503
+
+#### Cadjaque
+
+Code: GW0601_cadjaque, Coordinates: 12.198, -15.503
+
+#### California
+
+Code: GW0601_california, Coordinates: 11.917, -15.783
+
+#### Cangha Cokri
+
+Code: GW0601_cangha-cokri, Coordinates: 12.198, -15.503
+
+#### Cangha Mar
+
+Code: GW0601_cangha-mar, Coordinates: 12.198, -15.503
+
+#### Cangha Nhaque
+
+Code: GW0601_cangha-nhaque, Coordinates: 12.198, -15.503
+
+#### Cangha Tchugal
+
+Code: GW0601_cangha-tchugal, Coordinates: 12.198, -15.503
+
+#### Cardaga
+
+Code: GW0601_cardaga, Coordinates: 12.198, -15.503
+
+#### Catche
+
+Code: GW0601_catche, Coordinates: 12.198, -15.503
+
+#### Caual - I
+
+Code: GW0601_caual---i, Coordinates: 12.198, -15.503
+
+#### Caubato
+
+Code: GW0601_caubato, Coordinates: 12.198, -15.503
+
+#### Cidade de Bissora Bairro Braga
+
+Code: GW0601_cidade-de-bissora-bairro-braga, Coordinates: 12.198, -15.503
+
+#### Cidade de Bissora Bairro Ga-Banana
+
+Code: GW0601_cidade-de-bissora-bairro-ga-banana, Coordinates: 12.198, -15.503
+
+#### Cidade de Bissora Bairro Ga-Cemiterio
+
+Code: GW0601_cidade-de-bissora-bairro-ga-cemiterio, Coordinates: 12.198, -15.503
+
+#### Cidade de Bissora Bairro Ga-Djugude
+
+Code: GW0601_cidade-de-bissora-bairro-ga-djugude, Coordinates: 12.198, -15.503
+
+#### Cidade de Bissora Bairro Joaquim M&#39;Com
+
+Code: GW0601_cidade-de-bissora-bairro-joaquim-mcom, Coordinates: 12.198, -15.503
+
+#### Cidade de Bissora Bairro Missira
+
+Code: GW0601_cidade-de-bissora-bairro-missira, Coordinates: 12.198, -15.503
+
+#### Cidade de Bissora Bairro Outra Banda
+
+Code: GW0601_cidade-de-bissora-bairro-outra-banda, Coordinates: 12.198, -15.503
+
+#### Cidade de Bissora Bairro Praca
+
+Code: GW0601_cidade-de-bissora-bairro-praca, Coordinates: 12.198, -15.503
+
+#### Cidade de Bissora Bairro Santa Luzia
+
+Code: GW0601_cidade-de-bissora-bairro-santa-luzia, Coordinates: 12.198, -15.503
+
+#### Cidade de Bissora Bairro Sintcha
+
+Code: GW0601_cidade-de-bissora-bairro-sintcha, Coordinates: 12.198, -15.503
+
+#### Claque de Intente - II
+
+Code: GW0601_claque-de-intente---ii, Coordinates: 12.198, -15.503
+
+#### Clonque
+
+Code: GW0601_clonque, Coordinates: 12.068, -15.499
+
+#### Cloque N quinteda
+
+Code: GW0601_cloque-n-quinteda, Coordinates: 12.198, -15.503
+
+#### Cobum
+
+Code: GW0601_cobum, Coordinates: 12.198, -15.503
+
+#### Comico
+
+Code: GW0601_comico, Coordinates: 12.198, -15.503
+
+#### Concolim Balanta Encheia
+
+Code: GW0601_concolim-balanta-encheia, Coordinates: 12.198, -15.503
+
+#### Concolim Balanta Mane
+
+Code: GW0601_concolim-balanta-mane, Coordinates: 12.198, -15.503
+
+#### Concolim Cabo-Verde
+
+Code: GW0601_concolim-cabo-verde, Coordinates: 12.198, -15.503
+
+#### Concolim Mandinga
+
+Code: GW0601_concolim-mandinga, Coordinates: 12.198, -15.503
+
+#### Conhuncom
+
+Code: GW0601_conhuncom, Coordinates: 12.198, -15.503
+
+#### Contuba - I
+
+Code: GW0601_contuba---i, Coordinates: 12.198, -15.503
+
+#### Corem
+
+Code: GW0601_corem, Coordinates: 12.198, -15.503
+
+#### Cosseba
+
+Code: GW0601_cosseba, Coordinates: 12.198, -15.503
+
+#### Cossicunto
+
+Code: GW0601_cossicunto, Coordinates: 12.198, -15.503
+
+#### Cubui
+
+Code: GW0601_cubui, Coordinates: 12.198, -15.503
+
+#### Culcunhe - I
+
+Code: GW0601_culcunhe---i, Coordinates: 12.198, -15.503
+
+#### Culcunhe - II
+
+Code: GW0601_culcunhe---ii, Coordinates: 12.198, -15.503
+
+#### Cumbram
+
+Code: GW0601_cumbram, Coordinates: 12.198, -15.503
+
+#### Cumbule Incote
+
+Code: GW0601_cumbule-incote, Coordinates: 12.198, -15.503
+
+#### Cussundone
+
+Code: GW0601_cussundone, Coordinates: 12.198, -15.503
+
+#### Dame Mil
+
+Code: GW0601_dame-mil, Coordinates: 12.198, -15.503
+
+#### Dame Passe
+
+Code: GW0601_dame-passe, Coordinates: 12.198, -15.503
+
+#### Dame Sor
+
+Code: GW0601_dame-sor, Coordinates: 12.198, -15.503
+
+#### Dame Tche
+
+Code: GW0601_dame-tche, Coordinates: 12.198, -15.503
+
+#### Dame Tche - I
+
+Code: GW0601_dame-tche---i, Coordinates: 12.198, -15.503
+
+#### Dando
+
+Code: GW0601_dando, Coordinates: 12.217, -14.583
+
+#### Dando Mansabandim
+
+Code: GW0601_dando-mansabandim, Coordinates: 12.198, -15.503
+
+#### Deque
+
+Code: GW0601_deque, Coordinates: 12.233, -15.683
+
+#### Dinul ( Dunul )
+
+Code: GW0601_dinul-dunul, Coordinates: 12.198, -15.503
+
+#### Djobel
+
+Code: GW0601_djobel, Coordinates: 12.198, -15.503
+
+#### Echombe
+
+Code: GW0601_echombe, Coordinates: 12.198, -15.503
+
+#### Embande (Nband Dame )
+
+Code: GW0601_embande-nband-dame, Coordinates: 12.198, -15.503
+
+#### Embuien
+
+Code: GW0601_embuien, Coordinates: 12.198, -15.503
+
+#### Enchangue - I
+
+Code: GW0601_enchangue---i, Coordinates: 12.198, -15.503
+
+#### Enchangue - II
+
+Code: GW0601_enchangue---ii, Coordinates: 12.198, -15.503
+
+#### Encheia
+
+Code: GW0601_encheia, Coordinates: 12.064, -15.47
+
+#### Encherte
+
+Code: GW0601_encherte, Coordinates: 12.076, -15.573
+
+#### Fabur
+
+Code: GW0601_fabur, Coordinates: 12.113, -15.638
+
+#### Farambedje
+
+Code: GW0601_farambedje, Coordinates: 12.198, -15.503
+
+#### Fatcha
+
+Code: GW0601_fatcha, Coordinates: 12.198, -15.503
+
+#### Flobe
+
+Code: GW0601_flobe, Coordinates: 12.198, -15.503
+
+#### Foncho
+
+Code: GW0601_foncho, Coordinates: 12.106, -15.661
+
+#### Forol
+
+Code: GW0601_forol, Coordinates: 12.198, -15.503
+
+#### Futo
+
+Code: GW0601_futo, Coordinates: 12.198, -15.503
+
+#### Ga - Djugude
+
+Code: GW0601_ga---djugude, Coordinates: 12.198, -15.503
+
+#### Ga - Fara
+
+Code: GW0601_ga---fara, Coordinates: 12.166, -15.27
+
+#### Gamsambo
+
+Code: GW0601_gamsambo, Coordinates: 12.198, -15.503
+
+#### Grancuta
+
+Code: GW0601_grancuta, Coordinates: 12.184, -15.471
+
+#### Grandumbe
+
+Code: GW0601_grandumbe, Coordinates: 12.167, -15.483
+
+#### Guinane ( Quinane )
+
+Code: GW0601_guinane-quinane, Coordinates: 12.198, -15.503
+
+#### Iador Cangha
+
+Code: GW0601_iador-cangha, Coordinates: 12.198, -15.503
+
+#### Iara
+
+Code: GW0601_iara, Coordinates: 12.359, -15.516
+
+#### Impasse
+
+Code: GW0601_impasse, Coordinates: 12.059, -15.496
+
+#### Indambe
+
+Code: GW0601_indambe, Coordinates: 12.198, -15.503
+
+#### Indendem
+
+Code: GW0601_indendem, Coordinates: 12.198, -15.503
+
+#### Infaide
+
+Code: GW0601_infaide, Coordinates: 12.085, -15.482
+
+#### Inquida
+
+Code: GW0601_inquida, Coordinates: 12.033, -15.53
+
+#### Inquir
+
+Code: GW0601_inquir, Coordinates: 12.033, -15.767
+
+#### Insanha
+
+Code: GW0601_insanha, Coordinates: 12.198, -15.503
+
+#### Insumete - I ( N sumte )
+
+Code: GW0601_insumete---i-n-sumte, Coordinates: 12.198, -15.503
+
+#### Intente - I
+
+Code: GW0601_intente---i, Coordinates: 12.198, -15.503
+
+#### Iracunda
+
+Code: GW0601_iracunda, Coordinates: 12.259, -15.326
+
+#### Iusse
+
+Code: GW0601_iusse, Coordinates: 11.767, -15.383
+
+#### Junguto
+
+Code: GW0601_junguto, Coordinates: 12.198, -15.503
+
+#### Late
+
+Code: GW0601_late, Coordinates: 12.077, -15.447
+
+#### Lendem
+
+Code: GW0601_lendem, Coordinates: 12.198, -15.503
+
+#### Lendem - II
+
+Code: GW0601_lendem---ii, Coordinates: 12.198, -15.503
+
+#### Libar
+
+Code: GW0601_libar, Coordinates: 12.198, -15.503
+
+#### Lipte
+
+Code: GW0601_lipte, Coordinates: 12.198, -15.503
+
+#### Mabar
+
+Code: GW0601_mabar, Coordinates: 12.198, -15.503
+
+#### Manambo Mandinga
+
+Code: GW0601_manambo-mandinga, Coordinates: 12.198, -15.503
+
+#### Manga
+
+Code: GW0601_manga, Coordinates: 12.068, -15.562
+
+#### Maque
+
+Code: GW0601_maque, Coordinates: 12.198, -15.503
+
+#### Matar
+
+Code: GW0601_matar, Coordinates: 12.346, -15.509
+
+#### Mbunhe
+
+Code: GW0601_mbunhe, Coordinates: 12.198, -15.503
+
+#### Mone
+
+Code: GW0601_mone, Coordinates: 12.266, -15.458
+
+#### Mude
+
+Code: GW0601_mude, Coordinates: 12.198, -15.503
+
+#### N panquenha
+
+Code: GW0601_n-panquenha, Coordinates: 12.198, -15.503
+
+#### N tchupune
+
+Code: GW0601_n-tchupune, Coordinates: 12.198, -15.503
+
+#### Nafla
+
+Code: GW0601_nafla, Coordinates: 12.198, -15.503
+
+#### Naga de Baixo
+
+Code: GW0601_naga-de-baixo, Coordinates: 12.234, -15.699
+
+#### Nbad
+
+Code: GW0601_nbad, Coordinates: 12.198, -15.503
+
+#### Ncor
+
+Code: GW0601_ncor, Coordinates: 12.198, -15.503
+
+#### Nfante
+
+Code: GW0601_nfante, Coordinates: 12.198, -15.503
+
+#### Nguabe
+
+Code: GW0601_nguabe, Coordinates: 12.198, -15.503
+
+#### Nhae
+
+Code: GW0601_nhae, Coordinates: 12.127, -15.393
+
+#### Nhamate
+
+Code: GW0601_nhamate, Coordinates: 12.089, -15.568
+
+#### Nhengue
+
+Code: GW0601_nhengue, Coordinates: 12.067, -15.737
+
+#### Nhonfa
+
+Code: GW0601_nhonfa, Coordinates: 12.198, -15.503
+
+#### Ntchute
+
+Code: GW0601_ntchute, Coordinates: 12.198, -15.503
+
+#### Paile
+
+Code: GW0601_paile, Coordinates: 12.1, -15.6
+
+#### Pamar
+
+Code: GW0601_pamar, Coordinates: 12.198, -15.503
+
+#### Patche Iala
+
+Code: GW0601_patche-iala, Coordinates: 12.198, -15.503
+
+#### Patche Pansau
+
+Code: GW0601_patche-pansau, Coordinates: 12.198, -15.503
+
+#### Ponta Novo
+
+Code: GW0601_ponta-novo, Coordinates: 12.198, -15.503
+
+#### Ponta Paulo
+
+Code: GW0601_ponta-paulo, Coordinates: 12.198, -15.503
+
+#### Quenem
+
+Code: GW0601_quenem, Coordinates: 12.228, -15.644
+
+#### Quere
+
+Code: GW0601_quere, Coordinates: 12, -14.917
+
+#### Quibide Mane
+
+Code: GW0601_quibide-mane, Coordinates: 12.198, -15.503
+
+#### Quinak
+
+Code: GW0601_quinak, Coordinates: 12.198, -15.503
+
+#### Quinhaque - I
+
+Code: GW0601_quinhaque---i, Coordinates: 12.198, -15.503
+
+#### Quinhaque - II
+
+Code: GW0601_quinhaque---ii, Coordinates: 12.198, -15.503
+
+#### Quissanque
+
+Code: GW0601_quissanque, Coordinates: 12.051, -15.535
+
+#### Quissasse
+
+Code: GW0601_quissasse, Coordinates: 12.198, -15.503
+
+#### Quissefo
+
+Code: GW0601_quissefo, Coordinates: 12.198, -15.503
+
+#### Quitama
+
+Code: GW0601_quitama, Coordinates: 12.198, -15.503
+
+#### Safar
+
+Code: GW0601_safar, Coordinates: 12.198, -15.503
+
+#### Sano (Sancun Sane)
+
+Code: GW0601_sano-sancun-sane, Coordinates: 12.198, -15.503
+
+#### Sansambato
+
+Code: GW0601_sansambato, Coordinates: 12.198, -15.503
+
+#### Sarmone
+
+Code: GW0601_sarmone, Coordinates: 12.198, -15.503
+
+#### Sili Roconhe
+
+Code: GW0601_sili-roconhe, Coordinates: 12.198, -15.503
+
+#### Suru
+
+Code: GW0601_suru, Coordinates: 12.198, -15.503
+
+#### Tadjar
+
+Code: GW0601_tadjar, Coordinates: 12.198, -15.503
+
+#### Tama
+
+Code: GW0601_tama, Coordinates: 12.134, -15.578
+
+#### Tama Logte
+
+Code: GW0601_tama-logte, Coordinates: 12.198, -15.503
+
+#### Tame
+
+Code: GW0601_tame, Coordinates: 12.198, -15.503
+
+#### Tchale
+
+Code: GW0601_tchale, Coordinates: 12.198, -15.503
+
+#### Tchanque
+
+Code: GW0601_tchanque, Coordinates: 12.198, -15.503
+
+#### Tchil
+
+Code: GW0601_tchil, Coordinates: 12.198, -15.503
+
+#### Tchumbum
+
+Code: GW0601_tchumbum, Coordinates: 12.198, -15.503
+
+#### Tebede
+
+Code: GW0601_tebede, Coordinates: 12.217, -15.671
+
+#### Tictilon
+
+Code: GW0601_tictilon, Coordinates: 12.198, -15.503
+
+#### Tim
+
+Code: GW0601_tim, Coordinates: 12.198, -15.503
+
+#### Tinca
+
+Code: GW0601_tinca, Coordinates: 12.1, -15.45
+
+#### Touba
+
+Code: GW0601_touba, Coordinates: 12.198, -15.503
+
+#### Ualia
+
+Code: GW0601_ualia, Coordinates: 12.283, -15.483
+
+#### Uapte
+
+Code: GW0601_uapte, Coordinates: 12.198, -15.503
+
+#### Uaqueri
+
+Code: GW0601_uaqueri, Coordinates: 12.267, -15.533
+
+#### Uatine
+
+Code: GW0601_uatine, Coordinates: 12.206, -15.448
+
+#### Uenquem
+
+Code: GW0601_uenquem, Coordinates: 12.133, -15.428
+
+#### Umtchupute Ufele
+
+Code: GW0601_umtchupute-ufele, Coordinates: 12.198, -15.503
+
+#### Uncha Nafetche
+
+Code: GW0601_uncha-nafetche, Coordinates: 12.198, -15.503
+
+#### Unfar - I
+
+Code: GW0601_unfar---i, Coordinates: 12.198, -15.503
+
+#### Unfar - II
+
+Code: GW0601_unfar---ii, Coordinates: 12.198, -15.503
+
+#### Ungro
+
+Code: GW0601_ungro, Coordinates: 12.041, -15.486
+
+#### Untche Besna
+
+Code: GW0601_untche-besna, Coordinates: 12.198, -15.503
+
+#### Untche Incote
+
+Code: GW0601_untche-incote, Coordinates: 12.198, -15.503
+
+#### Untche Samba
+
+Code: GW0601_untche-samba, Coordinates: 12.198, -15.503
+
+### Farim
+
+Code: GW0602, Coordinates: 12.526, -15.176
+Tabancas: 263
+
+#### Afia Cores
+
+Code: GW0602_afia-cores, Coordinates: 12.526, -15.176
+
+#### Albato ( Ghara )
+
+Code: GW0602_albato-ghara, Coordinates: 12.526, -15.176
+
+#### Amedalai
+
+Code: GW0602_amedalai, Coordinates: 12.183, -14.667
+
+#### Badjancunda
+
+Code: GW0602_badjancunda, Coordinates: 12.526, -15.176
+
+#### Bafata Oio
+
+Code: GW0602_bafata-oio, Coordinates: 12.526, -15.176
+
+#### Banhima
+
+Code: GW0602_banhima, Coordinates: 12.433, -15.383
+
+#### Banim
+
+Code: GW0602_banim, Coordinates: 12.417, -14.4
+
+#### Berandinto
+
+Code: GW0602_berandinto, Coordinates: 12.526, -15.176
+
+#### Binar
+
+Code: GW0602_binar, Coordinates: 12.099, -15.624
+
+#### Binta
+
+Code: GW0602_binta, Coordinates: 12.42, -15.318
+
+#### Birba
+
+Code: GW0602_birba, Coordinates: 12.526, -15.176
+
+#### Bissari
+
+Code: GW0602_bissari, Coordinates: 12.542, -15.222
+
+#### Bodjancunda
+
+Code: GW0602_bodjancunda, Coordinates: 12.526, -15.176
+
+#### Bricama
+
+Code: GW0602_bricama, Coordinates: 11.45, -14.95
+
+#### Brujalam
+
+Code: GW0602_brujalam, Coordinates: 12.526, -15.176
+
+#### Bubo
+
+Code: GW0602_bubo, Coordinates: 12.526, -15.176
+
+#### Buro
+
+Code: GW0602_buro, Coordinates: 12.433, -15.25
+
+#### Cabele Cassama
+
+Code: GW0602_cabele-cassama, Coordinates: 12.526, -15.176
+
+#### Cabele Iero Balde
+
+Code: GW0602_cabele-iero-balde, Coordinates: 12.526, -15.176
+
+#### Cabele Nhado
+
+Code: GW0602_cabele-nhado, Coordinates: 12.65, -14.95
+
+#### Cabele Wale
+
+Code: GW0602_cabele-wale, Coordinates: 12.526, -15.176
+
+#### Cabiceque
+
+Code: GW0602_cabiceque, Coordinates: 12.526, -15.176
+
+#### Camadi
+
+Code: GW0602_camadi, Coordinates: 12.526, -15.176
+
+#### Canico Lenque Croto
+
+Code: GW0602_canico-lenque-croto, Coordinates: 12.526, -15.176
+
+#### Canico Tumam-na
+
+Code: GW0602_canico-tumam-na, Coordinates: 12.526, -15.176
+
+#### Canjambari Morcunda
+
+Code: GW0602_canjambari-morcunda, Coordinates: 12.526, -15.176
+
+#### Canjanco
+
+Code: GW0602_canjanco, Coordinates: 12.509, -15.163
+
+#### Canxelebel
+
+Code: GW0602_canxelebel, Coordinates: 12.683, -14.883
+
+#### Carantaba
+
+Code: GW0602_carantaba, Coordinates: 11.717, -15.233
+
+#### Casenha
+
+Code: GW0602_casenha, Coordinates: 12.526, -15.176
+
+#### Caurba
+
+Code: GW0602_caurba, Coordinates: 12.445, -15.318
+
+#### Caurdim
+
+Code: GW0602_caurdim, Coordinates: 12.451, -15.307
+
+#### Cidade de Farim Bairro Bangladez
+
+Code: GW0602_cidade-de-farim-bairro-bangladez, Coordinates: 12.526, -15.176
+
+#### Cidade de Farim Bairro Bantandjam
+
+Code: GW0602_cidade-de-farim-bairro-bantandjam, Coordinates: 12.526, -15.176
+
+#### Cidade de Farim Bairro Cassa Nova
+
+Code: GW0602_cidade-de-farim-bairro-cassa-nova, Coordinates: 12.526, -15.176
+
+#### Cidade de Farim Bairro Ga-Sapo
+
+Code: GW0602_cidade-de-farim-bairro-ga-sapo, Coordinates: 12.526, -15.176
+
+#### Cidade de Farim Bairro Militar
+
+Code: GW0602_cidade-de-farim-bairro-militar, Coordinates: 12.526, -15.176
+
+#### Cidade de Farim Bairro Morcunda
+
+Code: GW0602_cidade-de-farim-bairro-morcunda, Coordinates: 12.526, -15.176
+
+#### Cidade de Farim Bairro Nema
+
+Code: GW0602_cidade-de-farim-bairro-nema, Coordinates: 12.526, -15.176
+
+#### Cidade de Farim Bairro Praca
+
+Code: GW0602_cidade-de-farim-bairro-praca, Coordinates: 12.526, -15.176
+
+#### Cidade de Farim Bairro Sintcha
+
+Code: GW0602_cidade-de-farim-bairro-sintcha, Coordinates: 12.526, -15.176
+
+#### Cidade de Farim Praia
+
+Code: GW0602_cidade-de-farim-praia, Coordinates: 12.526, -15.176
+
+#### Coboroto
+
+Code: GW0602_coboroto, Coordinates: 12.5, -15.167
+
+#### Colimansacunda
+
+Code: GW0602_colimansacunda, Coordinates: 12.423, -15.227
+
+#### Conhaco Cola
+
+Code: GW0602_conhaco-cola, Coordinates: 12.526, -15.176
+
+#### Cubecunda
+
+Code: GW0602_cubecunda, Coordinates: 12.526, -15.176
+
+#### Cufeu
+
+Code: GW0602_cufeu, Coordinates: 12.495, -15.384
+
+#### Cumbija
+
+Code: GW0602_cumbija, Coordinates: 12.638, -15.069
+
+#### Cuntima
+
+Code: GW0602_cuntima, Coordinates: 12.656, -15
+
+#### Dandu Pulo
+
+Code: GW0602_dandu-pulo, Coordinates: 12.526, -15.176
+
+#### Dandu Sintcha
+
+Code: GW0602_dandu-sintcha, Coordinates: 12.526, -15.176
+
+#### Darsalame Baio
+
+Code: GW0602_darsalame-baio, Coordinates: 12.526, -15.176
+
+#### Demantam
+
+Code: GW0602_demantam, Coordinates: 12.526, -15.176
+
+#### Demba Baio
+
+Code: GW0602_demba-baio, Coordinates: 12.526, -15.176
+
+#### Demba Dadoia
+
+Code: GW0602_demba-dadoia, Coordinates: 12.526, -15.176
+
+#### Djaguel ( Guire Iero Cola )
+
+Code: GW0602_djaguel-guire-iero-cola, Coordinates: 12.526, -15.176
+
+#### Djaljalto
+
+Code: GW0602_djaljalto, Coordinates: 12.526, -15.176
+
+#### Djega
+
+Code: GW0602_djega, Coordinates: 12.526, -15.176
+
+#### Djimade
+
+Code: GW0602_djimade, Coordinates: 12.526, -15.176
+
+#### Djimbia
+
+Code: GW0602_djimbia, Coordinates: 12.526, -15.176
+
+#### Djincom Mandinga
+
+Code: GW0602_djincom-mandinga, Coordinates: 12.526, -15.176
+
+#### Djobico
+
+Code: GW0602_djobico, Coordinates: 12.579, -15.271
+
+#### Djongali
+
+Code: GW0602_djongali, Coordinates: 12.526, -15.176
+
+#### Dungal
+
+Code: GW0602_dungal, Coordinates: 12.483, -14.583
+
+#### Dutato
+
+Code: GW0602_dutato, Coordinates: 12.335, -15.222
+
+#### Embalocunda
+
+Code: GW0602_embalocunda, Coordinates: 12.067, -14.617
+
+#### Faer
+
+Code: GW0602_faer, Coordinates: 12.5, -15.333
+
+#### Fafaco
+
+Code: GW0602_fafaco, Coordinates: 12.483, -15.2
+
+#### Fambacunda
+
+Code: GW0602_fambacunda, Coordinates: 12.526, -15.176
+
+#### Fambanta Morcunda
+
+Code: GW0602_fambanta-morcunda, Coordinates: 12.526, -15.176
+
+#### Fambanta Sansanoto
+
+Code: GW0602_fambanta-sansanoto, Coordinates: 12.526, -15.176
+
+#### Fanhar
+
+Code: GW0602_fanhar, Coordinates: 12.526, -15.176
+
+#### Farandinto
+
+Code: GW0602_farandinto, Coordinates: 12.526, -15.176
+
+#### Farico
+
+Code: GW0602_farico, Coordinates: 12.526, -15.176
+
+#### Farim Bedjo
+
+Code: GW0602_farim-bedjo, Coordinates: 12.526, -15.176
+
+#### Farinco Mandinga ( Murcunda )
+
+Code: GW0602_farinco-mandinga-murcunda, Coordinates: 12.526, -15.176
+
+#### Farinco Mandinga Sansanco
+
+Code: GW0602_farinco-mandinga-sansanco, Coordinates: 12.526, -15.176
+
+#### Flaquinha Fula
+
+Code: GW0602_flaquinha-fula, Coordinates: 12.526, -15.176
+
+#### Flaquinha Mandinga
+
+Code: GW0602_flaquinha-mandinga, Coordinates: 12.526, -15.176
+
+#### Fode Siraia
+
+Code: GW0602_fode-siraia, Coordinates: 12.483, -15.317
+
+#### Ga - Lomba
+
+Code: GW0602_ga---lomba, Coordinates: 12.526, -15.176
+
+#### Ga - Pinto
+
+Code: GW0602_ga---pinto, Coordinates: 12.526, -15.176
+
+#### Ga Gregorio
+
+Code: GW0602_ga-gregorio, Coordinates: 11.75, -14.917
+
+#### Gambassori
+
+Code: GW0602_gambassori, Coordinates: 12.526, -15.176
+
+#### Genico Mancanha
+
+Code: GW0602_genico-mancanha, Coordinates: 12.526, -15.176
+
+#### Gundadje
+
+Code: GW0602_gundadje, Coordinates: 12.526, -15.176
+
+#### Ioncoia
+
+Code: GW0602_ioncoia, Coordinates: 12.526, -15.176
+
+#### Irabato
+
+Code: GW0602_irabato, Coordinates: 12.43, -15.238
+
+#### Jumbembe
+
+Code: GW0602_jumbembe, Coordinates: 12.35, -14.433
+
+#### Jumbembe Fula
+
+Code: GW0602_jumbembe-fula, Coordinates: 12.526, -15.176
+
+#### Lambam
+
+Code: GW0602_lambam, Coordinates: 12.526, -15.176
+
+#### Lamel - I
+
+Code: GW0602_lamel---i, Coordinates: 12.526, -15.176
+
+#### Lamel - II (Queba)
+
+Code: GW0602_lamel---ii-queba, Coordinates: 12.526, -15.176
+
+#### Lamel - III
+
+Code: GW0602_lamel---iii, Coordinates: 12.526, -15.176
+
+#### Lenquebato
+
+Code: GW0602_lenquebato, Coordinates: 12.526, -15.176
+
+#### Lenqueto
+
+Code: GW0602_lenqueto, Coordinates: 11.617, -14.717
+
+#### Lumbo Djodo
+
+Code: GW0602_lumbo-djodo, Coordinates: 12.526, -15.176
+
+#### Madina - I
+
+Code: GW0602_madina---i, Coordinates: 12.526, -15.176
+
+#### Madina Amado Balde
+
+Code: GW0602_madina-amado-balde, Coordinates: 12.526, -15.176
+
+#### Madina Djega
+
+Code: GW0602_madina-djega, Coordinates: 12.526, -15.176
+
+#### Madina Fula (Sambaia)
+
+Code: GW0602_madina-fula-sambaia, Coordinates: 12.526, -15.176
+
+#### Madina Pate (Sare Pate)
+
+Code: GW0602_madina-pate-sare-pate, Coordinates: 12.526, -15.176
+
+#### Malam (Sao Joao)
+
+Code: GW0602_malam-sao-joao, Coordinates: 12.526, -15.176
+
+#### Mane - Cunda - I
+
+Code: GW0602_mane---cunda---i, Coordinates: 12.526, -15.176
+
+#### Mane - Cunda - II
+
+Code: GW0602_mane---cunda---ii, Coordinates: 12.526, -15.176
+
+#### Manfonha
+
+Code: GW0602_manfonha, Coordinates: 12.526, -15.176
+
+#### Maninha
+
+Code: GW0602_maninha, Coordinates: 12.447, -15.086
+
+#### Mato Vaz (Maninho)
+
+Code: GW0602_mato-vaz-maninho, Coordinates: 12.526, -15.176
+
+#### Missira
+
+Code: GW0602_missira, Coordinates: 12.017, -14.65
+
+#### Missira Ama Sidi Djalo
+
+Code: GW0602_missira-ama-sidi-djalo, Coordinates: 12.526, -15.176
+
+#### Missira Django
+
+Code: GW0602_missira-django, Coordinates: 12.526, -15.176
+
+#### Muntchanco
+
+Code: GW0602_muntchanco, Coordinates: 12.526, -15.176
+
+#### Ngoia
+
+Code: GW0602_ngoia, Coordinates: 12.526, -15.176
+
+#### Nhamburam
+
+Code: GW0602_nhamburam, Coordinates: 12.526, -15.176
+
+#### Nhorbanta Fula
+
+Code: GW0602_nhorbanta-fula, Coordinates: 12.526, -15.176
+
+#### Nhorbanta Mandinga
+
+Code: GW0602_nhorbanta-mandinga, Coordinates: 12.526, -15.176
+
+#### Ponta Caeiro (Pam Lamba)
+
+Code: GW0602_ponta-caeiro-pam-lamba, Coordinates: 12.526, -15.176
+
+#### Ponta Donga
+
+Code: GW0602_ponta-donga, Coordinates: 12.526, -15.176
+
+#### Ponta Duarte
+
+Code: GW0602_ponta-duarte, Coordinates: 12.5, -15.15
+
+#### Ponta Lona
+
+Code: GW0602_ponta-lona, Coordinates: 12.526, -15.176
+
+#### Ponta Lorenço
+
+Code: GW0602_ponta-loreno, Coordinates: 12.526, -15.176
+
+#### Ponta Manuel Rodrigues
+
+Code: GW0602_ponta-manuel-rodrigues, Coordinates: 12.526, -15.176
+
+#### Quebaco
+
+Code: GW0602_quebaco, Coordinates: 12.639, -15.269
+
+#### Quenejara
+
+Code: GW0602_quenejara, Coordinates: 12.526, -15.176
+
+#### Quenhato
+
+Code: GW0602_quenhato, Coordinates: 12.542, -15.401
+
+#### Saicur
+
+Code: GW0602_saicur, Coordinates: 12.526, -15.176
+
+#### Salquenhe Ba
+
+Code: GW0602_salquenhe-ba, Coordinates: 12.526, -15.176
+
+#### Salquenhe Porto
+
+Code: GW0602_salquenhe-porto, Coordinates: 12.526, -15.176
+
+#### Salquenhedim
+
+Code: GW0602_salquenhedim, Coordinates: 12.526, -15.176
+
+#### Sama
+
+Code: GW0602_sama, Coordinates: 12.283, -13.983
+
+#### Samimo
+
+Code: GW0602_samimo, Coordinates: 12.526, -15.176
+
+#### Sancolanco
+
+Code: GW0602_sancolanco, Coordinates: 12.526, -15.176
+
+#### Sandjal - I
+
+Code: GW0602_sandjal---i, Coordinates: 12.526, -15.176
+
+#### Sandjal - II
+
+Code: GW0602_sandjal---ii, Coordinates: 12.526, -15.176
+
+#### Sangara Djobo
+
+Code: GW0602_sangara-djobo, Coordinates: 12.526, -15.176
+
+#### Sansancutoto
+
+Code: GW0602_sansancutoto, Coordinates: 12.526, -15.176
+
+#### Santancoto
+
+Code: GW0602_santancoto, Coordinates: 12.418, -15.418
+
+#### Sara Lu
+
+Code: GW0602_sara-lu, Coordinates: 12.526, -15.176
+
+#### Sare - Dee
+
+Code: GW0602_sare---dee, Coordinates: 12.526, -15.176
+
+#### Sare Arfa ( Sintcha Pulo)
+
+Code: GW0602_sare-arfa-sintcha-pulo, Coordinates: 12.526, -15.176
+
+#### Sare Barade
+
+Code: GW0602_sare-barade, Coordinates: 12.526, -15.176
+
+#### Sare Bucar
+
+Code: GW0602_sare-bucar, Coordinates: 12.526, -15.176
+
+#### Sare Cole Cebo
+
+Code: GW0602_sare-cole-cebo, Coordinates: 12.526, -15.176
+
+#### Sare Coli
+
+Code: GW0602_sare-coli, Coordinates: 12.526, -15.176
+
+#### Sare Demba Daral
+
+Code: GW0602_sare-demba-daral, Coordinates: 12.526, -15.176
+
+#### Sare Demba Djicoi
+
+Code: GW0602_sare-demba-djicoi, Coordinates: 12.526, -15.176
+
+#### Sare Demba Nhuncunco
+
+Code: GW0602_sare-demba-nhuncunco, Coordinates: 12.526, -15.176
+
+#### Sare Demba Taquel
+
+Code: GW0602_sare-demba-taquel, Coordinates: 12.666, -15.018
+
+#### Sare Dico (Samba)
+
+Code: GW0602_sare-dico-samba, Coordinates: 12.526, -15.176
+
+#### Sare Djai
+
+Code: GW0602_sare-djai, Coordinates: 12.526, -15.176
+
+#### Sare Djaie
+
+Code: GW0602_sare-djaie, Coordinates: 12.526, -15.176
+
+#### Sare Djanco
+
+Code: GW0602_sare-djanco, Coordinates: 12.526, -15.176
+
+#### Sare Djanque
+
+Code: GW0602_sare-djanque, Coordinates: 12.526, -15.176
+
+#### Sare Djidire Balde
+
+Code: GW0602_sare-djidire-balde, Coordinates: 12.526, -15.176
+
+#### Sare Djomel
+
+Code: GW0602_sare-djomel, Coordinates: 12.526, -15.176
+
+#### Sare Donha
+
+Code: GW0602_sare-donha, Coordinates: 11.6, -14.867
+
+#### Sare Famora
+
+Code: GW0602_sare-famora, Coordinates: 12.526, -15.176
+
+#### Sare Fombom
+
+Code: GW0602_sare-fombom, Coordinates: 12.526, -15.176
+
+#### Sare Gale
+
+Code: GW0602_sare-gale, Coordinates: 12.526, -15.176
+
+#### Sare Galo
+
+Code: GW0602_sare-galo, Coordinates: 12.526, -15.176
+
+#### Sare Iero (Sare Djodja Ussadu)
+
+Code: GW0602_sare-iero-sare-djodja-ussadu, Coordinates: 12.526, -15.176
+
+#### Sare Ina
+
+Code: GW0602_sare-ina, Coordinates: 12.526, -15.176
+
+#### Sare Ioba Cande
+
+Code: GW0602_sare-ioba-cande, Coordinates: 12.526, -15.176
+
+#### Sare Ioba Djega
+
+Code: GW0602_sare-ioba-djega, Coordinates: 12.526, -15.176
+
+#### Sare Ionco
+
+Code: GW0602_sare-ionco, Coordinates: 12.526, -15.176
+
+#### Sare Laboi Labarro
+
+Code: GW0602_sare-laboi-labarro, Coordinates: 12.526, -15.176
+
+#### Sare Lamine
+
+Code: GW0602_sare-lamine, Coordinates: 12.576, -15.118
+
+#### Sare Lauro
+
+Code: GW0602_sare-lauro, Coordinates: 12.526, -15.176
+
+#### Sare Mali
+
+Code: GW0602_sare-mali, Coordinates: 12.667, -14.7
+
+#### Sare Mancama
+
+Code: GW0602_sare-mancama, Coordinates: 12.561, -15.335
+
+#### Sare Maudo Bodo
+
+Code: GW0602_sare-maudo-bodo, Coordinates: 12.526, -15.176
+
+#### Sare Nbai
+
+Code: GW0602_sare-nbai, Coordinates: 12.526, -15.176
+
+#### Sare Ndure
+
+Code: GW0602_sare-ndure, Coordinates: 12.526, -15.176
+
+#### Sare Nhaco
+
+Code: GW0602_sare-nhaco, Coordinates: 11.533, -14.65
+
+#### Sare Nhado
+
+Code: GW0602_sare-nhado, Coordinates: 12.526, -15.176
+
+#### Sare Nhobum
+
+Code: GW0602_sare-nhobum, Coordinates: 12.526, -15.176
+
+#### Sare Pate
+
+Code: GW0602_sare-pate, Coordinates: 12.266, -15.14
+
+#### Sare Quecuta
+
+Code: GW0602_sare-quecuta, Coordinates: 12.603, -15.052
+
+#### Sare Queda
+
+Code: GW0602_sare-queda, Coordinates: 12.526, -15.176
+
+#### Sare Querer
+
+Code: GW0602_sare-querer, Coordinates: 12.526, -15.176
+
+#### Sare Sa Djau
+
+Code: GW0602_sare-sa-djau, Coordinates: 12.526, -15.176
+
+#### Sare Samba Tubaco
+
+Code: GW0602_sare-samba-tubaco, Coordinates: 12.526, -15.176
+
+#### Sare Sambuja
+
+Code: GW0602_sare-sambuja, Coordinates: 12.6, -15.05
+
+#### Sare Sanfili
+
+Code: GW0602_sare-sanfili, Coordinates: 12.526, -15.176
+
+#### Sare Seco
+
+Code: GW0602_sare-seco, Coordinates: 12.526, -15.176
+
+#### Sare Soriam
+
+Code: GW0602_sare-soriam, Coordinates: 12.526, -15.176
+
+#### Sare Sulu
+
+Code: GW0602_sare-sulu, Coordinates: 12.526, -15.176
+
+#### Sare Tenem
+
+Code: GW0602_sare-tenem, Coordinates: 12.526, -15.176
+
+#### Sare Tota
+
+Code: GW0602_sare-tota, Coordinates: 12.526, -15.176
+
+#### Sarudja
+
+Code: GW0602_sarudja, Coordinates: 12.526, -15.176
+
+#### Sintcha Aliu
+
+Code: GW0602_sintcha-aliu, Coordinates: 12.526, -15.176
+
+#### Sintcha Baciro
+
+Code: GW0602_sintcha-baciro, Coordinates: 12.526, -15.176
+
+#### Sintcha Boido
+
+Code: GW0602_sintcha-boido, Coordinates: 12.526, -15.176
+
+#### Sintcha Braima
+
+Code: GW0602_sintcha-braima, Coordinates: 12.526, -15.176
+
+#### Sintcha Bubacar Seide
+
+Code: GW0602_sintcha-bubacar-seide, Coordinates: 12.526, -15.176
+
+#### Sintcha Cansambo Biroso
+
+Code: GW0602_sintcha-cansambo-biroso, Coordinates: 12.526, -15.176
+
+#### Sintcha Coli Cande
+
+Code: GW0602_sintcha-coli-cande, Coordinates: 12.526, -15.176
+
+#### Sintcha Dabo
+
+Code: GW0602_sintcha-dabo, Coordinates: 12.526, -15.176
+
+#### Sintcha Daine
+
+Code: GW0602_sintcha-daine, Coordinates: 12.526, -15.176
+
+#### Sintcha Demba Caita
+
+Code: GW0602_sintcha-demba-caita, Coordinates: 12.526, -15.176
+
+#### Sintcha Demba Cande
+
+Code: GW0602_sintcha-demba-cande, Coordinates: 12.526, -15.176
+
+#### Sintcha Demba Embalo
+
+Code: GW0602_sintcha-demba-embalo, Coordinates: 12.526, -15.176
+
+#### Sintcha Demba Tali
+
+Code: GW0602_sintcha-demba-tali, Coordinates: 12.526, -15.176
+
+#### Sintcha Dembarel
+
+Code: GW0602_sintcha-dembarel, Coordinates: 12.526, -15.176
+
+#### Sintcha Dembaro
+
+Code: GW0602_sintcha-dembaro, Coordinates: 12.526, -15.176
+
+#### Sintcha Djanco Balde
+
+Code: GW0602_sintcha-djanco-balde, Coordinates: 12.526, -15.176
+
+#### Sintcha Djau
+
+Code: GW0602_sintcha-djau, Coordinates: 12.526, -15.176
+
+#### Sintcha Farba
+
+Code: GW0602_sintcha-farba, Coordinates: 12.526, -15.176
+
+#### Sintcha Fode
+
+Code: GW0602_sintcha-fode, Coordinates: 12.526, -15.176
+
+#### Sintcha Fogo
+
+Code: GW0602_sintcha-fogo, Coordinates: 12.526, -15.176
+
+#### Sintcha Gorgue
+
+Code: GW0602_sintcha-gorgue, Coordinates: 12.526, -15.176
+
+#### Sintcha Gundo
+
+Code: GW0602_sintcha-gundo, Coordinates: 12.526, -15.176
+
+#### Sintcha Iero
+
+Code: GW0602_sintcha-iero, Coordinates: 12.526, -15.176
+
+#### Sintcha Ioba
+
+Code: GW0602_sintcha-ioba, Coordinates: 12.526, -15.176
+
+#### Sintcha Ioba Djau
+
+Code: GW0602_sintcha-ioba-djau, Coordinates: 12.526, -15.176
+
+#### Sintcha Ira Balde (Darsalame Umaro Balde)
+
+Code: GW0602_sintcha-ira-balde-darsalame-umaro-balde, Coordinates: 12.526, -15.176
+
+#### Sintcha Iunca Cande
+
+Code: GW0602_sintcha-iunca-cande, Coordinates: 12.526, -15.176
+
+#### Sintcha Iunque
+
+Code: GW0602_sintcha-iunque, Coordinates: 12.526, -15.176
+
+#### Sintcha Jacaria So
+
+Code: GW0602_sintcha-jacaria-so, Coordinates: 12.526, -15.176
+
+#### Sintcha Mabo Balde
+
+Code: GW0602_sintcha-mabo-balde, Coordinates: 12.526, -15.176
+
+#### Sintcha Mali
+
+Code: GW0602_sintcha-mali, Coordinates: 12.526, -15.176
+
+#### Sintcha Malique
+
+Code: GW0602_sintcha-malique, Coordinates: 12.526, -15.176
+
+#### Sintcha Mamadu So
+
+Code: GW0602_sintcha-mamadu-so, Coordinates: 12.526, -15.176
+
+#### Sintcha Muro Umaro Sabali
+
+Code: GW0602_sintcha-muro-umaro-sabali, Coordinates: 12.526, -15.176
+
+#### Sintcha Mussa
+
+Code: GW0602_sintcha-mussa, Coordinates: 12.526, -15.176
+
+#### Sintcha Naba Cande
+
+Code: GW0602_sintcha-naba-cande, Coordinates: 12.526, -15.176
+
+#### Sintcha Patron
+
+Code: GW0602_sintcha-patron, Coordinates: 12.526, -15.176
+
+#### Sintcha Portari
+
+Code: GW0602_sintcha-portari, Coordinates: 12.526, -15.176
+
+#### Sintcha Pulo
+
+Code: GW0602_sintcha-pulo, Coordinates: 12.526, -15.176
+
+#### Sintcha Queita
+
+Code: GW0602_sintcha-queita, Coordinates: 12.526, -15.176
+
+#### Sintcha Queta
+
+Code: GW0602_sintcha-queta, Coordinates: 12.526, -15.176
+
+#### Sintcha Samba Sabali
+
+Code: GW0602_sintcha-samba-sabali, Coordinates: 12.526, -15.176
+
+#### Sintcha Sambaro
+
+Code: GW0602_sintcha-sambaro, Coordinates: 12.526, -15.176
+
+#### Sintcha Sambel
+
+Code: GW0602_sintcha-sambel, Coordinates: 12.526, -15.176
+
+#### Sintcha Seidi ( Urque )
+
+Code: GW0602_sintcha-seidi-urque, Coordinates: 12.526, -15.176
+
+#### Sintcha Side Embala (Sare Lamine)
+
+Code: GW0602_sintcha-side-embala-sare-lamine, Coordinates: 12.526, -15.176
+
+#### Sintcha Sirem
+
+Code: GW0602_sintcha-sirem, Coordinates: 12.526, -15.176
+
+#### Sintcha Tala - II
+
+Code: GW0602_sintcha-tala---ii, Coordinates: 12.526, -15.176
+
+#### Sintcha Tumane
+
+Code: GW0602_sintcha-tumane, Coordinates: 12.526, -15.176
+
+#### Sintcha Tuncam Balde
+
+Code: GW0602_sintcha-tuncam-balde, Coordinates: 12.526, -15.176
+
+#### Sintcha Ula
+
+Code: GW0602_sintcha-ula, Coordinates: 12.526, -15.176
+
+#### Sintcha Umaro Sa
+
+Code: GW0602_sintcha-umaro-sa, Coordinates: 12.526, -15.176
+
+#### Sintcha Vicente
+
+Code: GW0602_sintcha-vicente, Coordinates: 12.526, -15.176
+
+#### Sitato
+
+Code: GW0602_sitato, Coordinates: 12.526, -15.176
+
+#### Sobea
+
+Code: GW0602_sobea, Coordinates: 12.536, -15.121
+
+#### Sorba
+
+Code: GW0602_sorba, Coordinates: 12.526, -15.176
+
+#### Sororo
+
+Code: GW0602_sororo, Coordinates: 12.526, -15.176
+
+#### Suluco
+
+Code: GW0602_suluco, Coordinates: 12.526, -15.176
+
+#### Suma Banta
+
+Code: GW0602_suma-banta, Coordinates: 12.526, -15.176
+
+#### Tabondinto
+
+Code: GW0602_tabondinto, Coordinates: 12.526, -15.176
+
+#### Tambato
+
+Code: GW0602_tambato, Coordinates: 12.526, -15.176
+
+#### Tanhataba
+
+Code: GW0602_tanhataba, Coordinates: 12.526, -15.176
+
+#### Temanto Demba
+
+Code: GW0602_temanto-demba, Coordinates: 12.526, -15.176
+
+#### Temento
+
+Code: GW0602_temento, Coordinates: 12.526, -15.176
+
+#### Tendinto
+
+Code: GW0602_tendinto, Coordinates: 11.667, -14.733
+
+#### Tuba
+
+Code: GW0602_tuba, Coordinates: 12.526, -15.176
+
+#### Tungina
+
+Code: GW0602_tungina, Coordinates: 12.441, -15.247
+
+#### Uassa Malam Balde
+
+Code: GW0602_uassa-malam-balde, Coordinates: 12.526, -15.176
+
+#### Udjeque
+
+Code: GW0602_udjeque, Coordinates: 12.526, -15.176
+
+#### Unfude
+
+Code: GW0602_unfude, Coordinates: 12.526, -15.176
+
+#### Uramaia
+
+Code: GW0602_uramaia, Coordinates: 12.526, -15.176
+
+#### Velingara Demba
+
+Code: GW0602_velingara-demba, Coordinates: 12.526, -15.176
+
+#### Wensaco
+
+Code: GW0602_wensaco, Coordinates: 12.526, -15.176
+
+### Mansaba
+
+Code: GW0603, Coordinates: 12.328, -15.199
+Tabancas: 145
+
+#### Acampamento
+
+Code: GW0603_acampamento, Coordinates: 11.45, -15.7
+
+#### Bafatandim
+
+Code: GW0603_bafatandim, Coordinates: 12.381, -15.349
+
+#### Bagadage
+
+Code: GW0603_bagadage, Coordinates: 12.377, -15.124
+
+#### Baite
+
+Code: GW0603_baite, Coordinates: 12.359, -15.168
+
+#### Bambaia
+
+Code: GW0603_bambaia, Coordinates: 12.3, -14.7
+
+#### Bamconto
+
+Code: GW0603_bamconto, Coordinates: 12.328, -15.199
+
+#### Bandjara
+
+Code: GW0603_bandjara, Coordinates: 12.317, -14.967
+
+#### Bantandjam
+
+Code: GW0603_bantandjam, Coordinates: 12.328, -15.199
+
+#### Bantasso
+
+Code: GW0603_bantasso, Coordinates: 12.392, -15.34
+
+#### Belel Oio
+
+Code: GW0603_belel-oio, Coordinates: 12.328, -15.199
+
+#### Bercodim
+
+Code: GW0603_bercodim, Coordinates: 12.328, -15.199
+
+#### Bercorim
+
+Code: GW0603_bercorim, Coordinates: 12.328, -15.199
+
+#### Berecoba
+
+Code: GW0603_berecoba, Coordinates: 12.4, -15.233
+
+#### Bidjine
+
+Code: GW0603_bidjine, Coordinates: 12.1, -14.7
+
+#### Bironque
+
+Code: GW0603_bironque, Coordinates: 12.328, -15.199
+
+#### Bissajar Mandinga
+
+Code: GW0603_bissajar-mandinga, Coordinates: 12.328, -15.199
+
+#### Boicunda
+
+Code: GW0603_boicunda, Coordinates: 12.328, -15.199
+
+#### Bulazinho
+
+Code: GW0603_bulazinho, Coordinates: 12.328, -15.199
+
+#### Caie
+
+Code: GW0603_caie, Coordinates: 12.328, -15.199
+
+#### Calenque Fula
+
+Code: GW0603_calenque-fula, Coordinates: 12.328, -15.199
+
+#### Calenque Mandinga
+
+Code: GW0603_calenque-mandinga, Coordinates: 12.328, -15.199
+
+#### Cambadju
+
+Code: GW0603_cambadju, Coordinates: 12.328, -15.199
+
+#### Cambaju de Baixo
+
+Code: GW0603_cambaju-de-baixo, Coordinates: 12.328, -15.199
+
+#### Cambaju de Mandinga
+
+Code: GW0603_cambaju-de-mandinga, Coordinates: 12.328, -15.199
+
+#### Canchungozinho
+
+Code: GW0603_canchungozinho, Coordinates: 11.417, -15.317
+
+#### Candjadja Mandinga
+
+Code: GW0603_candjadja-mandinga, Coordinates: 12.328, -15.199
+
+#### Canfondam
+
+Code: GW0603_canfondam, Coordinates: 12.328, -15.199
+
+#### Canjaja Fula (Sabalicunda)
+
+Code: GW0603_canjaja-fula-sabalicunda, Coordinates: 12.328, -15.199
+
+#### Cansambo
+
+Code: GW0603_cansambo, Coordinates: 12.1, -14.867
+
+#### Cantaco
+
+Code: GW0603_cantaco, Coordinates: 12.368, -15.35
+
+#### Carresse
+
+Code: GW0603_carresse, Coordinates: 12.328, -15.199
+
+#### Casa Nova
+
+Code: GW0603_casa-nova, Coordinates: 12.37, -15.012
+
+#### Cidade de Mansaba Bairro 24 Setembro
+
+Code: GW0603_cidade-de-mansaba-bairro-24-setembro, Coordinates: 12.328, -15.199
+
+#### Cidade de Mansaba Bairro Cassa Nova
+
+Code: GW0603_cidade-de-mansaba-bairro-cassa-nova, Coordinates: 12.328, -15.199
+
+#### Cidade de Mansaba Bairro Cassucai
+
+Code: GW0603_cidade-de-mansaba-bairro-cassucai, Coordinates: 12.328, -15.199
+
+#### Cidade de Mansaba Bairro Lindjane
+
+Code: GW0603_cidade-de-mansaba-bairro-lindjane, Coordinates: 12.328, -15.199
+
+#### Cidade de Mansaba Bairro Morcunda
+
+Code: GW0603_cidade-de-mansaba-bairro-morcunda, Coordinates: 12.328, -15.199
+
+#### Cidade de Mansaba Bairro Novo
+
+Code: GW0603_cidade-de-mansaba-bairro-novo, Coordinates: 12.328, -15.199
+
+#### Cidade de Mansaba Bairro Sansacano
+
+Code: GW0603_cidade-de-mansaba-bairro-sansacano, Coordinates: 12.328, -15.199
+
+#### Cidade de Mansaba Bairro Santasu
+
+Code: GW0603_cidade-de-mansaba-bairro-santasu, Coordinates: 12.328, -15.199
+
+#### Cidade de Mansaba Baria
+
+Code: GW0603_cidade-de-mansaba-baria, Coordinates: 12.328, -15.199
+
+#### Colisare
+
+Code: GW0603_colisare, Coordinates: 12.328, -15.199
+
+#### Colombato
+
+Code: GW0603_colombato, Coordinates: 12.328, -15.199
+
+#### Cooperativa Domingos Ramos (Missira)
+
+Code: GW0603_cooperativa-domingos-ramos-missira, Coordinates: 12.328, -15.199
+
+#### Corinto
+
+Code: GW0603_corinto, Coordinates: 12.328, -15.199
+
+#### Cubane
+
+Code: GW0603_cubane, Coordinates: 12.268, -15.099
+
+#### Cuncunco
+
+Code: GW0603_cuncunco, Coordinates: 12.328, -15.199
+
+#### Cunsaca
+
+Code: GW0603_cunsaca, Coordinates: 12.328, -15.199
+
+#### Cunsonco Mandinga
+
+Code: GW0603_cunsonco-mandinga, Coordinates: 12.328, -15.199
+
+#### Curawel ( Curael )
+
+Code: GW0603_curawel-curael, Coordinates: 12.328, -15.199
+
+#### Curva
+
+Code: GW0603_curva, Coordinates: 12.328, -15.199
+
+#### Cussara Ba
+
+Code: GW0603_cussara-ba, Coordinates: 12.328, -15.199
+
+#### Cussara Fanca
+
+Code: GW0603_cussara-fanca, Coordinates: 12.328, -15.199
+
+#### Dabocunda
+
+Code: GW0603_dabocunda, Coordinates: 12.328, -15.199
+
+#### Demba So
+
+Code: GW0603_demba-so, Coordinates: 12.333, -15.168
+
+#### Demba So Novo
+
+Code: GW0603_demba-so-novo, Coordinates: 12.328, -15.199
+
+#### Djabicunda
+
+Code: GW0603_djabicunda, Coordinates: 12.328, -15.199
+
+#### Djagali ( Danfa Cunda )
+
+Code: GW0603_djagali-danfa-cunda, Coordinates: 12.328, -15.199
+
+#### Djagali Mandinga
+
+Code: GW0603_djagali-mandinga, Coordinates: 12.328, -15.199
+
+#### Djalicunda
+
+Code: GW0603_djalicunda, Coordinates: 12.328, -15.199
+
+#### Djamaia
+
+Code: GW0603_djamaia, Coordinates: 12.328, -15.199
+
+#### Djendo
+
+Code: GW0603_djendo, Coordinates: 12.328, -15.199
+
+#### djifim
+
+Code: GW0603_djifim, Coordinates: 12.328, -15.199
+
+#### Djussuma (Farabato)
+
+Code: GW0603_djussuma-farabato, Coordinates: 12.328, -15.199
+
+#### Dumbali
+
+Code: GW0603_dumbali, Coordinates: 12.328, -15.199
+
+#### Dutato
+
+Code: GW0603_dutato, Coordinates: 12.335, -15.222
+
+#### Fajonquito
+
+Code: GW0603_fajonquito, Coordinates: 12.289, -15.321
+
+#### Fambato Fula
+
+Code: GW0603_fambato-fula, Coordinates: 12.328, -15.199
+
+#### Fambico
+
+Code: GW0603_fambico, Coordinates: 12.328, -15.199
+
+#### Flacam
+
+Code: GW0603_flacam, Coordinates: 12.328, -15.199
+
+#### Ga - Coti
+
+Code: GW0603_ga---coti, Coordinates: 12.328, -15.199
+
+#### Ga-Queba
+
+Code: GW0603_ga-queba, Coordinates: 12.328, -15.199
+
+#### Ga-Sanima
+
+Code: GW0603_ga-sanima, Coordinates: 12.328, -15.199
+
+#### Gebacunda
+
+Code: GW0603_gebacunda, Coordinates: 12.417, -15.29
+
+#### Ionfarim
+
+Code: GW0603_ionfarim, Coordinates: 12.328, -15.199
+
+#### Ionfarim Cabaceira
+
+Code: GW0603_ionfarim-cabaceira, Coordinates: 12.328, -15.199
+
+#### Iracunda balanta
+
+Code: GW0603_iracunda-balanta, Coordinates: 12.328, -15.199
+
+#### Lamoi
+
+Code: GW0603_lamoi, Coordinates: 12.383, -14.7
+
+#### Leto
+
+Code: GW0603_leto, Coordinates: 12.378, -15.396
+
+#### Lubacunda
+
+Code: GW0603_lubacunda, Coordinates: 12.376, -15.328
+
+#### Mabar
+
+Code: GW0603_mabar, Coordinates: 12.328, -15.199
+
+#### Maca
+
+Code: GW0603_maca, Coordinates: 12.3, -15.333
+
+#### Madina Balanta
+
+Code: GW0603_madina-balanta, Coordinates: 12.328, -15.199
+
+#### Madina Djendo
+
+Code: GW0603_madina-djendo, Coordinates: 12.328, -15.199
+
+#### Madina Mandinga
+
+Code: GW0603_madina-mandinga, Coordinates: 12.373, -15.26
+
+#### Madina Salada (Madina Mandinga)
+
+Code: GW0603_madina-salada-madina-mandinga, Coordinates: 12.328, -15.199
+
+#### Mambonco Dari
+
+Code: GW0603_mambonco-dari, Coordinates: 12.328, -15.199
+
+#### Manaco
+
+Code: GW0603_manaco, Coordinates: 12.328, -15.199
+
+#### Manbonco I
+
+Code: GW0603_manbonco-i, Coordinates: 12.328, -15.199
+
+#### Manbonco II
+
+Code: GW0603_manbonco-ii, Coordinates: 12.328, -15.199
+
+#### Mandongo
+
+Code: GW0603_mandongo, Coordinates: 12.328, -15.199
+
+#### Mangicai
+
+Code: GW0603_mangicai, Coordinates: 12.25, -14.967
+
+#### Manhau
+
+Code: GW0603_manhau, Coordinates: 12.328, -15.199
+
+#### Mansabasuto
+
+Code: GW0603_mansabasuto, Coordinates: 12.328, -15.199
+
+#### Mansomine
+
+Code: GW0603_mansomine, Coordinates: 12.183, -14.883
+
+#### Mansonde
+
+Code: GW0603_mansonde, Coordinates: 12.328, -15.199
+
+#### Manssadu
+
+Code: GW0603_manssadu, Coordinates: 12.328, -15.199
+
+#### Mantida
+
+Code: GW0603_mantida, Coordinates: 12.303, -15.068
+
+#### Matricao
+
+Code: GW0603_matricao, Coordinates: 12.328, -15.199
+
+#### Mindodo Balanta
+
+Code: GW0603_mindodo-balanta, Coordinates: 12.328, -15.199
+
+#### Mindodo Mandinga
+
+Code: GW0603_mindodo-mandinga, Coordinates: 12.328, -15.199
+
+#### Missira
+
+Code: GW0603_missira, Coordinates: 12.017, -14.65
+
+#### Mores
+
+Code: GW0603_mores, Coordinates: 12.245, -15.276
+
+#### N damicunda
+
+Code: GW0603_n-damicunda, Coordinates: 12.328, -15.199
+
+#### N&#39;djoboia
+
+Code: GW0603_ndjoboia, Coordinates: 12.328, -15.199
+
+#### N&#39;grarom
+
+Code: GW0603_ngrarom, Coordinates: 12.328, -15.199
+
+#### Ncurba
+
+Code: GW0603_ncurba, Coordinates: 12.328, -15.199
+
+#### Ndingue
+
+Code: GW0603_ndingue, Coordinates: 12.328, -15.199
+
+#### Ndjassane
+
+Code: GW0603_ndjassane, Coordinates: 12.328, -15.199
+
+#### Nemanaco Balanta
+
+Code: GW0603_nemanaco-balanta, Coordinates: 12.328, -15.199
+
+#### Nemanaco Fula
+
+Code: GW0603_nemanaco-fula, Coordinates: 12.328, -15.199
+
+#### Nhabura
+
+Code: GW0603_nhabura, Coordinates: 12.328, -15.199
+
+#### Nhane Balanta
+
+Code: GW0603_nhane-balanta, Coordinates: 12.328, -15.199
+
+#### Nhane Mandinga
+
+Code: GW0603_nhane-mandinga, Coordinates: 12.328, -15.199
+
+#### Nrua
+
+Code: GW0603_nrua, Coordinates: 12.328, -15.199
+
+#### Olossato
+
+Code: GW0603_olossato, Coordinates: 12.328, -15.199
+
+#### Pantufazinho
+
+Code: GW0603_pantufazinho, Coordinates: 12.328, -15.199
+
+#### Ponta Albertinho Sanha
+
+Code: GW0603_ponta-albertinho-sanha, Coordinates: 12.328, -15.199
+
+#### Ponta Caianga
+
+Code: GW0603_ponta-caianga, Coordinates: 12.328, -15.199
+
+#### Ponta Cumanda
+
+Code: GW0603_ponta-cumanda, Coordinates: 12.417, -15.117
+
+#### Ponta Fernando Mm
+
+Code: GW0603_ponta-fernando-mm, Coordinates: 12.328, -15.199
+
+#### Ponta Morato
+
+Code: GW0603_ponta-morato, Coordinates: 12.328, -15.199
+
+#### Ponta Nbana
+
+Code: GW0603_ponta-nbana, Coordinates: 12.328, -15.199
+
+#### Ponta Nova
+
+Code: GW0603_ponta-nova, Coordinates: 11.517, -15.05
+
+#### Ponta Paulo Cabral
+
+Code: GW0603_ponta-paulo-cabral, Coordinates: 12.328, -15.199
+
+#### Ponta Saki
+
+Code: GW0603_ponta-saki, Coordinates: 12.328, -15.199
+
+#### Ponta Seraçao Gil
+
+Code: GW0603_ponta-seraao-gil, Coordinates: 12.328, -15.199
+
+#### Samba Culo
+
+Code: GW0603_samba-culo, Coordinates: 12.328, -15.199
+
+#### Sambalacunda
+
+Code: GW0603_sambalacunda, Coordinates: 12.328, -15.199
+
+#### Santambato Fula
+
+Code: GW0603_santambato-fula, Coordinates: 12.328, -15.199
+
+#### Sibicunto
+
+Code: GW0603_sibicunto, Coordinates: 12.367, -15.367
+
+#### Simbor
+
+Code: GW0603_simbor, Coordinates: 12.341, -15.143
+
+#### Sindjam
+
+Code: GW0603_sindjam, Coordinates: 12.328, -15.199
+
+#### Sintcha Iaia
+
+Code: GW0603_sintcha-iaia, Coordinates: 12.328, -15.199
+
+#### Solinto Mandinga
+
+Code: GW0603_solinto-mandinga, Coordinates: 12.328, -15.199
+
+#### Sounto ( Solinto )
+
+Code: GW0603_sounto-solinto, Coordinates: 12.328, -15.199
+
+#### Sutucuia
+
+Code: GW0603_sutucuia, Coordinates: 12.328, -15.199
+
+#### Tambato Mandinga
+
+Code: GW0603_tambato-mandinga, Coordinates: 12.426, -15.277
+
+#### Tancroal Balanta
+
+Code: GW0603_tancroal-balanta, Coordinates: 12.328, -15.199
+
+#### Tancroal Mandinga
+
+Code: GW0603_tancroal-mandinga, Coordinates: 12.328, -15.199
+
+#### Tchacali Balanta
+
+Code: GW0603_tchacali-balanta, Coordinates: 12.328, -15.199
+
+#### Tento
+
+Code: GW0603_tento, Coordinates: 12.383, -15.098
+
+#### Tumane (Tumania )
+
+Code: GW0603_tumane-tumania, Coordinates: 12.328, -15.199
+
+#### Ualia
+
+Code: GW0603_ualia, Coordinates: 12.283, -15.483
+
+#### Wede N quinde
+
+Code: GW0603_wede-n-quinde, Coordinates: 12.328, -15.199
+
+### Mansoa
+
+Code: GW0604, Coordinates: 12.05, -15.227
+Tabancas: 165
+
+#### Acure
+
+Code: GW0604_acure, Coordinates: 12.05, -15.227
+
+#### Amedalai
+
+Code: GW0604_amedalai, Coordinates: 12.183, -14.667
+
+#### Ansonhe
+
+Code: GW0604_ansonhe, Coordinates: 12.05, -15.227
+
+#### Aongna
+
+Code: GW0604_aongna, Coordinates: 12.05, -15.227
+
+#### Atiozinho ( Cacuma )
+
+Code: GW0604_atiozinho-cacuma, Coordinates: 12.05, -15.227
+
+#### Bairro Banco Mundial
+
+Code: GW0604_bairro-banco-mundial, Coordinates: 12.05, -15.227
+
+#### Bara
+
+Code: GW0604_bara, Coordinates: 11.95, -15.3
+
+#### Bara Sime
+
+Code: GW0604_bara-sime, Coordinates: 12.05, -15.227
+
+#### Baradulo
+
+Code: GW0604_baradulo, Coordinates: 12.05, -15.227
+
+#### Benif
+
+Code: GW0604_benif, Coordinates: 12.05, -15.227
+
+#### Bessunha
+
+Code: GW0604_bessunha, Coordinates: 11.983, -15.1
+
+#### Bindur Catamba - II
+
+Code: GW0604_bindur-catamba---ii, Coordinates: 12.05, -15.227
+
+#### Bindur Duga - I
+
+Code: GW0604_bindur-duga---i, Coordinates: 12.05, -15.227
+
+#### Bindur Sam-Bidem
+
+Code: GW0604_bindur-sam-bidem, Coordinates: 12.05, -15.227
+
+#### Binibaque - I
+
+Code: GW0604_binibaque---i, Coordinates: 12.05, -15.227
+
+#### Binibaque - II
+
+Code: GW0604_binibaque---ii, Coordinates: 12.05, -15.227
+
+#### Binibaque Teda
+
+Code: GW0604_binibaque-teda, Coordinates: 12.05, -15.227
+
+#### Bissa
+
+Code: GW0604_bissa, Coordinates: 12.383, -15.967
+
+#### Bissora
+
+Code: GW0604_bissora, Coordinates: 12.04, -15.428
+
+#### Blasse
+
+Code: GW0604_blasse, Coordinates: 11.933, -15.217
+
+#### Bolondja Tabanca Novo
+
+Code: GW0604_bolondja-tabanca-novo, Coordinates: 12.05, -15.227
+
+#### Braia Claia
+
+Code: GW0604_braia-claia, Coordinates: 12.05, -15.227
+
+#### Braia Cufos
+
+Code: GW0604_braia-cufos, Coordinates: 12.05, -15.227
+
+#### Braia Nete
+
+Code: GW0604_braia-nete, Coordinates: 12.05, -15.227
+
+#### Cabuca Ponta Luis
+
+Code: GW0604_cabuca-ponta-luis, Coordinates: 12.05, -15.227
+
+#### Canhe
+
+Code: GW0604_canhe, Coordinates: 12.05, -15.227
+
+#### Cantchur
+
+Code: GW0604_cantchur, Coordinates: 12.05, -15.227
+
+#### Caur Algodao
+
+Code: GW0604_caur-algodao, Coordinates: 12.05, -15.227
+
+#### Cidade de Mansoa Bairrio 15
+
+Code: GW0604_cidade-de-mansoa-bairrio-15, Coordinates: 12.05, -15.227
+
+#### Cidade de Mansoa Bairrio Cumasse
+
+Code: GW0604_cidade-de-mansoa-bairrio-cumasse, Coordinates: 12.05, -15.227
+
+#### Cidade de Mansoa Bairro Areia 2
+
+Code: GW0604_cidade-de-mansoa-bairro-areia-2, Coordinates: 12.05, -15.227
+
+#### Cidade de Mansoa Bairro Luanda
+
+Code: GW0604_cidade-de-mansoa-bairro-luanda, Coordinates: 12.05, -15.227
+
+#### Cidade de Mansoa Bairro Misson
+
+Code: GW0604_cidade-de-mansoa-bairro-misson, Coordinates: 12.05, -15.227
+
+#### Cidade de Mansoa Bairro Praca
+
+Code: GW0604_cidade-de-mansoa-bairro-praca, Coordinates: 12.05, -15.227
+
+#### Cidade de Mansoa Bairro Ribada
+
+Code: GW0604_cidade-de-mansoa-bairro-ribada, Coordinates: 12.05, -15.227
+
+#### Cidade de Mansoa Bairro Sao Tome
+
+Code: GW0604_cidade-de-mansoa-bairro-sao-tome, Coordinates: 12.05, -15.227
+
+#### Claque Iala
+
+Code: GW0604_claque-iala, Coordinates: 12.05, -15.227
+
+#### Claque na Isna
+
+Code: GW0604_claque-na-isna, Coordinates: 12.05, -15.227
+
+#### Colicunda
+
+Code: GW0604_colicunda, Coordinates: 12.367, -14.783
+
+#### Cooperativa de Ga - Mamudo
+
+Code: GW0604_cooperativa-de-ga---mamudo, Coordinates: 12.05, -15.227
+
+#### Cruzamento de Cabuca
+
+Code: GW0604_cruzamento-de-cabuca, Coordinates: 12.05, -15.227
+
+#### Cubadjal
+
+Code: GW0604_cubadjal, Coordinates: 12.05, -15.227
+
+#### Cubui - I
+
+Code: GW0604_cubui---i, Coordinates: 12.05, -15.227
+
+#### Cubui - II
+
+Code: GW0604_cubui---ii, Coordinates: 12.05, -15.227
+
+#### Cufar
+
+Code: GW0604_cufar, Coordinates: 12.043, -15.304
+
+#### Culicunhe
+
+Code: GW0604_culicunhe, Coordinates: 12.05, -15.227
+
+#### Cuntubo
+
+Code: GW0604_cuntubo, Coordinates: 12.05, -15.227
+
+#### Curene
+
+Code: GW0604_curene, Coordinates: 12.05, -15.227
+
+#### Curva Samba
+
+Code: GW0604_curva-samba, Coordinates: 12.05, -15.227
+
+#### Cussana - I
+
+Code: GW0604_cussana---i, Coordinates: 12.05, -15.227
+
+#### Cussana - II
+
+Code: GW0604_cussana---ii, Coordinates: 12.05, -15.227
+
+#### Cussana - III
+
+Code: GW0604_cussana---iii, Coordinates: 12.05, -15.227
+
+#### Cussedje ( Anduk )
+
+Code: GW0604_cussedje-anduk, Coordinates: 12.05, -15.227
+
+#### Cussedje Assuma
+
+Code: GW0604_cussedje-assuma, Coordinates: 12.05, -15.227
+
+#### Cutia de Baixo
+
+Code: GW0604_cutia-de-baixo, Coordinates: 12.05, -15.227
+
+#### Cutia de Cima
+
+Code: GW0604_cutia-de-cima, Coordinates: 12.05, -15.227
+
+#### Cutia Manjaco
+
+Code: GW0604_cutia-manjaco, Coordinates: 12.05, -15.227
+
+#### Dam Cubontche
+
+Code: GW0604_dam-cubontche, Coordinates: 12.05, -15.227
+
+#### Dana
+
+Code: GW0604_dana, Coordinates: 12.006, -15.373
+
+#### Danduzinho
+
+Code: GW0604_danduzinho, Coordinates: 12.05, -15.227
+
+#### Darsalame Baio
+
+Code: GW0604_darsalame-baio, Coordinates: 12.05, -15.227
+
+#### Date
+
+Code: GW0604_date, Coordinates: 11.967, -15.333
+
+#### Enxale de Baixo
+
+Code: GW0604_enxale-de-baixo, Coordinates: 12.05, -15.227
+
+#### Enxale de Cima Flaque Iala
+
+Code: GW0604_enxale-de-cima-flaque-iala, Coordinates: 12.05, -15.227
+
+#### Falam
+
+Code: GW0604_falam, Coordinates: 12.05, -15.227
+
+#### Flora
+
+Code: GW0604_flora, Coordinates: 11.767, -15.45
+
+#### Funcor
+
+Code: GW0604_funcor, Coordinates: 11.95, -15.217
+
+#### Ga - Mamudo de Baixo
+
+Code: GW0604_ga---mamudo-de-baixo, Coordinates: 12.05, -15.227
+
+#### Ga - Mamudo de Cima
+
+Code: GW0604_ga---mamudo-de-cima, Coordinates: 12.05, -15.227
+
+#### Ga - Molzinho
+
+Code: GW0604_ga---molzinho, Coordinates: 12.05, -15.227
+
+#### Gambia
+
+Code: GW0604_gambia, Coordinates: 12.056, -15.417
+
+#### Injasse
+
+Code: GW0604_injasse, Coordinates: 12.05, -15.227
+
+#### Jerusalem (Lala Quema)
+
+Code: GW0604_jerusalem-lala-quema, Coordinates: 12.05, -15.227
+
+#### Jugudul
+
+Code: GW0604_jugudul, Coordinates: 12.05, -15.227
+
+#### Kindia
+
+Code: GW0604_kindia, Coordinates: 12.05, -15.227
+
+#### Lotche de Baixo
+
+Code: GW0604_lotche-de-baixo, Coordinates: 12.05, -15.227
+
+#### Lotche Fula
+
+Code: GW0604_lotche-fula, Coordinates: 12.05, -15.227
+
+#### Lotche Mandinga
+
+Code: GW0604_lotche-mandinga, Coordinates: 12.05, -15.227
+
+#### Lotche Wediqueia
+
+Code: GW0604_lotche-wediqueia, Coordinates: 12.05, -15.227
+
+#### Madina Sara
+
+Code: GW0604_madina-sara, Coordinates: 12.05, -15.227
+
+#### Madina Tchalana
+
+Code: GW0604_madina-tchalana, Coordinates: 12.05, -15.227
+
+#### Malafo
+
+Code: GW0604_malafo, Coordinates: 12.016, -15.033
+
+#### Malafo - II
+
+Code: GW0604_malafo---ii, Coordinates: 12.05, -15.227
+
+#### Mancala Cuntum
+
+Code: GW0604_mancala-cuntum, Coordinates: 12.05, -15.227
+
+#### Mancala Ncore
+
+Code: GW0604_mancala-ncore, Coordinates: 12.05, -15.227
+
+#### Mancalam Nsanga
+
+Code: GW0604_mancalam-nsanga, Coordinates: 12.05, -15.227
+
+#### Mancalam Rumbo
+
+Code: GW0604_mancalam-rumbo, Coordinates: 12.05, -15.227
+
+#### Manconfe
+
+Code: GW0604_manconfe, Coordinates: 12.05, -15.227
+
+#### Mancunto
+
+Code: GW0604_mancunto, Coordinates: 12.05, -15.227
+
+#### Mandingara
+
+Code: GW0604_mandingara, Coordinates: 12.171, -15.194
+
+#### Manquintico
+
+Code: GW0604_manquintico, Coordinates: 12.05, -15.227
+
+#### Manquintico Fula
+
+Code: GW0604_manquintico-fula, Coordinates: 12.05, -15.227
+
+#### Mansabandim ( Darsalame )
+
+Code: GW0604_mansabandim-darsalame, Coordinates: 12.05, -15.227
+
+#### Mansacrem
+
+Code: GW0604_mansacrem, Coordinates: 12.05, -15.227
+
+#### Mantefa de Cima
+
+Code: GW0604_mantefa-de-cima, Coordinates: 12.05, -15.227
+
+#### Mantem - I
+
+Code: GW0604_mantem---i, Coordinates: 12.05, -15.227
+
+#### Mantem - II ( Agri-Bissau)
+
+Code: GW0604_mantem---ii-agri-bissau, Coordinates: 12.05, -15.227
+
+#### Maque
+
+Code: GW0604_maque, Coordinates: 12.05, -15.227
+
+#### Massina - I
+
+Code: GW0604_massina---i, Coordinates: 12.05, -15.227
+
+#### Massina - II
+
+Code: GW0604_massina---ii, Coordinates: 12.05, -15.227
+
+#### Missira
+
+Code: GW0604_missira, Coordinates: 12.017, -14.65
+
+#### Missira - I
+
+Code: GW0604_missira---i, Coordinates: 12.05, -15.227
+
+#### N fandre (Abunque )
+
+Code: GW0604_n-fandre-abunque, Coordinates: 12.05, -15.227
+
+#### N lore
+
+Code: GW0604_n-lore, Coordinates: 12.05, -15.227
+
+#### N&#39;Baque ( Manbaque )
+
+Code: GW0604_nbaque-manbaque, Coordinates: 12.05, -15.227
+
+#### N&#39;Bodja
+
+Code: GW0604_nbodja, Coordinates: 12.05, -15.227
+
+#### N&#39;cor
+
+Code: GW0604_ncor, Coordinates: 12.05, -15.227
+
+#### N&#39;gonguilim
+
+Code: GW0604_ngonguilim, Coordinates: 12.05, -15.227
+
+#### N&#39;tati
+
+Code: GW0604_ntati, Coordinates: 12.05, -15.227
+
+#### N&#39;Tchula
+
+Code: GW0604_ntchula, Coordinates: 12.05, -15.227
+
+#### N&#39;tongue
+
+Code: GW0604_ntongue, Coordinates: 12.05, -15.227
+
+#### Nbum
+
+Code: GW0604_nbum, Coordinates: 12.05, -15.227
+
+#### Nghafu ( Nhafu )
+
+Code: GW0604_nghafu-nhafu, Coordinates: 12.05, -15.227
+
+#### Nguida
+
+Code: GW0604_nguida, Coordinates: 12.05, -15.227
+
+#### Nhae ( Uqui )
+
+Code: GW0604_nhae-uqui, Coordinates: 12.05, -15.227
+
+#### Nhala
+
+Code: GW0604_nhala, Coordinates: 11.633, -14.9
+
+#### Nhenque - I
+
+Code: GW0604_nhenque---i, Coordinates: 12.05, -15.227
+
+#### Nhiman
+
+Code: GW0604_nhiman, Coordinates: 12.05, -15.227
+
+#### Nhimbi - I
+
+Code: GW0604_nhimbi---i, Coordinates: 12.05, -15.227
+
+#### Nhimbi - II
+
+Code: GW0604_nhimbi---ii, Coordinates: 12.05, -15.227
+
+#### Ntchan
+
+Code: GW0604_ntchan, Coordinates: 12.05, -15.227
+
+#### Olom
+
+Code: GW0604_olom, Coordinates: 12.116, -15.242
+
+#### Paulo Baque
+
+Code: GW0604_paulo-baque, Coordinates: 12.05, -15.227
+
+#### Plantaçao de Sul (ADPP)
+
+Code: GW0604_plantaao-de-sul-adpp, Coordinates: 12.05, -15.227
+
+#### Pluba
+
+Code: GW0604_pluba, Coordinates: 12.05, -15.227
+
+#### Ponta Antonio A Sanha
+
+Code: GW0604_ponta-antonio-a-sanha, Coordinates: 12.05, -15.227
+
+#### Ponta Domingos
+
+Code: GW0604_ponta-domingos, Coordinates: 12.05, -15.227
+
+#### Ponta Eminigildo Clode
+
+Code: GW0604_ponta-eminigildo-clode, Coordinates: 12.05, -15.227
+
+#### Ponta Fo
+
+Code: GW0604_ponta-fo, Coordinates: 12.05, -15.227
+
+#### Ponta Joao Bernardo Vieira
+
+Code: GW0604_ponta-joao-bernardo-vieira, Coordinates: 12.05, -15.227
+
+#### Ponta Ndile ( Jose Correia )
+
+Code: GW0604_ponta-ndile-jose-correia, Coordinates: 12.05, -15.227
+
+#### Ponta Nobo
+
+Code: GW0604_ponta-nobo, Coordinates: 12.05, -15.227
+
+#### Ponta Tavares
+
+Code: GW0604_ponta-tavares, Coordinates: 12.05, -15.227
+
+#### Ponta Varela
+
+Code: GW0604_ponta-varela, Coordinates: 11.95, -14.983
+
+#### Ponta Wna Sambe
+
+Code: GW0604_ponta-wna-sambe, Coordinates: 12.05, -15.227
+
+#### Portogol
+
+Code: GW0604_portogol, Coordinates: 12.05, -15.227
+
+#### Quedemete - I
+
+Code: GW0604_quedemete---i, Coordinates: 12.05, -15.227
+
+#### Quenhequenheto
+
+Code: GW0604_quenhequenheto, Coordinates: 12.151, -15.217
+
+#### Quenhequenheto Fula
+
+Code: GW0604_quenhequenheto-fula, Coordinates: 12.05, -15.227
+
+#### Qui - Seel ( See - Quife )
+
+Code: GW0604_qui---seel-see---quife, Coordinates: 12.05, -15.227
+
+#### Quibir
+
+Code: GW0604_quibir, Coordinates: 11.983, -15.3
+
+#### Quinhaque
+
+Code: GW0604_quinhaque, Coordinates: 12.181, -15.437
+
+#### Rocha
+
+Code: GW0604_rocha, Coordinates: 12.05, -15.227
+
+#### Rossum
+
+Code: GW0604_rossum, Coordinates: 11.383, -15.25
+
+#### Saba
+
+Code: GW0604_saba, Coordinates: 12.127, -15.289
+
+#### Sai Fala
+
+Code: GW0604_sai-fala, Coordinates: 12.05, -15.227
+
+#### Sansanto
+
+Code: GW0604_sansanto, Coordinates: 12.114, -15.283
+
+#### Sara Balanta - II
+
+Code: GW0604_sara-balanta---ii, Coordinates: 12.05, -15.227
+
+#### Sara Balanta - III
+
+Code: GW0604_sara-balanta---iii, Coordinates: 12.05, -15.227
+
+#### Sara Manjaco - I
+
+Code: GW0604_sara-manjaco---i, Coordinates: 12.05, -15.227
+
+#### Sinre ( Simdri )
+
+Code: GW0604_sinre-simdri, Coordinates: 12.05, -15.227
+
+#### Sintcha Mussa
+
+Code: GW0604_sintcha-mussa, Coordinates: 12.05, -15.227
+
+#### Somec
+
+Code: GW0604_somec, Coordinates: 12.05, -15.227
+
+#### Suarecunda
+
+Code: GW0604_suarecunda, Coordinates: 12.192, -15.164
+
+#### Sucum
+
+Code: GW0604_sucum, Coordinates: 12.05, -15.227
+
+#### Tchalam Ingaila
+
+Code: GW0604_tchalam-ingaila, Coordinates: 12.05, -15.227
+
+#### Tchalana - III
+
+Code: GW0604_tchalana---iii, Coordinates: 12.05, -15.227
+
+#### Tchangha
+
+Code: GW0604_tchangha, Coordinates: 12.05, -15.227
+
+#### Tchere
+
+Code: GW0604_tchere, Coordinates: 12.05, -15.227
+
+#### Tchombam
+
+Code: GW0604_tchombam, Coordinates: 12.05, -15.227
+
+#### Tchube
+
+Code: GW0604_tchube, Coordinates: 12.05, -15.227
+
+#### Tchugal
+
+Code: GW0604_tchugal, Coordinates: 12.05, -15.227
+
+#### Tchumbe
+
+Code: GW0604_tchumbe, Coordinates: 12.05, -15.227
+
+#### Tira Camisa
+
+Code: GW0604_tira-camisa, Coordinates: 12.05, -15.227
+
+#### Uncome Ndate
+
+Code: GW0604_uncome-ndate, Coordinates: 12.05, -15.227
+
+### Nhacra
+
+Code: GW0605, Coordinates: 11.972, -15.509
+Tabancas: 67
+
+#### Abiom
+
+Code: GW0605_abiom, Coordinates: 11.972, -15.509
+
+#### Agui
+
+Code: GW0605_agui, Coordinates: 11.972, -15.509
+
+#### Amede Ans
+
+Code: GW0605_amede-ans, Coordinates: 11.972, -15.509
+
+#### Ancone
+
+Code: GW0605_ancone, Coordinates: 11.972, -15.509
+
+#### Anfitna
+
+Code: GW0605_anfitna, Coordinates: 11.972, -15.509
+
+#### Atchaca
+
+Code: GW0605_atchaca, Coordinates: 11.972, -15.509
+
+#### Atim
+
+Code: GW0605_atim, Coordinates: 11.972, -15.509
+
+#### Bira
+
+Code: GW0605_bira, Coordinates: 11.55, -14.567
+
+#### Bulisau
+
+Code: GW0605_bulisau, Coordinates: 11.972, -15.509
+
+#### Bup Cubute
+
+Code: GW0605_bup-cubute, Coordinates: 11.972, -15.509
+
+#### Bup N&#39;cassi
+
+Code: GW0605_bup-ncassi, Coordinates: 11.972, -15.509
+
+#### Bup Ncar
+
+Code: GW0605_bup-ncar, Coordinates: 11.972, -15.509
+
+#### Bup Tchuru
+
+Code: GW0605_bup-tchuru, Coordinates: 11.972, -15.509
+
+#### Cade
+
+Code: GW0605_cade, Coordinates: 11.983, -15.5
+
+#### Caiana
+
+Code: GW0605_caiana, Coordinates: 11.917, -15.55
+
+#### Cantanga
+
+Code: GW0605_cantanga, Coordinates: 11.972, -15.509
+
+#### Caranmoco
+
+Code: GW0605_caranmoco, Coordinates: 11.972, -15.509
+
+#### Cidade de Nhacra
+
+Code: GW0605_cidade-de-nhacra, Coordinates: 11.972, -15.509
+
+#### Com
+
+Code: GW0605_com, Coordinates: 11.972, -15.509
+
+#### cum
+
+Code: GW0605_cum, Coordinates: 11.972, -15.509
+
+#### Cumere
+
+Code: GW0605_cumere, Coordinates: 11.9, -15.533
+
+#### Dugal
+
+Code: GW0605_dugal, Coordinates: 11.983, -15.45
+
+#### Dugal - Raga
+
+Code: GW0605_dugal---raga, Coordinates: 11.972, -15.509
+
+#### Fabrica
+
+Code: GW0605_fabrica, Coordinates: 11.972, -15.509
+
+#### Fanhey
+
+Code: GW0605_fanhey, Coordinates: 11.972, -15.509
+
+#### Fatime Fatn
+
+Code: GW0605_fatime-fatn, Coordinates: 11.972, -15.509
+
+#### Flefe
+
+Code: GW0605_flefe, Coordinates: 11.972, -15.509
+
+#### Ga-Ducure
+
+Code: GW0605_ga-ducure, Coordinates: 11.972, -15.509
+
+#### Iungume
+
+Code: GW0605_iungume, Coordinates: 11.972, -15.509
+
+#### Jugudul Com
+
+Code: GW0605_jugudul-com, Coordinates: 12.005, -15.518
+
+#### Murcande
+
+Code: GW0605_murcande, Coordinates: 11.972, -15.509
+
+#### Nague Abentche
+
+Code: GW0605_nague-abentche, Coordinates: 11.972, -15.509
+
+#### Nague Brama
+
+Code: GW0605_nague-brama, Coordinates: 11.972, -15.509
+
+#### Nague Lunda de Norte
+
+Code: GW0605_nague-lunda-de-norte, Coordinates: 11.972, -15.509
+
+#### Nague Patch
+
+Code: GW0605_nague-patch, Coordinates: 11.972, -15.509
+
+#### Ncuna
+
+Code: GW0605_ncuna, Coordinates: 11.972, -15.509
+
+#### Nhacra Teda
+
+Code: GW0605_nhacra-teda, Coordinates: 11.983, -15.567
+
+#### Nhode Nbuium
+
+Code: GW0605_nhode-nbuium, Coordinates: 11.972, -15.509
+
+#### Nhoma
+
+Code: GW0605_nhoma, Coordinates: 11.983, -15.583
+
+#### Nhomazinho
+
+Code: GW0605_nhomazinho, Coordinates: 11.972, -15.509
+
+#### Nsul
+
+Code: GW0605_nsul, Coordinates: 11.972, -15.509
+
+#### Ntchangue Bedeta
+
+Code: GW0605_ntchangue-bedeta, Coordinates: 11.972, -15.509
+
+#### Oco Grande
+
+Code: GW0605_oco-grande, Coordinates: 11.933, -15.517
+
+#### Ocozinho
+
+Code: GW0605_ocozinho, Coordinates: 11.972, -15.509
+
+#### Ponta Sussute
+
+Code: GW0605_ponta-sussute, Coordinates: 11.972, -15.509
+
+#### Quesses
+
+Code: GW0605_quesses, Coordinates: 11.972, -15.509
+
+#### Quide
+
+Code: GW0605_quide, Coordinates: 11.933, -15.567
+
+#### Quifitche
+
+Code: GW0605_quifitche, Coordinates: 11.972, -15.509
+
+#### Rom
+
+Code: GW0605_rom, Coordinates: 11.972, -15.509
+
+#### Rotchum Morna
+
+Code: GW0605_rotchum-morna, Coordinates: 11.972, -15.509
+
+#### Rotchum Ndam
+
+Code: GW0605_rotchum-ndam, Coordinates: 11.972, -15.509
+
+#### Rucuto
+
+Code: GW0605_rucuto, Coordinates: 11.95, -15.433
+
+#### Sau
+
+Code: GW0605_sau, Coordinates: 12, -15.55
+
+#### Som
+
+Code: GW0605_som, Coordinates: 11.972, -15.509
+
+#### Sucuto Canhe
+
+Code: GW0605_sucuto-canhe, Coordinates: 11.972, -15.509
+
+#### Sucuto N&#39;laga
+
+Code: GW0605_sucuto-nlaga, Coordinates: 11.972, -15.509
+
+#### Sucuto Nhogui
+
+Code: GW0605_sucuto-nhogui, Coordinates: 11.972, -15.509
+
+#### Sucuto Quedaga
+
+Code: GW0605_sucuto-quedaga, Coordinates: 11.972, -15.509
+
+#### Sumo
+
+Code: GW0605_sumo, Coordinates: 11.972, -15.509
+
+#### Sumo Canhe
+
+Code: GW0605_sumo-canhe, Coordinates: 11.972, -15.509
+
+#### Sumo Quindefa
+
+Code: GW0605_sumo-quindefa, Coordinates: 11.972, -15.509
+
+#### Tchanque Subal
+
+Code: GW0605_tchanque-subal, Coordinates: 11.972, -15.509
+
+#### Tchete Queia
+
+Code: GW0605_tchete-queia, Coordinates: 11.972, -15.509
+
+#### Tchugue Comteda
+
+Code: GW0605_tchugue-comteda, Coordinates: 11.972, -15.509
+
+#### Tchugue N&#39;canha
+
+Code: GW0605_tchugue-ncanha, Coordinates: 11.972, -15.509
+
+#### Tchulof Npaba
+
+Code: GW0605_tchulof-npaba, Coordinates: 11.972, -15.509
+
+#### Tchuluf
+
+Code: GW0605_tchuluf, Coordinates: 11.972, -15.509
+

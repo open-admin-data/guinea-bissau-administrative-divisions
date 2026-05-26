@@ -1,0 +1,7292 @@
+[
+  {
+    "id": "GW0102_aladje-mane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Aladje Mane",
+      "en": "Aladje Mane",
+      "slug": "aladje-mane"
+    },
+    "code": {
+      "id": "GW0102_aladje-mane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_aldeia-de-cuon",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Aldeia de Cuon",
+      "en": "Aldeia de Cuon",
+      "slug": "aldeia-de-cuon"
+    },
+    "code": {
+      "id": "GW0102_aldeia-de-cuon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_aliu-jai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Aliu Jai",
+      "en": "Aliu Jai",
+      "slug": "aliu-jai"
+    },
+    "code": {
+      "id": "GW0102_aliu-jai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_amedalai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Amedalai",
+      "en": "Amedalai",
+      "slug": "amedalai"
+    },
+    "code": {
+      "id": "GW0102_amedalai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.183",
+      "lon": "-14.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_anogna",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Anogna",
+      "en": "Anogna",
+      "slug": "anogna"
+    },
+    "code": {
+      "id": "GW0102_anogna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_bagadadje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bagadadje",
+      "en": "Bagadadje",
+      "slug": "bagadadje"
+    },
+    "code": {
+      "id": "GW0102_bagadadje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_banir-tabanca-nova",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Banir (Tabanca Nova)",
+      "en": "Banir (Tabanca Nova)",
+      "slug": "banir-tabanca-nova"
+    },
+    "code": {
+      "id": "GW0102_banir-tabanca-nova",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_bantanjam-assa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bantanjam Assa",
+      "en": "Bantanjam Assa",
+      "slug": "bantanjam-assa"
+    },
+    "code": {
+      "id": "GW0102_bantanjam-assa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_bantanjam-cuta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bantanjam Cuta",
+      "en": "Bantanjam Cuta",
+      "slug": "bantanjam-cuta"
+    },
+    "code": {
+      "id": "GW0102_bantanjam-cuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_bantanjam-mandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bantanjam Mandinga",
+      "en": "Bantanjam Mandinga",
+      "slug": "bantanjam-mandinga"
+    },
+    "code": {
+      "id": "GW0102_bantanjam-mandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_barraca-de-baio",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barraca de Baio",
+      "en": "Barraca de Baio",
+      "slug": "barraca-de-baio"
+    },
+    "code": {
+      "id": "GW0102_barraca-de-baio",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_barraca-de-samba-djulde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barraca de Samba Djulde",
+      "en": "Barraca de Samba Djulde",
+      "slug": "barraca-de-samba-djulde"
+    },
+    "code": {
+      "id": "GW0102_barraca-de-samba-djulde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_bedama-porto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bedama Porto",
+      "en": "Bedama Porto",
+      "slug": "bedama-porto"
+    },
+    "code": {
+      "id": "GW0102_bedama-porto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_belel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Belel",
+      "en": "Belel",
+      "slug": "belel"
+    },
+    "code": {
+      "id": "GW0102_belel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.088",
+      "lon": "-15.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_biana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Biana",
+      "en": "Biana",
+      "slug": "biana"
+    },
+    "code": {
+      "id": "GW0102_biana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.1",
+      "lon": "-14.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_boa-esperana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Boa Esperança",
+      "en": "Boa Esperança",
+      "slug": "boa-esperana"
+    },
+    "code": {
+      "id": "GW0102_boa-esperana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_bondjei",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bondjei",
+      "en": "Bondjei",
+      "slug": "bondjei"
+    },
+    "code": {
+      "id": "GW0102_bondjei",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_brontonhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Brontonhe",
+      "en": "Brontonhe",
+      "slug": "brontonhe"
+    },
+    "code": {
+      "id": "GW0102_brontonhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_campampe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Campampe",
+      "en": "Campampe",
+      "slug": "campampe"
+    },
+    "code": {
+      "id": "GW0102_campampe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.233",
+      "lon": "-14.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_canhama-ponta-brandao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canhama ( Ponta Brandao )",
+      "en": "Canhama ( Ponta Brandao )",
+      "slug": "canhama-ponta-brandao"
+    },
+    "code": {
+      "id": "GW0102_canhama-ponta-brandao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_caranquecunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caranquecunda",
+      "en": "Caranquecunda",
+      "slug": "caranquecunda"
+    },
+    "code": {
+      "id": "GW0102_caranquecunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_chacali",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Chacali",
+      "en": "Chacali",
+      "slug": "chacali"
+    },
+    "code": {
+      "id": "GW0102_chacali",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_chalabo-sao-paulo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Chalabo ( Sao Paulo )",
+      "en": "Chalabo ( Sao Paulo )",
+      "slug": "chalabo-sao-paulo"
+    },
+    "code": {
+      "id": "GW0102_chalabo-sao-paulo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_chicaniel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Chicaniel",
+      "en": "Chicaniel",
+      "slug": "chicaniel"
+    },
+    "code": {
+      "id": "GW0102_chicaniel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_cidade-de-bambadinca-bairro-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bambadinca Bairro 1",
+      "en": "Cidade de Bambadinca Bairro 1",
+      "slug": "cidade-de-bambadinca-bairro-1"
+    },
+    "code": {
+      "id": "GW0102_cidade-de-bambadinca-bairro-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_cidade-de-bambadinca-bairro-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bambadinca Bairro 2",
+      "en": "Cidade de Bambadinca Bairro 2",
+      "slug": "cidade-de-bambadinca-bairro-2"
+    },
+    "code": {
+      "id": "GW0102_cidade-de-bambadinca-bairro-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_cidade-de-bambadinca-bairro-3",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bambadinca Bairro 3",
+      "en": "Cidade de Bambadinca Bairro 3",
+      "slug": "cidade-de-bambadinca-bairro-3"
+    },
+    "code": {
+      "id": "GW0102_cidade-de-bambadinca-bairro-3",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_cidade-de-bambadinca-bairro-cupo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bambadinca Bairro Cupo",
+      "en": "Cidade de Bambadinca Bairro Cupo",
+      "slug": "cidade-de-bambadinca-bairro-cupo"
+    },
+    "code": {
+      "id": "GW0102_cidade-de-bambadinca-bairro-cupo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_cidade-de-bambadinca-bairro-nema",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bambadinca Bairro Nema",
+      "en": "Cidade de Bambadinca Bairro Nema",
+      "slug": "cidade-de-bambadinca-bairro-nema"
+    },
+    "code": {
+      "id": "GW0102_cidade-de-bambadinca-bairro-nema",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_cidade-de-bambadinca-bairro-tenquina-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bambadinca Bairro Tenquina 2",
+      "en": "Cidade de Bambadinca Bairro Tenquina 2",
+      "slug": "cidade-de-bambadinca-bairro-tenquina-2"
+    },
+    "code": {
+      "id": "GW0102_cidade-de-bambadinca-bairro-tenquina-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_colicumbel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Colicumbel",
+      "en": "Colicumbel",
+      "slug": "colicumbel"
+    },
+    "code": {
+      "id": "GW0102_colicumbel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_cooperativa-12-de-setembro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cooperativa 12 de Setembro",
+      "en": "Cooperativa 12 de Setembro",
+      "slug": "cooperativa-12-de-setembro"
+    },
+    "code": {
+      "id": "GW0102_cooperativa-12-de-setembro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_cooperativa-militar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cooperativa Militar",
+      "en": "Cooperativa Militar",
+      "slug": "cooperativa-militar"
+    },
+    "code": {
+      "id": "GW0102_cooperativa-militar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_cooperativa-pancia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cooperativa Pancia",
+      "en": "Cooperativa Pancia",
+      "slug": "cooperativa-pancia"
+    },
+    "code": {
+      "id": "GW0102_cooperativa-pancia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_cussarandim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cussarandim",
+      "en": "Cussarandim",
+      "slug": "cussarandim"
+    },
+    "code": {
+      "id": "GW0102_cussarandim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_darsalame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Darsalame",
+      "en": "Darsalame",
+      "slug": "darsalame"
+    },
+    "code": {
+      "id": "GW0102_darsalame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-14.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_darsalame-baio",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Darsalame Baio",
+      "en": "Darsalame Baio",
+      "slug": "darsalame-baio"
+    },
+    "code": {
+      "id": "GW0102_darsalame-baio",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_demba-taco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Demba Taco",
+      "en": "Demba Taco",
+      "slug": "demba-taco"
+    },
+    "code": {
+      "id": "GW0102_demba-taco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-14.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_demba-tacoba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Demba Tacoba",
+      "en": "Demba Tacoba",
+      "slug": "demba-tacoba"
+    },
+    "code": {
+      "id": "GW0102_demba-tacoba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_djarecunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djarecunda",
+      "en": "Djarecunda",
+      "slug": "djarecunda"
+    },
+    "code": {
+      "id": "GW0102_djarecunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_fa---balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fa - Balanta",
+      "en": "Fa - Balanta",
+      "slug": "fa---balanta"
+    },
+    "code": {
+      "id": "GW0102_fa---balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-14.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_fa---embonga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fa - Embonga",
+      "en": "Fa - Embonga",
+      "slug": "fa---embonga"
+    },
+    "code": {
+      "id": "GW0102_fa---embonga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_fa-mandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fa-Mandinga",
+      "en": "Fa-Mandinga",
+      "slug": "fa-mandinga"
+    },
+    "code": {
+      "id": "GW0102_fa-mandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ferbidig",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ferbidig",
+      "en": "Ferbidig",
+      "slug": "ferbidig"
+    },
+    "code": {
+      "id": "GW0102_ferbidig",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_finete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Finete",
+      "en": "Finete",
+      "slug": "finete"
+    },
+    "code": {
+      "id": "GW0102_finete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-14.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ga---bana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - bana",
+      "en": "Ga - bana",
+      "slug": "ga---bana"
+    },
+    "code": {
+      "id": "GW0102_ga---bana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ga---carnes",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Carnes",
+      "en": "Ga - Carnes",
+      "slug": "ga---carnes"
+    },
+    "code": {
+      "id": "GW0102_ga---carnes",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ga---cumba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Cumba",
+      "en": "Ga - Cumba",
+      "slug": "ga---cumba"
+    },
+    "code": {
+      "id": "GW0102_ga---cumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ga---dias",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Dias",
+      "en": "Ga - Dias",
+      "slug": "ga---dias"
+    },
+    "code": {
+      "id": "GW0102_ga---dias",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ga---gemia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Gemia",
+      "en": "Ga - Gemia",
+      "slug": "ga---gemia"
+    },
+    "code": {
+      "id": "GW0102_ga---gemia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ga---joaquim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Joaquim",
+      "en": "Ga - Joaquim",
+      "slug": "ga---joaquim"
+    },
+    "code": {
+      "id": "GW0102_ga---joaquim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ga---sambu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Sambu",
+      "en": "Ga - Sambu",
+      "slug": "ga---sambu"
+    },
+    "code": {
+      "id": "GW0102_ga---sambu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ga---tamba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Tamba",
+      "en": "Ga - Tamba",
+      "slug": "ga---tamba"
+    },
+    "code": {
+      "id": "GW0102_ga---tamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ga-nture",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-nture",
+      "en": "Ga-nture",
+      "slug": "ga-nture"
+    },
+    "code": {
+      "id": "GW0102_ga-nture",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.233",
+      "lon": "-14.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ga-tchebem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Tchebem",
+      "en": "Ga-Tchebem",
+      "slug": "ga-tchebem"
+    },
+    "code": {
+      "id": "GW0102_ga-tchebem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_gambiel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gambiel",
+      "en": "Gambiel",
+      "slug": "gambiel"
+    },
+    "code": {
+      "id": "GW0102_gambiel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ganjalem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ganjalem",
+      "en": "Ganjalem",
+      "slug": "ganjalem"
+    },
+    "code": {
+      "id": "GW0102_ganjalem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_gonhedji",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gonhedji",
+      "en": "Gonhedji",
+      "slug": "gonhedji"
+    },
+    "code": {
+      "id": "GW0102_gonhedji",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_gulal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gulal",
+      "en": "Gulal",
+      "slug": "gulal"
+    },
+    "code": {
+      "id": "GW0102_gulal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_gundague-beafada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gundague Beafada",
+      "en": "Gundague Beafada",
+      "slug": "gundague-beafada"
+    },
+    "code": {
+      "id": "GW0102_gundague-beafada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_gussara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gussara",
+      "en": "Gussara",
+      "slug": "gussara"
+    },
+    "code": {
+      "id": "GW0102_gussara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_iero-nhapa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Iero Nhapa",
+      "en": "Iero Nhapa",
+      "slug": "iero-nhapa"
+    },
+    "code": {
+      "id": "GW0102_iero-nhapa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ierobula",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ierobula",
+      "en": "Ierobula",
+      "slug": "ierobula"
+    },
+    "code": {
+      "id": "GW0102_ierobula",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.983",
+      "lon": "-14.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_lamar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lamar",
+      "en": "Lamar",
+      "slug": "lamar"
+    },
+    "code": {
+      "id": "GW0102_lamar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_madina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina",
+      "en": "Madina",
+      "slug": "madina"
+    },
+    "code": {
+      "id": "GW0102_madina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-14.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_malandim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Malandim",
+      "en": "Malandim",
+      "slug": "malandim"
+    },
+    "code": {
+      "id": "GW0102_malandim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-14.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_mampata",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mampata",
+      "en": "Mampata",
+      "slug": "mampata"
+    },
+    "code": {
+      "id": "GW0102_mampata",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-14.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_mana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mana",
+      "en": "Mana",
+      "slug": "mana"
+    },
+    "code": {
+      "id": "GW0102_mana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.083",
+      "lon": "-14.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_maricanhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Maricanhe",
+      "en": "Maricanhe",
+      "slug": "maricanhe"
+    },
+    "code": {
+      "id": "GW0102_maricanhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.917",
+      "lon": "-14.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_mato-de-cao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mato de Cao",
+      "en": "Mato de Cao",
+      "slug": "mato-de-cao"
+    },
+    "code": {
+      "id": "GW0102_mato-de-cao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_mato-de-madeira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mato de Madeira",
+      "en": "Mato de Madeira",
+      "slug": "mato-de-madeira"
+    },
+    "code": {
+      "id": "GW0102_mato-de-madeira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_mero",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mero",
+      "en": "Mero",
+      "slug": "mero"
+    },
+    "code": {
+      "id": "GW0102_mero",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-14.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_metanhaca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Metanhaca",
+      "en": "Metanhaca",
+      "slug": "metanhaca"
+    },
+    "code": {
+      "id": "GW0102_metanhaca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_missira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Missira",
+      "en": "Missira",
+      "slug": "missira"
+    },
+    "code": {
+      "id": "GW0102_missira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-14.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_nbule",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N'bule",
+      "en": "N'bule",
+      "slug": "nbule"
+    },
+    "code": {
+      "id": "GW0102_nbule",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_nhabidjom-blobate-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhabidjom Blobate de Baixo",
+      "en": "Nhabidjom Blobate de Baixo",
+      "slug": "nhabidjom-blobate-de-baixo"
+    },
+    "code": {
+      "id": "GW0102_nhabidjom-blobate-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_nhabidjom-blobate-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhabidjom Blobate de Cima",
+      "en": "Nhabidjom Blobate de Cima",
+      "slug": "nhabidjom-blobate-de-cima"
+    },
+    "code": {
+      "id": "GW0102_nhabidjom-blobate-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_nhabidjom-nbum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhabidjom Nbum",
+      "en": "Nhabidjom Nbum",
+      "slug": "nhabidjom-nbum"
+    },
+    "code": {
+      "id": "GW0102_nhabidjom-nbum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_nhabidjon-bedim-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhabidjon Bedim de Baixo",
+      "en": "Nhabidjon Bedim de Baixo",
+      "slug": "nhabidjon-bedim-de-baixo"
+    },
+    "code": {
+      "id": "GW0102_nhabidjon-bedim-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_nhabidjon-bedim-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhabidjon Bedim de Cima",
+      "en": "Nhabidjon Bedim de Cima",
+      "slug": "nhabidjon-bedim-de-cima"
+    },
+    "code": {
+      "id": "GW0102_nhabidjon-bedim-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_nhabidjon-mandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhabidjon Mandinga",
+      "en": "Nhabidjon Mandinga",
+      "slug": "nhabidjon-mandinga"
+    },
+    "code": {
+      "id": "GW0102_nhabidjon-mandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ntalai-bedana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ntalai Bedana",
+      "en": "Ntalai Bedana",
+      "slug": "ntalai-bedana"
+    },
+    "code": {
+      "id": "GW0102_ntalai-bedana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_paindom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Paindom",
+      "en": "Paindom",
+      "slug": "paindom"
+    },
+    "code": {
+      "id": "GW0102_paindom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_patche-iala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Patche Iala",
+      "en": "Patche Iala",
+      "slug": "patche-iala"
+    },
+    "code": {
+      "id": "GW0102_patche-iala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ponta-emanuel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Emanuel",
+      "en": "Ponta Emanuel",
+      "slug": "ponta-emanuel"
+    },
+    "code": {
+      "id": "GW0102_ponta-emanuel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ponta-francisco-sifina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Francisco Sifina",
+      "en": "Ponta Francisco Sifina",
+      "slug": "ponta-francisco-sifina"
+    },
+    "code": {
+      "id": "GW0102_ponta-francisco-sifina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ponta-iero-tumbum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Iero Tumbum",
+      "en": "Ponta Iero Tumbum",
+      "slug": "ponta-iero-tumbum"
+    },
+    "code": {
+      "id": "GW0102_ponta-iero-tumbum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ponta-paulo-correia-atote",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Paulo Correia Atote",
+      "en": "Ponta Paulo Correia Atote",
+      "slug": "ponta-paulo-correia-atote"
+    },
+    "code": {
+      "id": "GW0102_ponta-paulo-correia-atote",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_ponta-varela-flacam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Varela ( Flacam )",
+      "en": "Ponta Varela ( Flacam )",
+      "slug": "ponta-varela-flacam"
+    },
+    "code": {
+      "id": "GW0102_ponta-varela-flacam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_prantiao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Prantiao",
+      "en": "Prantiao",
+      "slug": "prantiao"
+    },
+    "code": {
+      "id": "GW0102_prantiao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_queca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Queca",
+      "en": "Queca",
+      "slug": "queca"
+    },
+    "code": {
+      "id": "GW0102_queca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-14.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_quecuta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quecuta",
+      "en": "Quecuta",
+      "slug": "quecuta"
+    },
+    "code": {
+      "id": "GW0102_quecuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_quenhequenhe-ponta-de-areia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quenhequenhe ( Ponta de Areia )",
+      "en": "Quenhequenhe ( Ponta de Areia )",
+      "slug": "quenhequenhe-ponta-de-areia"
+    },
+    "code": {
+      "id": "GW0102_quenhequenhe-ponta-de-areia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_queroane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Queroane",
+      "en": "Queroane",
+      "slug": "queroane"
+    },
+    "code": {
+      "id": "GW0102_queroane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.167",
+      "lon": "-14.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_salato",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Salato",
+      "en": "Salato",
+      "slug": "salato"
+    },
+    "code": {
+      "id": "GW0102_salato",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_salequenhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Salequenhe",
+      "en": "Salequenhe",
+      "slug": "salequenhe"
+    },
+    "code": {
+      "id": "GW0102_salequenhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_samba-djulde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samba Djulde",
+      "en": "Samba Djulde",
+      "slug": "samba-djulde"
+    },
+    "code": {
+      "id": "GW0102_samba-djulde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_samba-silate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samba Silate",
+      "en": "Samba Silate",
+      "slug": "samba-silate"
+    },
+    "code": {
+      "id": "GW0102_samba-silate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12",
+      "lon": "-14.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sambatchur",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sambatchur",
+      "en": "Sambatchur",
+      "slug": "sambatchur"
+    },
+    "code": {
+      "id": "GW0102_sambatchur",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_samorla",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Samorla",
+      "en": "Samorla",
+      "slug": "samorla"
+    },
+    "code": {
+      "id": "GW0102_samorla",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sansacuta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sansacuta",
+      "en": "Sansacuta",
+      "slug": "sansacuta"
+    },
+    "code": {
+      "id": "GW0102_sansacuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sansam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sansam",
+      "en": "Sansam",
+      "slug": "sansam"
+    },
+    "code": {
+      "id": "GW0102_sansam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_santa-helena",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Santa Helena",
+      "en": "Santa Helena",
+      "slug": "santa-helena"
+    },
+    "code": {
+      "id": "GW0102_santa-helena",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-14.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sare-ade",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Ade",
+      "en": "Sare Ade",
+      "slug": "sare-ade"
+    },
+    "code": {
+      "id": "GW0102_sare-ade",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.983",
+      "lon": "-14.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sare-nhado",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sare Nhado",
+      "en": "Sare Nhado",
+      "slug": "sare-nhado"
+    },
+    "code": {
+      "id": "GW0102_sare-nhado",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sedjo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sedjo",
+      "en": "Sedjo",
+      "slug": "sedjo"
+    },
+    "code": {
+      "id": "GW0102_sedjo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-assete",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Assete",
+      "en": "Sintcha Assete",
+      "slug": "sintcha-assete"
+    },
+    "code": {
+      "id": "GW0102_sintcha-assete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-bai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Bai",
+      "en": "Sintcha Bai",
+      "slug": "sintcha-bai"
+    },
+    "code": {
+      "id": "GW0102_sintcha-bai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-bamba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Bamba",
+      "en": "Sintcha Bamba",
+      "slug": "sintcha-bamba"
+    },
+    "code": {
+      "id": "GW0102_sintcha-bamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-boe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Boe",
+      "en": "Sintcha Boe",
+      "slug": "sintcha-boe"
+    },
+    "code": {
+      "id": "GW0102_sintcha-boe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-cau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Cau",
+      "en": "Sintcha Cau",
+      "slug": "sintcha-cau"
+    },
+    "code": {
+      "id": "GW0102_sintcha-cau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-corobal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Corobal",
+      "en": "Sintcha Corobal",
+      "slug": "sintcha-corobal"
+    },
+    "code": {
+      "id": "GW0102_sintcha-corobal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-cunti",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Cunti",
+      "en": "Sintcha Cunti",
+      "slug": "sintcha-cunti"
+    },
+    "code": {
+      "id": "GW0102_sintcha-cunti",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-dembel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Dembel",
+      "en": "Sintcha Dembel",
+      "slug": "sintcha-dembel"
+    },
+    "code": {
+      "id": "GW0102_sintcha-dembel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-faja-madina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Faja Madina",
+      "en": "Sintcha Faja Madina",
+      "slug": "sintcha-faja-madina"
+    },
+    "code": {
+      "id": "GW0102_sintcha-faja-madina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-h-madia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha H Madia",
+      "en": "Sintcha H Madia",
+      "slug": "sintcha-h-madia"
+    },
+    "code": {
+      "id": "GW0102_sintcha-h-madia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-luis",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Luis",
+      "en": "Sintcha Luis",
+      "slug": "sintcha-luis"
+    },
+    "code": {
+      "id": "GW0102_sintcha-luis",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-mamaja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Mamaja",
+      "en": "Sintcha Mamaja",
+      "slug": "sintcha-mamaja"
+    },
+    "code": {
+      "id": "GW0102_sintcha-mamaja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-manodje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Manodje",
+      "en": "Sintcha Manodje",
+      "slug": "sintcha-manodje"
+    },
+    "code": {
+      "id": "GW0102_sintcha-manodje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-soto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Soto",
+      "en": "Sintcha Soto",
+      "slug": "sintcha-soto"
+    },
+    "code": {
+      "id": "GW0102_sintcha-soto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-sulai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Sulai",
+      "en": "Sintcha Sulai",
+      "slug": "sintcha-sulai"
+    },
+    "code": {
+      "id": "GW0102_sintcha-sulai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-tchonde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Tchonde",
+      "en": "Sintcha Tchonde",
+      "slug": "sintcha-tchonde"
+    },
+    "code": {
+      "id": "GW0102_sintcha-tchonde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_sintcha-umaro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Umaro",
+      "en": "Sintcha Umaro",
+      "slug": "sintcha-umaro"
+    },
+    "code": {
+      "id": "GW0102_sintcha-umaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_tabacuta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tabacuta",
+      "en": "Tabacuta",
+      "slug": "tabacuta"
+    },
+    "code": {
+      "id": "GW0102_tabacuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_tabual",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tabual",
+      "en": "Tabual",
+      "slug": "tabual"
+    },
+    "code": {
+      "id": "GW0102_tabual",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_taibato",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Taibato",
+      "en": "Taibato",
+      "slug": "taibato"
+    },
+    "code": {
+      "id": "GW0102_taibato",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_talata",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Talata",
+      "en": "Talata",
+      "slug": "talata"
+    },
+    "code": {
+      "id": "GW0102_talata",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12",
+      "lon": "-14.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_tchiquiri",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchiquiri",
+      "en": "Tchiquiri",
+      "slug": "tchiquiri"
+    },
+    "code": {
+      "id": "GW0102_tchiquiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_tchoncalo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchoncalo",
+      "en": "Tchoncalo",
+      "slug": "tchoncalo"
+    },
+    "code": {
+      "id": "GW0102_tchoncalo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_teneja-sabe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Teneja Sabe",
+      "en": "Teneja Sabe",
+      "slug": "teneja-sabe"
+    },
+    "code": {
+      "id": "GW0102_teneja-sabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_tenendje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tenendje",
+      "en": "Tenendje",
+      "slug": "tenendje"
+    },
+    "code": {
+      "id": "GW0102_tenendje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_touba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Touba",
+      "en": "Touba",
+      "slug": "touba"
+    },
+    "code": {
+      "id": "GW0102_touba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_trauala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Trauala",
+      "en": "Trauala",
+      "slug": "trauala"
+    },
+    "code": {
+      "id": "GW0102_trauala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_uedequeia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uedequeia",
+      "en": "Uedequeia",
+      "slug": "uedequeia"
+    },
+    "code": {
+      "id": "GW0102_uedequeia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0102_xime",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Xime",
+      "en": "Xime",
+      "slug": "xime"
+    },
+    "code": {
+      "id": "GW0102_xime",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0102",
+      "level": 2,
+      "name": {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW01",
+        "level": 1,
+        "name": {
+          "local": "Bafata",
+          "en": "Bafata",
+          "slug": "bafata-gw01"
+        }
+      },
+      {
+        "id": "GW0102",
+        "level": 2,
+        "name": {
+          "local": "Bambadinca",
+          "en": "Bambadinca",
+          "slug": "bambadinca-gw0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.019",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

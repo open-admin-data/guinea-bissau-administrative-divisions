@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.tabanca,geo.lat,geo.lon
+GW0601,Bissora,Bissora,bissora-gw0601,GW0601,182,12.198,-15.503
+GW0602,Farim,Farim,farim-gw0602,GW0602,263,12.526,-15.176
+GW0603,Mansaba,Mansaba,mansaba-gw0603,GW0603,145,12.328,-15.199
+GW0604,Mansoa,Mansoa,mansoa-gw0604,GW0604,165,12.05,-15.227
+GW0605,Nhacra,Nhacra,nhacra-gw0605,GW0605,67,11.972,-15.509

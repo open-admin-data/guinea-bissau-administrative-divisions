@@ -1,0 +1,30 @@
+{
+  "id": "GW01",
+  "level": 1,
+  "level_name": {
+    "local": "Região",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Bafata",
+    "en": "Bafata",
+    "slug": "bafata-gw01"
+  },
+  "code": {
+    "id": "GW01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sector": 6,
+    "tabanca": 801
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.138",
+    "lon": "-14.755"
+  },
+  "metadata": {},
+  "source": {}
+}

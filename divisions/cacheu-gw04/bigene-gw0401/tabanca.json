@@ -1,0 +1,9938 @@
+[
+  {
+    "id": "GW0401_abildo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Abildo",
+      "en": "Abildo",
+      "slug": "abildo"
+    },
+    "code": {
+      "id": "GW0401_abildo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_abu---1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Abu - 1",
+      "en": "Abu - 1",
+      "slug": "abu---1"
+    },
+    "code": {
+      "id": "GW0401_abu---1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_afia-sintcha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Afia (Sintcha)",
+      "en": "Afia (Sintcha)",
+      "slug": "afia-sintcha"
+    },
+    "code": {
+      "id": "GW0401_afia-sintcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_amone-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Amone 1",
+      "en": "Amone 1",
+      "slug": "amone-1"
+    },
+    "code": {
+      "id": "GW0401_amone-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_amone-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Amone 2",
+      "en": "Amone 2",
+      "slug": "amone-2"
+    },
+    "code": {
+      "id": "GW0401_amone-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_andoja-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Andoja I",
+      "en": "Andoja I",
+      "slug": "andoja-i"
+    },
+    "code": {
+      "id": "GW0401_andoja-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_andoja-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Andoja II",
+      "en": "Andoja II",
+      "slug": "andoja-ii"
+    },
+    "code": {
+      "id": "GW0401_andoja-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_andoja-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Andoja III",
+      "en": "Andoja III",
+      "slug": "andoja-iii"
+    },
+    "code": {
+      "id": "GW0401_andoja-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_antotinha-grande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "ANTOTINHA GRANDE",
+      "en": "ANTOTINHA GRANDE",
+      "slug": "antotinha-grande"
+    },
+    "code": {
+      "id": "GW0401_antotinha-grande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_antotinhazinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Antotinhazinho",
+      "en": "Antotinhazinho",
+      "slug": "antotinhazinho"
+    },
+    "code": {
+      "id": "GW0401_antotinhazinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_apilha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Apilha",
+      "en": "Apilha",
+      "slug": "apilha"
+    },
+    "code": {
+      "id": "GW0401_apilha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_aquincha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Aquincha",
+      "en": "Aquincha",
+      "slug": "aquincha"
+    },
+    "code": {
+      "id": "GW0401_aquincha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.402",
+      "lon": "-15.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_bague",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bague",
+      "en": "Bague",
+      "slug": "bague"
+    },
+    "code": {
+      "id": "GW0401_bague",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_bairro-fineza-ponta-fineza",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bairro Fineza (Ponta Fineza)",
+      "en": "Bairro Fineza (Ponta Fineza)",
+      "slug": "bairro-fineza-ponta-fineza"
+    },
+    "code": {
+      "id": "GW0401_bairro-fineza-ponta-fineza",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_baixada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Baixada",
+      "en": "Baixada",
+      "slug": "baixada"
+    },
+    "code": {
+      "id": "GW0401_baixada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_bambaia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bambaia",
+      "en": "Bambaia",
+      "slug": "bambaia"
+    },
+    "code": {
+      "id": "GW0401_bambaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.3",
+      "lon": "-14.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_bandeira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bandeira",
+      "en": "Bandeira",
+      "slug": "bandeira"
+    },
+    "code": {
+      "id": "GW0401_bandeira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_bandjara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bandjara",
+      "en": "Bandjara",
+      "slug": "bandjara"
+    },
+    "code": {
+      "id": "GW0401_bandjara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.317",
+      "lon": "-14.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_banhima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Banhima",
+      "en": "Banhima",
+      "slug": "banhima"
+    },
+    "code": {
+      "id": "GW0401_banhima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.433",
+      "lon": "-15.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_barraca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "BARRACA",
+      "en": "BARRACA",
+      "slug": "barraca"
+    },
+    "code": {
+      "id": "GW0401_barraca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.7",
+      "lon": "-15.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_barro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "BARRO",
+      "en": "BARRO",
+      "slug": "barro"
+    },
+    "code": {
+      "id": "GW0401_barro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.389",
+      "lon": "-15.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_barro-grande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barro Grande",
+      "en": "Barro Grande",
+      "slug": "barro-grande"
+    },
+    "code": {
+      "id": "GW0401_barro-grande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.367",
+      "lon": "-15.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_barro-porto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Barro Porto",
+      "en": "Barro Porto",
+      "slug": "barro-porto"
+    },
+    "code": {
+      "id": "GW0401_barro-porto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_bassiral-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bassiral 1",
+      "en": "Bassiral 1",
+      "slug": "bassiral-1"
+    },
+    "code": {
+      "id": "GW0401_bassiral-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_bassiral-2-manquit",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bassiral 2 (Manquit)",
+      "en": "Bassiral 2 (Manquit)",
+      "slug": "bassiral-2-manquit"
+    },
+    "code": {
+      "id": "GW0401_bassiral-2-manquit",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_bigene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "BIGENE",
+      "en": "BIGENE",
+      "slug": "bigene"
+    },
+    "code": {
+      "id": "GW0401_bigene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_binham",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Binham",
+      "en": "Binham",
+      "slug": "binham"
+    },
+    "code": {
+      "id": "GW0401_binham",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.39",
+      "lon": "-15.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_binhif-benhifo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Binhif Benhifo",
+      "en": "Binhif Benhifo",
+      "slug": "binhif-benhifo"
+    },
+    "code": {
+      "id": "GW0401_binhif-benhifo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_binta-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Binta Balanta",
+      "en": "Binta Balanta",
+      "slug": "binta-balanta"
+    },
+    "code": {
+      "id": "GW0401_binta-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_bissabur",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissabur",
+      "en": "Bissabur",
+      "slug": "bissabur"
+    },
+    "code": {
+      "id": "GW0401_bissabur",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.405",
+      "lon": "-15.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_blansar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blansar",
+      "en": "Blansar",
+      "slug": "blansar"
+    },
+    "code": {
+      "id": "GW0401_blansar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.329",
+      "lon": "-15.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_botche-canchungo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Botche Canchungo",
+      "en": "Botche Canchungo",
+      "slug": "botche-canchungo"
+    },
+    "code": {
+      "id": "GW0401_botche-canchungo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_botchel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "BOTCHEL",
+      "en": "BOTCHEL",
+      "slug": "botchel"
+    },
+    "code": {
+      "id": "GW0401_botchel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_branol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Branol",
+      "en": "Branol",
+      "slug": "branol"
+    },
+    "code": {
+      "id": "GW0401_branol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.447",
+      "lon": "-16.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_brenglong-bren-glon",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Brenglong (Bren-Glon)",
+      "en": "Brenglong (Bren-Glon)",
+      "slug": "brenglong-bren-glon"
+    },
+    "code": {
+      "id": "GW0401_brenglong-bren-glon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_buborim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Buborim",
+      "en": "Buborim",
+      "slug": "buborim"
+    },
+    "code": {
+      "id": "GW0401_buborim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_bubutul-ponta-nova-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bubutul Ponta Nova II",
+      "en": "Bubutul Ponta Nova II",
+      "slug": "bubutul-ponta-nova-ii"
+    },
+    "code": {
+      "id": "GW0401_bubutul-ponta-nova-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_bucaur-bucane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bucaur Bucane",
+      "en": "Bucaur Bucane",
+      "slug": "bucaur-bucane"
+    },
+    "code": {
+      "id": "GW0401_bucaur-bucane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_budalanhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Budalanhe",
+      "en": "Budalanhe",
+      "slug": "budalanhe"
+    },
+    "code": {
+      "id": "GW0401_budalanhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_bujum-quitchom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bujum Quitchom",
+      "en": "Bujum Quitchom",
+      "slug": "bujum-quitchom"
+    },
+    "code": {
+      "id": "GW0401_bujum-quitchom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_bunquilim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bunquilim",
+      "en": "Bunquilim",
+      "slug": "bunquilim"
+    },
+    "code": {
+      "id": "GW0401_bunquilim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.426",
+      "lon": "-15.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cabo-verde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cabo-Verde",
+      "en": "Cabo-Verde",
+      "slug": "cabo-verde"
+    },
+    "code": {
+      "id": "GW0401_cabo-verde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_caby",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caby",
+      "en": "Caby",
+      "slug": "caby"
+    },
+    "code": {
+      "id": "GW0401_caby",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_caja-samodje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caja Samodje",
+      "en": "Caja Samodje",
+      "slug": "caja-samodje"
+    },
+    "code": {
+      "id": "GW0401_caja-samodje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_calequisse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Calequisse",
+      "en": "Calequisse",
+      "slug": "calequisse"
+    },
+    "code": {
+      "id": "GW0401_calequisse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cania",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cania",
+      "en": "Cania",
+      "slug": "cania"
+    },
+    "code": {
+      "id": "GW0401_cania",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_canjande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CANJANDE",
+      "en": "CANJANDE",
+      "slug": "canjande"
+    },
+    "code": {
+      "id": "GW0401_canjande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.406",
+      "lon": "-16.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_canjinha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Canjinha",
+      "en": "Canjinha",
+      "slug": "canjinha"
+    },
+    "code": {
+      "id": "GW0401_canjinha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.393",
+      "lon": "-15.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cantchur",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cantchur",
+      "en": "Cantchur",
+      "slug": "cantchur"
+    },
+    "code": {
+      "id": "GW0401_cantchur",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_capal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Capal",
+      "en": "Capal",
+      "slug": "capal"
+    },
+    "code": {
+      "id": "GW0401_capal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.504",
+      "lon": "-15.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_capeb-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Capeb Balanta",
+      "en": "Capeb Balanta",
+      "slug": "capeb-balanta"
+    },
+    "code": {
+      "id": "GW0401_capeb-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_carabane-xerifa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Carabane Xerifa",
+      "en": "Carabane Xerifa",
+      "slug": "carabane-xerifa"
+    },
+    "code": {
+      "id": "GW0401_carabane-xerifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_carambane-balanta-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Carambane Balanta 1",
+      "en": "Carambane Balanta 1",
+      "slug": "carambane-balanta-1"
+    },
+    "code": {
+      "id": "GW0401_carambane-balanta-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_casa-unson",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Casa Unson",
+      "en": "Casa Unson",
+      "slug": "casa-unson"
+    },
+    "code": {
+      "id": "GW0401_casa-unson",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_catel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "CATEL",
+      "en": "CATEL",
+      "slug": "catel"
+    },
+    "code": {
+      "id": "GW0401_catel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.187",
+      "lon": "-15.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_catio",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catio",
+      "en": "Catio",
+      "slug": "catio"
+    },
+    "code": {
+      "id": "GW0401_catio",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.283",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_central",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central"
+    },
+    "code": {
+      "id": "GW0401_central",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cidade-de-ingore-bairro-bantandjam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de INGORe Bairro Bantandjam",
+      "en": "Cidade de INGORe Bairro Bantandjam",
+      "slug": "cidade-de-ingore-bairro-bantandjam"
+    },
+    "code": {
+      "id": "GW0401_cidade-de-ingore-bairro-bantandjam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cidade-de-ingore-bairro-boa-vista",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de INGORe Bairro Boa Vista",
+      "en": "Cidade de INGORe Bairro Boa Vista",
+      "slug": "cidade-de-ingore-bairro-boa-vista"
+    },
+    "code": {
+      "id": "GW0401_cidade-de-ingore-bairro-boa-vista",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cidade-de-ingore-bairro-guine-bissau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de INGORe Bairro Guine-Bissau",
+      "en": "Cidade de INGORe Bairro Guine-Bissau",
+      "slug": "cidade-de-ingore-bairro-guine-bissau"
+    },
+    "code": {
+      "id": "GW0401_cidade-de-ingore-bairro-guine-bissau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cidade-de-ingore-bairro-mulai",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de INGORe Bairro Mulai",
+      "en": "Cidade de INGORe Bairro Mulai",
+      "slug": "cidade-de-ingore-bairro-mulai"
+    },
+    "code": {
+      "id": "GW0401_cidade-de-ingore-bairro-mulai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cidade-de-ingore-bairro-nema-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de INGORe Bairro Nema 1",
+      "en": "Cidade de INGORe Bairro Nema 1",
+      "slug": "cidade-de-ingore-bairro-nema-1"
+    },
+    "code": {
+      "id": "GW0401_cidade-de-ingore-bairro-nema-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cidade-de-ingore-bairro-nema-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de INGORe Bairro Nema 2",
+      "en": "Cidade de INGORe Bairro Nema 2",
+      "slug": "cidade-de-ingore-bairro-nema-2"
+    },
+    "code": {
+      "id": "GW0401_cidade-de-ingore-bairro-nema-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cidade-de-ingore-bairro-ponta-nova",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de INGORe Bairro Ponta Nova",
+      "en": "Cidade de INGORe Bairro Ponta Nova",
+      "slug": "cidade-de-ingore-bairro-ponta-nova"
+    },
+    "code": {
+      "id": "GW0401_cidade-de-ingore-bairro-ponta-nova",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cidade-de-ingore-bairro-praa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de INGORe Bairro Praça",
+      "en": "Cidade de INGORe Bairro Praça",
+      "slug": "cidade-de-ingore-bairro-praa"
+    },
+    "code": {
+      "id": "GW0401_cidade-de-ingore-bairro-praa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cidade-de-ingore-bairro-serifocunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de INGORe Bairro Serifocunda",
+      "en": "Cidade de INGORe Bairro Serifocunda",
+      "slug": "cidade-de-ingore-bairro-serifocunda"
+    },
+    "code": {
+      "id": "GW0401_cidade-de-ingore-bairro-serifocunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cidade-de-ingore-bairro-varela",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de INGORe Bairro Varela",
+      "en": "Cidade de INGORe Bairro Varela",
+      "slug": "cidade-de-ingore-bairro-varela"
+    },
+    "code": {
+      "id": "GW0401_cidade-de-ingore-bairro-varela",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cidade-de-ingore-bairro-xerifo-cunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de INGORe Bairro Xerifo Cunda",
+      "en": "Cidade de INGORe Bairro Xerifo Cunda",
+      "slug": "cidade-de-ingore-bairro-xerifo-cunda"
+    },
+    "code": {
+      "id": "GW0401_cidade-de-ingore-bairro-xerifo-cunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_clacunhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Clacunhe",
+      "en": "Clacunhe",
+      "slug": "clacunhe"
+    },
+    "code": {
+      "id": "GW0401_clacunhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_claque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Claque",
+      "en": "Claque",
+      "slug": "claque"
+    },
+    "code": {
+      "id": "GW0401_claque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-15.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_coitoto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Coitoto",
+      "en": "Coitoto",
+      "slug": "coitoto"
+    },
+    "code": {
+      "id": "GW0401_coitoto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.426",
+      "lon": "-16.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_compompacau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Compompacau",
+      "en": "Compompacau",
+      "slug": "compompacau"
+    },
+    "code": {
+      "id": "GW0401_compompacau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_corombol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Corombol",
+      "en": "Corombol",
+      "slug": "corombol"
+    },
+    "code": {
+      "id": "GW0401_corombol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.294",
+      "lon": "-15.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cubamo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cubamo",
+      "en": "Cubamo",
+      "slug": "cubamo"
+    },
+    "code": {
+      "id": "GW0401_cubamo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cubatul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cubatul",
+      "en": "Cubatul",
+      "slug": "cubatul"
+    },
+    "code": {
+      "id": "GW0401_cubatul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_cubutul-barro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cubutul Barro",
+      "en": "Cubutul Barro",
+      "slug": "cubutul-barro"
+    },
+    "code": {
+      "id": "GW0401_cubutul-barro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_djamba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djamba",
+      "en": "Djamba",
+      "slug": "djamba"
+    },
+    "code": {
+      "id": "GW0401_djamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_dumassu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dumassu",
+      "en": "Dumassu",
+      "slug": "dumassu"
+    },
+    "code": {
+      "id": "GW0401_dumassu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_faca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Faca",
+      "en": "Faca",
+      "slug": "faca"
+    },
+    "code": {
+      "id": "GW0401_faca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.487",
+      "lon": "-15.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_fangor-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fangor 1",
+      "en": "Fangor 1",
+      "slug": "fangor-1"
+    },
+    "code": {
+      "id": "GW0401_fangor-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_fola-pe-fangasse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fola Pe (Fangasse)",
+      "en": "Fola Pe (Fangasse)",
+      "slug": "fola-pe-fangasse"
+    },
+    "code": {
+      "id": "GW0401_fola-pe-fangasse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_frandjanto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "FRANDJANTO",
+      "en": "FRANDJANTO",
+      "slug": "frandjanto"
+    },
+    "code": {
+      "id": "GW0401_frandjanto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_frebrique",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Frebrique",
+      "en": "Frebrique",
+      "slug": "frebrique"
+    },
+    "code": {
+      "id": "GW0401_frebrique",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_ga-ture",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga-Ture",
+      "en": "Ga-Ture",
+      "slug": "ga-ture"
+    },
+    "code": {
+      "id": "GW0401_ga-ture",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_geba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Geba",
+      "en": "Geba",
+      "slug": "geba"
+    },
+    "code": {
+      "id": "GW0401_geba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_gendem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "GENDEM",
+      "en": "GENDEM",
+      "slug": "gendem"
+    },
+    "code": {
+      "id": "GW0401_gendem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.367",
+      "lon": "-16.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_guirimol-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Guirimol I",
+      "en": "Guirimol I",
+      "slug": "guirimol-i"
+    },
+    "code": {
+      "id": "GW0401_guirimol-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_guirimol-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Guirimol II",
+      "en": "Guirimol II",
+      "slug": "guirimol-ii"
+    },
+    "code": {
+      "id": "GW0401_guirimol-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_guirimol-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Guirimol III",
+      "en": "Guirimol III",
+      "slug": "guirimol-iii"
+    },
+    "code": {
+      "id": "GW0401_guirimol-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_gunal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gunal",
+      "en": "Gunal",
+      "slug": "gunal"
+    },
+    "code": {
+      "id": "GW0401_gunal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.311",
+      "lon": "-15.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_iabaja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Iabaja",
+      "en": "Iabaja",
+      "slug": "iabaja"
+    },
+    "code": {
+      "id": "GW0401_iabaja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_indaia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Indaia",
+      "en": "Indaia",
+      "slug": "indaia"
+    },
+    "code": {
+      "id": "GW0401_indaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.44",
+      "lon": "-15.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_indungal-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Indungal 2",
+      "en": "Indungal 2",
+      "slug": "indungal-2"
+    },
+    "code": {
+      "id": "GW0401_indungal-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_ingorezinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "INGOREZINHO",
+      "en": "INGOREZINHO",
+      "slug": "ingorezinho"
+    },
+    "code": {
+      "id": "GW0401_ingorezinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.428",
+      "lon": "-15.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_intchinuni",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Intchinuni",
+      "en": "Intchinuni",
+      "slug": "intchinuni"
+    },
+    "code": {
+      "id": "GW0401_intchinuni",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_intchire",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Intchire",
+      "en": "Intchire",
+      "slug": "intchire"
+    },
+    "code": {
+      "id": "GW0401_intchire",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_jambacunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Jambacunda",
+      "en": "Jambacunda",
+      "slug": "jambacunda"
+    },
+    "code": {
+      "id": "GW0401_jambacunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.5",
+      "lon": "-15.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_lanque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lanque",
+      "en": "Lanque",
+      "slug": "lanque"
+    },
+    "code": {
+      "id": "GW0401_lanque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_liberte-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Liberte 1",
+      "en": "Liberte 1",
+      "slug": "liberte-1"
+    },
+    "code": {
+      "id": "GW0401_liberte-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_liman-ou-lemane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Liman ou Lemane",
+      "en": "Liman ou Lemane",
+      "slug": "liman-ou-lemane"
+    },
+    "code": {
+      "id": "GW0401_liman-ou-lemane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_lokpas",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "LOKPAS",
+      "en": "LOKPAS",
+      "slug": "lokpas"
+    },
+    "code": {
+      "id": "GW0401_lokpas",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_luanda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Luanda",
+      "en": "Luanda",
+      "slug": "luanda"
+    },
+    "code": {
+      "id": "GW0401_luanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_maca-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Maca 1",
+      "en": "Maca 1",
+      "slug": "maca-1"
+    },
+    "code": {
+      "id": "GW0401_maca-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_maca-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Maca 2",
+      "en": "Maca 2",
+      "slug": "maca-2"
+    },
+    "code": {
+      "id": "GW0401_maca-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_madina-boavista",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Madina Boavista",
+      "en": "Madina Boavista",
+      "slug": "madina-boavista"
+    },
+    "code": {
+      "id": "GW0401_madina-boavista",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_malibuloto-matibdom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Malibuloto (Matibdom)",
+      "en": "Malibuloto (Matibdom)",
+      "slug": "malibuloto-matibdom"
+    },
+    "code": {
+      "id": "GW0401_malibuloto-matibdom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_mampata",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mampata",
+      "en": "Mampata",
+      "slug": "mampata"
+    },
+    "code": {
+      "id": "GW0401_mampata",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-14.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_mangomucam-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mangomucam 1",
+      "en": "Mangomucam 1",
+      "slug": "mangomucam-1"
+    },
+    "code": {
+      "id": "GW0401_mangomucam-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_mangomucam-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mangomucam 2",
+      "en": "Mangomucam 2",
+      "slug": "mangomucam-2"
+    },
+    "code": {
+      "id": "GW0401_mangomucam-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_manquite",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Manquite",
+      "en": "Manquite",
+      "slug": "manquite"
+    },
+    "code": {
+      "id": "GW0401_manquite",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_mansacunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mansacunda",
+      "en": "Mansacunda",
+      "slug": "mansacunda"
+    },
+    "code": {
+      "id": "GW0401_mansacunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.267",
+      "lon": "-14.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_mansacunda-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mansacunda 2",
+      "en": "Mansacunda 2",
+      "slug": "mansacunda-2"
+    },
+    "code": {
+      "id": "GW0401_mansacunda-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_mansalia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mansalia",
+      "en": "Mansalia",
+      "slug": "mansalia"
+    },
+    "code": {
+      "id": "GW0401_mansalia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_marsasso",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Marsasso",
+      "en": "Marsasso",
+      "slug": "marsasso"
+    },
+    "code": {
+      "id": "GW0401_marsasso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_mata-galinha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mata Galinha",
+      "en": "Mata Galinha",
+      "slug": "mata-galinha"
+    },
+    "code": {
+      "id": "GW0401_mata-galinha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.338",
+      "lon": "-15.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_metade",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Metade",
+      "en": "Metade",
+      "slug": "metade"
+    },
+    "code": {
+      "id": "GW0401_metade",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.233",
+      "lon": "-16.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_ndamite",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Damite",
+      "en": "N´Damite",
+      "slug": "ndamite"
+    },
+    "code": {
+      "id": "GW0401_ndamite",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_ndjaio-injafa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Djaio Injafa",
+      "en": "N´Djaio Injafa",
+      "slug": "ndjaio-injafa"
+    },
+    "code": {
+      "id": "GW0401_ndjaio-injafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_ndungan-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Dungan I",
+      "en": "N´Dungan I",
+      "slug": "ndungan-i"
+    },
+    "code": {
+      "id": "GW0401_ndungan-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_nghale-pant",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´ghale Pant",
+      "en": "N´ghale Pant",
+      "slug": "nghale-pant"
+    },
+    "code": {
+      "id": "GW0401_nghale-pant",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_ntum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N´Tum",
+      "en": "N´Tum",
+      "slug": "ntum"
+    },
+    "code": {
+      "id": "GW0401_ntum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_nema-tarrero",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nema (Tarrero)",
+      "en": "Nema (Tarrero)",
+      "slug": "nema-tarrero"
+    },
+    "code": {
+      "id": "GW0401_nema-tarrero",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_neneco-ndjado",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Neneco (N´Djado)",
+      "en": "Neneco (N´Djado)",
+      "slug": "neneco-ndjado"
+    },
+    "code": {
+      "id": "GW0401_neneco-ndjado",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_nhalom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhalom",
+      "en": "Nhalom",
+      "slug": "nhalom"
+    },
+    "code": {
+      "id": "GW0401_nhalom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.438",
+      "lon": "-15.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_nhanaia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhanaia",
+      "en": "Nhanaia",
+      "slug": "nhanaia"
+    },
+    "code": {
+      "id": "GW0401_nhanaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.417",
+      "lon": "-15.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_outra-banda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Outra Banda",
+      "en": "Outra Banda",
+      "slug": "outra-banda"
+    },
+    "code": {
+      "id": "GW0401_outra-banda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-15.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_paniam-pantam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Paniam (Pantam)",
+      "en": "Paniam (Pantam)",
+      "slug": "paniam-pantam"
+    },
+    "code": {
+      "id": "GW0401_paniam-pantam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_papia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Papia",
+      "en": "Papia",
+      "slug": "papia"
+    },
+    "code": {
+      "id": "GW0401_papia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.43",
+      "lon": "-15.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_pendame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "PENDAME",
+      "en": "PENDAME",
+      "slug": "pendame"
+    },
+    "code": {
+      "id": "GW0401_pendame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_polnhoqui",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Polnhoqui",
+      "en": "Polnhoqui",
+      "slug": "polnhoqui"
+    },
+    "code": {
+      "id": "GW0401_polnhoqui",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_ponta-caba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Caba",
+      "en": "Ponta Caba",
+      "slug": "ponta-caba"
+    },
+    "code": {
+      "id": "GW0401_ponta-caba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_ponta-grande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Grande",
+      "en": "Ponta Grande",
+      "slug": "ponta-grande"
+    },
+    "code": {
+      "id": "GW0401_ponta-grande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_ponta-mario",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Mario",
+      "en": "Ponta Mario",
+      "slug": "ponta-mario"
+    },
+    "code": {
+      "id": "GW0401_ponta-mario",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_ponta-milick",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Milick",
+      "en": "Ponta Milick",
+      "slug": "ponta-milick"
+    },
+    "code": {
+      "id": "GW0401_ponta-milick",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_ponta-nova",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Nova",
+      "en": "Ponta Nova",
+      "slug": "ponta-nova"
+    },
+    "code": {
+      "id": "GW0401_ponta-nova",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.517",
+      "lon": "-15.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_ponta-runho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Runho",
+      "en": "Ponta Runho",
+      "slug": "ponta-runho"
+    },
+    "code": {
+      "id": "GW0401_ponta-runho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_pontazinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pontazinho",
+      "en": "Pontazinho",
+      "slug": "pontazinho"
+    },
+    "code": {
+      "id": "GW0401_pontazinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_quetuba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quetuba",
+      "en": "Quetuba",
+      "slug": "quetuba"
+    },
+    "code": {
+      "id": "GW0401_quetuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.433",
+      "lon": "-15.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_quinhicam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quinhicam",
+      "en": "Quinhicam",
+      "slug": "quinhicam"
+    },
+    "code": {
+      "id": "GW0401_quinhicam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_quinssassa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quinssassa",
+      "en": "Quinssassa",
+      "slug": "quinssassa"
+    },
+    "code": {
+      "id": "GW0401_quinssassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_quissir",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quissir",
+      "en": "Quissir",
+      "slug": "quissir"
+    },
+    "code": {
+      "id": "GW0401_quissir",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_saiam-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Saiam Balanta",
+      "en": "Saiam Balanta",
+      "slug": "saiam-balanta"
+    },
+    "code": {
+      "id": "GW0401_saiam-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_saiam-mandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Saiam Mandinga",
+      "en": "Saiam Mandinga",
+      "slug": "saiam-mandinga"
+    },
+    "code": {
+      "id": "GW0401_saiam-mandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_sambacunda-djebacunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sambacunda (Djebacunda)",
+      "en": "Sambacunda (Djebacunda)",
+      "slug": "sambacunda-djebacunda"
+    },
+    "code": {
+      "id": "GW0401_sambacunda-djebacunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_sambuia-ba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sambuia Ba",
+      "en": "Sambuia Ba",
+      "slug": "sambuia-ba"
+    },
+    "code": {
+      "id": "GW0401_sambuia-ba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_sambuiadim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sambuiadim",
+      "en": "Sambuiadim",
+      "slug": "sambuiadim"
+    },
+    "code": {
+      "id": "GW0401_sambuiadim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_samodje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "SAMODJE",
+      "en": "SAMODJE",
+      "slug": "samodje"
+    },
+    "code": {
+      "id": "GW0401_samodje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_sancoma",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sancoma",
+      "en": "Sancoma",
+      "slug": "sancoma"
+    },
+    "code": {
+      "id": "GW0401_sancoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.483",
+      "lon": "-15.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_sandina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "SANDINA",
+      "en": "SANDINA",
+      "slug": "sandina"
+    },
+    "code": {
+      "id": "GW0401_sandina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_sano",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sano",
+      "en": "Sano",
+      "slug": "sano"
+    },
+    "code": {
+      "id": "GW0401_sano",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.284",
+      "lon": "-15.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_santana-sarba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Santana Sarba",
+      "en": "Santana Sarba",
+      "slug": "santana-sarba"
+    },
+    "code": {
+      "id": "GW0401_santana-sarba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_santasu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Santasu",
+      "en": "Santasu",
+      "slug": "santasu"
+    },
+    "code": {
+      "id": "GW0401_santasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_sedengal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "SEDENGAL",
+      "en": "SEDENGAL",
+      "slug": "sedengal"
+    },
+    "code": {
+      "id": "GW0401_sedengal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.398",
+      "lon": "-15.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_sedimente",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sedimente",
+      "en": "Sedimente",
+      "slug": "sedimente"
+    },
+    "code": {
+      "id": "GW0401_sedimente",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_sedjo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sedjo",
+      "en": "Sedjo",
+      "slug": "sedjo"
+    },
+    "code": {
+      "id": "GW0401_sedjo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_senquemem-ba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Senquemem Ba",
+      "en": "Senquemem Ba",
+      "slug": "senquemem-ba"
+    },
+    "code": {
+      "id": "GW0401_senquemem-ba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_senquer-ndim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Senquer N'Dim",
+      "en": "Senquer N'Dim",
+      "slug": "senquer-ndim"
+    },
+    "code": {
+      "id": "GW0401_senquer-ndim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_serifo-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Serifo Balanta",
+      "en": "Serifo Balanta",
+      "slug": "serifo-balanta"
+    },
+    "code": {
+      "id": "GW0401_serifo-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_serifo-mandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Serifo Mandinga",
+      "en": "Serifo Mandinga",
+      "slug": "serifo-mandinga"
+    },
+    "code": {
+      "id": "GW0401_serifo-mandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_sibana-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sibana 1",
+      "en": "Sibana 1",
+      "slug": "sibana-1"
+    },
+    "code": {
+      "id": "GW0401_sibana-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_sibana-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sibana 2",
+      "en": "Sibana 2",
+      "slug": "sibana-2"
+    },
+    "code": {
+      "id": "GW0401_sibana-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_simbor-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Simbor 1",
+      "en": "Simbor 1",
+      "slug": "simbor-1"
+    },
+    "code": {
+      "id": "GW0401_simbor-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_simbor-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Simbor 2",
+      "en": "Simbor 2",
+      "slug": "simbor-2"
+    },
+    "code": {
+      "id": "GW0401_simbor-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_sindina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sindina",
+      "en": "Sindina",
+      "slug": "sindina"
+    },
+    "code": {
+      "id": "GW0401_sindina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.466",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_sintcha-mamado",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Mamado",
+      "en": "Sintcha Mamado",
+      "slug": "sintcha-mamado"
+    },
+    "code": {
+      "id": "GW0401_sintcha-mamado",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_siro-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Siro de Baixo",
+      "en": "Siro de Baixo",
+      "slug": "siro-de-baixo"
+    },
+    "code": {
+      "id": "GW0401_siro-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_siro-de-cima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Siro de Cima",
+      "en": "Siro de Cima",
+      "slug": "siro-de-cima"
+    },
+    "code": {
+      "id": "GW0401_siro-de-cima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_somec-tem-tudo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Somec Tem Tudo",
+      "en": "Somec Tem Tudo",
+      "slug": "somec-tem-tudo"
+    },
+    "code": {
+      "id": "GW0401_somec-tem-tudo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_suar-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Suar II",
+      "en": "Suar II",
+      "slug": "suar-ii"
+    },
+    "code": {
+      "id": "GW0401_suar-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_surange",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Surange",
+      "en": "Surange",
+      "slug": "surange"
+    },
+    "code": {
+      "id": "GW0401_surange",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_talico-1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Talico 1",
+      "en": "Talico 1",
+      "slug": "talico-1"
+    },
+    "code": {
+      "id": "GW0401_talico-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_talico-2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Talico 2",
+      "en": "Talico 2",
+      "slug": "talico-2"
+    },
+    "code": {
+      "id": "GW0401_talico-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_tambacura",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tambacura",
+      "en": "Tambacura",
+      "slug": "tambacura"
+    },
+    "code": {
+      "id": "GW0401_tambacura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_tande---1",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tande - 1",
+      "en": "Tande - 1",
+      "slug": "tande---1"
+    },
+    "code": {
+      "id": "GW0401_tande---1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_tande---2",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tande - 2",
+      "en": "Tande - 2",
+      "slug": "tande---2"
+    },
+    "code": {
+      "id": "GW0401_tande---2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_tanzania",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tanzania",
+      "en": "Tanzania",
+      "slug": "tanzania"
+    },
+    "code": {
+      "id": "GW0401_tanzania",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_tarrero",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "TARRERO",
+      "en": "TARRERO",
+      "slug": "tarrero"
+    },
+    "code": {
+      "id": "GW0401_tarrero",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_tonei",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tonei",
+      "en": "Tonei",
+      "slug": "tonei"
+    },
+    "code": {
+      "id": "GW0401_tonei",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_turacunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Turacunda",
+      "en": "Turacunda",
+      "slug": "turacunda"
+    },
+    "code": {
+      "id": "GW0401_turacunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_ualia-faraia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ualia (Faraia)",
+      "en": "Ualia (Faraia)",
+      "slug": "ualia-faraia"
+    },
+    "code": {
+      "id": "GW0401_ualia-faraia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_uanhal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uanhal",
+      "en": "Uanhal",
+      "slug": "uanhal"
+    },
+    "code": {
+      "id": "GW0401_uanhal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.433",
+      "lon": "-15.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_udasse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Udasse",
+      "en": "Udasse",
+      "slug": "udasse"
+    },
+    "code": {
+      "id": "GW0401_udasse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.402",
+      "lon": "-15.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_wede-tchole",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Wede Tchole",
+      "en": "Wede Tchole",
+      "slug": "wede-tchole"
+    },
+    "code": {
+      "id": "GW0401_wede-tchole",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0401_wedequeia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Wedequeia",
+      "en": "Wedequeia",
+      "slug": "wedequeia"
+    },
+    "code": {
+      "id": "GW0401_wedequeia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0401",
+      "level": 2,
+      "name": {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW04",
+        "level": 1,
+        "name": {
+          "local": "Cacheu",
+          "en": "Cacheu",
+          "slug": "cacheu-gw04"
+        }
+      },
+      {
+        "id": "GW0401",
+        "level": 2,
+        "name": {
+          "local": "Bigene",
+          "en": "Bigene",
+          "slug": "bigene-gw0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.362",
+      "lon": "-15.836"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

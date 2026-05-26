@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.tabanca,geo.lat,geo.lon
+GW0101,Bafata,Bafata,bafata-gw0101,GW0101,200,12.188,-14.586
+GW0102,Bambadinca,Bambadinca,bambadinca-gw0102,GW0102,135,12.019,-14.853
+GW0103,Contuboel,Contuboel,contuboel-gw0103,GW0103,256,12.481,-14.693
+GW0104,Galomaro/Cosse,Galomaro/Cosse,galomarocosse-gw0104,GW0104,86,11.967,-14.612
+GW0105,Gamamudo/Ganadu,Gamamudo/Ganadu,gamamudoganadu-gw0105,GW0105,0,12.275,-14.81
+GW0106,Xitole,Xitole,xitole-gw0106,GW0106,124,11.763,-14.68

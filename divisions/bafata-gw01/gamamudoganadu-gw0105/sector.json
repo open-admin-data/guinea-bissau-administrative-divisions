@@ -1,0 +1,47 @@
+{
+  "id": "GW0105",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Gamamudo/Ganadu",
+    "en": "Gamamudo/Ganadu",
+    "slug": "gamamudoganadu-gw0105"
+  },
+  "code": {
+    "id": "GW0105",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW01",
+    "level": 1,
+    "name": {
+      "local": "Bafata",
+      "en": "Bafata",
+      "slug": "bafata-gw01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW01",
+      "level": 1,
+      "name": {
+        "local": "Bafata",
+        "en": "Bafata",
+        "slug": "bafata-gw01"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.275",
+    "lon": "-14.81"
+  },
+  "metadata": {},
+  "source": {}
+}

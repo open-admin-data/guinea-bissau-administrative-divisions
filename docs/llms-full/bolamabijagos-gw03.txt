@@ -1,0 +1,1021 @@
+# Bolama/Bijagos — Guinea-Bissau Administrative Divisions
+
+> 4 sectors, 248 tabancas
+> Code: GW03
+> Coordinates: 11.542, -16.343
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Sectors
+
+### Bolama
+
+Code: GW0301, Coordinates: 11.567, -15.536
+Tabancas: 80
+
+#### Afia Cores
+
+Code: GW0301_afia-cores, Coordinates: 11.567, -15.536
+
+#### Bercolom
+
+Code: GW0301_bercolom, Coordinates: 11.567, -15.536
+
+#### Canjaba
+
+Code: GW0301_canjaba, Coordinates: 11.567, -15.536
+
+#### Cantene
+
+Code: GW0301_cantene, Coordinates: 12.517, -15.233
+
+#### Colonia de Baixo
+
+Code: GW0301_colonia-de-baixo, Coordinates: 11.567, -15.536
+
+#### Farancunda
+
+Code: GW0301_farancunda, Coordinates: 12.283, -14.75
+
+#### Ga - Bacar
+
+Code: GW0301_ga---bacar, Coordinates: 11.567, -15.536
+
+#### Ga - Balanta
+
+Code: GW0301_ga---balanta, Coordinates: 11.567, -15.536
+
+#### Ga - Bangura
+
+Code: GW0301_ga---bangura, Coordinates: 11.567, -15.536
+
+#### Ga - Marque
+
+Code: GW0301_ga---marque, Coordinates: 11.567, -15.536
+
+#### Ga - Mela
+
+Code: GW0301_ga---mela, Coordinates: 11.567, -15.536
+
+#### Ga - Mindjor
+
+Code: GW0301_ga---mindjor, Coordinates: 11.567, -15.536
+
+#### Ga - Sene
+
+Code: GW0301_ga---sene, Coordinates: 11.567, -15.536
+
+#### Ga-Luis Antonio
+
+Code: GW0301_ga-luis-antonio, Coordinates: 11.567, -15.536
+
+#### Gantongo
+
+Code: GW0301_gantongo, Coordinates: 11.567, -15.536
+
+#### Ihas das Galinhas (Ancano de Uno)
+
+Code: GW0301_ihas-das-galinhas-ancano-de-uno, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Alto Cabral)
+
+Code: GW0301_ilha-de-bolama-alto-cabral, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Caboupa Balanta)
+
+Code: GW0301_ilha-de-bolama-caboupa-balanta, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Caboupa Cabral)
+
+Code: GW0301_ilha-de-bolama-caboupa-cabral, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Calege)
+
+Code: GW0301_ilha-de-bolama-calege, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Canema)
+
+Code: GW0301_ilha-de-bolama-canema, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Casa Nobo)
+
+Code: GW0301_ilha-de-bolama-casa-nobo, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Catim)
+
+Code: GW0301_ilha-de-bolama-catim, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Ga - Muria)
+
+Code: GW0301_ilha-de-bolama-ga---muria, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Ilha de Cobra)
+
+Code: GW0301_ilha-de-bolama-ilha-de-cobra, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Lala Balanta)
+
+Code: GW0301_ilha-de-bolama-lala-balanta, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Lala Mancanha)
+
+Code: GW0301_ilha-de-bolama-lala-mancanha, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Madina)
+
+Code: GW0301_ilha-de-bolama-madina, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Marssace)
+
+Code: GW0301_ilha-de-bolama-marssace, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Ntim)
+
+Code: GW0301_ilha-de-bolama-ntim, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Pidjunguto)
+
+Code: GW0301_ilha-de-bolama-pidjunguto, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Ponta Apile)
+
+Code: GW0301_ilha-de-bolama-ponta-apile, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Ponta Bissau)
+
+Code: GW0301_ilha-de-bolama-ponta-bissau, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Sinho)
+
+Code: GW0301_ilha-de-bolama-sinho, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Wato Fula)
+
+Code: GW0301_ilha-de-bolama-wato-fula, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Wato Mancanha)
+
+Code: GW0301_ilha-de-bolama-wato-mancanha, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama (Wato Mandinga)
+
+Code: GW0301_ilha-de-bolama-wato-mandinga, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro 14
+
+Code: GW0301_ilha-de-bolama-bairro-14, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Assomada
+
+Code: GW0301_ilha-de-bolama-bairro-assomada, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Boca de Lobo
+
+Code: GW0301_ilha-de-bolama-bairro-boca-de-lobo, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Calmacunda
+
+Code: GW0301_ilha-de-bolama-bairro-calmacunda, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Cassucai
+
+Code: GW0301_ilha-de-bolama-bairro-cassucai, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Castelo
+
+Code: GW0301_ilha-de-bolama-bairro-castelo, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Centro de cidade
+
+Code: GW0301_ilha-de-bolama-bairro-centro-de-cidade, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Ga-Beafada
+
+Code: GW0301_ilha-de-bolama-bairro-ga-beafada, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Ga-Nafa
+
+Code: GW0301_ilha-de-bolama-bairro-ga-nafa, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Goiaba
+
+Code: GW0301_ilha-de-bolama-bairro-goiaba, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Luanda
+
+Code: GW0301_ilha-de-bolama-bairro-luanda, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro N&#39;tatcha
+
+Code: GW0301_ilha-de-bolama-bairro-ntatcha, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Nova Sintra
+
+Code: GW0301_ilha-de-bolama-bairro-nova-sintra, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Pleslebre
+
+Code: GW0301_ilha-de-bolama-bairro-pleslebre, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Portugal
+
+Code: GW0301_ilha-de-bolama-bairro-portugal, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Sansala
+
+Code: GW0301_ilha-de-bolama-bairro-sansala, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Sintcha
+
+Code: GW0301_ilha-de-bolama-bairro-sintcha, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Sintra
+
+Code: GW0301_ilha-de-bolama-bairro-sintra, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Tabancazinho
+
+Code: GW0301_ilha-de-bolama-bairro-tabancazinho, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Bairro Telegra
+
+Code: GW0301_ilha-de-bolama-bairro-telegra, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Djiu de Casseque
+
+Code: GW0301_ilha-de-bolama-djiu-de-casseque, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Ga - Papel
+
+Code: GW0301_ilha-de-bolama-ga---papel, Coordinates: 11.567, -15.536
+
+#### Ilha de Bolama Ga-Fodeba
+
+Code: GW0301_ilha-de-bolama-ga-fodeba, Coordinates: 11.567, -15.536
+
+#### Ilhas das Galinhas (Acapamento)
+
+Code: GW0301_ilhas-das-galinhas-acapamento, Coordinates: 11.567, -15.536
+
+#### Ilhas das Galinhas (Ambancanam)
+
+Code: GW0301_ilhas-das-galinhas-ambancanam, Coordinates: 11.567, -15.536
+
+#### Ilhas das Galinhas (Ametite)
+
+Code: GW0301_ilhas-das-galinhas-ametite, Coordinates: 11.567, -15.536
+
+#### Ilhas das Galinhas (Angonho)
+
+Code: GW0301_ilhas-das-galinhas-angonho, Coordinates: 11.567, -15.536
+
+#### Ilhas das Galinhas (Canema)
+
+Code: GW0301_ilhas-das-galinhas-canema, Coordinates: 11.567, -15.536
+
+#### Ilhas das Galinhas (Canture)
+
+Code: GW0301_ilhas-das-galinhas-canture, Coordinates: 11.567, -15.536
+
+#### Ilhas das Galinhas (Engenharia)
+
+Code: GW0301_ilhas-das-galinhas-engenharia, Coordinates: 11.567, -15.536
+
+#### Ilhas das Galinhas (Etigauro)
+
+Code: GW0301_ilhas-das-galinhas-etigauro, Coordinates: 11.567, -15.536
+
+#### Ilhas das Galinhas (Ga - Papel)
+
+Code: GW0301_ilhas-das-galinhas-ga---papel, Coordinates: 11.567, -15.536
+
+#### Ilhas das Galinhas (Ponta Anghane)
+
+Code: GW0301_ilhas-das-galinhas-ponta-anghane, Coordinates: 11.567, -15.536
+
+#### Ilhas das Glinhas (Antchropina)
+
+Code: GW0301_ilhas-das-glinhas-antchropina, Coordinates: 11.567, -15.536
+
+#### Ilhas de Bolama (Bolama de Baixo)
+
+Code: GW0301_ilhas-de-bolama-bolama-de-baixo, Coordinates: 11.567, -15.536
+
+#### Lala
+
+Code: GW0301_lala, Coordinates: 11.5, -15.383
+
+#### lhas das Galinhas (Ancano de Canhabaque)
+
+Code: GW0301_lhas-das-galinhas-ancano-de-canhabaque, Coordinates: 11.567, -15.536
+
+#### Ngue Nfum (Nbim Busca N odja)
+
+Code: GW0301_ngue-nfum-nbim-busca-n-odja, Coordinates: 11.567, -15.536
+
+#### Nova Luanda
+
+Code: GW0301_nova-luanda, Coordinates: 11.567, -15.536
+
+#### Pidjunguto
+
+Code: GW0301_pidjunguto, Coordinates: 11.567, -15.536
+
+#### Santa Maria
+
+Code: GW0301_santa-maria, Coordinates: 11.617, -15.45
+
+#### Sao Joao
+
+Code: GW0301_sao-joao, Coordinates: 12.433, -15.35
+
+#### Titezinho
+
+Code: GW0301_titezinho, Coordinates: 11.567, -15.536
+
+### Bubaque
+
+Code: GW0302, Coordinates: 11.234, -15.74
+Tabancas: 59
+
+#### Ilah de Bubaque (Cidade de Bubaque Bairro de Aeroporto)
+
+Code: GW0302_ilah-de-bubaque-cidade-de-bubaque-bairro-de-aeroporto, Coordinates: 11.234, -15.74
+
+#### Ilah de Bubaque (Cidade de Bubaque Bairro Morcunda)
+
+Code: GW0302_ilah-de-bubaque-cidade-de-bubaque-bairro-morcunda, Coordinates: 11.234, -15.74
+
+#### Ilha Canhabaque (Ancaguine)
+
+Code: GW0302_ilha-canhabaque-ancaguine, Coordinates: 11.234, -15.74
+
+#### Ilha de Baubaque (Anhimango)
+
+Code: GW0302_ilha-de-baubaque-anhimango, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Agumpa)
+
+Code: GW0302_ilha-de-bubaque-agumpa, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Ambanha)
+
+Code: GW0302_ilha-de-bubaque-ambanha, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Ancadjedje)
+
+Code: GW0302_ilha-de-bubaque-ancadjedje, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Ancadona)
+
+Code: GW0302_ilha-de-bubaque-ancadona, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Ancamona)
+
+Code: GW0302_ilha-de-bubaque-ancamona, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Bijana)
+
+Code: GW0302_ilha-de-bubaque-bijana, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Bijante)
+
+Code: GW0302_ilha-de-bubaque-bijante, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Bruce)
+
+Code: GW0302_ilha-de-bubaque-bruce, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Cidade de Bubaqqe Bairro Baixada)
+
+Code: GW0302_ilha-de-bubaque-cidade-de-bubaqqe-bairro-baixada, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Cidade de Bubaque Bairro Buba)
+
+Code: GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-buba, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Cidade de Bubaque Bairro Comercial)
+
+Code: GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-comercial, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Cidade de Bubaque Bairro Estancia)
+
+Code: GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-estancia, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Cidade de Bubaque Bairro Luanda)
+
+Code: GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-luanda, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Cidade de Bubaque Bairro Praça)
+
+Code: GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-praa, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Enen)
+
+Code: GW0302_ilha-de-bubaque-enen, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Etimbato)
+
+Code: GW0302_ilha-de-bubaque-etimbato, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Etiquene)
+
+Code: GW0302_ilha-de-bubaque-etiquene, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Tabanca Nova)
+
+Code: GW0302_ilha-de-bubaque-tabanca-nova, Coordinates: 11.234, -15.74
+
+#### Ilha de Bubaque (Tcharo)
+
+Code: GW0302_ilha-de-bubaque-tcharo, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Ambena)
+
+Code: GW0302_ilha-de-canhabaque-ambena, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Ambuduco)
+
+Code: GW0302_ilha-de-canhabaque-ambuduco, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Ampucute)
+
+Code: GW0302_ilha-de-canhabaque-ampucute, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Ancanam)
+
+Code: GW0302_ilha-de-canhabaque-ancanam, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Ancanhozinho)
+
+Code: GW0302_ilha-de-canhabaque-ancanhozinho, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Ancatipe)
+
+Code: GW0302_ilha-de-canhabaque-ancatipe, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Angaura)
+
+Code: GW0302_ilha-de-canhabaque-angaura, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Anghudjiga)
+
+Code: GW0302_ilha-de-canhabaque-anghudjiga, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Anghumba)
+
+Code: GW0302_ilha-de-canhabaque-anghumba, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Antchurupe)
+
+Code: GW0302_ilha-de-canhabaque-antchurupe, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Bine)
+
+Code: GW0302_ilha-de-canhabaque-bine, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Ga - Cote)
+
+Code: GW0302_ilha-de-canhabaque-ga---cote, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Indena Grande)
+
+Code: GW0302_ilha-de-canhabaque-indena-grande, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Indenazinho)
+
+Code: GW0302_ilha-de-canhabaque-indenazinho, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Inhoda)
+
+Code: GW0302_ilha-de-canhabaque-inhoda, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque (Meneque)
+
+Code: GW0302_ilha-de-canhabaque-meneque, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque Djone (Idjoue)
+
+Code: GW0302_ilha-de-canhabaque-djone-idjoue, Coordinates: 11.234, -15.74
+
+#### Ilha de Canhabaque Eboco
+
+Code: GW0302_ilha-de-canhabaque-eboco, Coordinates: 11.234, -15.74
+
+#### Ilha de Cnhabaque (Inore)
+
+Code: GW0302_ilha-de-cnhabaque-inore, Coordinates: 11.234, -15.74
+
+#### Ilha de de Ganogo (Amupa Ga-Nogo)
+
+Code: GW0302_ilha-de-de-ganogo-amupa-ga-nogo, Coordinates: 11.234, -15.74
+
+#### Ilha de Ganogo (Abu)
+
+Code: GW0302_ilha-de-ganogo-abu, Coordinates: 11.234, -15.74
+
+#### Ilha de Ganogo (Aneguen)
+
+Code: GW0302_ilha-de-ganogo-aneguen, Coordinates: 11.234, -15.74
+
+#### Ilha de Joao Vieira
+
+Code: GW0302_ilha-de-joao-vieira, Coordinates: 11.234, -15.74
+
+#### Ilha de Menegue (Menegue)
+
+Code: GW0302_ilha-de-menegue-menegue, Coordinates: 11.234, -15.74
+
+#### Ilha de Orangozinho ( Abene)
+
+Code: GW0302_ilha-de-orangozinho-abene, Coordinates: 11.234, -15.74
+
+#### Ilha de Orangozinho (Ancanho)
+
+Code: GW0302_ilha-de-orangozinho-ancanho, Coordinates: 11.234, -15.74
+
+#### Ilha de Orangozinho (Eticodega)
+
+Code: GW0302_ilha-de-orangozinho-eticodega, Coordinates: 11.234, -15.74
+
+#### Ilha de Orangozinho (Uassa)
+
+Code: GW0302_ilha-de-orangozinho-uassa, Coordinates: 11.234, -15.74
+
+#### Ilha de Orangozinho (Wite)
+
+Code: GW0302_ilha-de-orangozinho-wite, Coordinates: 11.234, -15.74
+
+#### Ilha de Rubane (Ancauga Rubane)
+
+Code: GW0302_ilha-de-rubane-ancauga-rubane, Coordinates: 11.234, -15.74
+
+#### Ilha de Soga (Ancaminho)
+
+Code: GW0302_ilha-de-soga-ancaminho, Coordinates: 11.234, -15.74
+
+#### Ilha de Soga (Ancauque)
+
+Code: GW0302_ilha-de-soga-ancauque, Coordinates: 11.234, -15.74
+
+#### Ilha de Soga (Ancubinh)
+
+Code: GW0302_ilha-de-soga-ancubinh, Coordinates: 11.234, -15.74
+
+#### Ilha de Soga (Ebeje)
+
+Code: GW0302_ilha-de-soga-ebeje, Coordinates: 11.234, -15.74
+
+#### Ilha de Soga (Etamboro)
+
+Code: GW0302_ilha-de-soga-etamboro, Coordinates: 11.234, -15.74
+
+#### Ilha de Soga (Eticoba (Ambuduco))
+
+Code: GW0302_ilha-de-soga-eticoba-ambuduco, Coordinates: 11.234, -15.74
+
+### Caravela
+
+Code: GW0303, Coordinates: 11.542, -16.343
+Tabancas: 47
+
+#### Ilha de Carache (Amandinga)
+
+Code: GW0303_ilha-de-carache-amandinga, Coordinates: 11.542, -16.343
+
+#### Ilha de Carache (Ampintcha)
+
+Code: GW0303_ilha-de-carache-ampintcha, Coordinates: 11.542, -16.343
+
+#### Ilha de Carache (Amudai)
+
+Code: GW0303_ilha-de-carache-amudai, Coordinates: 11.542, -16.343
+
+#### Ilha de Carache (Binte)
+
+Code: GW0303_ilha-de-carache-binte, Coordinates: 11.542, -16.343
+
+#### Ilha de Carache (Bintezinho (Anbetcho))
+
+Code: GW0303_ilha-de-carache-bintezinho-anbetcho, Coordinates: 11.542, -16.343
+
+#### Ilha de Carache (Cutchambe)
+
+Code: GW0303_ilha-de-carache-cutchambe, Coordinates: 11.542, -16.343
+
+#### Ilha de Caravela (Acobede)
+
+Code: GW0303_ilha-de-caravela-acobede, Coordinates: 11.542, -16.343
+
+#### Ilha de Caravela (Acuminca)
+
+Code: GW0303_ilha-de-caravela-acuminca, Coordinates: 11.542, -16.343
+
+#### Ilha de Caravela (Ambedinam)
+
+Code: GW0303_ilha-de-caravela-ambedinam, Coordinates: 11.542, -16.343
+
+#### Ilha de Caravela (Angongo de Corente)
+
+Code: GW0303_ilha-de-caravela-angongo-de-corente, Coordinates: 11.542, -16.343
+
+#### Ilha de Caravela (Anopoc)
+
+Code: GW0303_ilha-de-caravela-anopoc, Coordinates: 11.542, -16.343
+
+#### Ilha de Caravela (Bitchau)
+
+Code: GW0303_ilha-de-caravela-bitchau, Coordinates: 11.542, -16.343
+
+#### Ilha de Caravela (Bitelhe)
+
+Code: GW0303_ilha-de-caravela-bitelhe, Coordinates: 11.542, -16.343
+
+#### Ilha de Caravela (Cabua)
+
+Code: GW0303_ilha-de-caravela-cabua, Coordinates: 11.542, -16.343
+
+#### Ilha de Caravela (Eticunda)
+
+Code: GW0303_ilha-de-caravela-eticunda, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Abu (Rcussun))
+
+Code: GW0303_ilha-de-formosa-abu-rcussun, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Acoco)
+
+Code: GW0303_ilha-de-formosa-acoco, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Acuno)
+
+Code: GW0303_ilha-de-formosa-acuno, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Ambo)
+
+Code: GW0303_ilha-de-formosa-ambo, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Ancadaque)
+
+Code: GW0303_ilha-de-formosa-ancadaque, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Anquedjo (Anquelho))
+
+Code: GW0303_ilha-de-formosa-anquedjo-anquelho, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Anquedjo Papel)
+
+Code: GW0303_ilha-de-formosa-anquedjo-papel, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Bampion)
+
+Code: GW0303_ilha-de-formosa-bampion, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Cabinhate)
+
+Code: GW0303_ilha-de-formosa-cabinhate, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Catend)
+
+Code: GW0303_ilha-de-formosa-catend, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Cudjanque)
+
+Code: GW0303_ilha-de-formosa-cudjanque, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Cuiane)
+
+Code: GW0303_ilha-de-formosa-cuiane, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Cumpada)
+
+Code: GW0303_ilha-de-formosa-cumpada, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Pandja)
+
+Code: GW0303_ilha-de-formosa-pandja, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Soie)
+
+Code: GW0303_ilha-de-formosa-soie, Coordinates: 11.542, -16.343
+
+#### Ilha de Formosa (Uada)
+
+Code: GW0303_ilha-de-formosa-uada, Coordinates: 11.542, -16.343
+
+#### Ilha de Maio (Botai)
+
+Code: GW0303_ilha-de-maio-botai, Coordinates: 11.542, -16.343
+
+#### Ilha de Maio (Cassucuta)
+
+Code: GW0303_ilha-de-maio-cassucuta, Coordinates: 11.542, -16.343
+
+#### Ilha de Maio (Chedia (Tchedengha))
+
+Code: GW0303_ilha-de-maio-chedia-tchedengha, Coordinates: 11.542, -16.343
+
+#### Ilha de Maio (Eticoguen (Quiquia))
+
+Code: GW0303_ilha-de-maio-eticoguen-quiquia, Coordinates: 11.542, -16.343
+
+#### Ilha de Maio (Etimpen (Porto de Nhominca))
+
+Code: GW0303_ilha-de-maio-etimpen-porto-de-nhominca, Coordinates: 11.542, -16.343
+
+#### Ilha de Maio (N&#39;tenbaca (Aghucussa))
+
+Code: GW0303_ilha-de-maio-ntenbaca-aghucussa, Coordinates: 11.542, -16.343
+
+#### Ilha de Maio (Sidja)
+
+Code: GW0303_ilha-de-maio-sidja, Coordinates: 11.542, -16.343
+
+#### Ilha de Ponta (Nago) Angha
+
+Code: GW0303_ilha-de-ponta-nago-angha, Coordinates: 11.542, -16.343
+
+#### Ilha de Ponta (Nago) Candjirba de Antoniozinho
+
+Code: GW0303_ilha-de-ponta-nago-candjirba-de-antoniozinho, Coordinates: 11.542, -16.343
+
+#### Ilha de Ponta (Nago) Candjirba de Nhambane
+
+Code: GW0303_ilha-de-ponta-nago-candjirba-de-nhambane, Coordinates: 11.542, -16.343
+
+#### Ilha de Ponta (Nago) Candjirba de Paulo
+
+Code: GW0303_ilha-de-ponta-nago-candjirba-de-paulo, Coordinates: 11.542, -16.343
+
+#### Ilha de Ponta (Nago) Inder
+
+Code: GW0303_ilha-de-ponta-nago-inder, Coordinates: 11.542, -16.343
+
+#### Ilha de Ponta Nago (Audja)
+
+Code: GW0303_ilha-de-ponta-nago-audja, Coordinates: 11.542, -16.343
+
+#### Ilha de Ponta Nago (Ghago)
+
+Code: GW0303_ilha-de-ponta-nago-ghago, Coordinates: 11.542, -16.343
+
+#### Ilha de Ponta Nago (Pante Budjubi)
+
+Code: GW0303_ilha-de-ponta-nago-pante-budjubi, Coordinates: 11.542, -16.343
+
+#### Ilha de Ponta Nago (Porto de Nhominca)
+
+Code: GW0303_ilha-de-ponta-nago-porto-de-nhominca, Coordinates: 11.542, -16.343
+
+### Uno
+
+Code: GW0304, Coordinates: 11.113, -16.123
+Tabancas: 62
+
+#### Ilha de Orango Grande - Ambuduco
+
+Code: GW0304_ilha-de-orango-grande---ambuduco, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Amecpa
+
+Code: GW0304_ilha-de-orango-grande---amecpa, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Amindo
+
+Code: GW0304_ilha-de-orango-grande---amindo, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Ancaboca
+
+Code: GW0304_ilha-de-orango-grande---ancaboca, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Ancagume
+
+Code: GW0304_ilha-de-orango-grande---ancagume, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Ancamona
+
+Code: GW0304_ilha-de-orango-grande---ancamona, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Ancaquia
+
+Code: GW0304_ilha-de-orango-grande---ancaquia, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Ancodaque
+
+Code: GW0304_ilha-de-orango-grande---ancodaque, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Ancopado
+
+Code: GW0304_ilha-de-orango-grande---ancopado, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Ancubima
+
+Code: GW0304_ilha-de-orango-grande---ancubima, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Anevoca
+
+Code: GW0304_ilha-de-orango-grande---anevoca, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Anghor
+
+Code: GW0304_ilha-de-orango-grande---anghor, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Bijante
+
+Code: GW0304_ilha-de-orango-grande---bijante, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Dinos
+
+Code: GW0304_ilha-de-orango-grande---dinos, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Etepa
+
+Code: GW0304_ilha-de-orango-grande---etepa, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Eticoga
+
+Code: GW0304_ilha-de-orango-grande---eticoga, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Etinhoque
+
+Code: GW0304_ilha-de-orango-grande---etinhoque, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Etiogo
+
+Code: GW0304_ilha-de-orango-grande---etiogo, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Gassica
+
+Code: GW0304_ilha-de-orango-grande---gassica, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Imbone
+
+Code: GW0304_ilha-de-orango-grande---imbone, Coordinates: 11.113, -16.123
+
+#### Ilha de Orango Grande - Madina
+
+Code: GW0304_ilha-de-orango-grande---madina, Coordinates: 11.113, -16.123
+
+#### Ilha de Unhocomo (Amesso)
+
+Code: GW0304_ilha-de-unhocomo-amesso, Coordinates: 11.113, -16.123
+
+#### Ilha de Unhocomo (Anaburo)
+
+Code: GW0304_ilha-de-unhocomo-anaburo, Coordinates: 11.113, -16.123
+
+#### Ilha de Unhocomo (Egara)
+
+Code: GW0304_ilha-de-unhocomo-egara, Coordinates: 11.113, -16.123
+
+#### Ilha de Unhocomozinho (Equinado)
+
+Code: GW0304_ilha-de-unhocomozinho-equinado, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Anbuduco
+
+Code: GW0304_ilha-de-uno---anbuduco, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Ancadone
+
+Code: GW0304_ilha-de-uno---ancadone, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Ancarabe
+
+Code: GW0304_ilha-de-uno---ancarabe, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Ancobano
+
+Code: GW0304_ilha-de-uno---ancobano, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Ancobara
+
+Code: GW0304_ilha-de-uno---ancobara, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Ancodaque
+
+Code: GW0304_ilha-de-uno---ancodaque, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Ancope
+
+Code: GW0304_ilha-de-uno---ancope, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Ancorete
+
+Code: GW0304_ilha-de-uno---ancorete, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Ancuiem
+
+Code: GW0304_ilha-de-uno---ancuiem, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Ancumbe
+
+Code: GW0304_ilha-de-uno---ancumbe, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Anebend
+
+Code: GW0304_ilha-de-uno---anebend, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Anghan-ne
+
+Code: GW0304_ilha-de-uno---anghan-ne, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Anghara
+
+Code: GW0304_ilha-de-uno---anghara, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Anghodante
+
+Code: GW0304_ilha-de-uno---anghodante, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Anghodigo
+
+Code: GW0304_ilha-de-uno---anghodigo, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Anghonho
+
+Code: GW0304_ilha-de-uno---anghonho, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Angumpa
+
+Code: GW0304_ilha-de-uno---angumpa, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Angundji
+
+Code: GW0304_ilha-de-uno---angundji, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Bidjembe
+
+Code: GW0304_ilha-de-uno---bidjembe, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Bijambe
+
+Code: GW0304_ilha-de-uno---bijambe, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Bijante
+
+Code: GW0304_ilha-de-uno---bijante, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Bruce
+
+Code: GW0304_ilha-de-uno---bruce, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Cabuno
+
+Code: GW0304_ilha-de-uno---cabuno, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Catchinrima
+
+Code: GW0304_ilha-de-uno---catchinrima, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Cumburum
+
+Code: GW0304_ilha-de-uno---cumburum, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Erree
+
+Code: GW0304_ilha-de-uno---erree, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Eticoba (Ambuduco)
+
+Code: GW0304_ilha-de-uno---eticoba-ambuduco, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Etimago
+
+Code: GW0304_ilha-de-uno---etimago, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Ossacane
+
+Code: GW0304_ilha-de-uno---ossacane, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Ossambar
+
+Code: GW0304_ilha-de-uno---ossambar, Coordinates: 11.113, -16.123
+
+#### Ilha de Uno - Ossaque
+
+Code: GW0304_ilha-de-uno---ossaque, Coordinates: 11.113, -16.123
+
+#### Ilha de Uracane - Ancadjo (Ancalhe)
+
+Code: GW0304_ilha-de-uracane---ancadjo-ancalhe, Coordinates: 11.113, -16.123
+
+#### Ilha de Uracane - Ancopate
+
+Code: GW0304_ilha-de-uracane---ancopate, Coordinates: 11.113, -16.123
+
+#### Ilha de Uracane - Ancumbo
+
+Code: GW0304_ilha-de-uracane---ancumbo, Coordinates: 11.113, -16.123
+
+#### Ilha de Uracane - Bruce
+
+Code: GW0304_ilha-de-uracane---bruce, Coordinates: 11.113, -16.123
+
+#### Ilha de Uracane - Porto de Nhominca
+
+Code: GW0304_ilha-de-uracane---porto-de-nhominca, Coordinates: 11.113, -16.123
+
+#### Ilha de Uracane - Porto de Oracan
+
+Code: GW0304_ilha-de-uracane---porto-de-oracan, Coordinates: 11.113, -16.123
+

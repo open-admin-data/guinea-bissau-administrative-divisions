@@ -1,0 +1,47 @@
+{
+  "id": "GW0703",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Fulacunda",
+    "en": "Fulacunda",
+    "slug": "fulacunda-gw0703"
+  },
+  "code": {
+    "id": "GW0703",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW07",
+    "level": 1,
+    "name": {
+      "local": "Quinara",
+      "en": "Quinara",
+      "slug": "quinara-gw07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW07",
+      "level": 1,
+      "name": {
+        "local": "Quinara",
+        "en": "Quinara",
+        "slug": "quinara-gw07"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 71
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.788",
+    "lon": "-15.141"
+  },
+  "metadata": {},
+  "source": {}
+}

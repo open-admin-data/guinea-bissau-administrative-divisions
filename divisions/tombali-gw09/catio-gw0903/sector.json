@@ -1,0 +1,47 @@
+{
+  "id": "GW0903",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Catio",
+    "en": "Catio",
+    "slug": "catio-gw0903"
+  },
+  "code": {
+    "id": "GW0903",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW09",
+    "level": 1,
+    "name": {
+      "local": "Tombali",
+      "en": "Tombali",
+      "slug": "tombali-gw09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW09",
+      "level": 1,
+      "name": {
+        "local": "Tombali",
+        "en": "Tombali",
+        "slug": "tombali-gw09"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 105
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.342",
+    "lon": "-15.263"
+  },
+  "metadata": {},
+  "source": {}
+}

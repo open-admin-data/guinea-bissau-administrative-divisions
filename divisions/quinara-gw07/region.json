@@ -1,0 +1,30 @@
+{
+  "id": "GW07",
+  "level": 1,
+  "level_name": {
+    "local": "Região",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Quinara",
+    "en": "Quinara",
+    "slug": "quinara-gw07"
+  },
+  "code": {
+    "id": "GW07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sector": 4,
+    "tabanca": 220
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.635",
+    "lon": "-14.97"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.tabanca,geo.lat,geo.lon
+GW0501,Boe,Boe,boe-gw0501,GW0501,82,11.858,-14.1
+GW0502,Gabu,Gabu,gabu-gw0502,GW0502,0,12.173,-14.223
+GW0503,Pirada,Pirada,pirada-gw0503,GW0503,118,12.542,-14.097
+GW0504,Pitche,Pitche,pitche-gw0504,GW0504,226,12.4,-13.875
+GW0505,Sonaco,Sonaco,sonaco-gw0505,GW0505,148,12.39,-14.403

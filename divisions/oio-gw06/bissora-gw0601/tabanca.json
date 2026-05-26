@@ -1,0 +1,9830 @@
+[
+  {
+    "id": "GW0601_abanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Abanta",
+      "en": "Abanta",
+      "slug": "abanta"
+    },
+    "code": {
+      "id": "GW0601_abanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_asanha-clonca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Asanha Clonca",
+      "en": "Asanha Clonca",
+      "slug": "asanha-clonca"
+    },
+    "code": {
+      "id": "GW0601_asanha-clonca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_banculene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Banculene",
+      "en": "Banculene",
+      "slug": "banculene"
+    },
+    "code": {
+      "id": "GW0601_banculene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_beduir",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Beduir",
+      "en": "Beduir",
+      "slug": "beduir"
+    },
+    "code": {
+      "id": "GW0601_beduir",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_bera",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bera",
+      "en": "Bera",
+      "slug": "bera"
+    },
+    "code": {
+      "id": "GW0601_bera",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.043",
+      "lon": "-15.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_beraco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Beraco",
+      "en": "Beraco",
+      "slug": "beraco"
+    },
+    "code": {
+      "id": "GW0601_beraco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.233",
+      "lon": "-15.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_biambe---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Biambe - I",
+      "en": "Biambe - I",
+      "slug": "biambe---i"
+    },
+    "code": {
+      "id": "GW0601_biambe---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_biambe---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Biambe - II",
+      "en": "Biambe - II",
+      "slug": "biambe---ii"
+    },
+    "code": {
+      "id": "GW0601_biambe---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_bija-bidja",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bija ( Bidja )",
+      "en": "Bija ( Bidja )",
+      "slug": "bija-bidja"
+    },
+    "code": {
+      "id": "GW0601_bija-bidja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_binaga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Binaga",
+      "en": "Binaga",
+      "slug": "binaga"
+    },
+    "code": {
+      "id": "GW0601_binaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.333",
+      "lon": "-15.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_binar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Binar",
+      "en": "Binar",
+      "slug": "binar"
+    },
+    "code": {
+      "id": "GW0601_binar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.099",
+      "lon": "-15.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_binhome",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Binhome",
+      "en": "Binhome",
+      "slug": "binhome"
+    },
+    "code": {
+      "id": "GW0601_binhome",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_bissau-novo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissau Novo",
+      "en": "Bissau Novo",
+      "slug": "bissau-novo"
+    },
+    "code": {
+      "id": "GW0601_bissau-novo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.867",
+      "lon": "-15.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_bissum-naga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissum Naga",
+      "en": "Bissum Naga",
+      "slug": "bissum-naga"
+    },
+    "code": {
+      "id": "GW0601_bissum-naga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_blafetchur",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blafetchur",
+      "en": "Blafetchur",
+      "slug": "blafetchur"
+    },
+    "code": {
+      "id": "GW0601_blafetchur",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_blassar---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blassar - II",
+      "en": "Blassar - II",
+      "slug": "blassar---ii"
+    },
+    "code": {
+      "id": "GW0601_blassar---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_blassar--i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blassar- I",
+      "en": "Blassar- I",
+      "slug": "blassar--i"
+    },
+    "code": {
+      "id": "GW0601_blassar--i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_boda-nascente",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Boda Nascente",
+      "en": "Boda Nascente",
+      "slug": "boda-nascente"
+    },
+    "code": {
+      "id": "GW0601_boda-nascente",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_brum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Brum",
+      "en": "Brum",
+      "slug": "brum"
+    },
+    "code": {
+      "id": "GW0601_brum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_bucamar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bucamar",
+      "en": "Bucamar",
+      "slug": "bucamar"
+    },
+    "code": {
+      "id": "GW0601_bucamar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_bucaur",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bucaur",
+      "en": "Bucaur",
+      "slug": "bucaur"
+    },
+    "code": {
+      "id": "GW0601_bucaur",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.32",
+      "lon": "-15.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_bude",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bude",
+      "en": "Bude",
+      "slug": "bude"
+    },
+    "code": {
+      "id": "GW0601_bude",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.283",
+      "lon": "-14.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_bunghara---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bunghara - I",
+      "en": "Bunghara - I",
+      "slug": "bunghara---i"
+    },
+    "code": {
+      "id": "GW0601_bunghara---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_bunghara---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bunghara - II",
+      "en": "Bunghara - II",
+      "slug": "bunghara---ii"
+    },
+    "code": {
+      "id": "GW0601_bunghara---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cadjaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cadjaque",
+      "en": "Cadjaque",
+      "slug": "cadjaque"
+    },
+    "code": {
+      "id": "GW0601_cadjaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_california",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "California",
+      "en": "California",
+      "slug": "california"
+    },
+    "code": {
+      "id": "GW0601_california",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.917",
+      "lon": "-15.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cangha-cokri",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cangha Cokri",
+      "en": "Cangha Cokri",
+      "slug": "cangha-cokri"
+    },
+    "code": {
+      "id": "GW0601_cangha-cokri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cangha-mar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cangha Mar",
+      "en": "Cangha Mar",
+      "slug": "cangha-mar"
+    },
+    "code": {
+      "id": "GW0601_cangha-mar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cangha-nhaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cangha Nhaque",
+      "en": "Cangha Nhaque",
+      "slug": "cangha-nhaque"
+    },
+    "code": {
+      "id": "GW0601_cangha-nhaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cangha-tchugal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cangha Tchugal",
+      "en": "Cangha Tchugal",
+      "slug": "cangha-tchugal"
+    },
+    "code": {
+      "id": "GW0601_cangha-tchugal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cardaga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cardaga",
+      "en": "Cardaga",
+      "slug": "cardaga"
+    },
+    "code": {
+      "id": "GW0601_cardaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_catche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Catche",
+      "en": "Catche",
+      "slug": "catche"
+    },
+    "code": {
+      "id": "GW0601_catche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_caual---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caual - I",
+      "en": "Caual - I",
+      "slug": "caual---i"
+    },
+    "code": {
+      "id": "GW0601_caual---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_caubato",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Caubato",
+      "en": "Caubato",
+      "slug": "caubato"
+    },
+    "code": {
+      "id": "GW0601_caubato",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cidade-de-bissora-bairro-braga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bissora Bairro Braga",
+      "en": "Cidade de Bissora Bairro Braga",
+      "slug": "cidade-de-bissora-bairro-braga"
+    },
+    "code": {
+      "id": "GW0601_cidade-de-bissora-bairro-braga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cidade-de-bissora-bairro-ga-banana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bissora Bairro Ga-Banana",
+      "en": "Cidade de Bissora Bairro Ga-Banana",
+      "slug": "cidade-de-bissora-bairro-ga-banana"
+    },
+    "code": {
+      "id": "GW0601_cidade-de-bissora-bairro-ga-banana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cidade-de-bissora-bairro-ga-cemiterio",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bissora Bairro Ga-Cemiterio",
+      "en": "Cidade de Bissora Bairro Ga-Cemiterio",
+      "slug": "cidade-de-bissora-bairro-ga-cemiterio"
+    },
+    "code": {
+      "id": "GW0601_cidade-de-bissora-bairro-ga-cemiterio",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cidade-de-bissora-bairro-ga-djugude",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bissora Bairro Ga-Djugude",
+      "en": "Cidade de Bissora Bairro Ga-Djugude",
+      "slug": "cidade-de-bissora-bairro-ga-djugude"
+    },
+    "code": {
+      "id": "GW0601_cidade-de-bissora-bairro-ga-djugude",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cidade-de-bissora-bairro-joaquim-mcom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bissora Bairro Joaquim M'Com",
+      "en": "Cidade de Bissora Bairro Joaquim M'Com",
+      "slug": "cidade-de-bissora-bairro-joaquim-mcom"
+    },
+    "code": {
+      "id": "GW0601_cidade-de-bissora-bairro-joaquim-mcom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cidade-de-bissora-bairro-missira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bissora Bairro Missira",
+      "en": "Cidade de Bissora Bairro Missira",
+      "slug": "cidade-de-bissora-bairro-missira"
+    },
+    "code": {
+      "id": "GW0601_cidade-de-bissora-bairro-missira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cidade-de-bissora-bairro-outra-banda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bissora Bairro Outra Banda",
+      "en": "Cidade de Bissora Bairro Outra Banda",
+      "slug": "cidade-de-bissora-bairro-outra-banda"
+    },
+    "code": {
+      "id": "GW0601_cidade-de-bissora-bairro-outra-banda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cidade-de-bissora-bairro-praca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bissora Bairro Praca",
+      "en": "Cidade de Bissora Bairro Praca",
+      "slug": "cidade-de-bissora-bairro-praca"
+    },
+    "code": {
+      "id": "GW0601_cidade-de-bissora-bairro-praca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cidade-de-bissora-bairro-santa-luzia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bissora Bairro Santa Luzia",
+      "en": "Cidade de Bissora Bairro Santa Luzia",
+      "slug": "cidade-de-bissora-bairro-santa-luzia"
+    },
+    "code": {
+      "id": "GW0601_cidade-de-bissora-bairro-santa-luzia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cidade-de-bissora-bairro-sintcha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Bissora Bairro Sintcha",
+      "en": "Cidade de Bissora Bairro Sintcha",
+      "slug": "cidade-de-bissora-bairro-sintcha"
+    },
+    "code": {
+      "id": "GW0601_cidade-de-bissora-bairro-sintcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_claque-de-intente---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Claque de Intente - II",
+      "en": "Claque de Intente - II",
+      "slug": "claque-de-intente---ii"
+    },
+    "code": {
+      "id": "GW0601_claque-de-intente---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_clonque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Clonque",
+      "en": "Clonque",
+      "slug": "clonque"
+    },
+    "code": {
+      "id": "GW0601_clonque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.068",
+      "lon": "-15.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cloque-n-quinteda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cloque N quinteda",
+      "en": "Cloque N quinteda",
+      "slug": "cloque-n-quinteda"
+    },
+    "code": {
+      "id": "GW0601_cloque-n-quinteda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cobum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cobum",
+      "en": "Cobum",
+      "slug": "cobum"
+    },
+    "code": {
+      "id": "GW0601_cobum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_comico",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Comico",
+      "en": "Comico",
+      "slug": "comico"
+    },
+    "code": {
+      "id": "GW0601_comico",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_concolim-balanta-encheia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Concolim Balanta Encheia",
+      "en": "Concolim Balanta Encheia",
+      "slug": "concolim-balanta-encheia"
+    },
+    "code": {
+      "id": "GW0601_concolim-balanta-encheia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_concolim-balanta-mane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Concolim Balanta Mane",
+      "en": "Concolim Balanta Mane",
+      "slug": "concolim-balanta-mane"
+    },
+    "code": {
+      "id": "GW0601_concolim-balanta-mane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_concolim-cabo-verde",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Concolim Cabo-Verde",
+      "en": "Concolim Cabo-Verde",
+      "slug": "concolim-cabo-verde"
+    },
+    "code": {
+      "id": "GW0601_concolim-cabo-verde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_concolim-mandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Concolim Mandinga",
+      "en": "Concolim Mandinga",
+      "slug": "concolim-mandinga"
+    },
+    "code": {
+      "id": "GW0601_concolim-mandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_conhuncom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Conhuncom",
+      "en": "Conhuncom",
+      "slug": "conhuncom"
+    },
+    "code": {
+      "id": "GW0601_conhuncom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_contuba---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Contuba - I",
+      "en": "Contuba - I",
+      "slug": "contuba---i"
+    },
+    "code": {
+      "id": "GW0601_contuba---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_corem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Corem",
+      "en": "Corem",
+      "slug": "corem"
+    },
+    "code": {
+      "id": "GW0601_corem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cosseba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cosseba",
+      "en": "Cosseba",
+      "slug": "cosseba"
+    },
+    "code": {
+      "id": "GW0601_cosseba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cossicunto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cossicunto",
+      "en": "Cossicunto",
+      "slug": "cossicunto"
+    },
+    "code": {
+      "id": "GW0601_cossicunto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cubui",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cubui",
+      "en": "Cubui",
+      "slug": "cubui"
+    },
+    "code": {
+      "id": "GW0601_cubui",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_culcunhe---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Culcunhe - I",
+      "en": "Culcunhe - I",
+      "slug": "culcunhe---i"
+    },
+    "code": {
+      "id": "GW0601_culcunhe---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_culcunhe---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Culcunhe - II",
+      "en": "Culcunhe - II",
+      "slug": "culcunhe---ii"
+    },
+    "code": {
+      "id": "GW0601_culcunhe---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cumbram",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cumbram",
+      "en": "Cumbram",
+      "slug": "cumbram"
+    },
+    "code": {
+      "id": "GW0601_cumbram",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cumbule-incote",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cumbule Incote",
+      "en": "Cumbule Incote",
+      "slug": "cumbule-incote"
+    },
+    "code": {
+      "id": "GW0601_cumbule-incote",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_cussundone",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cussundone",
+      "en": "Cussundone",
+      "slug": "cussundone"
+    },
+    "code": {
+      "id": "GW0601_cussundone",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_dame-mil",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dame Mil",
+      "en": "Dame Mil",
+      "slug": "dame-mil"
+    },
+    "code": {
+      "id": "GW0601_dame-mil",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_dame-passe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dame Passe",
+      "en": "Dame Passe",
+      "slug": "dame-passe"
+    },
+    "code": {
+      "id": "GW0601_dame-passe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_dame-sor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dame Sor",
+      "en": "Dame Sor",
+      "slug": "dame-sor"
+    },
+    "code": {
+      "id": "GW0601_dame-sor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_dame-tche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dame Tche",
+      "en": "Dame Tche",
+      "slug": "dame-tche"
+    },
+    "code": {
+      "id": "GW0601_dame-tche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_dame-tche---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dame Tche - I",
+      "en": "Dame Tche - I",
+      "slug": "dame-tche---i"
+    },
+    "code": {
+      "id": "GW0601_dame-tche---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_dando",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dando",
+      "en": "Dando",
+      "slug": "dando"
+    },
+    "code": {
+      "id": "GW0601_dando",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-14.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_dando-mansabandim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dando Mansabandim",
+      "en": "Dando Mansabandim",
+      "slug": "dando-mansabandim"
+    },
+    "code": {
+      "id": "GW0601_dando-mansabandim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_deque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Deque",
+      "en": "Deque",
+      "slug": "deque"
+    },
+    "code": {
+      "id": "GW0601_deque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.233",
+      "lon": "-15.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_dinul-dunul",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Dinul ( Dunul )",
+      "en": "Dinul ( Dunul )",
+      "slug": "dinul-dunul"
+    },
+    "code": {
+      "id": "GW0601_dinul-dunul",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_djobel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Djobel",
+      "en": "Djobel",
+      "slug": "djobel"
+    },
+    "code": {
+      "id": "GW0601_djobel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_echombe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Echombe",
+      "en": "Echombe",
+      "slug": "echombe"
+    },
+    "code": {
+      "id": "GW0601_echombe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_embande-nband-dame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Embande (Nband Dame )",
+      "en": "Embande (Nband Dame )",
+      "slug": "embande-nband-dame"
+    },
+    "code": {
+      "id": "GW0601_embande-nband-dame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_embuien",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Embuien",
+      "en": "Embuien",
+      "slug": "embuien"
+    },
+    "code": {
+      "id": "GW0601_embuien",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_enchangue---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Enchangue - I",
+      "en": "Enchangue - I",
+      "slug": "enchangue---i"
+    },
+    "code": {
+      "id": "GW0601_enchangue---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_enchangue---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Enchangue - II",
+      "en": "Enchangue - II",
+      "slug": "enchangue---ii"
+    },
+    "code": {
+      "id": "GW0601_enchangue---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_encheia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Encheia",
+      "en": "Encheia",
+      "slug": "encheia"
+    },
+    "code": {
+      "id": "GW0601_encheia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.064",
+      "lon": "-15.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_encherte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Encherte",
+      "en": "Encherte",
+      "slug": "encherte"
+    },
+    "code": {
+      "id": "GW0601_encherte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.076",
+      "lon": "-15.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_fabur",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fabur",
+      "en": "Fabur",
+      "slug": "fabur"
+    },
+    "code": {
+      "id": "GW0601_fabur",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.113",
+      "lon": "-15.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_farambedje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Farambedje",
+      "en": "Farambedje",
+      "slug": "farambedje"
+    },
+    "code": {
+      "id": "GW0601_farambedje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_fatcha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fatcha",
+      "en": "Fatcha",
+      "slug": "fatcha"
+    },
+    "code": {
+      "id": "GW0601_fatcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_flobe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Flobe",
+      "en": "Flobe",
+      "slug": "flobe"
+    },
+    "code": {
+      "id": "GW0601_flobe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_foncho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Foncho",
+      "en": "Foncho",
+      "slug": "foncho"
+    },
+    "code": {
+      "id": "GW0601_foncho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.106",
+      "lon": "-15.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_forol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Forol",
+      "en": "Forol",
+      "slug": "forol"
+    },
+    "code": {
+      "id": "GW0601_forol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_futo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Futo",
+      "en": "Futo",
+      "slug": "futo"
+    },
+    "code": {
+      "id": "GW0601_futo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_ga---djugude",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Djugude",
+      "en": "Ga - Djugude",
+      "slug": "ga---djugude"
+    },
+    "code": {
+      "id": "GW0601_ga---djugude",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_ga---fara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ga - Fara",
+      "en": "Ga - Fara",
+      "slug": "ga---fara"
+    },
+    "code": {
+      "id": "GW0601_ga---fara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.166",
+      "lon": "-15.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_gamsambo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Gamsambo",
+      "en": "Gamsambo",
+      "slug": "gamsambo"
+    },
+    "code": {
+      "id": "GW0601_gamsambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_grancuta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Grancuta",
+      "en": "Grancuta",
+      "slug": "grancuta"
+    },
+    "code": {
+      "id": "GW0601_grancuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.184",
+      "lon": "-15.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_grandumbe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Grandumbe",
+      "en": "Grandumbe",
+      "slug": "grandumbe"
+    },
+    "code": {
+      "id": "GW0601_grandumbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.167",
+      "lon": "-15.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_guinane-quinane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Guinane ( Quinane )",
+      "en": "Guinane ( Quinane )",
+      "slug": "guinane-quinane"
+    },
+    "code": {
+      "id": "GW0601_guinane-quinane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_iador-cangha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Iador Cangha",
+      "en": "Iador Cangha",
+      "slug": "iador-cangha"
+    },
+    "code": {
+      "id": "GW0601_iador-cangha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_iara",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Iara",
+      "en": "Iara",
+      "slug": "iara"
+    },
+    "code": {
+      "id": "GW0601_iara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.359",
+      "lon": "-15.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_impasse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Impasse",
+      "en": "Impasse",
+      "slug": "impasse"
+    },
+    "code": {
+      "id": "GW0601_impasse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.059",
+      "lon": "-15.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_indambe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Indambe",
+      "en": "Indambe",
+      "slug": "indambe"
+    },
+    "code": {
+      "id": "GW0601_indambe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_indendem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Indendem",
+      "en": "Indendem",
+      "slug": "indendem"
+    },
+    "code": {
+      "id": "GW0601_indendem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_infaide",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Infaide",
+      "en": "Infaide",
+      "slug": "infaide"
+    },
+    "code": {
+      "id": "GW0601_infaide",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.085",
+      "lon": "-15.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_inquida",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Inquida",
+      "en": "Inquida",
+      "slug": "inquida"
+    },
+    "code": {
+      "id": "GW0601_inquida",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-15.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_inquir",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Inquir",
+      "en": "Inquir",
+      "slug": "inquir"
+    },
+    "code": {
+      "id": "GW0601_inquir",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-15.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_insanha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Insanha",
+      "en": "Insanha",
+      "slug": "insanha"
+    },
+    "code": {
+      "id": "GW0601_insanha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_insumete---i-n-sumte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Insumete - I ( N sumte )",
+      "en": "Insumete - I ( N sumte )",
+      "slug": "insumete---i-n-sumte"
+    },
+    "code": {
+      "id": "GW0601_insumete---i-n-sumte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_intente---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Intente - I",
+      "en": "Intente - I",
+      "slug": "intente---i"
+    },
+    "code": {
+      "id": "GW0601_intente---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_iracunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Iracunda",
+      "en": "Iracunda",
+      "slug": "iracunda"
+    },
+    "code": {
+      "id": "GW0601_iracunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.259",
+      "lon": "-15.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_iusse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Iusse",
+      "en": "Iusse",
+      "slug": "iusse"
+    },
+    "code": {
+      "id": "GW0601_iusse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.767",
+      "lon": "-15.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_junguto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Junguto",
+      "en": "Junguto",
+      "slug": "junguto"
+    },
+    "code": {
+      "id": "GW0601_junguto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_late",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Late",
+      "en": "Late",
+      "slug": "late"
+    },
+    "code": {
+      "id": "GW0601_late",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.077",
+      "lon": "-15.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_lendem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lendem",
+      "en": "Lendem",
+      "slug": "lendem"
+    },
+    "code": {
+      "id": "GW0601_lendem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_lendem---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lendem - II",
+      "en": "Lendem - II",
+      "slug": "lendem---ii"
+    },
+    "code": {
+      "id": "GW0601_lendem---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_libar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Libar",
+      "en": "Libar",
+      "slug": "libar"
+    },
+    "code": {
+      "id": "GW0601_libar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_lipte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Lipte",
+      "en": "Lipte",
+      "slug": "lipte"
+    },
+    "code": {
+      "id": "GW0601_lipte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_mabar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mabar",
+      "en": "Mabar",
+      "slug": "mabar"
+    },
+    "code": {
+      "id": "GW0601_mabar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_manambo-mandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Manambo Mandinga",
+      "en": "Manambo Mandinga",
+      "slug": "manambo-mandinga"
+    },
+    "code": {
+      "id": "GW0601_manambo-mandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_manga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Manga",
+      "en": "Manga",
+      "slug": "manga"
+    },
+    "code": {
+      "id": "GW0601_manga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.068",
+      "lon": "-15.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_maque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Maque",
+      "en": "Maque",
+      "slug": "maque"
+    },
+    "code": {
+      "id": "GW0601_maque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_matar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Matar",
+      "en": "Matar",
+      "slug": "matar"
+    },
+    "code": {
+      "id": "GW0601_matar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.346",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_mbunhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mbunhe",
+      "en": "Mbunhe",
+      "slug": "mbunhe"
+    },
+    "code": {
+      "id": "GW0601_mbunhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_mone",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mone",
+      "en": "Mone",
+      "slug": "mone"
+    },
+    "code": {
+      "id": "GW0601_mone",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.266",
+      "lon": "-15.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_mude",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Mude",
+      "en": "Mude",
+      "slug": "mude"
+    },
+    "code": {
+      "id": "GW0601_mude",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_n-panquenha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N panquenha",
+      "en": "N panquenha",
+      "slug": "n-panquenha"
+    },
+    "code": {
+      "id": "GW0601_n-panquenha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_n-tchupune",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "N tchupune",
+      "en": "N tchupune",
+      "slug": "n-tchupune"
+    },
+    "code": {
+      "id": "GW0601_n-tchupune",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_nafla",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nafla",
+      "en": "Nafla",
+      "slug": "nafla"
+    },
+    "code": {
+      "id": "GW0601_nafla",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_naga-de-baixo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Naga de Baixo",
+      "en": "Naga de Baixo",
+      "slug": "naga-de-baixo"
+    },
+    "code": {
+      "id": "GW0601_naga-de-baixo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.234",
+      "lon": "-15.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_nbad",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nbad",
+      "en": "Nbad",
+      "slug": "nbad"
+    },
+    "code": {
+      "id": "GW0601_nbad",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_ncor",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ncor",
+      "en": "Ncor",
+      "slug": "ncor"
+    },
+    "code": {
+      "id": "GW0601_ncor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_nfante",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nfante",
+      "en": "Nfante",
+      "slug": "nfante"
+    },
+    "code": {
+      "id": "GW0601_nfante",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_nguabe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nguabe",
+      "en": "Nguabe",
+      "slug": "nguabe"
+    },
+    "code": {
+      "id": "GW0601_nguabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_nhae",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhae",
+      "en": "Nhae",
+      "slug": "nhae"
+    },
+    "code": {
+      "id": "GW0601_nhae",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.127",
+      "lon": "-15.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_nhamate",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhamate",
+      "en": "Nhamate",
+      "slug": "nhamate"
+    },
+    "code": {
+      "id": "GW0601_nhamate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.089",
+      "lon": "-15.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_nhengue",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhengue",
+      "en": "Nhengue",
+      "slug": "nhengue"
+    },
+    "code": {
+      "id": "GW0601_nhengue",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-15.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_nhonfa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nhonfa",
+      "en": "Nhonfa",
+      "slug": "nhonfa"
+    },
+    "code": {
+      "id": "GW0601_nhonfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_ntchute",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ntchute",
+      "en": "Ntchute",
+      "slug": "ntchute"
+    },
+    "code": {
+      "id": "GW0601_ntchute",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_paile",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Paile",
+      "en": "Paile",
+      "slug": "paile"
+    },
+    "code": {
+      "id": "GW0601_paile",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.1",
+      "lon": "-15.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_pamar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Pamar",
+      "en": "Pamar",
+      "slug": "pamar"
+    },
+    "code": {
+      "id": "GW0601_pamar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_patche-iala",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Patche Iala",
+      "en": "Patche Iala",
+      "slug": "patche-iala"
+    },
+    "code": {
+      "id": "GW0601_patche-iala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_patche-pansau",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Patche Pansau",
+      "en": "Patche Pansau",
+      "slug": "patche-pansau"
+    },
+    "code": {
+      "id": "GW0601_patche-pansau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_ponta-novo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Novo",
+      "en": "Ponta Novo",
+      "slug": "ponta-novo"
+    },
+    "code": {
+      "id": "GW0601_ponta-novo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_ponta-paulo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Paulo",
+      "en": "Ponta Paulo",
+      "slug": "ponta-paulo"
+    },
+    "code": {
+      "id": "GW0601_ponta-paulo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_quenem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quenem",
+      "en": "Quenem",
+      "slug": "quenem"
+    },
+    "code": {
+      "id": "GW0601_quenem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.228",
+      "lon": "-15.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_quere",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quere",
+      "en": "Quere",
+      "slug": "quere"
+    },
+    "code": {
+      "id": "GW0601_quere",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12",
+      "lon": "-14.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_quibide-mane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quibide Mane",
+      "en": "Quibide Mane",
+      "slug": "quibide-mane"
+    },
+    "code": {
+      "id": "GW0601_quibide-mane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_quinak",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quinak",
+      "en": "Quinak",
+      "slug": "quinak"
+    },
+    "code": {
+      "id": "GW0601_quinak",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_quinhaque---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quinhaque - I",
+      "en": "Quinhaque - I",
+      "slug": "quinhaque---i"
+    },
+    "code": {
+      "id": "GW0601_quinhaque---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_quinhaque---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quinhaque - II",
+      "en": "Quinhaque - II",
+      "slug": "quinhaque---ii"
+    },
+    "code": {
+      "id": "GW0601_quinhaque---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_quissanque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quissanque",
+      "en": "Quissanque",
+      "slug": "quissanque"
+    },
+    "code": {
+      "id": "GW0601_quissanque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.051",
+      "lon": "-15.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_quissasse",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quissasse",
+      "en": "Quissasse",
+      "slug": "quissasse"
+    },
+    "code": {
+      "id": "GW0601_quissasse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_quissefo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quissefo",
+      "en": "Quissefo",
+      "slug": "quissefo"
+    },
+    "code": {
+      "id": "GW0601_quissefo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_quitama",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Quitama",
+      "en": "Quitama",
+      "slug": "quitama"
+    },
+    "code": {
+      "id": "GW0601_quitama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_safar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Safar",
+      "en": "Safar",
+      "slug": "safar"
+    },
+    "code": {
+      "id": "GW0601_safar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_sano-sancun-sane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sano (Sancun Sane)",
+      "en": "Sano (Sancun Sane)",
+      "slug": "sano-sancun-sane"
+    },
+    "code": {
+      "id": "GW0601_sano-sancun-sane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_sansambato",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sansambato",
+      "en": "Sansambato",
+      "slug": "sansambato"
+    },
+    "code": {
+      "id": "GW0601_sansambato",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_sarmone",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sarmone",
+      "en": "Sarmone",
+      "slug": "sarmone"
+    },
+    "code": {
+      "id": "GW0601_sarmone",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_sili-roconhe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sili Roconhe",
+      "en": "Sili Roconhe",
+      "slug": "sili-roconhe"
+    },
+    "code": {
+      "id": "GW0601_sili-roconhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_suru",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Suru",
+      "en": "Suru",
+      "slug": "suru"
+    },
+    "code": {
+      "id": "GW0601_suru",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_tadjar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tadjar",
+      "en": "Tadjar",
+      "slug": "tadjar"
+    },
+    "code": {
+      "id": "GW0601_tadjar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_tama",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tama",
+      "en": "Tama",
+      "slug": "tama"
+    },
+    "code": {
+      "id": "GW0601_tama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.134",
+      "lon": "-15.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_tama-logte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tama Logte",
+      "en": "Tama Logte",
+      "slug": "tama-logte"
+    },
+    "code": {
+      "id": "GW0601_tama-logte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_tame",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tame",
+      "en": "Tame",
+      "slug": "tame"
+    },
+    "code": {
+      "id": "GW0601_tame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_tchale",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchale",
+      "en": "Tchale",
+      "slug": "tchale"
+    },
+    "code": {
+      "id": "GW0601_tchale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_tchanque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchanque",
+      "en": "Tchanque",
+      "slug": "tchanque"
+    },
+    "code": {
+      "id": "GW0601_tchanque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_tchil",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchil",
+      "en": "Tchil",
+      "slug": "tchil"
+    },
+    "code": {
+      "id": "GW0601_tchil",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_tchumbum",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tchumbum",
+      "en": "Tchumbum",
+      "slug": "tchumbum"
+    },
+    "code": {
+      "id": "GW0601_tchumbum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_tebede",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tebede",
+      "en": "Tebede",
+      "slug": "tebede"
+    },
+    "code": {
+      "id": "GW0601_tebede",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-15.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_tictilon",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tictilon",
+      "en": "Tictilon",
+      "slug": "tictilon"
+    },
+    "code": {
+      "id": "GW0601_tictilon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_tim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tim",
+      "en": "Tim",
+      "slug": "tim"
+    },
+    "code": {
+      "id": "GW0601_tim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_tinca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tinca",
+      "en": "Tinca",
+      "slug": "tinca"
+    },
+    "code": {
+      "id": "GW0601_tinca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.1",
+      "lon": "-15.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_touba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Touba",
+      "en": "Touba",
+      "slug": "touba"
+    },
+    "code": {
+      "id": "GW0601_touba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_ualia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ualia",
+      "en": "Ualia",
+      "slug": "ualia"
+    },
+    "code": {
+      "id": "GW0601_ualia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.283",
+      "lon": "-15.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_uapte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uapte",
+      "en": "Uapte",
+      "slug": "uapte"
+    },
+    "code": {
+      "id": "GW0601_uapte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_uaqueri",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uaqueri",
+      "en": "Uaqueri",
+      "slug": "uaqueri"
+    },
+    "code": {
+      "id": "GW0601_uaqueri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.267",
+      "lon": "-15.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_uatine",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uatine",
+      "en": "Uatine",
+      "slug": "uatine"
+    },
+    "code": {
+      "id": "GW0601_uatine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.206",
+      "lon": "-15.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_uenquem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uenquem",
+      "en": "Uenquem",
+      "slug": "uenquem"
+    },
+    "code": {
+      "id": "GW0601_uenquem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.133",
+      "lon": "-15.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_umtchupute-ufele",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Umtchupute Ufele",
+      "en": "Umtchupute Ufele",
+      "slug": "umtchupute-ufele"
+    },
+    "code": {
+      "id": "GW0601_umtchupute-ufele",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_uncha-nafetche",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Uncha Nafetche",
+      "en": "Uncha Nafetche",
+      "slug": "uncha-nafetche"
+    },
+    "code": {
+      "id": "GW0601_uncha-nafetche",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_unfar---i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Unfar - I",
+      "en": "Unfar - I",
+      "slug": "unfar---i"
+    },
+    "code": {
+      "id": "GW0601_unfar---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_unfar---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Unfar - II",
+      "en": "Unfar - II",
+      "slug": "unfar---ii"
+    },
+    "code": {
+      "id": "GW0601_unfar---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_ungro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ungro",
+      "en": "Ungro",
+      "slug": "ungro"
+    },
+    "code": {
+      "id": "GW0601_ungro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.041",
+      "lon": "-15.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_untche-besna",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Untche Besna",
+      "en": "Untche Besna",
+      "slug": "untche-besna"
+    },
+    "code": {
+      "id": "GW0601_untche-besna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_untche-incote",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Untche Incote",
+      "en": "Untche Incote",
+      "slug": "untche-incote"
+    },
+    "code": {
+      "id": "GW0601_untche-incote",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0601_untche-samba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Untche Samba",
+      "en": "Untche Samba",
+      "slug": "untche-samba"
+    },
+    "code": {
+      "id": "GW0601_untche-samba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0601",
+      "level": 2,
+      "name": {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      },
+      {
+        "id": "GW0601",
+        "level": 2,
+        "name": {
+          "local": "Bissora",
+          "en": "Bissora",
+          "slug": "bissora-gw0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

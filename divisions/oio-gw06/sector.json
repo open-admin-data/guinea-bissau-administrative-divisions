@@ -1,0 +1,237 @@
+[
+  {
+    "id": "GW0601",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Bissora",
+      "en": "Bissora",
+      "slug": "bissora-gw0601"
+    },
+    "code": {
+      "id": "GW0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW06",
+      "level": 1,
+      "name": {
+        "local": "Oio",
+        "en": "Oio",
+        "slug": "oio-gw06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 182
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0602",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Farim",
+      "en": "Farim",
+      "slug": "farim-gw0602"
+    },
+    "code": {
+      "id": "GW0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW06",
+      "level": 1,
+      "name": {
+        "local": "Oio",
+        "en": "Oio",
+        "slug": "oio-gw06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 263
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.526",
+      "lon": "-15.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0603",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mansaba",
+      "en": "Mansaba",
+      "slug": "mansaba-gw0603"
+    },
+    "code": {
+      "id": "GW0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW06",
+      "level": 1,
+      "name": {
+        "local": "Oio",
+        "en": "Oio",
+        "slug": "oio-gw06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 145
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.328",
+      "lon": "-15.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0604",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Mansoa",
+      "en": "Mansoa",
+      "slug": "mansoa-gw0604"
+    },
+    "code": {
+      "id": "GW0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW06",
+      "level": 1,
+      "name": {
+        "local": "Oio",
+        "en": "Oio",
+        "slug": "oio-gw06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 165
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-15.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0605",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Nhacra",
+      "en": "Nhacra",
+      "slug": "nhacra-gw0605"
+    },
+    "code": {
+      "id": "GW0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW06",
+      "level": 1,
+      "name": {
+        "local": "Oio",
+        "en": "Oio",
+        "slug": "oio-gw06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW06",
+        "level": 1,
+        "name": {
+          "local": "Oio",
+          "en": "Oio",
+          "slug": "oio-gw06"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 67
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.972",
+      "lon": "-15.509"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

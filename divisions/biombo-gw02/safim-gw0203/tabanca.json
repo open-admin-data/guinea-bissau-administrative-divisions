@@ -1,0 +1,2324 @@
+[
+  {
+    "id": "GW0203_bidjilim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bidjilim",
+      "en": "Bidjilim",
+      "slug": "bidjilim"
+    },
+    "code": {
+      "id": "GW0203_bidjilim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_bija-quidele",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bija (Quidele)",
+      "en": "Bija (Quidele)",
+      "slug": "bija-quidele"
+    },
+    "code": {
+      "id": "GW0203_bija-quidele",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_bilma",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bilma",
+      "en": "Bilma",
+      "slug": "bilma"
+    },
+    "code": {
+      "id": "GW0203_bilma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "-15.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_bissaguel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissaguel",
+      "en": "Bissaguel",
+      "slug": "bissaguel"
+    },
+    "code": {
+      "id": "GW0203_bissaguel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_bissalanca",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bissalanca",
+      "en": "Bissalanca",
+      "slug": "bissalanca"
+    },
+    "code": {
+      "id": "GW0203_bissalanca",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.883",
+      "lon": "-15.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_bitora",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Bitora",
+      "en": "Bitora",
+      "slug": "bitora"
+    },
+    "code": {
+      "id": "GW0203_bitora",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_blom",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Blom",
+      "en": "Blom",
+      "slug": "blom"
+    },
+    "code": {
+      "id": "GW0203_blom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.783",
+      "lon": "-15.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_brene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Brene",
+      "en": "Brene",
+      "slug": "brene"
+    },
+    "code": {
+      "id": "GW0203_brene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.883",
+      "lon": "-15.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_brene-a",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Brene (A)",
+      "en": "Brene (A)",
+      "slug": "brene-a"
+    },
+    "code": {
+      "id": "GW0203_brene-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_can-nampar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Can-Nampar",
+      "en": "Can-Nampar",
+      "slug": "can-nampar"
+    },
+    "code": {
+      "id": "GW0203_can-nampar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_centro-de-pepel",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Centro de Pepel",
+      "en": "Centro de Pepel",
+      "slug": "centro-de-pepel"
+    },
+    "code": {
+      "id": "GW0203_centro-de-pepel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_cidade-de-safim-bairro-centro-de-cidade-quinhaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Safim Bairro Centro de Cidade (Quinhaque)",
+      "en": "Cidade de Safim Bairro Centro de Cidade (Quinhaque)",
+      "slug": "cidade-de-safim-bairro-centro-de-cidade-quinhaque"
+    },
+    "code": {
+      "id": "GW0203_cidade-de-safim-bairro-centro-de-cidade-quinhaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_cidade-de-safim-bairro-quinhaque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Safim Bairro Quinhaque",
+      "en": "Cidade de Safim Bairro Quinhaque",
+      "slug": "cidade-de-safim-bairro-quinhaque"
+    },
+    "code": {
+      "id": "GW0203_cidade-de-safim-bairro-quinhaque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_cidade-de-safim-bairro-reino-de-safim",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cidade de Safim Bairro Reino de Safim",
+      "en": "Cidade de Safim Bairro Reino de Safim",
+      "slug": "cidade-de-safim-bairro-reino-de-safim"
+    },
+    "code": {
+      "id": "GW0203_cidade-de-safim-bairro-reino-de-safim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_condinga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Condinga",
+      "en": "Condinga",
+      "slug": "condinga"
+    },
+    "code": {
+      "id": "GW0203_condinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_controle",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Controle",
+      "en": "Controle",
+      "slug": "controle"
+    },
+    "code": {
+      "id": "GW0203_controle",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_cumano",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Cumano",
+      "en": "Cumano",
+      "slug": "cumano"
+    },
+    "code": {
+      "id": "GW0203_cumano",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.003",
+      "lon": "-15.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_fatima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Fatima",
+      "en": "Fatima",
+      "slug": "fatima"
+    },
+    "code": {
+      "id": "GW0203_fatima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.4",
+      "lon": "-15.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_imbassina",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Imbassina",
+      "en": "Imbassina",
+      "slug": "imbassina"
+    },
+    "code": {
+      "id": "GW0203_imbassina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-15.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_impele",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Impele",
+      "en": "Impele",
+      "slug": "impele"
+    },
+    "code": {
+      "id": "GW0203_impele",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.983",
+      "lon": "-15.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_incaite",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Incaite",
+      "en": "Incaite",
+      "slug": "incaite"
+    },
+    "code": {
+      "id": "GW0203_incaite",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_insalma",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Insalma",
+      "en": "Insalma",
+      "slug": "insalma"
+    },
+    "code": {
+      "id": "GW0203_insalma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_inticlem",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Inticlem",
+      "en": "Inticlem",
+      "slug": "inticlem"
+    },
+    "code": {
+      "id": "GW0203_inticlem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_intussa-ntus",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Intussa (Ntus)",
+      "en": "Intussa (Ntus)",
+      "slug": "intussa-ntus"
+    },
+    "code": {
+      "id": "GW0203_intussa-ntus",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_itozinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Itozinho",
+      "en": "Itozinho",
+      "slug": "itozinho"
+    },
+    "code": {
+      "id": "GW0203_itozinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_monte-cristo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Monte Cristo",
+      "en": "Monte Cristo",
+      "slug": "monte-cristo"
+    },
+    "code": {
+      "id": "GW0203_monte-cristo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.95",
+      "lon": "-15.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_nbue-ponta-rapaz",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nbue (Ponta Rapaz)",
+      "en": "Nbue (Ponta Rapaz)",
+      "slug": "nbue-ponta-rapaz"
+    },
+    "code": {
+      "id": "GW0203_nbue-ponta-rapaz",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_nghanighani",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Nghanighani",
+      "en": "Nghanighani",
+      "slug": "nghanighani"
+    },
+    "code": {
+      "id": "GW0203_nghanighani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_ponta-adolfo-ramos",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Adolfo Ramos",
+      "en": "Ponta Adolfo Ramos",
+      "slug": "ponta-adolfo-ramos"
+    },
+    "code": {
+      "id": "GW0203_ponta-adolfo-ramos",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.983",
+      "lon": "-15.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_ponta-andre",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Andre",
+      "en": "Ponta Andre",
+      "slug": "ponta-andre"
+    },
+    "code": {
+      "id": "GW0203_ponta-andre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_ponta-baaba-brene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Baaba Brene",
+      "en": "Ponta Baaba Brene",
+      "slug": "ponta-baaba-brene"
+    },
+    "code": {
+      "id": "GW0203_ponta-baaba-brene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_ponta-bernardo-soares",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Bernardo Soares",
+      "en": "Ponta Bernardo Soares",
+      "slug": "ponta-bernardo-soares"
+    },
+    "code": {
+      "id": "GW0203_ponta-bernardo-soares",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.917",
+      "lon": "-15.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_ponta-gato",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Gato",
+      "en": "Ponta Gato",
+      "slug": "ponta-gato"
+    },
+    "code": {
+      "id": "GW0203_ponta-gato",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_ponta-nduta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Nduta",
+      "en": "Ponta Nduta",
+      "slug": "ponta-nduta"
+    },
+    "code": {
+      "id": "GW0203_ponta-nduta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_ponta-nova",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Nova",
+      "en": "Ponta Nova",
+      "slug": "ponta-nova"
+    },
+    "code": {
+      "id": "GW0203_ponta-nova",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.517",
+      "lon": "-15.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_ponta-papai-dias",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Papai Dias",
+      "en": "Ponta Papai Dias",
+      "slug": "ponta-papai-dias"
+    },
+    "code": {
+      "id": "GW0203_ponta-papai-dias",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_ponta-piniz",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Piniz",
+      "en": "Ponta Piniz",
+      "slug": "ponta-piniz"
+    },
+    "code": {
+      "id": "GW0203_ponta-piniz",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.917",
+      "lon": "-15.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_ponta-rocha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Rocha",
+      "en": "Ponta Rocha",
+      "slug": "ponta-rocha"
+    },
+    "code": {
+      "id": "GW0203_ponta-rocha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-15.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_ponta-vicente-da-mata",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ponta Vicente da Mata",
+      "en": "Ponta Vicente da Mata",
+      "slug": "ponta-vicente-da-mata"
+    },
+    "code": {
+      "id": "GW0203_ponta-vicente-da-mata",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_reino-de-djal",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Reino de Djal",
+      "en": "Reino de Djal",
+      "slug": "reino-de-djal"
+    },
+    "code": {
+      "id": "GW0203_reino-de-djal",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_sintcha-ussumane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Sintcha Ussumane",
+      "en": "Sintcha Ussumane",
+      "slug": "sintcha-ussumane"
+    },
+    "code": {
+      "id": "GW0203_sintcha-ussumane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_tira-meia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Tira Meia",
+      "en": "Tira Meia",
+      "slug": "tira-meia"
+    },
+    "code": {
+      "id": "GW0203_tira-meia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0203_ze-da-silva",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ze da Silva",
+      "en": "Ze da Silva",
+      "slug": "ze-da-silva"
+    },
+    "code": {
+      "id": "GW0203_ze-da-silva",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0203",
+      "level": 2,
+      "name": {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW02",
+        "level": 1,
+        "name": {
+          "local": "Biombo",
+          "en": "Biombo",
+          "slug": "biombo-gw02"
+        }
+      },
+      {
+        "id": "GW0203",
+        "level": 2,
+        "name": {
+          "local": "Safim",
+          "en": "Safim",
+          "slug": "safim-gw0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.941",
+      "lon": "-15.674"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "GW06",
+  "level": 1,
+  "level_name": {
+    "local": "Região",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Oio",
+    "en": "Oio",
+    "slug": "oio-gw06"
+  },
+  "code": {
+    "id": "GW06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sector": 5,
+    "tabanca": 822
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.287",
+    "lon": "-15.341"
+  },
+  "metadata": {},
+  "source": {}
+}

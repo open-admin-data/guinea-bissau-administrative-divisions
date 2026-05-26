@@ -1,0 +1,190 @@
+[
+  {
+    "id": "GW0701",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Buba",
+      "en": "Buba",
+      "slug": "buba-gw0701"
+    },
+    "code": {
+      "id": "GW0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW07",
+      "level": 1,
+      "name": {
+        "local": "Quinara",
+        "en": "Quinara",
+        "slug": "quinara-gw07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.622",
+      "lon": "-14.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0702",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Empada",
+      "en": "Empada",
+      "slug": "empada-gw0702"
+    },
+    "code": {
+      "id": "GW0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW07",
+      "level": 1,
+      "name": {
+        "local": "Quinara",
+        "en": "Quinara",
+        "slug": "quinara-gw07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 87
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "-15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0703",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Fulacunda",
+      "en": "Fulacunda",
+      "slug": "fulacunda-gw0703"
+    },
+    "code": {
+      "id": "GW0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW07",
+      "level": 1,
+      "name": {
+        "local": "Quinara",
+        "en": "Quinara",
+        "slug": "quinara-gw07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 71
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "-15.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0704",
+    "level": 2,
+    "level_name": {
+      "local": "Sector",
+      "en": "Sector"
+    },
+    "name": {
+      "local": "Tite",
+      "en": "Tite",
+      "slug": "tite-gw0704"
+    },
+    "code": {
+      "id": "GW0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW07",
+      "level": 1,
+      "name": {
+        "local": "Quinara",
+        "en": "Quinara",
+        "slug": "quinara-gw07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW07",
+        "level": 1,
+        "name": {
+          "local": "Quinara",
+          "en": "Quinara",
+          "slug": "quinara-gw07"
+        }
+      }
+    ],
+    "children_count": {
+      "tabanca": 62
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "-15.403"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

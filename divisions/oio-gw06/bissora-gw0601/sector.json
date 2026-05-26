@@ -1,0 +1,47 @@
+{
+  "id": "GW0601",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Bissora",
+    "en": "Bissora",
+    "slug": "bissora-gw0601"
+  },
+  "code": {
+    "id": "GW0601",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW06",
+    "level": 1,
+    "name": {
+      "local": "Oio",
+      "en": "Oio",
+      "slug": "oio-gw06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW06",
+      "level": 1,
+      "name": {
+        "local": "Oio",
+        "en": "Oio",
+        "slug": "oio-gw06"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 182
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.198",
+    "lon": "-15.503"
+  },
+  "metadata": {},
+  "source": {}
+}

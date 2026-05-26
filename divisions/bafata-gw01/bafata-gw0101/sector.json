@@ -1,0 +1,47 @@
+{
+  "id": "GW0101",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Bafata",
+    "en": "Bafata",
+    "slug": "bafata-gw0101"
+  },
+  "code": {
+    "id": "GW0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW01",
+    "level": 1,
+    "name": {
+      "local": "Bafata",
+      "en": "Bafata",
+      "slug": "bafata-gw01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW01",
+      "level": 1,
+      "name": {
+        "local": "Bafata",
+        "en": "Bafata",
+        "slug": "bafata-gw01"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 200
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.188",
+    "lon": "-14.586"
+  },
+  "metadata": {},
+  "source": {}
+}

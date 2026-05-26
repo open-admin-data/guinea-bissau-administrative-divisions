@@ -1,0 +1,3243 @@
+# Bafata — Guinea-Bissau Administrative Divisions
+
+> 6 sectors, 801 tabancas
+> Code: GW01
+> Coordinates: 12.138, -14.755
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Sectors
+
+### Bafata
+
+Code: GW0101, Coordinates: 12.188, -14.586
+Tabancas: 200
+
+#### Afia
+
+Code: GW0101_afia, Coordinates: 12.083, -14.483
+
+#### Ananbe
+
+Code: GW0101_ananbe, Coordinates: 12.188, -14.586
+
+#### Balinjam
+
+Code: GW0101_balinjam, Coordinates: 12.188, -14.586
+
+#### Bambadinca
+
+Code: GW0101_bambadinca, Coordinates: 12.167, -14.483
+
+#### Bancher
+
+Code: GW0101_bancher, Coordinates: 12.188, -14.586
+
+#### Baria
+
+Code: GW0101_baria, Coordinates: 11.8, -15.25
+
+#### Bidjine
+
+Code: GW0101_bidjine, Coordinates: 12.1, -14.7
+
+#### Bissaque
+
+Code: GW0101_bissaque, Coordinates: 12.133, -14.817
+
+#### Bricama
+
+Code: GW0101_bricama, Coordinates: 11.45, -14.95
+
+#### Bricama - II
+
+Code: GW0101_bricama---ii, Coordinates: 12.188, -14.586
+
+#### Brincasse
+
+Code: GW0101_brincasse, Coordinates: 12.217, -14.55
+
+#### Bunancari
+
+Code: GW0101_bunancari, Coordinates: 12.188, -14.586
+
+#### Buntunsum
+
+Code: GW0101_buntunsum, Coordinates: 12.05, -14.65
+
+#### Cadjuto
+
+Code: GW0101_cadjuto, Coordinates: 12.188, -14.586
+
+#### Caliro Sane - I
+
+Code: GW0101_caliro-sane---i, Coordinates: 12.188, -14.586
+
+#### Cama Sabai
+
+Code: GW0101_cama-sabai, Coordinates: 12.188, -14.586
+
+#### Camancorro
+
+Code: GW0101_camancorro, Coordinates: 12.188, -14.586
+
+#### Camaracunda
+
+Code: GW0101_camaracunda, Coordinates: 12.233, -14.633
+
+#### Cambeidare
+
+Code: GW0101_cambeidare, Coordinates: 12.188, -14.586
+
+#### Campampe
+
+Code: GW0101_campampe, Coordinates: 12.233, -14.617
+
+#### Candeguel
+
+Code: GW0101_candeguel, Coordinates: 12.188, -14.586
+
+#### Candemba Uri - I
+
+Code: GW0101_candemba-uri---i, Coordinates: 12.188, -14.586
+
+#### Candemba Uri - II
+
+Code: GW0101_candemba-uri---ii, Coordinates: 12.188, -14.586
+
+#### Candemode
+
+Code: GW0101_candemode, Coordinates: 12.188, -14.586
+
+#### Candenbuia
+
+Code: GW0101_candenbuia, Coordinates: 12.188, -14.586
+
+#### Canfariman
+
+Code: GW0101_canfariman, Coordinates: 12.188, -14.586
+
+#### Canjara
+
+Code: GW0101_canjara, Coordinates: 12.133, -14.767
+
+#### Canquinte
+
+Code: GW0101_canquinte, Coordinates: 12.188, -14.586
+
+#### Cantauda
+
+Code: GW0101_cantauda, Coordinates: 12.183, -14.617
+
+#### Caribina
+
+Code: GW0101_caribina, Coordinates: 12.188, -14.586
+
+#### Carura Sintcha Mendes
+
+Code: GW0101_carura-sintcha-mendes, Coordinates: 12.188, -14.586
+
+#### Caur
+
+Code: GW0101_caur, Coordinates: 12.1, -14.733
+
+#### Cidade de Bafata Bairri 1 Rua Porto
+
+Code: GW0101_cidade-de-bafata-bairri-1-rua-porto, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro 2
+
+Code: GW0101_cidade-de-bafata-bairro-2, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro 3
+
+Code: GW0101_cidade-de-bafata-bairro-3, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro 4
+
+Code: GW0101_cidade-de-bafata-bairro-4, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro 5 (Caibara)
+
+Code: GW0101_cidade-de-bafata-bairro-5-caibara, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Amodora Iussi
+
+Code: GW0101_cidade-de-bafata-bairro-amodora-iussi, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Baixo de Rocha
+
+Code: GW0101_cidade-de-bafata-bairro-baixo-de-rocha, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Binalu
+
+Code: GW0101_cidade-de-bafata-bairro-binalu, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Cobornel
+
+Code: GW0101_cidade-de-bafata-bairro-cobornel, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Gundaga
+
+Code: GW0101_cidade-de-bafata-bairro-gundaga, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Iussi
+
+Code: GW0101_cidade-de-bafata-bairro-iussi, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Palhota
+
+Code: GW0101_cidade-de-bafata-bairro-palhota, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Pista
+
+Code: GW0101_cidade-de-bafata-bairro-pista, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Policia
+
+Code: GW0101_cidade-de-bafata-bairro-policia, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Ponta Nova
+
+Code: GW0101_cidade-de-bafata-bairro-ponta-nova, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Praca
+
+Code: GW0101_cidade-de-bafata-bairro-praca, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Rua Porto
+
+Code: GW0101_cidade-de-bafata-bairro-rua-porto, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Siberia
+
+Code: GW0101_cidade-de-bafata-bairro-siberia, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Sintcha Adulai
+
+Code: GW0101_cidade-de-bafata-bairro-sintcha-adulai, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Sintcha Bilali
+
+Code: GW0101_cidade-de-bafata-bairro-sintcha-bilali, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Tunturun
+
+Code: GW0101_cidade-de-bafata-bairro-tunturun, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Bairro Welingara
+
+Code: GW0101_cidade-de-bafata-bairro-welingara, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Barrio Nema
+
+Code: GW0101_cidade-de-bafata-barrio-nema, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Ponta Novo
+
+Code: GW0101_cidade-de-bafata-ponta-novo, Coordinates: 12.188, -14.586
+
+#### Cidade de Bafata Tunturum
+
+Code: GW0101_cidade-de-bafata-tunturum, Coordinates: 12.188, -14.586
+
+#### Coli Molo
+
+Code: GW0101_coli-molo, Coordinates: 12.188, -14.586
+
+#### Culufe
+
+Code: GW0101_culufe, Coordinates: 12.188, -14.586
+
+#### Cumuda
+
+Code: GW0101_cumuda, Coordinates: 12.188, -14.586
+
+#### Cuntchumpa
+
+Code: GW0101_cuntchumpa, Coordinates: 12.188, -14.586
+
+#### Curia Deocesana
+
+Code: GW0101_curia-deocesana, Coordinates: 12.188, -14.586
+
+#### Dando
+
+Code: GW0101_dando, Coordinates: 12.217, -14.583
+
+#### Demba Coli - II
+
+Code: GW0101_demba-coli---ii, Coordinates: 12.188, -14.586
+
+#### Demba Djumpore
+
+Code: GW0101_demba-djumpore, Coordinates: 12.188, -14.586
+
+#### Demba Tchajeu
+
+Code: GW0101_demba-tchajeu, Coordinates: 12.188, -14.586
+
+#### Djabicunda
+
+Code: GW0101_djabicunda, Coordinates: 12.188, -14.586
+
+#### Djada
+
+Code: GW0101_djada, Coordinates: 12.188, -14.586
+
+#### Djaube Maude
+
+Code: GW0101_djaube-maude, Coordinates: 12.188, -14.586
+
+#### Djiulem
+
+Code: GW0101_djiulem, Coordinates: 12.188, -14.586
+
+#### Duta Djara
+
+Code: GW0101_duta-djara, Coordinates: 12.188, -14.586
+
+#### Embalocunda
+
+Code: GW0101_embalocunda, Coordinates: 12.067, -14.617
+
+#### Entroncamento de Contuboel
+
+Code: GW0101_entroncamento-de-contuboel, Coordinates: 12.188, -14.586
+
+#### Fembem
+
+Code: GW0101_fembem, Coordinates: 12.188, -14.586
+
+#### Fulamansa
+
+Code: GW0101_fulamansa, Coordinates: 12.083, -14.65
+
+#### Ga-Fati
+
+Code: GW0101_ga-fati, Coordinates: 12.188, -14.586
+
+#### Ga-Gundo
+
+Code: GW0101_ga-gundo, Coordinates: 12.188, -14.586
+
+#### Ga-Mamadu
+
+Code: GW0101_ga-mamadu, Coordinates: 11.767, -15.25
+
+#### Golere
+
+Code: GW0101_golere, Coordinates: 12.617, -14.183
+
+#### Guda Djau
+
+Code: GW0101_guda-djau, Coordinates: 12.188, -14.586
+
+#### Iero Bano
+
+Code: GW0101_iero-bano, Coordinates: 12.188, -14.586
+
+#### Jana
+
+Code: GW0101_jana, Coordinates: 12.267, -14.183
+
+#### Jaubecuta
+
+Code: GW0101_jaubecuta, Coordinates: 12.033, -14.617
+
+#### Madina Bonco
+
+Code: GW0101_madina-bonco, Coordinates: 12.188, -14.586
+
+#### Madina Cuta
+
+Code: GW0101_madina-cuta, Coordinates: 12.188, -14.586
+
+#### Madina Demba
+
+Code: GW0101_madina-demba, Coordinates: 12.188, -14.586
+
+#### Madina Fode
+
+Code: GW0101_madina-fode, Coordinates: 12.467, -14.65
+
+#### Madina Quemade
+
+Code: GW0101_madina-quemade, Coordinates: 12.188, -14.586
+
+#### Madina Tcherno
+
+Code: GW0101_madina-tcherno, Coordinates: 12.188, -14.586
+
+#### Mamacono
+
+Code: GW0101_mamacono, Coordinates: 12.188, -14.586
+
+#### Maonga
+
+Code: GW0101_maonga, Coordinates: 12.25, -14.533
+
+#### Maraquissa
+
+Code: GW0101_maraquissa, Coordinates: 12.033, -14.567
+
+#### Massina
+
+Code: GW0101_massina, Coordinates: 12.188, -14.586
+
+#### Missao Catolica
+
+Code: GW0101_missao-catolica, Coordinates: 12.188, -14.586
+
+#### Missira Cuta
+
+Code: GW0101_missira-cuta, Coordinates: 12.188, -14.586
+
+#### Missisira Bucari (Lama Coli)
+
+Code: GW0101_missisira-bucari-lama-coli, Coordinates: 12.188, -14.586
+
+#### N Hambanhe
+
+Code: GW0101_n-hambanhe, Coordinates: 12.188, -14.586
+
+#### Nema - II
+
+Code: GW0101_nema---ii, Coordinates: 12.188, -14.586
+
+#### Nema Secçao 2
+
+Code: GW0101_nema-secao-2, Coordinates: 12.188, -14.586
+
+#### NHantana
+
+Code: GW0101_nhantana, Coordinates: 12.188, -14.586
+
+#### Padjanhe
+
+Code: GW0101_padjanhe, Coordinates: 12.188, -14.586
+
+#### Ponta Armando
+
+Code: GW0101_ponta-armando, Coordinates: 12.188, -14.586
+
+#### Ponta Guerra
+
+Code: GW0101_ponta-guerra, Coordinates: 12.133, -14.567
+
+#### Ponta Presente
+
+Code: GW0101_ponta-presente, Coordinates: 12.188, -14.586
+
+#### Ponta Rafael
+
+Code: GW0101_ponta-rafael, Coordinates: 12.188, -14.586
+
+#### Quenheto
+
+Code: GW0101_quenheto, Coordinates: 12.188, -14.586
+
+#### Queroane
+
+Code: GW0101_queroane, Coordinates: 12.167, -14.55
+
+#### Raba
+
+Code: GW0101_raba, Coordinates: 12.017, -14.6
+
+#### Sadjo Balere
+
+Code: GW0101_sadjo-balere, Coordinates: 12.188, -14.586
+
+#### Saghale
+
+Code: GW0101_saghale, Coordinates: 12.188, -14.586
+
+#### Samba Daba
+
+Code: GW0101_samba-daba, Coordinates: 12.1, -14.767
+
+#### Samba Sadjo
+
+Code: GW0101_samba-sadjo, Coordinates: 12.188, -14.586
+
+#### Samba Sale
+
+Code: GW0101_samba-sale, Coordinates: 12.188, -14.586
+
+#### Sambel Embalo
+
+Code: GW0101_sambel-embalo, Coordinates: 12.188, -14.586
+
+#### Same Cuia
+
+Code: GW0101_same-cuia, Coordinates: 12.188, -14.586
+
+#### Same Maude
+
+Code: GW0101_same-maude, Coordinates: 12.188, -14.586
+
+#### Santandjam
+
+Code: GW0101_santandjam, Coordinates: 12.188, -14.586
+
+#### Santanto
+
+Code: GW0101_santanto, Coordinates: 12.317, -15.269
+
+#### Sanuma
+
+Code: GW0101_sanuma, Coordinates: 12.133, -14.533
+
+#### Sao Domingos
+
+Code: GW0101_sao-domingos, Coordinates: 12.25, -14.65
+
+#### Sare Baube
+
+Code: GW0101_sare-baube, Coordinates: 12.188, -14.586
+
+#### Sare Buba
+
+Code: GW0101_sare-buba, Coordinates: 12.217, -14.5
+
+#### Sare Djaie
+
+Code: GW0101_sare-djaie, Coordinates: 12.188, -14.586
+
+#### Sare Iero
+
+Code: GW0101_sare-iero, Coordinates: 12.05, -14.683
+
+#### Sare Ieroba
+
+Code: GW0101_sare-ieroba, Coordinates: 12.283, -14.6
+
+#### Sare Meta - II
+
+Code: GW0101_sare-meta---ii, Coordinates: 12.188, -14.586
+
+#### Sare Saba
+
+Code: GW0101_sare-saba, Coordinates: 12.333, -14.517
+
+#### Simboaque
+
+Code: GW0101_simboaque, Coordinates: 12.188, -14.586
+
+#### Simntcha Garanju
+
+Code: GW0101_simntcha-garanju, Coordinates: 12.188, -14.586
+
+#### Sindjola
+
+Code: GW0101_sindjola, Coordinates: 12.188, -14.586
+
+#### Sinojai
+
+Code: GW0101_sinojai, Coordinates: 12.188, -14.586
+
+#### Sintcha Agostinho
+
+Code: GW0101_sintcha-agostinho, Coordinates: 12.188, -14.586
+
+#### Sintcha Aladje
+
+Code: GW0101_sintcha-aladje, Coordinates: 12.188, -14.586
+
+#### Sintcha Alanso
+
+Code: GW0101_sintcha-alanso, Coordinates: 12.188, -14.586
+
+#### Sintcha Aliu
+
+Code: GW0101_sintcha-aliu, Coordinates: 12.188, -14.586
+
+#### Sintcha Armando
+
+Code: GW0101_sintcha-armando, Coordinates: 12.188, -14.586
+
+#### Sintcha Bacar
+
+Code: GW0101_sintcha-bacar, Coordinates: 12.188, -14.586
+
+#### Sintcha Bacari ( Botche Naga )
+
+Code: GW0101_sintcha-bacari-botche-naga, Coordinates: 12.188, -14.586
+
+#### Sintcha Baila
+
+Code: GW0101_sintcha-baila, Coordinates: 12.188, -14.586
+
+#### Sintcha Bonco
+
+Code: GW0101_sintcha-bonco, Coordinates: 12.188, -14.586
+
+#### Sintcha Botche
+
+Code: GW0101_sintcha-botche, Coordinates: 12.188, -14.586
+
+#### Sintcha Camai
+
+Code: GW0101_sintcha-camai, Coordinates: 12.188, -14.586
+
+#### Sintcha Carimo
+
+Code: GW0101_sintcha-carimo, Coordinates: 12.188, -14.586
+
+#### Sintcha Danedju ( S Saido )
+
+Code: GW0101_sintcha-danedju-s-saido, Coordinates: 12.188, -14.586
+
+#### Sintcha Demba
+
+Code: GW0101_sintcha-demba, Coordinates: 12.188, -14.586
+
+#### Sintcha Demba Are
+
+Code: GW0101_sintcha-demba-are, Coordinates: 12.188, -14.586
+
+#### Sintcha Demba Djau
+
+Code: GW0101_sintcha-demba-djau, Coordinates: 12.188, -14.586
+
+#### Sintcha Demba Seide
+
+Code: GW0101_sintcha-demba-seide, Coordinates: 12.188, -14.586
+
+#### Sintcha Dembel
+
+Code: GW0101_sintcha-dembel, Coordinates: 12.188, -14.586
+
+#### Sintcha Djaie
+
+Code: GW0101_sintcha-djaie, Coordinates: 12.188, -14.586
+
+#### Sintcha Djane
+
+Code: GW0101_sintcha-djane, Coordinates: 12.188, -14.586
+
+#### Sintcha Dulo - II
+
+Code: GW0101_sintcha-dulo---ii, Coordinates: 12.188, -14.586
+
+#### Sintcha Faram
+
+Code: GW0101_sintcha-faram, Coordinates: 12.188, -14.586
+
+#### Sintcha Farba
+
+Code: GW0101_sintcha-farba, Coordinates: 12.188, -14.586
+
+#### Sintcha Fina
+
+Code: GW0101_sintcha-fina, Coordinates: 12.188, -14.586
+
+#### Sintcha Funtucu
+
+Code: GW0101_sintcha-funtucu, Coordinates: 12.188, -14.586
+
+#### Sintcha Iero Indi (Ierowindi)
+
+Code: GW0101_sintcha-iero-indi-ierowindi, Coordinates: 12.188, -14.586
+
+#### Sintcha Infali
+
+Code: GW0101_sintcha-infali, Coordinates: 12.188, -14.586
+
+#### Sintcha Issa
+
+Code: GW0101_sintcha-issa, Coordinates: 12.188, -14.586
+
+#### Sintcha Lamine
+
+Code: GW0101_sintcha-lamine, Coordinates: 12.188, -14.586
+
+#### Sintcha Madi
+
+Code: GW0101_sintcha-madi, Coordinates: 12.188, -14.586
+
+#### Sintcha Madina Turcara(Tuncara)
+
+Code: GW0101_sintcha-madina-turcaratuncara, Coordinates: 12.188, -14.586
+
+#### Sintcha Mala - II
+
+Code: GW0101_sintcha-mala---ii, Coordinates: 12.188, -14.586
+
+#### Sintcha Malam Baio
+
+Code: GW0101_sintcha-malam-baio, Coordinates: 12.188, -14.586
+
+#### Sintcha Mama Ioba
+
+Code: GW0101_sintcha-mama-ioba, Coordinates: 12.188, -14.586
+
+#### Sintcha Mamadu
+
+Code: GW0101_sintcha-mamadu, Coordinates: 12.188, -14.586
+
+#### Sintcha Mamadu (Banduma)
+
+Code: GW0101_sintcha-mamadu-banduma, Coordinates: 12.188, -14.586
+
+#### Sintcha Mamadu Calilo
+
+Code: GW0101_sintcha-mamadu-calilo, Coordinates: 12.188, -14.586
+
+#### Sintcha Mata Cande
+
+Code: GW0101_sintcha-mata-cande, Coordinates: 12.188, -14.586
+
+#### Sintcha Molo
+
+Code: GW0101_sintcha-molo, Coordinates: 12.188, -14.586
+
+#### Sintcha Mussa
+
+Code: GW0101_sintcha-mussa, Coordinates: 12.188, -14.586
+
+#### Sintcha N&#39; Harido
+
+Code: GW0101_sintcha-n-harido, Coordinates: 12.188, -14.586
+
+#### Sintcha Pate
+
+Code: GW0101_sintcha-pate, Coordinates: 12.188, -14.586
+
+#### Sintcha Salifo
+
+Code: GW0101_sintcha-salifo, Coordinates: 12.188, -14.586
+
+#### Sintcha Samba
+
+Code: GW0101_sintcha-samba, Coordinates: 12.188, -14.586
+
+#### Sintcha Sambel
+
+Code: GW0101_sintcha-sambel, Coordinates: 12.188, -14.586
+
+#### Sintcha Sane
+
+Code: GW0101_sintcha-sane, Coordinates: 12.188, -14.586
+
+#### Sintcha Sari
+
+Code: GW0101_sintcha-sari, Coordinates: 12.188, -14.586
+
+#### Sintcha Seco
+
+Code: GW0101_sintcha-seco, Coordinates: 12.188, -14.586
+
+#### Sintcha Sori - I
+
+Code: GW0101_sintcha-sori---i, Coordinates: 12.188, -14.586
+
+#### Sintcha Ssma Deia
+
+Code: GW0101_sintcha-ssma-deia, Coordinates: 12.188, -14.586
+
+#### Sintcha Suma ( Sori - II )
+
+Code: GW0101_sintcha-suma-sori---ii, Coordinates: 12.188, -14.586
+
+#### Sintcha Sumbum
+
+Code: GW0101_sintcha-sumbum, Coordinates: 12.188, -14.586
+
+#### Sintcha Tcherno
+
+Code: GW0101_sintcha-tcherno, Coordinates: 12.188, -14.586
+
+#### Sintcha Umaro
+
+Code: GW0101_sintcha-umaro, Coordinates: 12.188, -14.586
+
+#### Sintcha Ussumane
+
+Code: GW0101_sintcha-ussumane, Coordinates: 12.188, -14.586
+
+#### Sintcha Zacaria
+
+Code: GW0101_sintcha-zacaria, Coordinates: 12.188, -14.586
+
+#### Sintcham Tchioto
+
+Code: GW0101_sintcham-tchioto, Coordinates: 12.188, -14.586
+
+#### Sotocoi Sintcha Fode
+
+Code: GW0101_sotocoi-sintcha-fode, Coordinates: 12.188, -14.586
+
+#### Tabandinto
+
+Code: GW0101_tabandinto, Coordinates: 12.1, -14.6
+
+#### Tabato
+
+Code: GW0101_tabato, Coordinates: 11.583, -14.683
+
+#### Tabato (Sintcha Coli)
+
+Code: GW0101_tabato-sintcha-coli, Coordinates: 12.188, -14.586
+
+#### Tabauma
+
+Code: GW0101_tabauma, Coordinates: 12.183, -14.533
+
+#### Tam Tam Bacari
+
+Code: GW0101_tam-tam-bacari, Coordinates: 12.188, -14.586
+
+#### Tam Tam Cosse - II
+
+Code: GW0101_tam-tam-cosse---ii, Coordinates: 12.188, -14.586
+
+#### Tchaimam - II
+
+Code: GW0101_tchaimam---ii, Coordinates: 12.188, -14.586
+
+#### Tianecunda
+
+Code: GW0101_tianecunda, Coordinates: 12.188, -14.586
+
+#### Timbinto
+
+Code: GW0101_timbinto, Coordinates: 12.3, -14.533
+
+#### V Mandinga
+
+Code: GW0101_v-mandinga, Coordinates: 12.188, -14.586
+
+#### Vege Fula
+
+Code: GW0101_vege-fula, Coordinates: 12.188, -14.586
+
+### Bambadinca
+
+Code: GW0102, Coordinates: 12.019, -14.853
+Tabancas: 135
+
+#### Aladje Mane
+
+Code: GW0102_aladje-mane, Coordinates: 12.019, -14.853
+
+#### Aldeia de Cuon
+
+Code: GW0102_aldeia-de-cuon, Coordinates: 12.019, -14.853
+
+#### Aliu Jai
+
+Code: GW0102_aliu-jai, Coordinates: 12.019, -14.853
+
+#### Amedalai
+
+Code: GW0102_amedalai, Coordinates: 12.183, -14.667
+
+#### Anogna
+
+Code: GW0102_anogna, Coordinates: 12.019, -14.853
+
+#### Bagadadje
+
+Code: GW0102_bagadadje, Coordinates: 12.019, -14.853
+
+#### Banir (Tabanca Nova)
+
+Code: GW0102_banir-tabanca-nova, Coordinates: 12.019, -14.853
+
+#### Bantanjam Assa
+
+Code: GW0102_bantanjam-assa, Coordinates: 12.019, -14.853
+
+#### Bantanjam Cuta
+
+Code: GW0102_bantanjam-cuta, Coordinates: 12.019, -14.853
+
+#### Bantanjam Mandinga
+
+Code: GW0102_bantanjam-mandinga, Coordinates: 12.019, -14.853
+
+#### Barraca de Baio
+
+Code: GW0102_barraca-de-baio, Coordinates: 12.019, -14.853
+
+#### Barraca de Samba Djulde
+
+Code: GW0102_barraca-de-samba-djulde, Coordinates: 12.019, -14.853
+
+#### Bedama Porto
+
+Code: GW0102_bedama-porto, Coordinates: 12.019, -14.853
+
+#### Belel
+
+Code: GW0102_belel, Coordinates: 12.088, -15.011
+
+#### Biana
+
+Code: GW0102_biana, Coordinates: 12.1, -14.8
+
+#### Boa Esperança
+
+Code: GW0102_boa-esperana, Coordinates: 12.019, -14.853
+
+#### Bondjei
+
+Code: GW0102_bondjei, Coordinates: 12.019, -14.853
+
+#### Brontonhe
+
+Code: GW0102_brontonhe, Coordinates: 12.019, -14.853
+
+#### Campampe
+
+Code: GW0102_campampe, Coordinates: 12.233, -14.617
+
+#### Canhama ( Ponta Brandao )
+
+Code: GW0102_canhama-ponta-brandao, Coordinates: 12.019, -14.853
+
+#### Caranquecunda
+
+Code: GW0102_caranquecunda, Coordinates: 12.019, -14.853
+
+#### Chacali
+
+Code: GW0102_chacali, Coordinates: 12.019, -14.853
+
+#### Chalabo ( Sao Paulo )
+
+Code: GW0102_chalabo-sao-paulo, Coordinates: 12.019, -14.853
+
+#### Chicaniel
+
+Code: GW0102_chicaniel, Coordinates: 12.019, -14.853
+
+#### Cidade de Bambadinca Bairro 1
+
+Code: GW0102_cidade-de-bambadinca-bairro-1, Coordinates: 12.019, -14.853
+
+#### Cidade de Bambadinca Bairro 2
+
+Code: GW0102_cidade-de-bambadinca-bairro-2, Coordinates: 12.019, -14.853
+
+#### Cidade de Bambadinca Bairro 3
+
+Code: GW0102_cidade-de-bambadinca-bairro-3, Coordinates: 12.019, -14.853
+
+#### Cidade de Bambadinca Bairro Cupo
+
+Code: GW0102_cidade-de-bambadinca-bairro-cupo, Coordinates: 12.019, -14.853
+
+#### Cidade de Bambadinca Bairro Nema
+
+Code: GW0102_cidade-de-bambadinca-bairro-nema, Coordinates: 12.019, -14.853
+
+#### Cidade de Bambadinca Bairro Tenquina 2
+
+Code: GW0102_cidade-de-bambadinca-bairro-tenquina-2, Coordinates: 12.019, -14.853
+
+#### Colicumbel
+
+Code: GW0102_colicumbel, Coordinates: 12.019, -14.853
+
+#### Cooperativa 12 de Setembro
+
+Code: GW0102_cooperativa-12-de-setembro, Coordinates: 12.019, -14.853
+
+#### Cooperativa Militar
+
+Code: GW0102_cooperativa-militar, Coordinates: 12.019, -14.853
+
+#### Cooperativa Pancia
+
+Code: GW0102_cooperativa-pancia, Coordinates: 12.019, -14.853
+
+#### Cussarandim
+
+Code: GW0102_cussarandim, Coordinates: 12.019, -14.853
+
+#### Darsalame
+
+Code: GW0102_darsalame, Coordinates: 12.033, -14.533
+
+#### Darsalame Baio
+
+Code: GW0102_darsalame-baio, Coordinates: 12.019, -14.853
+
+#### Demba Taco
+
+Code: GW0102_demba-taco, Coordinates: 11.95, -14.85
+
+#### Demba Tacoba
+
+Code: GW0102_demba-tacoba, Coordinates: 12.019, -14.853
+
+#### Djarecunda
+
+Code: GW0102_djarecunda, Coordinates: 12.019, -14.853
+
+#### Fa - Balanta
+
+Code: GW0102_fa---balanta, Coordinates: 12.067, -14.85
+
+#### Fa - Embonga
+
+Code: GW0102_fa---embonga, Coordinates: 12.019, -14.853
+
+#### Fa-Mandinga
+
+Code: GW0102_fa-mandinga, Coordinates: 12.019, -14.853
+
+#### Ferbidig
+
+Code: GW0102_ferbidig, Coordinates: 12.019, -14.853
+
+#### Finete
+
+Code: GW0102_finete, Coordinates: 12.05, -14.883
+
+#### Ga - bana
+
+Code: GW0102_ga---bana, Coordinates: 12.019, -14.853
+
+#### Ga - Carnes
+
+Code: GW0102_ga---carnes, Coordinates: 12.019, -14.853
+
+#### Ga - Cumba
+
+Code: GW0102_ga---cumba, Coordinates: 12.019, -14.853
+
+#### Ga - Dias
+
+Code: GW0102_ga---dias, Coordinates: 12.019, -14.853
+
+#### Ga - Gemia
+
+Code: GW0102_ga---gemia, Coordinates: 12.019, -14.853
+
+#### Ga - Joaquim
+
+Code: GW0102_ga---joaquim, Coordinates: 12.019, -14.853
+
+#### Ga - Sambu
+
+Code: GW0102_ga---sambu, Coordinates: 12.019, -14.853
+
+#### Ga - Tamba
+
+Code: GW0102_ga---tamba, Coordinates: 12.019, -14.853
+
+#### Ga-nture
+
+Code: GW0102_ga-nture, Coordinates: 11.233, -14.867
+
+#### Ga-Tchebem
+
+Code: GW0102_ga-tchebem, Coordinates: 12.019, -14.853
+
+#### Gambiel
+
+Code: GW0102_gambiel, Coordinates: 12.019, -14.853
+
+#### Ganjalem
+
+Code: GW0102_ganjalem, Coordinates: 12.019, -14.853
+
+#### Gonhedji
+
+Code: GW0102_gonhedji, Coordinates: 12.019, -14.853
+
+#### Gulal
+
+Code: GW0102_gulal, Coordinates: 12.019, -14.853
+
+#### Gundague Beafada
+
+Code: GW0102_gundague-beafada, Coordinates: 12.019, -14.853
+
+#### Gussara
+
+Code: GW0102_gussara, Coordinates: 12.019, -14.853
+
+#### Iero Nhapa
+
+Code: GW0102_iero-nhapa, Coordinates: 12.019, -14.853
+
+#### Ierobula
+
+Code: GW0102_ierobula, Coordinates: 11.983, -14.717
+
+#### Lamar
+
+Code: GW0102_lamar, Coordinates: 12.019, -14.853
+
+#### Madina
+
+Code: GW0102_madina, Coordinates: 12.067, -14.717
+
+#### Malandim
+
+Code: GW0102_malandim, Coordinates: 12.05, -14.9
+
+#### Mampata
+
+Code: GW0102_mampata, Coordinates: 12.217, -14.75
+
+#### Mana
+
+Code: GW0102_mana, Coordinates: 12.083, -14.9
+
+#### Maricanhe
+
+Code: GW0102_maricanhe, Coordinates: 11.917, -14.833
+
+#### Mato de Cao
+
+Code: GW0102_mato-de-cao, Coordinates: 12.019, -14.853
+
+#### Mato de Madeira
+
+Code: GW0102_mato-de-madeira, Coordinates: 12.019, -14.853
+
+#### Mero
+
+Code: GW0102_mero, Coordinates: 12.067, -14.867
+
+#### Metanhaca
+
+Code: GW0102_metanhaca, Coordinates: 12.019, -14.853
+
+#### Missira
+
+Code: GW0102_missira, Coordinates: 12.017, -14.65
+
+#### N&#39;bule
+
+Code: GW0102_nbule, Coordinates: 12.019, -14.853
+
+#### Nhabidjom Blobate de Baixo
+
+Code: GW0102_nhabidjom-blobate-de-baixo, Coordinates: 12.019, -14.853
+
+#### Nhabidjom Blobate de Cima
+
+Code: GW0102_nhabidjom-blobate-de-cima, Coordinates: 12.019, -14.853
+
+#### Nhabidjom Nbum
+
+Code: GW0102_nhabidjom-nbum, Coordinates: 12.019, -14.853
+
+#### Nhabidjon Bedim de Baixo
+
+Code: GW0102_nhabidjon-bedim-de-baixo, Coordinates: 12.019, -14.853
+
+#### Nhabidjon Bedim de Cima
+
+Code: GW0102_nhabidjon-bedim-de-cima, Coordinates: 12.019, -14.853
+
+#### Nhabidjon Mandinga
+
+Code: GW0102_nhabidjon-mandinga, Coordinates: 12.019, -14.853
+
+#### Ntalai Bedana
+
+Code: GW0102_ntalai-bedana, Coordinates: 12.019, -14.853
+
+#### Paindom
+
+Code: GW0102_paindom, Coordinates: 12.019, -14.853
+
+#### Patche Iala
+
+Code: GW0102_patche-iala, Coordinates: 12.019, -14.853
+
+#### Ponta Emanuel
+
+Code: GW0102_ponta-emanuel, Coordinates: 12.019, -14.853
+
+#### Ponta Francisco Sifina
+
+Code: GW0102_ponta-francisco-sifina, Coordinates: 12.019, -14.853
+
+#### Ponta Iero Tumbum
+
+Code: GW0102_ponta-iero-tumbum, Coordinates: 12.019, -14.853
+
+#### Ponta Paulo Correia Atote
+
+Code: GW0102_ponta-paulo-correia-atote, Coordinates: 12.019, -14.853
+
+#### Ponta Varela ( Flacam )
+
+Code: GW0102_ponta-varela-flacam, Coordinates: 12.019, -14.853
+
+#### Prantiao
+
+Code: GW0102_prantiao, Coordinates: 12.019, -14.853
+
+#### Queca
+
+Code: GW0102_queca, Coordinates: 12.017, -14.733
+
+#### Quecuta
+
+Code: GW0102_quecuta, Coordinates: 12.019, -14.853
+
+#### Quenhequenhe ( Ponta de Areia )
+
+Code: GW0102_quenhequenhe-ponta-de-areia, Coordinates: 12.019, -14.853
+
+#### Queroane
+
+Code: GW0102_queroane, Coordinates: 12.167, -14.55
+
+#### Salato
+
+Code: GW0102_salato, Coordinates: 12.019, -14.853
+
+#### Salequenhe
+
+Code: GW0102_salequenhe, Coordinates: 12.019, -14.853
+
+#### Samba Djulde
+
+Code: GW0102_samba-djulde, Coordinates: 12.019, -14.853
+
+#### Samba Silate
+
+Code: GW0102_samba-silate, Coordinates: 12, -14.933
+
+#### Sambatchur
+
+Code: GW0102_sambatchur, Coordinates: 12.019, -14.853
+
+#### Samorla
+
+Code: GW0102_samorla, Coordinates: 12.019, -14.853
+
+#### Sansacuta
+
+Code: GW0102_sansacuta, Coordinates: 12.019, -14.853
+
+#### Sansam
+
+Code: GW0102_sansam, Coordinates: 12.019, -14.853
+
+#### Santa Helena
+
+Code: GW0102_santa-helena, Coordinates: 12.05, -14.867
+
+#### Sare Ade
+
+Code: GW0102_sare-ade, Coordinates: 11.983, -14.767
+
+#### Sare Nhado
+
+Code: GW0102_sare-nhado, Coordinates: 12.019, -14.853
+
+#### Sedjo
+
+Code: GW0102_sedjo, Coordinates: 12.019, -14.853
+
+#### Sintcha Assete
+
+Code: GW0102_sintcha-assete, Coordinates: 12.019, -14.853
+
+#### Sintcha Bai
+
+Code: GW0102_sintcha-bai, Coordinates: 12.019, -14.853
+
+#### Sintcha Bamba
+
+Code: GW0102_sintcha-bamba, Coordinates: 12.019, -14.853
+
+#### Sintcha Boe
+
+Code: GW0102_sintcha-boe, Coordinates: 12.019, -14.853
+
+#### Sintcha Cau
+
+Code: GW0102_sintcha-cau, Coordinates: 12.019, -14.853
+
+#### Sintcha Corobal
+
+Code: GW0102_sintcha-corobal, Coordinates: 12.019, -14.853
+
+#### Sintcha Cunti
+
+Code: GW0102_sintcha-cunti, Coordinates: 12.019, -14.853
+
+#### Sintcha Dembel
+
+Code: GW0102_sintcha-dembel, Coordinates: 12.019, -14.853
+
+#### Sintcha Faja Madina
+
+Code: GW0102_sintcha-faja-madina, Coordinates: 12.019, -14.853
+
+#### Sintcha H Madia
+
+Code: GW0102_sintcha-h-madia, Coordinates: 12.019, -14.853
+
+#### Sintcha Luis
+
+Code: GW0102_sintcha-luis, Coordinates: 12.019, -14.853
+
+#### Sintcha Mamaja
+
+Code: GW0102_sintcha-mamaja, Coordinates: 12.019, -14.853
+
+#### Sintcha Manodje
+
+Code: GW0102_sintcha-manodje, Coordinates: 12.019, -14.853
+
+#### Sintcha Soto
+
+Code: GW0102_sintcha-soto, Coordinates: 12.019, -14.853
+
+#### Sintcha Sulai
+
+Code: GW0102_sintcha-sulai, Coordinates: 12.019, -14.853
+
+#### Sintcha Tchonde
+
+Code: GW0102_sintcha-tchonde, Coordinates: 12.019, -14.853
+
+#### Sintcha Umaro
+
+Code: GW0102_sintcha-umaro, Coordinates: 12.019, -14.853
+
+#### Tabacuta
+
+Code: GW0102_tabacuta, Coordinates: 12.019, -14.853
+
+#### Tabual
+
+Code: GW0102_tabual, Coordinates: 12.019, -14.853
+
+#### Taibato
+
+Code: GW0102_taibato, Coordinates: 12.019, -14.853
+
+#### Talata
+
+Code: GW0102_talata, Coordinates: 12, -14.8
+
+#### Tchiquiri
+
+Code: GW0102_tchiquiri, Coordinates: 12.019, -14.853
+
+#### Tchoncalo
+
+Code: GW0102_tchoncalo, Coordinates: 12.019, -14.853
+
+#### Teneja Sabe
+
+Code: GW0102_teneja-sabe, Coordinates: 12.019, -14.853
+
+#### Tenendje
+
+Code: GW0102_tenendje, Coordinates: 12.019, -14.853
+
+#### Touba
+
+Code: GW0102_touba, Coordinates: 12.019, -14.853
+
+#### Trauala
+
+Code: GW0102_trauala, Coordinates: 12.019, -14.853
+
+#### Uedequeia
+
+Code: GW0102_uedequeia, Coordinates: 12.019, -14.853
+
+#### Xime
+
+Code: GW0102_xime, Coordinates: 12.019, -14.853
+
+### Contuboel
+
+Code: GW0103, Coordinates: 12.481, -14.693
+Tabancas: 256
+
+#### Bajinjara
+
+Code: GW0103_bajinjara, Coordinates: 12.481, -14.693
+
+#### Bambato
+
+Code: GW0103_bambato, Coordinates: 12.517, -14.583
+
+#### Bancolene
+
+Code: GW0103_bancolene, Coordinates: 12.327, -15.436
+
+#### Bantanhel
+
+Code: GW0103_bantanhel, Coordinates: 12.481, -14.693
+
+#### Baracolom
+
+Code: GW0103_baracolom, Coordinates: 12.481, -14.693
+
+#### Bissanque
+
+Code: GW0103_bissanque, Coordinates: 12.481, -14.693
+
+#### Bolinto
+
+Code: GW0103_bolinto, Coordinates: 12.481, -14.693
+
+#### Bonco
+
+Code: GW0103_bonco, Coordinates: 12.6, -14.733
+
+#### Bricama S Saido
+
+Code: GW0103_bricama-s-saido, Coordinates: 12.481, -14.693
+
+#### Bricama Sambel
+
+Code: GW0103_bricama-sambel, Coordinates: 12.481, -14.693
+
+#### Buntanjem
+
+Code: GW0103_buntanjem, Coordinates: 12.481, -14.693
+
+#### Cacha Fulbe
+
+Code: GW0103_cacha-fulbe, Coordinates: 12.417, -14.517
+
+#### Cahone
+
+Code: GW0103_cahone, Coordinates: 12.45, -14.517
+
+#### Calinto
+
+Code: GW0103_calinto, Coordinates: 12.481, -14.693
+
+#### Cambadju
+
+Code: GW0103_cambadju, Coordinates: 12.481, -14.693
+
+#### Cambaju
+
+Code: GW0103_cambaju, Coordinates: 12.417, -14.983
+
+#### Cambaju - II ( Sintcha Mbantcha)
+
+Code: GW0103_cambaju---ii-sintcha-mbantcha, Coordinates: 12.481, -14.693
+
+#### Campara Jaube
+
+Code: GW0103_campara-jaube, Coordinates: 12.481, -14.693
+
+#### Campara Nhago
+
+Code: GW0103_campara-nhago, Coordinates: 12.481, -14.693
+
+#### Cancubanje Maunde
+
+Code: GW0103_cancubanje-maunde, Coordinates: 12.481, -14.693
+
+#### Candombe Mane
+
+Code: GW0103_candombe-mane, Coordinates: 12.481, -14.693
+
+#### Candombe Sambaro
+
+Code: GW0103_candombe-sambaro, Coordinates: 12.481, -14.693
+
+#### Caneubanju Morcunda
+
+Code: GW0103_caneubanju-morcunda, Coordinates: 12.481, -14.693
+
+#### Canhamine
+
+Code: GW0103_canhamine, Coordinates: 12.481, -14.693
+
+#### Canjai Fula
+
+Code: GW0103_canjai-fula, Coordinates: 12.367, -14.65
+
+#### Canjai Mandinga
+
+Code: GW0103_canjai-mandinga, Coordinates: 12.367, -14.633
+
+#### Canquenhe
+
+Code: GW0103_canquenhe, Coordinates: 12.45, -14.533
+
+#### Cansanima
+
+Code: GW0103_cansanima, Coordinates: 12.481, -14.693
+
+#### Cansanti
+
+Code: GW0103_cansanti, Coordinates: 12.383, -14.617
+
+#### Cansonco
+
+Code: GW0103_cansonco, Coordinates: 11.717, -14.7
+
+#### Carantaba
+
+Code: GW0103_carantaba, Coordinates: 11.717, -15.233
+
+#### Cidade de Contuboel Bairro 2
+
+Code: GW0103_cidade-de-contuboel-bairro-2, Coordinates: 12.481, -14.693
+
+#### Cidade de Contuboel Bairro Bairro 1 (Sambalicunda)
+
+Code: GW0103_cidade-de-contuboel-bairro-bairro-1-sambalicunda, Coordinates: 12.481, -14.693
+
+#### Cidade de Contuboel Bairro Centro de Saude
+
+Code: GW0103_cidade-de-contuboel-bairro-centro-de-saude, Coordinates: 12.481, -14.693
+
+#### Cidade de Contuboel Bairro Ganfuta
+
+Code: GW0103_cidade-de-contuboel-bairro-ganfuta, Coordinates: 12.481, -14.693
+
+#### Cidade de Contuboel Bairro Morcunda
+
+Code: GW0103_cidade-de-contuboel-bairro-morcunda, Coordinates: 12.481, -14.693
+
+#### Cidade de Contuboel Bairro Queneba 3
+
+Code: GW0103_cidade-de-contuboel-bairro-queneba-3, Coordinates: 12.481, -14.693
+
+#### Cidade de Contuboel Bairro Queneba 4
+
+Code: GW0103_cidade-de-contuboel-bairro-queneba-4, Coordinates: 12.481, -14.693
+
+#### Cobeto
+
+Code: GW0103_cobeto, Coordinates: 12.481, -14.693
+
+#### Cubucunda
+
+Code: GW0103_cubucunda, Coordinates: 12.481, -14.693
+
+#### Cuncosita
+
+Code: GW0103_cuncosita, Coordinates: 12.5, -14.567
+
+#### Cunsama
+
+Code: GW0103_cunsama, Coordinates: 12.481, -14.693
+
+#### Cuta Penda
+
+Code: GW0103_cuta-penda, Coordinates: 12.481, -14.693
+
+#### Darsalame
+
+Code: GW0103_darsalame, Coordinates: 12.033, -14.533
+
+#### Darsalame ( Sintcha Marsali )
+
+Code: GW0103_darsalame-sintcha-marsali, Coordinates: 12.481, -14.693
+
+#### Darsalame N&#39;Godo
+
+Code: GW0103_darsalame-ngodo, Coordinates: 12.481, -14.693
+
+#### Dembo
+
+Code: GW0103_dembo, Coordinates: 12.481, -14.693
+
+#### Doru Samba Buaro
+
+Code: GW0103_doru-samba-buaro, Coordinates: 12.481, -14.693
+
+#### Duma
+
+Code: GW0103_duma, Coordinates: 12.633, -14.433
+
+#### Embalocunda
+
+Code: GW0103_embalocunda, Coordinates: 12.067, -14.617
+
+#### Esperança ( Sincha Ase )
+
+Code: GW0103_esperana-sincha-ase, Coordinates: 12.481, -14.693
+
+#### Fajonquito
+
+Code: GW0103_fajonquito, Coordinates: 12.289, -15.321
+
+#### Fanca
+
+Code: GW0103_fanca, Coordinates: 11.867, -14.517
+
+#### Farim Bali
+
+Code: GW0103_farim-bali, Coordinates: 12.567, -14.75
+
+#### Fataco Fula
+
+Code: GW0103_fataco-fula, Coordinates: 12.5, -14.583
+
+#### Fataco Mandinga
+
+Code: GW0103_fataco-mandinga, Coordinates: 12.5, -14.6
+
+#### Galugada Fula
+
+Code: GW0103_galugada-fula, Coordinates: 12.481, -14.693
+
+#### Galugada Mandinga
+
+Code: GW0103_galugada-mandinga, Coordinates: 12.481, -14.693
+
+#### Guicoi de Baixo
+
+Code: GW0103_guicoi-de-baixo, Coordinates: 12.481, -14.693
+
+#### Guicoi de Cima
+
+Code: GW0103_guicoi-de-cima, Coordinates: 12.481, -14.693
+
+#### Guinane
+
+Code: GW0103_guinane, Coordinates: 12.481, -14.693
+
+#### Jambur
+
+Code: GW0103_jambur, Coordinates: 12.481, -14.693
+
+#### Janto
+
+Code: GW0103_janto, Coordinates: 12.481, -14.693
+
+#### Lamoi
+
+Code: GW0103_lamoi, Coordinates: 12.383, -14.7
+
+#### Lemquebenbe
+
+Code: GW0103_lemquebenbe, Coordinates: 12.481, -14.693
+
+#### Lenquel Mansona
+
+Code: GW0103_lenquel-mansona, Coordinates: 12.481, -14.693
+
+#### Lenqueto
+
+Code: GW0103_lenqueto, Coordinates: 11.617, -14.717
+
+#### Madina Adul
+
+Code: GW0103_madina-adul, Coordinates: 12.481, -14.693
+
+#### Madina Aladje (Samba Cande)
+
+Code: GW0103_madina-aladje-samba-cande, Coordinates: 12.481, -14.693
+
+#### Madina Bantanhel
+
+Code: GW0103_madina-bantanhel, Coordinates: 12.481, -14.693
+
+#### Madina Bobo (Sare Cutael)
+
+Code: GW0103_madina-bobo-sare-cutael, Coordinates: 12.481, -14.693
+
+#### Madina Bodjo
+
+Code: GW0103_madina-bodjo, Coordinates: 12.481, -14.693
+
+#### Madina Boebe
+
+Code: GW0103_madina-boebe, Coordinates: 12.481, -14.693
+
+#### Madina Demba Seidi
+
+Code: GW0103_madina-demba-seidi, Coordinates: 12.667, -14.467
+
+#### Madina Djama
+
+Code: GW0103_madina-djama, Coordinates: 12.481, -14.693
+
+#### Madina Ioba
+
+Code: GW0103_madina-ioba, Coordinates: 12.35, -14.633
+
+#### Madina Mansona
+
+Code: GW0103_madina-mansona, Coordinates: 12.481, -14.693
+
+#### Madina Saido (Nhameangha )
+
+Code: GW0103_madina-saido-nhameangha, Coordinates: 12.481, -14.693
+
+#### Madina Samba Fatabe
+
+Code: GW0103_madina-samba-fatabe, Coordinates: 12.481, -14.693
+
+#### Madina Sara
+
+Code: GW0103_madina-sara, Coordinates: 12.481, -14.693
+
+#### Madina Tchonde
+
+Code: GW0103_madina-tchonde, Coordinates: 12.481, -14.693
+
+#### Mampata
+
+Code: GW0103_mampata, Coordinates: 12.217, -14.75
+
+#### Mampata Nova
+
+Code: GW0103_mampata-nova, Coordinates: 12.481, -14.693
+
+#### Manato Fula
+
+Code: GW0103_manato-fula, Coordinates: 12.481, -14.693
+
+#### Manato Manjaco
+
+Code: GW0103_manato-manjaco, Coordinates: 12.481, -14.693
+
+#### Manta Seidi
+
+Code: GW0103_manta-seidi, Coordinates: 12.481, -14.693
+
+#### Marewe
+
+Code: GW0103_marewe, Coordinates: 12.481, -14.693
+
+#### Missira
+
+Code: GW0103_missira, Coordinates: 12.017, -14.65
+
+#### Missira Demba Djau
+
+Code: GW0103_missira-demba-djau, Coordinates: 12.481, -14.693
+
+#### Nhacure
+
+Code: GW0103_nhacure, Coordinates: 12.481, -14.693
+
+#### Nhantadim
+
+Code: GW0103_nhantadim, Coordinates: 12.481, -14.693
+
+#### Nunente
+
+Code: GW0103_nunente, Coordinates: 12.481, -14.693
+
+#### Panalicha
+
+Code: GW0103_panalicha, Coordinates: 12.567, -14.467
+
+#### Quenheto
+
+Code: GW0103_quenheto, Coordinates: 12.481, -14.693
+
+#### Queroane
+
+Code: GW0103_queroane, Coordinates: 12.167, -14.55
+
+#### Raudata
+
+Code: GW0103_raudata, Coordinates: 12.481, -14.693
+
+#### Sabacunda
+
+Code: GW0103_sabacunda, Coordinates: 12.481, -14.693
+
+#### Sabigam Fula
+
+Code: GW0103_sabigam-fula, Coordinates: 12.481, -14.693
+
+#### Sabigam Mandinga
+
+Code: GW0103_sabigam-mandinga, Coordinates: 12.481, -14.693
+
+#### Sama Ruca
+
+Code: GW0103_sama-ruca, Coordinates: 12.481, -14.693
+
+#### Sambalicunda
+
+Code: GW0103_sambalicunda, Coordinates: 12.583, -14.55
+
+#### Sanecunda
+
+Code: GW0103_sanecunda, Coordinates: 12.567, -14.8
+
+#### Sangare
+
+Code: GW0103_sangare, Coordinates: 12.083, -14.617
+
+#### Sara Mamadu
+
+Code: GW0103_sara-mamadu, Coordinates: 12.481, -14.693
+
+#### Sare Aliel
+
+Code: GW0103_sare-aliel, Coordinates: 12.481, -14.693
+
+#### Sare Aliu Sane
+
+Code: GW0103_sare-aliu-sane, Coordinates: 12.481, -14.693
+
+#### Sare Amadi
+
+Code: GW0103_sare-amadi, Coordinates: 12.481, -14.693
+
+#### Sare Ardo
+
+Code: GW0103_sare-ardo, Coordinates: 12.383, -14.683
+
+#### Sare Bacar
+
+Code: GW0103_sare-bacar, Coordinates: 12.667, -14.433
+
+#### Sare Bailo
+
+Code: GW0103_sare-bailo, Coordinates: 12.481, -14.693
+
+#### Sare Besse
+
+Code: GW0103_sare-besse, Coordinates: 12.4, -14.583
+
+#### Sare Birai
+
+Code: GW0103_sare-birai, Coordinates: 12.517, -14.833
+
+#### Sare Birro
+
+Code: GW0103_sare-birro, Coordinates: 12.481, -14.693
+
+#### Sare Builo
+
+Code: GW0103_sare-builo, Coordinates: 12.481, -14.693
+
+#### Sare Caba Baro
+
+Code: GW0103_sare-caba-baro, Coordinates: 12.481, -14.693
+
+#### Sare Canta
+
+Code: GW0103_sare-canta, Coordinates: 12.45, -14.55
+
+#### Sare Cante
+
+Code: GW0103_sare-cante, Coordinates: 12.481, -14.693
+
+#### Sare Coli Embalo
+
+Code: GW0103_sare-coli-embalo, Coordinates: 12.481, -14.693
+
+#### Sare Debel
+
+Code: GW0103_sare-debel, Coordinates: 12.481, -14.693
+
+#### Sare Dembel
+
+Code: GW0103_sare-dembel, Coordinates: 12.667, -14.85
+
+#### Sare Demenda
+
+Code: GW0103_sare-demenda, Coordinates: 12.481, -14.693
+
+#### Sare Djaiba
+
+Code: GW0103_sare-djaiba, Coordinates: 12.481, -14.693
+
+#### Sare Djata
+
+Code: GW0103_sare-djata, Coordinates: 12.481, -14.693
+
+#### Sare Djeno
+
+Code: GW0103_sare-djeno, Coordinates: 12.481, -14.693
+
+#### Sare Djeta
+
+Code: GW0103_sare-djeta, Coordinates: 12.481, -14.693
+
+#### Sare Fula
+
+Code: GW0103_sare-fula, Coordinates: 12.481, -14.693
+
+#### Sare Iero
+
+Code: GW0103_sare-iero, Coordinates: 12.05, -14.683
+
+#### Sare Iero Nai
+
+Code: GW0103_sare-iero-nai, Coordinates: 12.481, -14.693
+
+#### Sare Jambara
+
+Code: GW0103_sare-jambara, Coordinates: 12.517, -14.817
+
+#### Sare Mali
+
+Code: GW0103_sare-mali, Coordinates: 12.667, -14.7
+
+#### Sare Mamadi
+
+Code: GW0103_sare-mamadi, Coordinates: 12.633, -14.983
+
+#### Sare Meta Baido
+
+Code: GW0103_sare-meta-baido, Coordinates: 12.481, -14.693
+
+#### Sare Minine
+
+Code: GW0103_sare-minine, Coordinates: 12.481, -14.693
+
+#### Sare Minjaco
+
+Code: GW0103_sare-minjaco, Coordinates: 12.481, -14.693
+
+#### Sare Nhanhala
+
+Code: GW0103_sare-nhanhala, Coordinates: 12.45, -14.667
+
+#### Sare Pate
+
+Code: GW0103_sare-pate, Coordinates: 12.266, -15.14
+
+#### Sare Quejam
+
+Code: GW0103_sare-quejam, Coordinates: 12.481, -14.693
+
+#### Sare Solum Tumane - II
+
+Code: GW0103_sare-solum-tumane---ii, Coordinates: 12.481, -14.693
+
+#### Sare Sulem - I
+
+Code: GW0103_sare-sulem---i, Coordinates: 12.481, -14.693
+
+#### Sare Sulem - III
+
+Code: GW0103_sare-sulem---iii, Coordinates: 12.481, -14.693
+
+#### Sare Tcherno
+
+Code: GW0103_sare-tcherno, Coordinates: 12.481, -14.693
+
+#### Sare Tchicamo
+
+Code: GW0103_sare-tchicamo, Coordinates: 12.481, -14.693
+
+#### Sare Tchumo
+
+Code: GW0103_sare-tchumo, Coordinates: 12.481, -14.693
+
+#### Sare Uale
+
+Code: GW0103_sare-uale, Coordinates: 12.65, -14.617
+
+#### Sauiane
+
+Code: GW0103_sauiane, Coordinates: 12.481, -14.693
+
+#### Sintcha Adulai
+
+Code: GW0103_sintcha-adulai, Coordinates: 12.481, -14.693
+
+#### Sintcha Ajanco
+
+Code: GW0103_sintcha-ajanco, Coordinates: 12.481, -14.693
+
+#### Sintcha Aliu
+
+Code: GW0103_sintcha-aliu, Coordinates: 12.481, -14.693
+
+#### Sintcha Aliu Balde
+
+Code: GW0103_sintcha-aliu-balde, Coordinates: 12.481, -14.693
+
+#### Sintcha Aliu Djau
+
+Code: GW0103_sintcha-aliu-djau, Coordinates: 12.481, -14.693
+
+#### Sintcha Amedalai
+
+Code: GW0103_sintcha-amedalai, Coordinates: 12.481, -14.693
+
+#### Sintcha Baariel
+
+Code: GW0103_sintcha-baariel, Coordinates: 12.481, -14.693
+
+#### Sintcha Bacar
+
+Code: GW0103_sintcha-bacar, Coordinates: 12.481, -14.693
+
+#### Sintcha Bacari
+
+Code: GW0103_sintcha-bacari, Coordinates: 12.481, -14.693
+
+#### Sintcha Bala
+
+Code: GW0103_sintcha-bala, Coordinates: 12.481, -14.693
+
+#### Sintcha Bambe
+
+Code: GW0103_sintcha-bambe, Coordinates: 12.481, -14.693
+
+#### Sintcha Bare
+
+Code: GW0103_sintcha-bare, Coordinates: 12.481, -14.693
+
+#### Sintcha Boco
+
+Code: GW0103_sintcha-boco, Coordinates: 12.481, -14.693
+
+#### Sintcha Bonadjo
+
+Code: GW0103_sintcha-bonadjo, Coordinates: 12.481, -14.693
+
+#### Sintcha Buba
+
+Code: GW0103_sintcha-buba, Coordinates: 12.481, -14.693
+
+#### Sintcha Buco
+
+Code: GW0103_sintcha-buco, Coordinates: 12.481, -14.693
+
+#### Sintcha Cabiro
+
+Code: GW0103_sintcha-cabiro, Coordinates: 12.481, -14.693
+
+#### Sintcha Cadi
+
+Code: GW0103_sintcha-cadi, Coordinates: 12.481, -14.693
+
+#### Sintcha Cantaba
+
+Code: GW0103_sintcha-cantaba, Coordinates: 12.481, -14.693
+
+#### Sintcha Cobom
+
+Code: GW0103_sintcha-cobom, Coordinates: 12.481, -14.693
+
+#### Sintcha Coli
+
+Code: GW0103_sintcha-coli, Coordinates: 12.481, -14.693
+
+#### Sintcha Conco
+
+Code: GW0103_sintcha-conco, Coordinates: 12.481, -14.693
+
+#### Sintcha Curtiba
+
+Code: GW0103_sintcha-curtiba, Coordinates: 12.481, -14.693
+
+#### Sintcha Dado Cumba
+
+Code: GW0103_sintcha-dado-cumba, Coordinates: 12.481, -14.693
+
+#### Sintcha Demba
+
+Code: GW0103_sintcha-demba, Coordinates: 12.481, -14.693
+
+#### Sintcha Demba Seide ( Sanuma )
+
+Code: GW0103_sintcha-demba-seide-sanuma, Coordinates: 12.481, -14.693
+
+#### Sintcha Dicori
+
+Code: GW0103_sintcha-dicori, Coordinates: 12.481, -14.693
+
+#### Sintcha Djaie
+
+Code: GW0103_sintcha-djaie, Coordinates: 12.481, -14.693
+
+#### Sintcha Django
+
+Code: GW0103_sintcha-django, Coordinates: 12.481, -14.693
+
+#### Sintcha Djida
+
+Code: GW0103_sintcha-djida, Coordinates: 12.481, -14.693
+
+#### Sintcha Djoguel
+
+Code: GW0103_sintcha-djoguel, Coordinates: 12.481, -14.693
+
+#### Sintcha Dulo
+
+Code: GW0103_sintcha-dulo, Coordinates: 12.481, -14.693
+
+#### Sintcha ere
+
+Code: GW0103_sintcha-ere, Coordinates: 12.481, -14.693
+
+#### Sintcha Eri
+
+Code: GW0103_sintcha-eri, Coordinates: 12.481, -14.693
+
+#### Sintcha Fanca
+
+Code: GW0103_sintcha-fanca, Coordinates: 12.481, -14.693
+
+#### Sintcha Faramba
+
+Code: GW0103_sintcha-faramba, Coordinates: 12.481, -14.693
+
+#### Sintcha Furira (Belenha)
+
+Code: GW0103_sintcha-furira-belenha, Coordinates: 12.481, -14.693
+
+#### Sintcha Ganha
+
+Code: GW0103_sintcha-ganha, Coordinates: 12.481, -14.693
+
+#### Sintcha Governo
+
+Code: GW0103_sintcha-governo, Coordinates: 12.481, -14.693
+
+#### Sintcha Guedo
+
+Code: GW0103_sintcha-guedo, Coordinates: 12.481, -14.693
+
+#### Sintcha Hamado
+
+Code: GW0103_sintcha-hamado, Coordinates: 12.481, -14.693
+
+#### Sintcha Hamel
+
+Code: GW0103_sintcha-hamel, Coordinates: 12.481, -14.693
+
+#### Sintcha Ilo
+
+Code: GW0103_sintcha-ilo, Coordinates: 12.481, -14.693
+
+#### Sintcha Infali Seide
+
+Code: GW0103_sintcha-infali-seide, Coordinates: 12.481, -14.693
+
+#### Sintcha Kabi ( Ponta Soares Sambu )
+
+Code: GW0103_sintcha-kabi-ponta-soares-sambu, Coordinates: 12.481, -14.693
+
+#### Sintcha Longa
+
+Code: GW0103_sintcha-longa, Coordinates: 12.481, -14.693
+
+#### Sintcha Mabel
+
+Code: GW0103_sintcha-mabel, Coordinates: 12.481, -14.693
+
+#### Sintcha Malam
+
+Code: GW0103_sintcha-malam, Coordinates: 12.481, -14.693
+
+#### Sintcha Malam Vensa
+
+Code: GW0103_sintcha-malam-vensa, Coordinates: 12.481, -14.693
+
+#### Sintcha Mama Samba
+
+Code: GW0103_sintcha-mama-samba, Coordinates: 12.481, -14.693
+
+#### Sintcha Mamadu
+
+Code: GW0103_sintcha-mamadu, Coordinates: 12.481, -14.693
+
+#### Sintcha Mamadu Cumba
+
+Code: GW0103_sintcha-mamadu-cumba, Coordinates: 12.481, -14.693
+
+#### Sintcha Mamadu seide
+
+Code: GW0103_sintcha-mamadu-seide, Coordinates: 12.481, -14.693
+
+#### Sintcha Mamadu Tudjau
+
+Code: GW0103_sintcha-mamadu-tudjau, Coordinates: 12.481, -14.693
+
+#### Sintcha Mamahina
+
+Code: GW0103_sintcha-mamahina, Coordinates: 12.481, -14.693
+
+#### Sintcha Manga
+
+Code: GW0103_sintcha-manga, Coordinates: 12.481, -14.693
+
+#### Sintcha Mansata
+
+Code: GW0103_sintcha-mansata, Coordinates: 12.481, -14.693
+
+#### Sintcha Maunde Nhada
+
+Code: GW0103_sintcha-maunde-nhada, Coordinates: 12.481, -14.693
+
+#### Sintcha Meta
+
+Code: GW0103_sintcha-meta, Coordinates: 12.481, -14.693
+
+#### Sintcha Mondi Uri
+
+Code: GW0103_sintcha-mondi-uri, Coordinates: 12.481, -14.693
+
+#### Sintcha Mori
+
+Code: GW0103_sintcha-mori, Coordinates: 12.481, -14.693
+
+#### Sintcha Moro
+
+Code: GW0103_sintcha-moro, Coordinates: 12.481, -14.693
+
+#### Sintcha Mussa
+
+Code: GW0103_sintcha-mussa, Coordinates: 12.481, -14.693
+
+#### Sintcha N bambi
+
+Code: GW0103_sintcha-n-bambi, Coordinates: 12.481, -14.693
+
+#### Sintcha Otcha
+
+Code: GW0103_sintcha-otcha, Coordinates: 12.481, -14.693
+
+#### Sintcha Quedjau
+
+Code: GW0103_sintcha-quedjau, Coordinates: 12.481, -14.693
+
+#### Sintcha Queira
+
+Code: GW0103_sintcha-queira, Coordinates: 12.481, -14.693
+
+#### Sintcha Quemadi
+
+Code: GW0103_sintcha-quemadi, Coordinates: 12.481, -14.693
+
+#### Sintcha Quereel
+
+Code: GW0103_sintcha-quereel, Coordinates: 12.481, -14.693
+
+#### Sintcha Sadjo
+
+Code: GW0103_sintcha-sadjo, Coordinates: 12.481, -14.693
+
+#### Sintcha Saliu ( Debe)
+
+Code: GW0103_sintcha-saliu-debe, Coordinates: 12.481, -14.693
+
+#### Sintcha Samadu Bobo
+
+Code: GW0103_sintcha-samadu-bobo, Coordinates: 12.481, -14.693
+
+#### Sintcha Samba
+
+Code: GW0103_sintcha-samba, Coordinates: 12.481, -14.693
+
+#### Sintcha Samba Djiba
+
+Code: GW0103_sintcha-samba-djiba, Coordinates: 12.481, -14.693
+
+#### Sintcha Samba Tabel
+
+Code: GW0103_sintcha-samba-tabel, Coordinates: 12.481, -14.693
+
+#### Sintcha Samba Tedi
+
+Code: GW0103_sintcha-samba-tedi, Coordinates: 12.481, -14.693
+
+#### Sintcha Sambaro
+
+Code: GW0103_sintcha-sambaro, Coordinates: 12.481, -14.693
+
+#### Sintcha Sambel
+
+Code: GW0103_sintcha-sambel, Coordinates: 12.481, -14.693
+
+#### Sintcha Sambel Cande
+
+Code: GW0103_sintcha-sambel-cande, Coordinates: 12.481, -14.693
+
+#### Sintcha Sambu
+
+Code: GW0103_sintcha-sambu, Coordinates: 12.481, -14.693
+
+#### Sintcha Sane
+
+Code: GW0103_sintcha-sane, Coordinates: 12.481, -14.693
+
+#### Sintcha Sanede
+
+Code: GW0103_sintcha-sanede, Coordinates: 12.481, -14.693
+
+#### Sintcha Sarfo
+
+Code: GW0103_sintcha-sarfo, Coordinates: 12.481, -14.693
+
+#### Sintcha Seco
+
+Code: GW0103_sintcha-seco, Coordinates: 12.481, -14.693
+
+#### Sintcha Sori
+
+Code: GW0103_sintcha-sori, Coordinates: 12.481, -14.693
+
+#### Sintcha Sulai
+
+Code: GW0103_sintcha-sulai, Coordinates: 12.481, -14.693
+
+#### Sintcha Talto
+
+Code: GW0103_sintcha-talto, Coordinates: 12.481, -14.693
+
+#### Sintcha Tcherno
+
+Code: GW0103_sintcha-tcherno, Coordinates: 12.481, -14.693
+
+#### Sintcha Tcherno Djae
+
+Code: GW0103_sintcha-tcherno-djae, Coordinates: 12.481, -14.693
+
+#### Sintcha Tumane
+
+Code: GW0103_sintcha-tumane, Coordinates: 12.481, -14.693
+
+#### Sintcha Ture
+
+Code: GW0103_sintcha-ture, Coordinates: 12.481, -14.693
+
+#### Sintcha Umaro
+
+Code: GW0103_sintcha-umaro, Coordinates: 12.481, -14.693
+
+#### Sintcha Umaro Cande
+
+Code: GW0103_sintcha-umaro-cande, Coordinates: 12.481, -14.693
+
+#### Sintcha Usso
+
+Code: GW0103_sintcha-usso, Coordinates: 12.481, -14.693
+
+#### Sintcha Ussumane
+
+Code: GW0103_sintcha-ussumane, Coordinates: 12.481, -14.693
+
+#### Solucocum
+
+Code: GW0103_solucocum, Coordinates: 12.481, -14.693
+
+#### Sucalancunda
+
+Code: GW0103_sucalancunda, Coordinates: 12.481, -14.693
+
+#### Sucuto
+
+Code: GW0103_sucuto, Coordinates: 12.481, -14.693
+
+#### Sumbundo
+
+Code: GW0103_sumbundo, Coordinates: 12.633, -14.683
+
+#### Suna
+
+Code: GW0103_suna, Coordinates: 12.467, -14.783
+
+#### Tabanane
+
+Code: GW0103_tabanane, Coordinates: 12.567, -14.5
+
+#### Tabauma ( Sintcha Gobudu )
+
+Code: GW0103_tabauma-sintcha-gobudu, Coordinates: 12.481, -14.693
+
+#### Tabel
+
+Code: GW0103_tabel, Coordinates: 12.481, -14.693
+
+#### Talico
+
+Code: GW0103_talico, Coordinates: 12.211, -15.277
+
+#### Tchafena Samba
+
+Code: GW0103_tchafena-samba, Coordinates: 12.481, -14.693
+
+#### Tendinto
+
+Code: GW0103_tendinto, Coordinates: 11.667, -14.733
+
+#### Tobato
+
+Code: GW0103_tobato, Coordinates: 12.481, -14.693
+
+#### Ualicunda
+
+Code: GW0103_ualicunda, Coordinates: 12.65, -14.683
+
+#### Uaquelare
+
+Code: GW0103_uaquelare, Coordinates: 12.481, -14.693
+
+#### Uelingara ( Sintcha Djarga )
+
+Code: GW0103_uelingara-sintcha-djarga, Coordinates: 12.481, -14.693
+
+#### Umaro Baque
+
+Code: GW0103_umaro-baque, Coordinates: 12.481, -14.693
+
+### Galomaro/Cosse
+
+Code: GW0104, Coordinates: 11.967, -14.612
+Tabancas: 86
+
+#### Afia
+
+Code: GW0104_afia, Coordinates: 12.083, -14.483
+
+#### Alua Sintcha (Dembel)
+
+Code: GW0104_alua-sintcha-dembel, Coordinates: 11.967, -14.612
+
+#### Anambe
+
+Code: GW0104_anambe, Coordinates: 12.033, -14.633
+
+#### aSintcha Iero
+
+Code: GW0104_asintcha-iero, Coordinates: 11.967, -14.612
+
+#### Bajobo
+
+Code: GW0104_bajobo, Coordinates: 11.967, -14.612
+
+#### Banhama
+
+Code: GW0104_banhama, Coordinates: 11.967, -14.612
+
+#### Bojo Fulbe
+
+Code: GW0104_bojo-fulbe, Coordinates: 11.933, -14.6
+
+#### Bora de Baixo
+
+Code: GW0104_bora-de-baixo, Coordinates: 11.967, -14.612
+
+#### Bora de Cima
+
+Code: GW0104_bora-de-cima, Coordinates: 11.967, -14.612
+
+#### Cabambo
+
+Code: GW0104_cabambo, Coordinates: 11.967, -14.612
+
+#### Cabufara
+
+Code: GW0104_cabufara, Coordinates: 11.967, -14.612
+
+#### Campate
+
+Code: GW0104_campate, Coordinates: 12.383, -14.467
+
+#### Candjara
+
+Code: GW0104_candjara, Coordinates: 11.967, -14.612
+
+#### Canjecula
+
+Code: GW0104_canjecula, Coordinates: 11.967, -14.612
+
+#### Cansomba
+
+Code: GW0104_cansomba, Coordinates: 11.967, -14.612
+
+#### Dade
+
+Code: GW0104_dade, Coordinates: 11.967, -14.612
+
+#### Demba Arabe
+
+Code: GW0104_demba-arabe, Coordinates: 12.017, -14.55
+
+#### Demba Lenguel
+
+Code: GW0104_demba-lenguel, Coordinates: 11.967, -14.612
+
+#### Demba Meta
+
+Code: GW0104_demba-meta, Coordinates: 11.95, -14.667
+
+#### Duas Fontes (Bangacia)
+
+Code: GW0104_duas-fontes-bangacia, Coordinates: 11.967, -14.612
+
+#### Dulombi
+
+Code: GW0104_dulombi, Coordinates: 11.967, -14.612
+
+#### Embalocunda
+
+Code: GW0104_embalocunda, Coordinates: 12.067, -14.617
+
+#### Ga-Gueloge
+
+Code: GW0104_ga-gueloge, Coordinates: 11.967, -14.612
+
+#### Galomaro
+
+Code: GW0104_galomaro, Coordinates: 11.7, -14.767
+
+#### Gengele
+
+Code: GW0104_gengele, Coordinates: 11.933, -14.65
+
+#### Lenque
+
+Code: GW0104_lenque, Coordinates: 12.067, -14.567
+
+#### Madina Aladje
+
+Code: GW0104_madina-aladje, Coordinates: 11.967, -14.612
+
+#### Madina Fali
+
+Code: GW0104_madina-fali, Coordinates: 11.967, -14.612
+
+#### Maraquissa
+
+Code: GW0104_maraquissa, Coordinates: 12.033, -14.567
+
+#### Mile Bula
+
+Code: GW0104_mile-bula, Coordinates: 11.967, -14.612
+
+#### Missira
+
+Code: GW0104_missira, Coordinates: 12.017, -14.65
+
+#### Missira de Cima
+
+Code: GW0104_missira-de-cima, Coordinates: 11.967, -14.612
+
+#### Monda Jane
+
+Code: GW0104_monda-jane, Coordinates: 11.967, -14.612
+
+#### Munhine
+
+Code: GW0104_munhine, Coordinates: 11.95, -14.583
+
+#### Parquer Curu
+
+Code: GW0104_parquer-curu, Coordinates: 11.967, -14.612
+
+#### Parquer Loli
+
+Code: GW0104_parquer-loli, Coordinates: 11.967, -14.612
+
+#### Pate Bana
+
+Code: GW0104_pate-bana, Coordinates: 11.967, -14.612
+
+#### Pate Buia
+
+Code: GW0104_pate-buia, Coordinates: 11.967, -14.6
+
+#### Pate Gribel
+
+Code: GW0104_pate-gribel, Coordinates: 11.967, -14.612
+
+#### Pate Seidi
+
+Code: GW0104_pate-seidi, Coordinates: 11.967, -14.612
+
+#### Salia
+
+Code: GW0104_salia, Coordinates: 11.983, -14.683
+
+#### Samba Ari
+
+Code: GW0104_samba-ari, Coordinates: 11.967, -14.612
+
+#### Samba Cumbere
+
+Code: GW0104_samba-cumbere, Coordinates: 11.967, -14.612
+
+#### Samba Tchabe Cabom
+
+Code: GW0104_samba-tchabe-cabom, Coordinates: 11.967, -14.612
+
+#### Samba Tchabe Gundaga
+
+Code: GW0104_samba-tchabe-gundaga, Coordinates: 11.967, -14.612
+
+#### Sambodado
+
+Code: GW0104_sambodado, Coordinates: 11.967, -14.612
+
+#### Sarancho
+
+Code: GW0104_sarancho, Coordinates: 12, -14.583
+
+#### Sare Guroel
+
+Code: GW0104_sare-guroel, Coordinates: 11.967, -14.612
+
+#### Sare Mansa
+
+Code: GW0104_sare-mansa, Coordinates: 11.967, -14.612
+
+#### Sare Ura
+
+Code: GW0104_sare-ura, Coordinates: 12.2, -14.75
+
+#### Sere Bodjam
+
+Code: GW0104_sere-bodjam, Coordinates: 11.967, -14.612
+
+#### Sintcha Aladje
+
+Code: GW0104_sintcha-aladje, Coordinates: 11.967, -14.612
+
+#### Sintcha Alalba
+
+Code: GW0104_sintcha-alalba, Coordinates: 11.967, -14.612
+
+#### Sintcha Aliuel
+
+Code: GW0104_sintcha-aliuel, Coordinates: 11.967, -14.612
+
+#### Sintcha Bambia
+
+Code: GW0104_sintcha-bambia, Coordinates: 11.967, -14.612
+
+#### Sintcha Boi
+
+Code: GW0104_sintcha-boi, Coordinates: 11.967, -14.612
+
+#### Sintcha Coli
+
+Code: GW0104_sintcha-coli, Coordinates: 11.967, -14.612
+
+#### Sintcha Corca
+
+Code: GW0104_sintcha-corca, Coordinates: 11.967, -14.612
+
+#### Sintcha Delo
+
+Code: GW0104_sintcha-delo, Coordinates: 11.967, -14.612
+
+#### Sintcha Dembel
+
+Code: GW0104_sintcha-dembel, Coordinates: 11.967, -14.612
+
+#### Sintcha Djale
+
+Code: GW0104_sintcha-djale, Coordinates: 11.967, -14.612
+
+#### Sintcha Djei
+
+Code: GW0104_sintcha-djei, Coordinates: 11.967, -14.612
+
+#### Sintcha Fara
+
+Code: GW0104_sintcha-fara, Coordinates: 11.967, -14.612
+
+#### Sintcha Gaulo Uelingara
+
+Code: GW0104_sintcha-gaulo-uelingara, Coordinates: 11.967, -14.612
+
+#### Sintcha Ieroba
+
+Code: GW0104_sintcha-ieroba, Coordinates: 11.967, -14.612
+
+#### Sintcha Ieroba (Querocune )
+
+Code: GW0104_sintcha-ieroba-querocune, Coordinates: 11.967, -14.612
+
+#### Sintcha Ierondim
+
+Code: GW0104_sintcha-ierondim, Coordinates: 11.967, -14.612
+
+#### Sintcha Ioba ( Sintcha Mamadi )
+
+Code: GW0104_sintcha-ioba-sintcha-mamadi, Coordinates: 11.967, -14.612
+
+#### Sintcha Leuro
+
+Code: GW0104_sintcha-leuro, Coordinates: 11.967, -14.612
+
+#### Sintcha Madina
+
+Code: GW0104_sintcha-madina, Coordinates: 11.967, -14.612
+
+#### Sintcha Malam
+
+Code: GW0104_sintcha-malam, Coordinates: 11.967, -14.612
+
+#### Sintcha Mussa
+
+Code: GW0104_sintcha-mussa, Coordinates: 11.967, -14.612
+
+#### Sintcha Nhabum
+
+Code: GW0104_sintcha-nhabum, Coordinates: 11.967, -14.612
+
+#### Sintcha Nhacori
+
+Code: GW0104_sintcha-nhacori, Coordinates: 11.967, -14.612
+
+#### Sintcha Nhinha
+
+Code: GW0104_sintcha-nhinha, Coordinates: 11.967, -14.612
+
+#### Sintcha Pularo
+
+Code: GW0104_sintcha-pularo, Coordinates: 11.967, -14.612
+
+#### Sintcha Queba - II ( Patetoja )
+
+Code: GW0104_sintcha-queba---ii-patetoja, Coordinates: 11.967, -14.612
+
+#### Sintcha Quela
+
+Code: GW0104_sintcha-quela, Coordinates: 11.967, -14.612
+
+#### Sintcha Quendo
+
+Code: GW0104_sintcha-quendo, Coordinates: 11.967, -14.612
+
+#### Sintcha Sadjo
+
+Code: GW0104_sintcha-sadjo, Coordinates: 11.967, -14.612
+
+#### Sintcha Samba
+
+Code: GW0104_sintcha-samba, Coordinates: 11.967, -14.612
+
+#### Sintcha Umaro
+
+Code: GW0104_sintcha-umaro, Coordinates: 11.967, -14.612
+
+#### Sintcha Usso
+
+Code: GW0104_sintcha-usso, Coordinates: 11.967, -14.612
+
+#### Tchabado
+
+Code: GW0104_tchabado, Coordinates: 11.967, -14.612
+
+#### Uacaba
+
+Code: GW0104_uacaba, Coordinates: 11.95, -14.617
+
+#### Umaro Cosse
+
+Code: GW0104_umaro-cosse, Coordinates: 11.983, -14.583
+
+### Gamamudo/Ganadu
+
+Code: GW0105, Coordinates: 12.275, -14.81
+Tabancas: 0
+
+### Xitole
+
+Code: GW0106, Coordinates: 11.763, -14.68
+Tabancas: 124
+
+#### Afia Corubal
+
+Code: GW0106_afia-corubal, Coordinates: 11.763, -14.68
+
+#### Afia Embalocunda
+
+Code: GW0106_afia-embalocunda, Coordinates: 11.763, -14.68
+
+#### Afia Pulom
+
+Code: GW0106_afia-pulom, Coordinates: 11.763, -14.68
+
+#### Aliel
+
+Code: GW0106_aliel, Coordinates: 11.917, -14.733
+
+#### Andsine
+
+Code: GW0106_andsine, Coordinates: 11.763, -14.68
+
+#### Assana Jau
+
+Code: GW0106_assana-jau, Coordinates: 11.763, -14.68
+
+#### Bairro Colos
+
+Code: GW0106_bairro-colos, Coordinates: 11.763, -14.68
+
+#### Bairro Militar
+
+Code: GW0106_bairro-militar, Coordinates: 11.763, -14.68
+
+#### Biro (Nbi-Uru)
+
+Code: GW0106_biro-nbi-uru, Coordinates: 11.763, -14.68
+
+#### Bissa
+
+Code: GW0106_bissa, Coordinates: 12.383, -15.967
+
+#### Bissau Novo
+
+Code: GW0106_bissau-novo, Coordinates: 11.867, -15.6
+
+#### Bissazinho (Bissauzinho)
+
+Code: GW0106_bissazinho-bissauzinho, Coordinates: 11.763, -14.68
+
+#### Bolo
+
+Code: GW0106_bolo, Coordinates: 11.9, -14.867
+
+#### Braima Sori
+
+Code: GW0106_braima-sori, Coordinates: 11.763, -14.68
+
+#### Camara
+
+Code: GW0106_camara, Coordinates: 11.763, -14.68
+
+#### Cambesse
+
+Code: GW0106_cambesse, Coordinates: 11.683, -14.767
+
+#### Cancode Balanta
+
+Code: GW0106_cancode-balanta, Coordinates: 11.763, -14.68
+
+#### Cancode Mandinga
+
+Code: GW0106_cancode-mandinga, Coordinates: 11.763, -14.68
+
+#### Candama
+
+Code: GW0106_candama, Coordinates: 11.9, -14.75
+
+#### Cansamangue
+
+Code: GW0106_cansamangue, Coordinates: 11.763, -14.68
+
+#### Ciama
+
+Code: GW0106_ciama, Coordinates: 11.763, -14.68
+
+#### Corrubal
+
+Code: GW0106_corrubal, Coordinates: 11.763, -14.68
+
+#### Damdum (Jonco Tabandinto)
+
+Code: GW0106_damdum-jonco-tabandinto, Coordinates: 11.763, -14.68
+
+#### Dando
+
+Code: GW0106_dando, Coordinates: 12.217, -14.583
+
+#### Darsalame
+
+Code: GW0106_darsalame, Coordinates: 12.033, -14.533
+
+#### Darsalame (Seco Braima )
+
+Code: GW0106_darsalame-seco-braima, Coordinates: 11.763, -14.68
+
+#### Demaudo
+
+Code: GW0106_demaudo, Coordinates: 11.763, -14.68
+
+#### Demba Molo
+
+Code: GW0106_demba-molo, Coordinates: 11.763, -14.68
+
+#### Demba Nduro
+
+Code: GW0106_demba-nduro, Coordinates: 11.763, -14.68
+
+#### Djagaradje
+
+Code: GW0106_djagaradje, Coordinates: 11.763, -14.68
+
+#### Djicoi (Ponta Fernando)
+
+Code: GW0106_djicoi-ponta-fernando, Coordinates: 11.763, -14.68
+
+#### Dulo Sangele
+
+Code: GW0106_dulo-sangele, Coordinates: 11.763, -14.68
+
+#### Dulombi Currual
+
+Code: GW0106_dulombi-currual, Coordinates: 11.763, -14.68
+
+#### Fadiba
+
+Code: GW0106_fadiba, Coordinates: 11.763, -14.68
+
+#### Fifioli
+
+Code: GW0106_fifioli, Coordinates: 11.763, -14.68
+
+#### Ga-Djul
+
+Code: GW0106_ga-djul, Coordinates: 11.763, -14.68
+
+#### Ga-Sonco
+
+Code: GW0106_ga-sonco, Coordinates: 11.763, -14.68
+
+#### Gandjai
+
+Code: GW0106_gandjai, Coordinates: 11.763, -14.68
+
+#### Ganha Balanta
+
+Code: GW0106_ganha-balanta, Coordinates: 11.75, -14.85
+
+#### Gunti
+
+Code: GW0106_gunti, Coordinates: 11.633, -14.75
+
+#### Horta Barros
+
+Code: GW0106_horta-barros, Coordinates: 11.763, -14.68
+
+#### Jose Bucar
+
+Code: GW0106_jose-bucar, Coordinates: 11.763, -14.68
+
+#### Jose Pereira
+
+Code: GW0106_jose-pereira, Coordinates: 11.763, -14.68
+
+#### Lunba Djodo
+
+Code: GW0106_lunba-djodo, Coordinates: 11.763, -14.68
+
+#### Madina
+
+Code: GW0106_madina, Coordinates: 12.067, -14.717
+
+#### Mampata
+
+Code: GW0106_mampata, Coordinates: 12.217, -14.75
+
+#### Mampata Corubal
+
+Code: GW0106_mampata-corubal, Coordinates: 11.763, -14.68
+
+#### Mande Ba
+
+Code: GW0106_mande-ba, Coordinates: 11.763, -14.68
+
+#### Mansumba
+
+Code: GW0106_mansumba, Coordinates: 11.763, -14.68
+
+#### Mina
+
+Code: GW0106_mina, Coordinates: 11.8, -14.933
+
+#### Mussa Iero
+
+Code: GW0106_mussa-iero, Coordinates: 11.867, -14.7
+
+#### Nhando Pi
+
+Code: GW0106_nhando-pi, Coordinates: 11.763, -14.68
+
+#### Panre ( Jabecunda )
+
+Code: GW0106_panre-jabecunda, Coordinates: 11.763, -14.68
+
+#### Pante Budjube
+
+Code: GW0106_pante-budjube, Coordinates: 11.763, -14.68
+
+#### Patche
+
+Code: GW0106_patche, Coordinates: 11.763, -14.68
+
+#### Pate Jau
+
+Code: GW0106_pate-jau, Coordinates: 11.7, -14.667
+
+#### Pate Uindi
+
+Code: GW0106_pate-uindi, Coordinates: 11.763, -14.68
+
+#### Ponta Bispo
+
+Code: GW0106_ponta-bispo, Coordinates: 11.763, -14.68
+
+#### Ponta Dam
+
+Code: GW0106_ponta-dam, Coordinates: 11.763, -14.68
+
+#### Ponta Domingos
+
+Code: GW0106_ponta-domingos, Coordinates: 11.763, -14.68
+
+#### Ponta Faro
+
+Code: GW0106_ponta-faro, Coordinates: 11.763, -14.68
+
+#### Ponta Joao Bico
+
+Code: GW0106_ponta-joao-bico, Coordinates: 11.763, -14.68
+
+#### Ponta Joaquim
+
+Code: GW0106_ponta-joaquim, Coordinates: 11.763, -14.68
+
+#### Ponta N&#39;Bunhe
+
+Code: GW0106_ponta-nbunhe, Coordinates: 11.763, -14.68
+
+#### Ponta N&#39;Djuf
+
+Code: GW0106_ponta-ndjuf, Coordinates: 11.763, -14.68
+
+#### Ponta Omaca
+
+Code: GW0106_ponta-omaca, Coordinates: 11.763, -14.68
+
+#### Ponta Santo
+
+Code: GW0106_ponta-santo, Coordinates: 11.763, -14.68
+
+#### Ponta Simao
+
+Code: GW0106_ponta-simao, Coordinates: 12.25, -16.2
+
+#### Ponta Wassa ( Njarga - Vida )
+
+Code: GW0106_ponta-wassa-njarga---vida, Coordinates: 11.763, -14.68
+
+#### Queneba
+
+Code: GW0106_queneba, Coordinates: 12.383, -14.567
+
+#### Quirafo
+
+Code: GW0106_quirafo, Coordinates: 11.717, -14.533
+
+#### Saltinho
+
+Code: GW0106_saltinho, Coordinates: 11.763, -14.68
+
+#### Samba Querel
+
+Code: GW0106_samba-querel, Coordinates: 11.763, -14.68
+
+#### Sambale
+
+Code: GW0106_sambale, Coordinates: 11.95, -14.75
+
+#### Sambuia
+
+Code: GW0106_sambuia, Coordinates: 11.917, -14.767
+
+#### Sana Marum
+
+Code: GW0106_sana-marum, Coordinates: 11.65, -14.767
+
+#### Sanhu Abasse
+
+Code: GW0106_sanhu-abasse, Coordinates: 11.7, -14.617
+
+#### Sanque Bissari
+
+Code: GW0106_sanque-bissari, Coordinates: 11.763, -14.68
+
+#### Sare Iunca
+
+Code: GW0106_sare-iunca, Coordinates: 11.717, -14.8
+
+#### Sare Lale
+
+Code: GW0106_sare-lale, Coordinates: 11.8, -14.717
+
+#### Sare Mansal
+
+Code: GW0106_sare-mansal, Coordinates: 11.763, -14.68
+
+#### Satecuta
+
+Code: GW0106_satecuta, Coordinates: 11.483, -15.267
+
+#### Sintcha Adulai Barros
+
+Code: GW0106_sintcha-adulai-barros, Coordinates: 11.763, -14.68
+
+#### Sintcha Bonco
+
+Code: GW0106_sintcha-bonco, Coordinates: 11.763, -14.68
+
+#### Sintcha Braima
+
+Code: GW0106_sintcha-braima, Coordinates: 11.763, -14.68
+
+#### Sintcha Buba
+
+Code: GW0106_sintcha-buba, Coordinates: 11.763, -14.68
+
+#### Sintcha Carimo
+
+Code: GW0106_sintcha-carimo, Coordinates: 11.763, -14.68
+
+#### Sintcha Conta
+
+Code: GW0106_sintcha-conta, Coordinates: 11.763, -14.68
+
+#### Sintcha Cule
+
+Code: GW0106_sintcha-cule, Coordinates: 11.763, -14.68
+
+#### Sintcha Culum
+
+Code: GW0106_sintcha-culum, Coordinates: 11.763, -14.68
+
+#### Sintcha Demba
+
+Code: GW0106_sintcha-demba, Coordinates: 11.763, -14.68
+
+#### Sintcha Demba Gano
+
+Code: GW0106_sintcha-demba-gano, Coordinates: 11.763, -14.68
+
+#### Sintcha Dembaro
+
+Code: GW0106_sintcha-dembaro, Coordinates: 11.763, -14.68
+
+#### Sintcha Djai
+
+Code: GW0106_sintcha-djai, Coordinates: 11.763, -14.68
+
+#### Sintcha Djeno
+
+Code: GW0106_sintcha-djeno, Coordinates: 11.763, -14.68
+
+#### Sintcha Djobel
+
+Code: GW0106_sintcha-djobel, Coordinates: 11.763, -14.68
+
+#### Sintcha Golo
+
+Code: GW0106_sintcha-golo, Coordinates: 11.763, -14.68
+
+#### Sintcha Iaia
+
+Code: GW0106_sintcha-iaia, Coordinates: 11.763, -14.68
+
+#### Sintcha Lama
+
+Code: GW0106_sintcha-lama, Coordinates: 11.763, -14.68
+
+#### Sintcha Lonco
+
+Code: GW0106_sintcha-lonco, Coordinates: 11.763, -14.68
+
+#### Sintcha Madina Saliu
+
+Code: GW0106_sintcha-madina-saliu, Coordinates: 11.763, -14.68
+
+#### Sintcha Madiu
+
+Code: GW0106_sintcha-madiu, Coordinates: 11.763, -14.68
+
+#### Sintcha Mamadu
+
+Code: GW0106_sintcha-mamadu, Coordinates: 11.763, -14.68
+
+#### Sintcha Moli
+
+Code: GW0106_sintcha-moli, Coordinates: 11.763, -14.68
+
+#### Sintcha Morri
+
+Code: GW0106_sintcha-morri, Coordinates: 11.763, -14.68
+
+#### Sintcha Opa
+
+Code: GW0106_sintcha-opa, Coordinates: 11.763, -14.68
+
+#### Sintcha Saido
+
+Code: GW0106_sintcha-saido, Coordinates: 11.763, -14.68
+
+#### Sintcha Samba
+
+Code: GW0106_sintcha-samba, Coordinates: 11.763, -14.68
+
+#### Sintcha Samba Djalia
+
+Code: GW0106_sintcha-samba-djalia, Coordinates: 11.763, -14.68
+
+#### Sintcha Satcho
+
+Code: GW0106_sintcha-satcho, Coordinates: 11.763, -14.68
+
+#### Sintcha Seco
+
+Code: GW0106_sintcha-seco, Coordinates: 11.763, -14.68
+
+#### Sintcha Sori
+
+Code: GW0106_sintcha-sori, Coordinates: 11.763, -14.68
+
+#### Sintcha Tumane
+
+Code: GW0106_sintcha-tumane, Coordinates: 11.763, -14.68
+
+#### Sintcha Ugai - I
+
+Code: GW0106_sintcha-ugai---i, Coordinates: 11.763, -14.68
+
+#### Sintcha Ugai - II
+
+Code: GW0106_sintcha-ugai---ii, Coordinates: 11.763, -14.68
+
+#### Sintchandje
+
+Code: GW0106_sintchandje, Coordinates: 11.763, -14.68
+
+#### Sintchanje ( Sintchandje)
+
+Code: GW0106_sintchanje-sintchandje, Coordinates: 11.763, -14.68
+
+#### Tchante (Sintcha Samba)
+
+Code: GW0106_tchante-sintcha-samba, Coordinates: 11.763, -14.68
+
+#### Tchumael
+
+Code: GW0106_tchumael, Coordinates: 11.763, -14.68
+
+#### Tendito
+
+Code: GW0106_tendito, Coordinates: 11.763, -14.68
+
+#### Tongali
+
+Code: GW0106_tongali, Coordinates: 11.763, -14.68
+
+#### Tuba
+
+Code: GW0106_tuba, Coordinates: 11.763, -14.68
+
+#### Uracande
+
+Code: GW0106_uracande, Coordinates: 11.763, -14.68
+
+#### Xitole
+
+Code: GW0106_xitole, Coordinates: 11.763, -14.68
+

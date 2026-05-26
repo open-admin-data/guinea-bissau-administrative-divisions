@@ -1,0 +1,47 @@
+{
+  "id": "GW0301",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Bolama",
+    "en": "Bolama",
+    "slug": "bolama-gw0301"
+  },
+  "code": {
+    "id": "GW0301",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW03",
+    "level": 1,
+    "name": {
+      "local": "Bolama/Bijagos",
+      "en": "Bolama/Bijagos",
+      "slug": "bolamabijagos-gw03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW03",
+      "level": 1,
+      "name": {
+        "local": "Bolama/Bijagos",
+        "en": "Bolama/Bijagos",
+        "slug": "bolamabijagos-gw03"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 80
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.567",
+    "lon": "-15.536"
+  },
+  "metadata": {},
+  "source": {}
+}

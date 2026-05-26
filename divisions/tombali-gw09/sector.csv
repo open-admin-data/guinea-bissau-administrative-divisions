@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.tabanca,geo.lat,geo.lon
+GW0901,Bedanda,Bedanda,bedanda-gw0901,GW0901,137,11.257,-15.023
+GW0902,Cacine,Cacine,cacine-gw0902,GW0902,94,11.107,-14.978
+GW0903,Catio,Catio,catio-gw0903,GW0903,105,11.342,-15.263
+GW0905,Komo,Komo,komo-gw0905,GW0905,33,11.197,-15.318
+GW0904,Quebo,Quebo,quebo-gw0904,GW0904,56,11.514,-14.706

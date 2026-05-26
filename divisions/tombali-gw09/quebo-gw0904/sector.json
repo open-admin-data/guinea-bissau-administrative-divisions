@@ -1,0 +1,47 @@
+{
+  "id": "GW0904",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Quebo",
+    "en": "Quebo",
+    "slug": "quebo-gw0904"
+  },
+  "code": {
+    "id": "GW0904",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW09",
+    "level": 1,
+    "name": {
+      "local": "Tombali",
+      "en": "Tombali",
+      "slug": "tombali-gw09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW09",
+      "level": 1,
+      "name": {
+        "local": "Tombali",
+        "en": "Tombali",
+        "slug": "tombali-gw09"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 56
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.514",
+    "lon": "-14.706"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GW0201",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Quinhamel",
+    "en": "Quinhamel",
+    "slug": "quinhamel-gw0201"
+  },
+  "code": {
+    "id": "GW0201",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW02",
+    "level": 1,
+    "name": {
+      "local": "Biombo",
+      "en": "Biombo",
+      "slug": "biombo-gw02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW02",
+      "level": 1,
+      "name": {
+        "local": "Biombo",
+        "en": "Biombo",
+        "slug": "biombo-gw02"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 66
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.872",
+    "lon": "-15.869"
+  },
+  "metadata": {},
+  "source": {}
+}

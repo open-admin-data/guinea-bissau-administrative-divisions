@@ -1,0 +1,47 @@
+{
+  "id": "GW0504",
+  "level": 2,
+  "level_name": {
+    "local": "Sector",
+    "en": "Sector"
+  },
+  "name": {
+    "local": "Pitche",
+    "en": "Pitche",
+    "slug": "pitche-gw0504"
+  },
+  "code": {
+    "id": "GW0504",
+    "iso": null
+  },
+  "parent": {
+    "id": "GW05",
+    "level": 1,
+    "name": {
+      "local": "Gabu",
+      "en": "Gabu",
+      "slug": "gabu-gw05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GW05",
+      "level": 1,
+      "name": {
+        "local": "Gabu",
+        "en": "Gabu",
+        "slug": "gabu-gw05"
+      }
+    }
+  ],
+  "children_count": {
+    "tabanca": 226
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.4",
+    "lon": "-13.875"
+  },
+  "metadata": {},
+  "source": {}
+}

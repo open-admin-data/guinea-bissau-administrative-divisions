@@ -1,0 +1,680 @@
+# Biombo — Guinea-Bissau Administrative Divisions
+
+> 3 sectors, 164 tabancas
+> Code: GW02
+> Coordinates: 11.881, -15.786
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Sectors
+
+### Prabis
+
+Code: GW0202, Coordinates: 11.811, -15.739
+Tabancas: 55
+
+#### Assiete
+
+Code: GW0202_assiete, Coordinates: 11.811, -15.739
+
+#### Bambadinca Mancanha de Cima
+
+Code: GW0202_bambadinca-mancanha-de-cima, Coordinates: 11.811, -15.739
+
+#### Banbadinca Balanta de Baixo
+
+Code: GW0202_banbadinca-balanta-de-baixo, Coordinates: 11.811, -15.739
+
+#### Bele
+
+Code: GW0202_bele, Coordinates: 11.85, -13.933
+
+#### Bequeje
+
+Code: GW0202_bequeje, Coordinates: 11.811, -15.739
+
+#### Betesga
+
+Code: GW0202_betesga, Coordinates: 11.833, -15.75
+
+#### Bidjala
+
+Code: GW0202_bidjala, Coordinates: 11.811, -15.739
+
+#### Blunde
+
+Code: GW0202_blunde, Coordinates: 11.8, -15.733
+
+#### Bomino
+
+Code: GW0202_bomino, Coordinates: 11.811, -15.739
+
+#### Bor
+
+Code: GW0202_bor, Coordinates: 11.85, -15.633
+
+#### Branco
+
+Code: GW0202_branco, Coordinates: 11.8, -15.75
+
+#### Bugate (Gota)
+
+Code: GW0202_bugate-gota, Coordinates: 11.811, -15.739
+
+#### Bugunlar C Papel
+
+Code: GW0202_bugunlar-c-papel, Coordinates: 11.811, -15.739
+
+#### Bunau
+
+Code: GW0202_bunau, Coordinates: 11.811, -15.739
+
+#### Buno
+
+Code: GW0202_buno, Coordinates: 11.811, -15.739
+
+#### Buta
+
+Code: GW0202_buta, Coordinates: 11.811, -15.739
+
+#### Butafete
+
+Code: GW0202_butafete, Coordinates: 11.811, -15.739
+
+#### Cidade de Prabis Bairo Reino de Prabis
+
+Code: GW0202_cidade-de-prabis-bairo-reino-de-prabis, Coordinates: 11.811, -15.739
+
+#### Cidade de Prabis Bairro Ameta
+
+Code: GW0202_cidade-de-prabis-bairro-ameta, Coordinates: 11.811, -15.739
+
+#### Cidade de Prabis Bairro Carnocam
+
+Code: GW0202_cidade-de-prabis-bairro-carnocam, Coordinates: 11.811, -15.739
+
+#### Cidade de Prabis Bairro Catarina
+
+Code: GW0202_cidade-de-prabis-bairro-catarina, Coordinates: 11.811, -15.739
+
+#### Cidade de Prabis Bairro Novo
+
+Code: GW0202_cidade-de-prabis-bairro-novo, Coordinates: 11.811, -15.739
+
+#### Cidade de Prabis Bairro Sintcha Bombo
+
+Code: GW0202_cidade-de-prabis-bairro-sintcha-bombo, Coordinates: 11.811, -15.739
+
+#### Crich
+
+Code: GW0202_crich, Coordinates: 11.811, -15.739
+
+#### Cumura de Padre
+
+Code: GW0202_cumura-de-padre, Coordinates: 11.811, -15.739
+
+#### Cupol
+
+Code: GW0202_cupol, Coordinates: 11.811, -15.739
+
+#### Enteramento
+
+Code: GW0202_enteramento, Coordinates: 11.811, -15.739
+
+#### Iem
+
+Code: GW0202_iem, Coordinates: 11.811, -15.739
+
+#### Insiquil
+
+Code: GW0202_insiquil, Coordinates: 11.817, -15.767
+
+#### Insumba
+
+Code: GW0202_insumba, Coordinates: 11.811, -15.739
+
+#### Intunhande
+
+Code: GW0202_intunhande, Coordinates: 11.811, -15.739
+
+#### Jogre
+
+Code: GW0202_jogre, Coordinates: 11.811, -15.739
+
+#### Lala
+
+Code: GW0202_lala, Coordinates: 11.5, -15.383
+
+#### Luanda
+
+Code: GW0202_luanda, Coordinates: 11.811, -15.739
+
+#### Mua
+
+Code: GW0202_mua, Coordinates: 11.811, -15.739
+
+#### Naga
+
+Code: GW0202_naga, Coordinates: 11.817, -15.683
+
+#### Nanque de Estrada
+
+Code: GW0202_nanque-de-estrada, Coordinates: 11.811, -15.739
+
+#### Oco
+
+Code: GW0202_oco, Coordinates: 11.8, -15.7
+
+#### Pacaque
+
+Code: GW0202_pacaque, Coordinates: 11.811, -15.739
+
+#### Pastam
+
+Code: GW0202_pastam, Coordinates: 11.811, -15.739
+
+#### Pefine Balanta
+
+Code: GW0202_pefine-balanta, Coordinates: 11.811, -15.739
+
+#### Pefine Papel Areia
+
+Code: GW0202_pefine-papel-areia, Coordinates: 11.811, -15.739
+
+#### Pefine Pescador
+
+Code: GW0202_pefine-pescador, Coordinates: 11.811, -15.739
+
+#### Petale
+
+Code: GW0202_petale, Coordinates: 11.811, -15.739
+
+#### Ponta Afia - II (Cassumai)
+
+Code: GW0202_ponta-afia---ii-cassumai, Coordinates: 11.811, -15.739
+
+#### Ponta Djamaica
+
+Code: GW0202_ponta-djamaica, Coordinates: 11.811, -15.739
+
+#### Ponta Gardete
+
+Code: GW0202_ponta-gardete, Coordinates: 11.817, -15.667
+
+#### Ponta Joao Carlos
+
+Code: GW0202_ponta-joao-carlos, Coordinates: 11.85, -15.75
+
+#### Ponta Nugueira (Cumura Papel)
+
+Code: GW0202_ponta-nugueira-cumura-papel, Coordinates: 11.811, -15.739
+
+#### Prite
+
+Code: GW0202_prite, Coordinates: 11.811, -15.739
+
+#### Quecete
+
+Code: GW0202_quecete, Coordinates: 11.811, -15.739
+
+#### Sintcha Bobo
+
+Code: GW0202_sintcha-bobo, Coordinates: 11.811, -15.739
+
+#### Suro
+
+Code: GW0202_suro, Coordinates: 11.783, -15.783
+
+#### Tamara
+
+Code: GW0202_tamara, Coordinates: 11.811, -15.739
+
+#### Tandi
+
+Code: GW0202_tandi, Coordinates: 11.811, -15.739
+
+### Quinhamel
+
+Code: GW0201, Coordinates: 11.872, -15.869
+Tabancas: 66
+
+#### Abigna
+
+Code: GW0201_abigna, Coordinates: 11.883, -15.783
+
+#### Bidjina
+
+Code: GW0201_bidjina, Coordinates: 11.872, -15.869
+
+#### Bissa de Baixo
+
+Code: GW0201_bissa-de-baixo, Coordinates: 11.872, -15.869
+
+#### Bissa de Cima
+
+Code: GW0201_bissa-de-cima, Coordinates: 11.872, -15.869
+
+#### Bissauzinho
+
+Code: GW0201_bissauzinho, Coordinates: 11.6, -15.267
+
+#### Blimlim
+
+Code: GW0201_blimlim, Coordinates: 11.872, -15.869
+
+#### Blom
+
+Code: GW0201_blom, Coordinates: 11.783, -15.9
+
+#### Boa Esperança
+
+Code: GW0201_boa-esperana, Coordinates: 11.872, -15.869
+
+#### Bucomil
+
+Code: GW0201_bucomil, Coordinates: 11.883, -15.917
+
+#### Cafangho
+
+Code: GW0201_cafangho, Coordinates: 11.872, -15.869
+
+#### Canha
+
+Code: GW0201_canha, Coordinates: 12.467, -13.8
+
+#### Chaves (Suga)
+
+Code: GW0201_chaves-suga, Coordinates: 11.872, -15.869
+
+#### Cidade de Quinhamel Bairro de Baixo
+
+Code: GW0201_cidade-de-quinhamel-bairro-de-baixo, Coordinates: 11.872, -15.869
+
+#### Cidade de Quinhamel Bairro NAO DEFINIDO
+
+Code: GW0201_cidade-de-quinhamel-bairro-nao-definido, Coordinates: 11.872, -15.869
+
+#### Cidade de Quinhamel Bairro Praca
+
+Code: GW0201_cidade-de-quinhamel-bairro-praca, Coordinates: 11.872, -15.869
+
+#### Cidade de Quinhamel Bairro Rua Nova
+
+Code: GW0201_cidade-de-quinhamel-bairro-rua-nova, Coordinates: 11.872, -15.869
+
+#### Claque na Isna
+
+Code: GW0201_claque-na-isna, Coordinates: 11.872, -15.869
+
+#### Clatele - I
+
+Code: GW0201_clatele---i, Coordinates: 11.872, -15.869
+
+#### Clatele - II
+
+Code: GW0201_clatele---ii, Coordinates: 11.872, -15.869
+
+#### Clonata
+
+Code: GW0201_clonata, Coordinates: 11.872, -15.869
+
+#### Cuchup
+
+Code: GW0201_cuchup, Coordinates: 11.872, -15.869
+
+#### Cupedo
+
+Code: GW0201_cupedo, Coordinates: 11.833, -15.9
+
+#### Djamelak
+
+Code: GW0201_djamelak, Coordinates: 11.872, -15.869
+
+#### Dorce
+
+Code: GW0201_dorce, Coordinates: 11.817, -15.9
+
+#### Dorse
+
+Code: GW0201_dorse, Coordinates: 11.872, -15.869
+
+#### Impontchande (Ponta Embana)
+
+Code: GW0201_impontchande-ponta-embana, Coordinates: 11.872, -15.869
+
+#### Intchude de Baixo Ilonde
+
+Code: GW0201_intchude-de-baixo-ilonde, Coordinates: 11.872, -15.869
+
+#### Mer Foia
+
+Code: GW0201_mer-foia, Coordinates: 11.872, -15.869
+
+#### Mer Pikil
+
+Code: GW0201_mer-pikil, Coordinates: 11.872, -15.869
+
+#### Mer Pitana
+
+Code: GW0201_mer-pitana, Coordinates: 11.872, -15.869
+
+#### Mer Usimibo
+
+Code: GW0201_mer-usimibo, Coordinates: 11.872, -15.869
+
+#### Ntchude de Cima Ilonde
+
+Code: GW0201_ntchude-de-cima-ilonde, Coordinates: 11.872, -15.869
+
+#### Ome
+
+Code: GW0201_ome, Coordinates: 11.95, -15.783
+
+#### Ondame
+
+Code: GW0201_ondame, Coordinates: 11.767, -15.933
+
+#### Pandim
+
+Code: GW0201_pandim, Coordinates: 11.883, -15.9
+
+#### Pinhosseno (Sabor Papel)
+
+Code: GW0201_pinhosseno-sabor-papel, Coordinates: 11.872, -15.869
+
+#### Plaque
+
+Code: GW0201_plaque, Coordinates: 11.867, -15.9
+
+#### Plut
+
+Code: GW0201_plut, Coordinates: 11.872, -15.869
+
+#### Ponta Armando da Silva
+
+Code: GW0201_ponta-armando-da-silva, Coordinates: 11.872, -15.869
+
+#### Ponta Blimate
+
+Code: GW0201_ponta-blimate, Coordinates: 11.872, -15.869
+
+#### Ponta Brandao
+
+Code: GW0201_ponta-brandao, Coordinates: 11.872, -15.869
+
+#### Ponta Cabral
+
+Code: GW0201_ponta-cabral, Coordinates: 12.417, -15.067
+
+#### Ponta California
+
+Code: GW0201_ponta-california, Coordinates: 11.872, -15.869
+
+#### Ponta Carlos Adriano Sa
+
+Code: GW0201_ponta-carlos-adriano-sa, Coordinates: 11.872, -15.869
+
+#### Ponta Isac
+
+Code: GW0201_ponta-isac, Coordinates: 11.872, -15.869
+
+#### Ponta Leao
+
+Code: GW0201_ponta-leao, Coordinates: 11.872, -15.869
+
+#### Ponta Mendes
+
+Code: GW0201_ponta-mendes, Coordinates: 11.872, -15.869
+
+#### Ponta Nhara
+
+Code: GW0201_ponta-nhara, Coordinates: 11.872, -15.869
+
+#### Ponta Ricardo Soares
+
+Code: GW0201_ponta-ricardo-soares, Coordinates: 11.872, -15.869
+
+#### Ponta Romana
+
+Code: GW0201_ponta-romana, Coordinates: 11.872, -15.869
+
+#### Ponta Vermelha
+
+Code: GW0201_ponta-vermelha, Coordinates: 11.872, -15.869
+
+#### Quecene
+
+Code: GW0201_quecene, Coordinates: 11.872, -15.869
+
+#### Quidjogro
+
+Code: GW0201_quidjogro, Coordinates: 11.872, -15.869
+
+#### Quilande
+
+Code: GW0201_quilande, Coordinates: 11.9, -15.883
+
+#### Quilum
+
+Code: GW0201_quilum, Coordinates: 11.883, -15.883
+
+#### Quinsana
+
+Code: GW0201_quinsana, Coordinates: 11.872, -15.869
+
+#### Quintungul
+
+Code: GW0201_quintungul, Coordinates: 11.967, -15.8
+
+#### Quitaa
+
+Code: GW0201_quitaa, Coordinates: 11.872, -15.869
+
+#### Quiuta
+
+Code: GW0201_quiuta, Coordinates: 11.872, -15.869
+
+#### Reino Bijimita
+
+Code: GW0201_reino-bijimita, Coordinates: 11.872, -15.869
+
+#### Reino de Tor
+
+Code: GW0201_reino-de-tor, Coordinates: 11.85, -15.9
+
+#### Sidja
+
+Code: GW0201_sidja, Coordinates: 11.872, -15.869
+
+#### Ungura
+
+Code: GW0201_ungura, Coordinates: 11.872, -15.869
+
+#### Uool
+
+Code: GW0201_uool, Coordinates: 11.872, -15.869
+
+#### Urtungul
+
+Code: GW0201_urtungul, Coordinates: 11.872, -15.869
+
+#### Vila Flor
+
+Code: GW0201_vila-flor, Coordinates: 11.872, -15.869
+
+### Safim
+
+Code: GW0203, Coordinates: 11.941, -15.674
+Tabancas: 43
+
+#### Bidjilim
+
+Code: GW0203_bidjilim, Coordinates: 11.941, -15.674
+
+#### Bija (Quidele)
+
+Code: GW0203_bija-quidele, Coordinates: 11.941, -15.674
+
+#### Bilma
+
+Code: GW0203_bilma, Coordinates: 11.967, -15.65
+
+#### Bissaguel
+
+Code: GW0203_bissaguel, Coordinates: 11.941, -15.674
+
+#### Bissalanca
+
+Code: GW0203_bissalanca, Coordinates: 11.883, -15.667
+
+#### Bitora
+
+Code: GW0203_bitora, Coordinates: 11.941, -15.674
+
+#### Blom
+
+Code: GW0203_blom, Coordinates: 11.783, -15.9
+
+#### Brene
+
+Code: GW0203_brene, Coordinates: 11.883, -15.65
+
+#### Brene (A)
+
+Code: GW0203_brene-a, Coordinates: 11.941, -15.674
+
+#### Can-Nampar
+
+Code: GW0203_can-nampar, Coordinates: 11.941, -15.674
+
+#### Centro de Pepel
+
+Code: GW0203_centro-de-pepel, Coordinates: 11.941, -15.674
+
+#### Cidade de Safim Bairro Centro de Cidade (Quinhaque)
+
+Code: GW0203_cidade-de-safim-bairro-centro-de-cidade-quinhaque, Coordinates: 11.941, -15.674
+
+#### Cidade de Safim Bairro Quinhaque
+
+Code: GW0203_cidade-de-safim-bairro-quinhaque, Coordinates: 11.941, -15.674
+
+#### Cidade de Safim Bairro Reino de Safim
+
+Code: GW0203_cidade-de-safim-bairro-reino-de-safim, Coordinates: 11.941, -15.674
+
+#### Condinga
+
+Code: GW0203_condinga, Coordinates: 11.941, -15.674
+
+#### Controle
+
+Code: GW0203_controle, Coordinates: 11.941, -15.674
+
+#### Cumano
+
+Code: GW0203_cumano, Coordinates: 12.003, -15.666
+
+#### Fatima
+
+Code: GW0203_fatima, Coordinates: 12.4, -15.267
+
+#### Imbassina
+
+Code: GW0203_imbassina, Coordinates: 11.933, -15.617
+
+#### Impele
+
+Code: GW0203_impele, Coordinates: 11.983, -15.65
+
+#### Incaite
+
+Code: GW0203_incaite, Coordinates: 11.941, -15.674
+
+#### Insalma
+
+Code: GW0203_insalma, Coordinates: 11.941, -15.674
+
+#### Inticlem
+
+Code: GW0203_inticlem, Coordinates: 11.941, -15.674
+
+#### Intussa (Ntus)
+
+Code: GW0203_intussa-ntus, Coordinates: 11.941, -15.674
+
+#### Itozinho
+
+Code: GW0203_itozinho, Coordinates: 11.941, -15.674
+
+#### Monte Cristo
+
+Code: GW0203_monte-cristo, Coordinates: 11.95, -15.633
+
+#### Nbue (Ponta Rapaz)
+
+Code: GW0203_nbue-ponta-rapaz, Coordinates: 11.941, -15.674
+
+#### Nghanighani
+
+Code: GW0203_nghanighani, Coordinates: 11.941, -15.674
+
+#### Ponta Adolfo Ramos
+
+Code: GW0203_ponta-adolfo-ramos, Coordinates: 11.983, -15.683
+
+#### Ponta Andre
+
+Code: GW0203_ponta-andre, Coordinates: 11.941, -15.674
+
+#### Ponta Baaba Brene
+
+Code: GW0203_ponta-baaba-brene, Coordinates: 11.941, -15.674
+
+#### Ponta Bernardo Soares
+
+Code: GW0203_ponta-bernardo-soares, Coordinates: 11.917, -15.617
+
+#### Ponta Gato
+
+Code: GW0203_ponta-gato, Coordinates: 11.941, -15.674
+
+#### Ponta Nduta
+
+Code: GW0203_ponta-nduta, Coordinates: 11.941, -15.674
+
+#### Ponta Nova
+
+Code: GW0203_ponta-nova, Coordinates: 11.517, -15.05
+
+#### Ponta Papai Dias
+
+Code: GW0203_ponta-papai-dias, Coordinates: 11.941, -15.674
+
+#### Ponta Piniz
+
+Code: GW0203_ponta-piniz, Coordinates: 11.917, -15.683
+
+#### Ponta Rocha
+
+Code: GW0203_ponta-rocha, Coordinates: 11.933, -15.65
+
+#### Ponta Vicente da Mata
+
+Code: GW0203_ponta-vicente-da-mata, Coordinates: 11.941, -15.674
+
+#### Reino de Djal
+
+Code: GW0203_reino-de-djal, Coordinates: 11.941, -15.674
+
+#### Sintcha Ussumane
+
+Code: GW0203_sintcha-ussumane, Coordinates: 11.941, -15.674
+
+#### Tira Meia
+
+Code: GW0203_tira-meia, Coordinates: 11.941, -15.674
+
+#### Ze da Silva
+
+Code: GW0203_ze-da-silva, Coordinates: 11.941, -15.674
+

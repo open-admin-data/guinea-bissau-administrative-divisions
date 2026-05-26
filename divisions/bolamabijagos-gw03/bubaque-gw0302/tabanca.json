@@ -1,0 +1,3188 @@
+[
+  {
+    "id": "GW0302_ilah-de-bubaque-cidade-de-bubaque-bairro-de-aeroporto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilah de Bubaque (Cidade de Bubaque Bairro de Aeroporto)",
+      "en": "Ilah de Bubaque (Cidade de Bubaque Bairro de Aeroporto)",
+      "slug": "ilah-de-bubaque-cidade-de-bubaque-bairro-de-aeroporto"
+    },
+    "code": {
+      "id": "GW0302_ilah-de-bubaque-cidade-de-bubaque-bairro-de-aeroporto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilah-de-bubaque-cidade-de-bubaque-bairro-morcunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilah de Bubaque (Cidade de Bubaque Bairro Morcunda)",
+      "en": "Ilah de Bubaque (Cidade de Bubaque Bairro Morcunda)",
+      "slug": "ilah-de-bubaque-cidade-de-bubaque-bairro-morcunda"
+    },
+    "code": {
+      "id": "GW0302_ilah-de-bubaque-cidade-de-bubaque-bairro-morcunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-canhabaque-ancaguine",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha Canhabaque (Ancaguine)",
+      "en": "Ilha Canhabaque (Ancaguine)",
+      "slug": "ilha-canhabaque-ancaguine"
+    },
+    "code": {
+      "id": "GW0302_ilha-canhabaque-ancaguine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-baubaque-anhimango",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Baubaque (Anhimango)",
+      "en": "Ilha de Baubaque (Anhimango)",
+      "slug": "ilha-de-baubaque-anhimango"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-baubaque-anhimango",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-agumpa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Agumpa)",
+      "en": "Ilha de Bubaque (Agumpa)",
+      "slug": "ilha-de-bubaque-agumpa"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-agumpa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-ambanha",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Ambanha)",
+      "en": "Ilha de Bubaque (Ambanha)",
+      "slug": "ilha-de-bubaque-ambanha"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-ambanha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-ancadjedje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Ancadjedje)",
+      "en": "Ilha de Bubaque (Ancadjedje)",
+      "slug": "ilha-de-bubaque-ancadjedje"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-ancadjedje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-ancadona",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Ancadona)",
+      "en": "Ilha de Bubaque (Ancadona)",
+      "slug": "ilha-de-bubaque-ancadona"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-ancadona",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-ancamona",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Ancamona)",
+      "en": "Ilha de Bubaque (Ancamona)",
+      "slug": "ilha-de-bubaque-ancamona"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-ancamona",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-bijana",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Bijana)",
+      "en": "Ilha de Bubaque (Bijana)",
+      "slug": "ilha-de-bubaque-bijana"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-bijana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-bijante",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Bijante)",
+      "en": "Ilha de Bubaque (Bijante)",
+      "slug": "ilha-de-bubaque-bijante"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-bijante",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-bruce",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Bruce)",
+      "en": "Ilha de Bubaque (Bruce)",
+      "slug": "ilha-de-bubaque-bruce"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-bruce",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-cidade-de-bubaqqe-bairro-baixada",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Cidade de Bubaqqe Bairro Baixada)",
+      "en": "Ilha de Bubaque (Cidade de Bubaqqe Bairro Baixada)",
+      "slug": "ilha-de-bubaque-cidade-de-bubaqqe-bairro-baixada"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-cidade-de-bubaqqe-bairro-baixada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-buba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Cidade de Bubaque Bairro Buba)",
+      "en": "Ilha de Bubaque (Cidade de Bubaque Bairro Buba)",
+      "slug": "ilha-de-bubaque-cidade-de-bubaque-bairro-buba"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-buba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-comercial",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Cidade de Bubaque Bairro Comercial)",
+      "en": "Ilha de Bubaque (Cidade de Bubaque Bairro Comercial)",
+      "slug": "ilha-de-bubaque-cidade-de-bubaque-bairro-comercial"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-comercial",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-estancia",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Cidade de Bubaque Bairro Estancia)",
+      "en": "Ilha de Bubaque (Cidade de Bubaque Bairro Estancia)",
+      "slug": "ilha-de-bubaque-cidade-de-bubaque-bairro-estancia"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-estancia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-luanda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Cidade de Bubaque Bairro Luanda)",
+      "en": "Ilha de Bubaque (Cidade de Bubaque Bairro Luanda)",
+      "slug": "ilha-de-bubaque-cidade-de-bubaque-bairro-luanda"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-luanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-praa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Cidade de Bubaque Bairro Praça)",
+      "en": "Ilha de Bubaque (Cidade de Bubaque Bairro Praça)",
+      "slug": "ilha-de-bubaque-cidade-de-bubaque-bairro-praa"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-cidade-de-bubaque-bairro-praa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-enen",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Enen)",
+      "en": "Ilha de Bubaque (Enen)",
+      "slug": "ilha-de-bubaque-enen"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-enen",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-etimbato",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Etimbato)",
+      "en": "Ilha de Bubaque (Etimbato)",
+      "slug": "ilha-de-bubaque-etimbato"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-etimbato",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-etiquene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Etiquene)",
+      "en": "Ilha de Bubaque (Etiquene)",
+      "slug": "ilha-de-bubaque-etiquene"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-etiquene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-tabanca-nova",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Tabanca Nova)",
+      "en": "Ilha de Bubaque (Tabanca Nova)",
+      "slug": "ilha-de-bubaque-tabanca-nova"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-tabanca-nova",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-bubaque-tcharo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Bubaque (Tcharo)",
+      "en": "Ilha de Bubaque (Tcharo)",
+      "slug": "ilha-de-bubaque-tcharo"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-bubaque-tcharo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-ambena",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Ambena)",
+      "en": "Ilha de Canhabaque (Ambena)",
+      "slug": "ilha-de-canhabaque-ambena"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-ambena",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-ambuduco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Ambuduco)",
+      "en": "Ilha de Canhabaque (Ambuduco)",
+      "slug": "ilha-de-canhabaque-ambuduco"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-ambuduco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-ampucute",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Ampucute)",
+      "en": "Ilha de Canhabaque (Ampucute)",
+      "slug": "ilha-de-canhabaque-ampucute"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-ampucute",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-ancanam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Ancanam)",
+      "en": "Ilha de Canhabaque (Ancanam)",
+      "slug": "ilha-de-canhabaque-ancanam"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-ancanam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-ancanhozinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Ancanhozinho)",
+      "en": "Ilha de Canhabaque (Ancanhozinho)",
+      "slug": "ilha-de-canhabaque-ancanhozinho"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-ancanhozinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-ancatipe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Ancatipe)",
+      "en": "Ilha de Canhabaque (Ancatipe)",
+      "slug": "ilha-de-canhabaque-ancatipe"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-ancatipe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-angaura",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Angaura)",
+      "en": "Ilha de Canhabaque (Angaura)",
+      "slug": "ilha-de-canhabaque-angaura"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-angaura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-anghudjiga",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Anghudjiga)",
+      "en": "Ilha de Canhabaque (Anghudjiga)",
+      "slug": "ilha-de-canhabaque-anghudjiga"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-anghudjiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-anghumba",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Anghumba)",
+      "en": "Ilha de Canhabaque (Anghumba)",
+      "slug": "ilha-de-canhabaque-anghumba"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-anghumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-antchurupe",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Antchurupe)",
+      "en": "Ilha de Canhabaque (Antchurupe)",
+      "slug": "ilha-de-canhabaque-antchurupe"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-antchurupe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-bine",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Bine)",
+      "en": "Ilha de Canhabaque (Bine)",
+      "slug": "ilha-de-canhabaque-bine"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-bine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-ga---cote",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Ga - Cote)",
+      "en": "Ilha de Canhabaque (Ga - Cote)",
+      "slug": "ilha-de-canhabaque-ga---cote"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-ga---cote",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-indena-grande",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Indena Grande)",
+      "en": "Ilha de Canhabaque (Indena Grande)",
+      "slug": "ilha-de-canhabaque-indena-grande"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-indena-grande",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-indenazinho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Indenazinho)",
+      "en": "Ilha de Canhabaque (Indenazinho)",
+      "slug": "ilha-de-canhabaque-indenazinho"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-indenazinho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-inhoda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Inhoda)",
+      "en": "Ilha de Canhabaque (Inhoda)",
+      "slug": "ilha-de-canhabaque-inhoda"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-inhoda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-meneque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque (Meneque)",
+      "en": "Ilha de Canhabaque (Meneque)",
+      "slug": "ilha-de-canhabaque-meneque"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-meneque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-djone-idjoue",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque Djone (Idjoue)",
+      "en": "Ilha de Canhabaque Djone (Idjoue)",
+      "slug": "ilha-de-canhabaque-djone-idjoue"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-djone-idjoue",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-canhabaque-eboco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Canhabaque Eboco",
+      "en": "Ilha de Canhabaque Eboco",
+      "slug": "ilha-de-canhabaque-eboco"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-canhabaque-eboco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-cnhabaque-inore",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Cnhabaque (Inore)",
+      "en": "Ilha de Cnhabaque (Inore)",
+      "slug": "ilha-de-cnhabaque-inore"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-cnhabaque-inore",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-de-ganogo-amupa-ga-nogo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de de Ganogo (Amupa Ga-Nogo)",
+      "en": "Ilha de de Ganogo (Amupa Ga-Nogo)",
+      "slug": "ilha-de-de-ganogo-amupa-ga-nogo"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-de-ganogo-amupa-ga-nogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-ganogo-abu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Ganogo (Abu)",
+      "en": "Ilha de Ganogo (Abu)",
+      "slug": "ilha-de-ganogo-abu"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-ganogo-abu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-ganogo-aneguen",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Ganogo (Aneguen)",
+      "en": "Ilha de Ganogo (Aneguen)",
+      "slug": "ilha-de-ganogo-aneguen"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-ganogo-aneguen",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-joao-vieira",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Joao Vieira",
+      "en": "Ilha de Joao Vieira",
+      "slug": "ilha-de-joao-vieira"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-joao-vieira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-menegue-menegue",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Menegue (Menegue)",
+      "en": "Ilha de Menegue (Menegue)",
+      "slug": "ilha-de-menegue-menegue"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-menegue-menegue",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-orangozinho-abene",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orangozinho ( Abene)",
+      "en": "Ilha de Orangozinho ( Abene)",
+      "slug": "ilha-de-orangozinho-abene"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-orangozinho-abene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-orangozinho-ancanho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orangozinho (Ancanho)",
+      "en": "Ilha de Orangozinho (Ancanho)",
+      "slug": "ilha-de-orangozinho-ancanho"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-orangozinho-ancanho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-orangozinho-eticodega",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orangozinho (Eticodega)",
+      "en": "Ilha de Orangozinho (Eticodega)",
+      "slug": "ilha-de-orangozinho-eticodega"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-orangozinho-eticodega",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-orangozinho-uassa",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orangozinho (Uassa)",
+      "en": "Ilha de Orangozinho (Uassa)",
+      "slug": "ilha-de-orangozinho-uassa"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-orangozinho-uassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-orangozinho-wite",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Orangozinho (Wite)",
+      "en": "Ilha de Orangozinho (Wite)",
+      "slug": "ilha-de-orangozinho-wite"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-orangozinho-wite",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-rubane-ancauga-rubane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Rubane (Ancauga Rubane)",
+      "en": "Ilha de Rubane (Ancauga Rubane)",
+      "slug": "ilha-de-rubane-ancauga-rubane"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-rubane-ancauga-rubane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-soga-ancaminho",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Soga (Ancaminho)",
+      "en": "Ilha de Soga (Ancaminho)",
+      "slug": "ilha-de-soga-ancaminho"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-soga-ancaminho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-soga-ancauque",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Soga (Ancauque)",
+      "en": "Ilha de Soga (Ancauque)",
+      "slug": "ilha-de-soga-ancauque"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-soga-ancauque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-soga-ancubinh",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Soga (Ancubinh)",
+      "en": "Ilha de Soga (Ancubinh)",
+      "slug": "ilha-de-soga-ancubinh"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-soga-ancubinh",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-soga-ebeje",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Soga (Ebeje)",
+      "en": "Ilha de Soga (Ebeje)",
+      "slug": "ilha-de-soga-ebeje"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-soga-ebeje",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-soga-etamboro",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Soga (Etamboro)",
+      "en": "Ilha de Soga (Etamboro)",
+      "slug": "ilha-de-soga-etamboro"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-soga-etamboro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0302_ilha-de-soga-eticoba-ambuduco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Soga (Eticoba (Ambuduco))",
+      "en": "Ilha de Soga (Eticoba (Ambuduco))",
+      "slug": "ilha-de-soga-eticoba-ambuduco"
+    },
+    "code": {
+      "id": "GW0302_ilha-de-soga-eticoba-ambuduco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0302",
+      "level": 2,
+      "name": {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW03",
+        "level": 1,
+        "name": {
+          "local": "Bolama/Bijagos",
+          "en": "Bolama/Bijagos",
+          "slug": "bolamabijagos-gw03"
+        }
+      },
+      {
+        "id": "GW0302",
+        "level": 2,
+        "name": {
+          "local": "Bubaque",
+          "en": "Bubaque",
+          "slug": "bubaque-gw0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.234",
+      "lon": "-15.74"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

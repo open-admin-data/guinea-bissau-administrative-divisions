@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "GW0905_ilha-de-catungo-sameco",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Catungo ( Sameco)",
+      "en": "Ilha de Catungo ( Sameco)",
+      "slug": "ilha-de-catungo-sameco"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-catungo-sameco",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-catungo-caiamine",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Catungo (Caiamine)",
+      "en": "Ilha de Catungo (Caiamine)",
+      "slug": "ilha-de-catungo-caiamine"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-catungo-caiamine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-catungo-cametango",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Catungo (Cametango)",
+      "en": "Ilha de Catungo (Cametango)",
+      "slug": "ilha-de-catungo-cametango"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-catungo-cametango",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-catungo-catabam-ntunda",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Catungo (Catabam N´Tunda)",
+      "en": "Ilha de Catungo (Catabam N´Tunda)",
+      "slug": "ilha-de-catungo-catabam-ntunda"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-catungo-catabam-ntunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-catungo-catungo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Catungo (Catungo)",
+      "en": "Ilha de Catungo (Catungo)",
+      "slug": "ilha-de-catungo-catungo"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-catungo-catungo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-catungo-ilha-de-cobra-ga-balanta",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Catungo (Ilha de Cobra Ga Balanta)",
+      "en": "Ilha de Catungo (Ilha de Cobra Ga Balanta)",
+      "slug": "ilha-de-catungo-ilha-de-cobra-ga-balanta"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-catungo-ilha-de-cobra-ga-balanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-catungo-porto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Catungo Porto",
+      "en": "Ilha de Catungo Porto",
+      "slug": "ilha-de-catungo-porto"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-catungo-porto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-cantucunda-nalu-ga-nalu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo ( Cantucunda Nalu Ga Nalu)",
+      "en": "Ilha de Komo ( Cantucunda Nalu Ga Nalu)",
+      "slug": "ilha-de-komo-cantucunda-nalu-ga-nalu"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-cantucunda-nalu-ga-nalu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-catabam-bianar",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo ( Catabam Bianar)",
+      "en": "Ilha de Komo ( Catabam Bianar)",
+      "slug": "ilha-de-komo-catabam-bianar"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-catabam-bianar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-funsune",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo ( Funsune)",
+      "en": "Ilha de Komo ( Funsune)",
+      "slug": "ilha-de-komo-funsune"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-funsune",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-ncomine",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo ( N´Comine)",
+      "en": "Ilha de Komo ( N´Comine)",
+      "slug": "ilha-de-komo-ncomine"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-ncomine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-samine-saman",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo ( Samine Saman)",
+      "en": "Ilha de Komo ( Samine Saman)",
+      "slug": "ilha-de-komo-samine-saman"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-samine-saman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-wedequeia-contoie",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo ( Wedequeia Contoie)",
+      "en": "Ilha de Komo ( Wedequeia Contoie)",
+      "slug": "ilha-de-komo-wedequeia-contoie"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-wedequeia-contoie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-biol",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo (Biol)",
+      "en": "Ilha de Komo (Biol)",
+      "slug": "ilha-de-komo-biol"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-biol",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-catchidam-cachida",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo (Catchidam Cachida)",
+      "en": "Ilha de Komo (Catchidam Cachida)",
+      "slug": "ilha-de-komo-catchidam-cachida"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-catchidam-cachida",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-catchil-porto",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo (Catchil Porto)",
+      "en": "Ilha de Komo (Catchil Porto)",
+      "slug": "ilha-de-komo-catchil-porto"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-catchil-porto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-catchil",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo (Catchil)",
+      "en": "Ilha de Komo (Catchil)",
+      "slug": "ilha-de-komo-catchil"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-catchil",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-cruzamento-de-catchidam",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo (Cruzamento de Catchidam)",
+      "en": "Ilha de Komo (Cruzamento de Catchidam)",
+      "slug": "ilha-de-komo-cruzamento-de-catchidam"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-cruzamento-de-catchidam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-cuduco-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo (Cuduco II)",
+      "en": "Ilha de Komo (Cuduco II)",
+      "slug": "ilha-de-komo-cuduco-ii"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-cuduco-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-saminhinte",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo (Saminhinte)",
+      "en": "Ilha de Komo (Saminhinte)",
+      "slug": "ilha-de-komo-saminhinte"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-saminhinte",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-sao-nicolao",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo (Sao Nicolao)",
+      "en": "Ilha de Komo (Sao Nicolao)",
+      "slug": "ilha-de-komo-sao-nicolao"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-sao-nicolao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-bairro-cughan",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo Bairro Cughan",
+      "en": "Ilha de Komo Bairro Cughan",
+      "slug": "ilha-de-komo-bairro-cughan"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-bairro-cughan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-bairro-fitchole",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo Bairro Fitchole",
+      "en": "Ilha de Komo Bairro Fitchole",
+      "slug": "ilha-de-komo-bairro-fitchole"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-bairro-fitchole",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-komo-djugumane",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Komo Djugumane",
+      "en": "Ilha de Komo Djugumane",
+      "slug": "ilha-de-komo-djugumane"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-komo-djugumane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-wedequeia-biura",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Wedequeia Biura",
+      "en": "Ilha de Wedequeia Biura",
+      "slug": "ilha-de-wedequeia-biura"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-wedequeia-biura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilha-de-wedequeia-uagna",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilha de Wedequeia Uagna",
+      "en": "Ilha de Wedequeia Uagna",
+      "slug": "ilha-de-wedequeia-uagna"
+    },
+    "code": {
+      "id": "GW0905_ilha-de-wedequeia-uagna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilheu-de-caiar-ilha-de-abdu",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilheu de Caiar ( Ilha de Abdu)",
+      "en": "Ilheu de Caiar ( Ilha de Abdu)",
+      "slug": "ilheu-de-caiar-ilha-de-abdu"
+    },
+    "code": {
+      "id": "GW0905_ilheu-de-caiar-ilha-de-abdu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilheu-de-caiar-quimore",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilheu de Caiar ( Quimore)",
+      "en": "Ilheu de Caiar ( Quimore)",
+      "slug": "ilheu-de-caiar-quimore"
+    },
+    "code": {
+      "id": "GW0905_ilheu-de-caiar-quimore",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilheu-de-caiar-caiar-i",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilheu de Caiar (Caiar I)",
+      "en": "Ilheu de Caiar (Caiar I)",
+      "slug": "ilheu-de-caiar-caiar-i"
+    },
+    "code": {
+      "id": "GW0905_ilheu-de-caiar-caiar-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilheu-de-caiar-caiar-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilheu de Caiar (Caiar II)",
+      "en": "Ilheu de Caiar (Caiar II)",
+      "slug": "ilheu-de-caiar-caiar-ii"
+    },
+    "code": {
+      "id": "GW0905_ilheu-de-caiar-caiar-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilheu-de-caiar-poilao-de-cinza",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilheu de Caiar (Poilao de Cinza)",
+      "en": "Ilheu de Caiar (Poilao de Cinza)",
+      "slug": "ilheu-de-caiar-poilao-de-cinza"
+    },
+    "code": {
+      "id": "GW0905_ilheu-de-caiar-poilao-de-cinza",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilheu-de-caiar-camuntudo",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilheu de Caiar Camuntudo",
+      "en": "Ilheu de Caiar Camuntudo",
+      "slug": "ilheu-de-caiar-camuntudo"
+    },
+    "code": {
+      "id": "GW0905_ilheu-de-caiar-camuntudo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GW0905_ilheu-de-wedequeia-fatima",
+    "level": 3,
+    "level_name": {
+      "local": "Tabanca",
+      "en": "Tabanca"
+    },
+    "name": {
+      "local": "Ilheu de Wedequeia ( Fatima)",
+      "en": "Ilheu de Wedequeia ( Fatima)",
+      "slug": "ilheu-de-wedequeia-fatima"
+    },
+    "code": {
+      "id": "GW0905_ilheu-de-wedequeia-fatima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GW0905",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GW09",
+        "level": 1,
+        "name": {
+          "local": "Tombali",
+          "en": "Tombali",
+          "slug": "tombali-gw09"
+        }
+      },
+      {
+        "id": "GW0905",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo-gw0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.197",
+      "lon": "-15.318"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

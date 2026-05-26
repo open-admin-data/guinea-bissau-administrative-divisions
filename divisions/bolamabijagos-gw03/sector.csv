@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.tabanca,geo.lat,geo.lon
+GW0301,Bolama,Bolama,bolama-gw0301,GW0301,80,11.567,-15.536
+GW0302,Bubaque,Bubaque,bubaque-gw0302,GW0302,59,11.234,-15.74
+GW0303,Caravela,Caravela,caravela-gw0303,GW0303,47,11.542,-16.343
+GW0304,Uno,Uno,uno-gw0304,GW0304,62,11.113,-16.123
