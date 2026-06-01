@@ -1,61 +1,57 @@
-[
-  {
-    "id": "GW01",
-    "level": 1,
-    "level_name": {
-      "local": "Região",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Bafata",
-      "en": "Bafata",
-      "slug": "bafata-gw01"
-    },
-    "code": {
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/gw/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/guinea-bissau-administrative-divisions",
+  "data": [
+    {
       "id": "GW01",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Região",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Bafata",
+        "en": "Bafata",
+        "slug": "bafata-gw01"
+      },
+      "code": {
+        "id": "GW01",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "sector": 6,
+        "tabanca": 801
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.138",
+        "lon": "-14.755"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gw/regions/bafata-gw01/",
+        "api": "https://openadmindata.org/api/gw/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "sector": 6,
-      "tabanca": 801
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.138",
-      "lon": "-14.755"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0101",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Bafata",
-      "en": "Bafata",
-      "slug": "bafata-gw0101"
-    },
-    "code": {
+    {
       "id": "GW0101",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW01",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
         "local": "Bafata",
         "en": "Bafata",
-        "slug": "bafata-gw01"
-      }
-    },
-    "ancestors": [
-      {
+        "slug": "bafata-gw0101"
+      },
+      "code": {
+        "id": "GW0101",
+        "iso": null
+      },
+      "parent": {
         "id": "GW01",
         "level": 1,
         "name": {
@@ -63,46 +59,46 @@
           "en": "Bafata",
           "slug": "bafata-gw01"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 200
+      },
+      "ancestors": [
+        {
+          "id": "GW01",
+          "level": 1,
+          "name": {
+            "local": "Bafata",
+            "en": "Bafata",
+            "slug": "bafata-gw01"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 200
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.188",
+        "lon": "-14.586"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.188",
-      "lon": "-14.586"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0102",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Bambadinca",
-      "en": "Bambadinca",
-      "slug": "bambadinca-gw0102"
-    },
-    "code": {
+    {
       "id": "GW0102",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW01",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Bafata",
-        "en": "Bafata",
-        "slug": "bafata-gw01"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Bambadinca",
+        "en": "Bambadinca",
+        "slug": "bambadinca-gw0102"
+      },
+      "code": {
+        "id": "GW0102",
+        "iso": null
+      },
+      "parent": {
         "id": "GW01",
         "level": 1,
         "name": {
@@ -110,46 +106,46 @@
           "en": "Bafata",
           "slug": "bafata-gw01"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 135
+      },
+      "ancestors": [
+        {
+          "id": "GW01",
+          "level": 1,
+          "name": {
+            "local": "Bafata",
+            "en": "Bafata",
+            "slug": "bafata-gw01"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 135
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.019",
+        "lon": "-14.853"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.019",
-      "lon": "-14.853"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0103",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Contuboel",
-      "en": "Contuboel",
-      "slug": "contuboel-gw0103"
-    },
-    "code": {
+    {
       "id": "GW0103",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW01",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Bafata",
-        "en": "Bafata",
-        "slug": "bafata-gw01"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Contuboel",
+        "en": "Contuboel",
+        "slug": "contuboel-gw0103"
+      },
+      "code": {
+        "id": "GW0103",
+        "iso": null
+      },
+      "parent": {
         "id": "GW01",
         "level": 1,
         "name": {
@@ -157,46 +153,46 @@
           "en": "Bafata",
           "slug": "bafata-gw01"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 256
+      },
+      "ancestors": [
+        {
+          "id": "GW01",
+          "level": 1,
+          "name": {
+            "local": "Bafata",
+            "en": "Bafata",
+            "slug": "bafata-gw01"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 256
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.481",
+        "lon": "-14.693"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.481",
-      "lon": "-14.693"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0104",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Galomaro/Cosse",
-      "en": "Galomaro/Cosse",
-      "slug": "galomarocosse-gw0104"
-    },
-    "code": {
+    {
       "id": "GW0104",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW01",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Bafata",
-        "en": "Bafata",
-        "slug": "bafata-gw01"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Galomaro/Cosse",
+        "en": "Galomaro/Cosse",
+        "slug": "galomarocosse-gw0104"
+      },
+      "code": {
+        "id": "GW0104",
+        "iso": null
+      },
+      "parent": {
         "id": "GW01",
         "level": 1,
         "name": {
@@ -204,46 +200,46 @@
           "en": "Bafata",
           "slug": "bafata-gw01"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 86
+      },
+      "ancestors": [
+        {
+          "id": "GW01",
+          "level": 1,
+          "name": {
+            "local": "Bafata",
+            "en": "Bafata",
+            "slug": "bafata-gw01"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 86
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.967",
+        "lon": "-14.612"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.967",
-      "lon": "-14.612"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0105",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Gamamudo/Ganadu",
-      "en": "Gamamudo/Ganadu",
-      "slug": "gamamudoganadu-gw0105"
-    },
-    "code": {
+    {
       "id": "GW0105",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW01",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Bafata",
-        "en": "Bafata",
-        "slug": "bafata-gw01"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Gamamudo/Ganadu",
+        "en": "Gamamudo/Ganadu",
+        "slug": "gamamudoganadu-gw0105"
+      },
+      "code": {
+        "id": "GW0105",
+        "iso": null
+      },
+      "parent": {
         "id": "GW01",
         "level": 1,
         "name": {
@@ -251,46 +247,46 @@
           "en": "Bafata",
           "slug": "bafata-gw01"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 0
+      },
+      "ancestors": [
+        {
+          "id": "GW01",
+          "level": 1,
+          "name": {
+            "local": "Bafata",
+            "en": "Bafata",
+            "slug": "bafata-gw01"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.275",
+        "lon": "-14.81"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.275",
-      "lon": "-14.81"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0106",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Xitole",
-      "en": "Xitole",
-      "slug": "xitole-gw0106"
-    },
-    "code": {
+    {
       "id": "GW0106",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW01",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Bafata",
-        "en": "Bafata",
-        "slug": "bafata-gw01"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Xitole",
+        "en": "Xitole",
+        "slug": "xitole-gw0106"
+      },
+      "code": {
+        "id": "GW0106",
+        "iso": null
+      },
+      "parent": {
         "id": "GW01",
         "level": 1,
         "name": {
@@ -298,76 +294,80 @@
           "en": "Bafata",
           "slug": "bafata-gw01"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 124
+      },
+      "ancestors": [
+        {
+          "id": "GW01",
+          "level": 1,
+          "name": {
+            "local": "Bafata",
+            "en": "Bafata",
+            "slug": "bafata-gw01"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 124
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.763",
+        "lon": "-14.68"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.763",
-      "lon": "-14.68"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW02",
-    "level": 1,
-    "level_name": {
-      "local": "Região",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Biombo",
-      "en": "Biombo",
-      "slug": "biombo-gw02"
-    },
-    "code": {
+    {
       "id": "GW02",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Região",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Biombo",
+        "en": "Biombo",
+        "slug": "biombo-gw02"
+      },
+      "code": {
+        "id": "GW02",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "sector": 3,
+        "tabanca": 164
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.881",
+        "lon": "-15.786"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gw/regions/biombo-gw02/",
+        "api": "https://openadmindata.org/api/gw/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "sector": 3,
-      "tabanca": 164
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.881",
-      "lon": "-15.786"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0201",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Quinhamel",
-      "en": "Quinhamel",
-      "slug": "quinhamel-gw0201"
-    },
-    "code": {
+    {
       "id": "GW0201",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW02",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Biombo",
-        "en": "Biombo",
-        "slug": "biombo-gw02"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Quinhamel",
+        "en": "Quinhamel",
+        "slug": "quinhamel-gw0201"
+      },
+      "code": {
+        "id": "GW0201",
+        "iso": null
+      },
+      "parent": {
         "id": "GW02",
         "level": 1,
         "name": {
@@ -375,46 +375,46 @@
           "en": "Biombo",
           "slug": "biombo-gw02"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 66
+      },
+      "ancestors": [
+        {
+          "id": "GW02",
+          "level": 1,
+          "name": {
+            "local": "Biombo",
+            "en": "Biombo",
+            "slug": "biombo-gw02"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 66
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.872",
+        "lon": "-15.869"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.872",
-      "lon": "-15.869"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0202",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Prabis",
-      "en": "Prabis",
-      "slug": "prabis-gw0202"
-    },
-    "code": {
+    {
       "id": "GW0202",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW02",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Biombo",
-        "en": "Biombo",
-        "slug": "biombo-gw02"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Prabis",
+        "en": "Prabis",
+        "slug": "prabis-gw0202"
+      },
+      "code": {
+        "id": "GW0202",
+        "iso": null
+      },
+      "parent": {
         "id": "GW02",
         "level": 1,
         "name": {
@@ -422,46 +422,46 @@
           "en": "Biombo",
           "slug": "biombo-gw02"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 55
+      },
+      "ancestors": [
+        {
+          "id": "GW02",
+          "level": 1,
+          "name": {
+            "local": "Biombo",
+            "en": "Biombo",
+            "slug": "biombo-gw02"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 55
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.811",
+        "lon": "-15.739"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.811",
-      "lon": "-15.739"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0203",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Safim",
-      "en": "Safim",
-      "slug": "safim-gw0203"
-    },
-    "code": {
+    {
       "id": "GW0203",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW02",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Biombo",
-        "en": "Biombo",
-        "slug": "biombo-gw02"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Safim",
+        "en": "Safim",
+        "slug": "safim-gw0203"
+      },
+      "code": {
+        "id": "GW0203",
+        "iso": null
+      },
+      "parent": {
         "id": "GW02",
         "level": 1,
         "name": {
@@ -469,76 +469,80 @@
           "en": "Biombo",
           "slug": "biombo-gw02"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 43
+      },
+      "ancestors": [
+        {
+          "id": "GW02",
+          "level": 1,
+          "name": {
+            "local": "Biombo",
+            "en": "Biombo",
+            "slug": "biombo-gw02"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 43
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.941",
+        "lon": "-15.674"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.941",
-      "lon": "-15.674"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW03",
-    "level": 1,
-    "level_name": {
-      "local": "Região",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Bolama/Bijagos",
-      "en": "Bolama/Bijagos",
-      "slug": "bolamabijagos-gw03"
-    },
-    "code": {
+    {
       "id": "GW03",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Região",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Bolama/Bijagos",
+        "en": "Bolama/Bijagos",
+        "slug": "bolamabijagos-gw03"
+      },
+      "code": {
+        "id": "GW03",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "sector": 4,
+        "tabanca": 248
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.542",
+        "lon": "-16.343"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gw/regions/bolamabijagos-gw03/",
+        "api": "https://openadmindata.org/api/gw/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "sector": 4,
-      "tabanca": 248
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.542",
-      "lon": "-16.343"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0301",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Bolama",
-      "en": "Bolama",
-      "slug": "bolama-gw0301"
-    },
-    "code": {
+    {
       "id": "GW0301",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW03",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Bolama/Bijagos",
-        "en": "Bolama/Bijagos",
-        "slug": "bolamabijagos-gw03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Bolama",
+        "en": "Bolama",
+        "slug": "bolama-gw0301"
+      },
+      "code": {
+        "id": "GW0301",
+        "iso": null
+      },
+      "parent": {
         "id": "GW03",
         "level": 1,
         "name": {
@@ -546,46 +550,46 @@
           "en": "Bolama/Bijagos",
           "slug": "bolamabijagos-gw03"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 80
+      },
+      "ancestors": [
+        {
+          "id": "GW03",
+          "level": 1,
+          "name": {
+            "local": "Bolama/Bijagos",
+            "en": "Bolama/Bijagos",
+            "slug": "bolamabijagos-gw03"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 80
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.567",
+        "lon": "-15.536"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.567",
-      "lon": "-15.536"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0302",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Bubaque",
-      "en": "Bubaque",
-      "slug": "bubaque-gw0302"
-    },
-    "code": {
+    {
       "id": "GW0302",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW03",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Bolama/Bijagos",
-        "en": "Bolama/Bijagos",
-        "slug": "bolamabijagos-gw03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Bubaque",
+        "en": "Bubaque",
+        "slug": "bubaque-gw0302"
+      },
+      "code": {
+        "id": "GW0302",
+        "iso": null
+      },
+      "parent": {
         "id": "GW03",
         "level": 1,
         "name": {
@@ -593,46 +597,46 @@
           "en": "Bolama/Bijagos",
           "slug": "bolamabijagos-gw03"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 59
+      },
+      "ancestors": [
+        {
+          "id": "GW03",
+          "level": 1,
+          "name": {
+            "local": "Bolama/Bijagos",
+            "en": "Bolama/Bijagos",
+            "slug": "bolamabijagos-gw03"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 59
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.234",
+        "lon": "-15.74"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.234",
-      "lon": "-15.74"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0303",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Caravela",
-      "en": "Caravela",
-      "slug": "caravela-gw0303"
-    },
-    "code": {
+    {
       "id": "GW0303",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW03",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Bolama/Bijagos",
-        "en": "Bolama/Bijagos",
-        "slug": "bolamabijagos-gw03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Caravela",
+        "en": "Caravela",
+        "slug": "caravela-gw0303"
+      },
+      "code": {
+        "id": "GW0303",
+        "iso": null
+      },
+      "parent": {
         "id": "GW03",
         "level": 1,
         "name": {
@@ -640,46 +644,46 @@
           "en": "Bolama/Bijagos",
           "slug": "bolamabijagos-gw03"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 47
+      },
+      "ancestors": [
+        {
+          "id": "GW03",
+          "level": 1,
+          "name": {
+            "local": "Bolama/Bijagos",
+            "en": "Bolama/Bijagos",
+            "slug": "bolamabijagos-gw03"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 47
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.542",
+        "lon": "-16.343"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.542",
-      "lon": "-16.343"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0304",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Uno",
-      "en": "Uno",
-      "slug": "uno-gw0304"
-    },
-    "code": {
+    {
       "id": "GW0304",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW03",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Bolama/Bijagos",
-        "en": "Bolama/Bijagos",
-        "slug": "bolamabijagos-gw03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Uno",
+        "en": "Uno",
+        "slug": "uno-gw0304"
+      },
+      "code": {
+        "id": "GW0304",
+        "iso": null
+      },
+      "parent": {
         "id": "GW03",
         "level": 1,
         "name": {
@@ -687,76 +691,80 @@
           "en": "Bolama/Bijagos",
           "slug": "bolamabijagos-gw03"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 62
+      },
+      "ancestors": [
+        {
+          "id": "GW03",
+          "level": 1,
+          "name": {
+            "local": "Bolama/Bijagos",
+            "en": "Bolama/Bijagos",
+            "slug": "bolamabijagos-gw03"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 62
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.113",
+        "lon": "-16.123"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.113",
-      "lon": "-16.123"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW04",
-    "level": 1,
-    "level_name": {
-      "local": "Região",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Cacheu",
-      "en": "Cacheu",
-      "slug": "cacheu-gw04"
-    },
-    "code": {
+    {
       "id": "GW04",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Região",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Cacheu",
+        "en": "Cacheu",
+        "slug": "cacheu-gw04"
+      },
+      "code": {
+        "id": "GW04",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "sector": 6,
+        "tabanca": 651
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.194",
+        "lon": "-15.99"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gw/regions/cacheu-gw04/",
+        "api": "https://openadmindata.org/api/gw/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "sector": 6,
-      "tabanca": 651
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.194",
-      "lon": "-15.99"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0401",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Bigene",
-      "en": "Bigene",
-      "slug": "bigene-gw0401"
-    },
-    "code": {
+    {
       "id": "GW0401",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW04",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Cacheu",
-        "en": "Cacheu",
-        "slug": "cacheu-gw04"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Bigene",
+        "en": "Bigene",
+        "slug": "bigene-gw0401"
+      },
+      "code": {
+        "id": "GW0401",
+        "iso": null
+      },
+      "parent": {
         "id": "GW04",
         "level": 1,
         "name": {
@@ -764,46 +772,46 @@
           "en": "Cacheu",
           "slug": "cacheu-gw04"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 184
+      },
+      "ancestors": [
+        {
+          "id": "GW04",
+          "level": 1,
+          "name": {
+            "local": "Cacheu",
+            "en": "Cacheu",
+            "slug": "cacheu-gw04"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 184
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.362",
+        "lon": "-15.836"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.362",
-      "lon": "-15.836"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0402",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Bula",
-      "en": "Bula",
-      "slug": "bula-gw0402"
-    },
-    "code": {
+    {
       "id": "GW0402",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW04",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Cacheu",
-        "en": "Cacheu",
-        "slug": "cacheu-gw04"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Bula",
+        "en": "Bula",
+        "slug": "bula-gw0402"
+      },
+      "code": {
+        "id": "GW0402",
+        "iso": null
+      },
+      "parent": {
         "id": "GW04",
         "level": 1,
         "name": {
@@ -811,46 +819,46 @@
           "en": "Cacheu",
           "slug": "cacheu-gw04"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 141
+      },
+      "ancestors": [
+        {
+          "id": "GW04",
+          "level": 1,
+          "name": {
+            "local": "Cacheu",
+            "en": "Cacheu",
+            "slug": "cacheu-gw04"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 141
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.141",
+        "lon": "-15.757"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.141",
-      "lon": "-15.757"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0403",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Cacheu/Calequisse",
-      "en": "Cacheu/Calequisse",
-      "slug": "cacheucalequisse-gw0403"
-    },
-    "code": {
+    {
       "id": "GW0403",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW04",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Cacheu",
-        "en": "Cacheu",
-        "slug": "cacheu-gw04"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Cacheu/Calequisse",
+        "en": "Cacheu/Calequisse",
+        "slug": "cacheucalequisse-gw0403"
+      },
+      "code": {
+        "id": "GW0403",
+        "iso": null
+      },
+      "parent": {
         "id": "GW04",
         "level": 1,
         "name": {
@@ -858,46 +866,46 @@
           "en": "Cacheu",
           "slug": "cacheu-gw04"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 0
+      },
+      "ancestors": [
+        {
+          "id": "GW04",
+          "level": 1,
+          "name": {
+            "local": "Cacheu",
+            "en": "Cacheu",
+            "slug": "cacheu-gw04"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.164",
+        "lon": "-16.11"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.164",
-      "lon": "-16.11"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0404",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Caio",
-      "en": "Caio",
-      "slug": "caio-gw0404"
-    },
-    "code": {
+    {
       "id": "GW0404",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW04",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Cacheu",
-        "en": "Cacheu",
-        "slug": "cacheu-gw04"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Caio",
+        "en": "Caio",
+        "slug": "caio-gw0404"
+      },
+      "code": {
+        "id": "GW0404",
+        "iso": null
+      },
+      "parent": {
         "id": "GW04",
         "level": 1,
         "name": {
@@ -905,46 +913,46 @@
           "en": "Cacheu",
           "slug": "cacheu-gw04"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 87
+      },
+      "ancestors": [
+        {
+          "id": "GW04",
+          "level": 1,
+          "name": {
+            "local": "Cacheu",
+            "en": "Cacheu",
+            "slug": "cacheu-gw04"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 87
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.952",
+        "lon": "-16.181"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.952",
-      "lon": "-16.181"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0405",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Canchungo",
-      "en": "Canchungo",
-      "slug": "canchungo-gw0405"
-    },
-    "code": {
+    {
       "id": "GW0405",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW04",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Cacheu",
-        "en": "Cacheu",
-        "slug": "cacheu-gw04"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Canchungo",
+        "en": "Canchungo",
+        "slug": "canchungo-gw0405"
+      },
+      "code": {
+        "id": "GW0405",
+        "iso": null
+      },
+      "parent": {
         "id": "GW04",
         "level": 1,
         "name": {
@@ -952,46 +960,46 @@
           "en": "Cacheu",
           "slug": "cacheu-gw04"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 122
+      },
+      "ancestors": [
+        {
+          "id": "GW04",
+          "level": 1,
+          "name": {
+            "local": "Cacheu",
+            "en": "Cacheu",
+            "slug": "cacheu-gw04"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 122
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.071",
+        "lon": "-16.012"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.071",
-      "lon": "-16.012"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0406",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Sao Domingos",
-      "en": "Sao Domingos",
-      "slug": "sao-domingos-gw0406"
-    },
-    "code": {
+    {
       "id": "GW0406",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW04",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Cacheu",
-        "en": "Cacheu",
-        "slug": "cacheu-gw04"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-gw0406"
+      },
+      "code": {
+        "id": "GW0406",
+        "iso": null
+      },
+      "parent": {
         "id": "GW04",
         "level": 1,
         "name": {
@@ -999,76 +1007,80 @@
           "en": "Cacheu",
           "slug": "cacheu-gw04"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 117
+      },
+      "ancestors": [
+        {
+          "id": "GW04",
+          "level": 1,
+          "name": {
+            "local": "Cacheu",
+            "en": "Cacheu",
+            "slug": "cacheu-gw04"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 117
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.321",
+        "lon": "-16.364"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.321",
-      "lon": "-16.364"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW05",
-    "level": 1,
-    "level_name": {
-      "local": "Região",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Gabu",
-      "en": "Gabu",
-      "slug": "gabu-gw05"
-    },
-    "code": {
+    {
       "id": "GW05",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Região",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Gabu",
+        "en": "Gabu",
+        "slug": "gabu-gw05"
+      },
+      "code": {
+        "id": "GW05",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "sector": 5,
+        "tabanca": 574
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.119",
+        "lon": "-14.187"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gw/regions/gabu-gw05/",
+        "api": "https://openadmindata.org/api/gw/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "sector": 5,
-      "tabanca": 574
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.119",
-      "lon": "-14.187"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0501",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Boe",
-      "en": "Boe",
-      "slug": "boe-gw0501"
-    },
-    "code": {
+    {
       "id": "GW0501",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW05",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Gabu",
-        "en": "Gabu",
-        "slug": "gabu-gw05"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Boe",
+        "en": "Boe",
+        "slug": "boe-gw0501"
+      },
+      "code": {
+        "id": "GW0501",
+        "iso": null
+      },
+      "parent": {
         "id": "GW05",
         "level": 1,
         "name": {
@@ -1076,46 +1088,46 @@
           "en": "Gabu",
           "slug": "gabu-gw05"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 82
+      },
+      "ancestors": [
+        {
+          "id": "GW05",
+          "level": 1,
+          "name": {
+            "local": "Gabu",
+            "en": "Gabu",
+            "slug": "gabu-gw05"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 82
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.858",
+        "lon": "-14.1"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.858",
-      "lon": "-14.1"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0502",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Gabu",
-      "en": "Gabu",
-      "slug": "gabu-gw0502"
-    },
-    "code": {
+    {
       "id": "GW0502",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW05",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
         "local": "Gabu",
         "en": "Gabu",
-        "slug": "gabu-gw05"
-      }
-    },
-    "ancestors": [
-      {
+        "slug": "gabu-gw0502"
+      },
+      "code": {
+        "id": "GW0502",
+        "iso": null
+      },
+      "parent": {
         "id": "GW05",
         "level": 1,
         "name": {
@@ -1123,46 +1135,46 @@
           "en": "Gabu",
           "slug": "gabu-gw05"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 0
+      },
+      "ancestors": [
+        {
+          "id": "GW05",
+          "level": 1,
+          "name": {
+            "local": "Gabu",
+            "en": "Gabu",
+            "slug": "gabu-gw05"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.173",
+        "lon": "-14.223"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.173",
-      "lon": "-14.223"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0503",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Pirada",
-      "en": "Pirada",
-      "slug": "pirada-gw0503"
-    },
-    "code": {
+    {
       "id": "GW0503",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW05",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Gabu",
-        "en": "Gabu",
-        "slug": "gabu-gw05"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Pirada",
+        "en": "Pirada",
+        "slug": "pirada-gw0503"
+      },
+      "code": {
+        "id": "GW0503",
+        "iso": null
+      },
+      "parent": {
         "id": "GW05",
         "level": 1,
         "name": {
@@ -1170,46 +1182,46 @@
           "en": "Gabu",
           "slug": "gabu-gw05"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 118
+      },
+      "ancestors": [
+        {
+          "id": "GW05",
+          "level": 1,
+          "name": {
+            "local": "Gabu",
+            "en": "Gabu",
+            "slug": "gabu-gw05"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 118
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.542",
+        "lon": "-14.097"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.542",
-      "lon": "-14.097"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0504",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Pitche",
-      "en": "Pitche",
-      "slug": "pitche-gw0504"
-    },
-    "code": {
+    {
       "id": "GW0504",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW05",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Gabu",
-        "en": "Gabu",
-        "slug": "gabu-gw05"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Pitche",
+        "en": "Pitche",
+        "slug": "pitche-gw0504"
+      },
+      "code": {
+        "id": "GW0504",
+        "iso": null
+      },
+      "parent": {
         "id": "GW05",
         "level": 1,
         "name": {
@@ -1217,46 +1229,46 @@
           "en": "Gabu",
           "slug": "gabu-gw05"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 226
+      },
+      "ancestors": [
+        {
+          "id": "GW05",
+          "level": 1,
+          "name": {
+            "local": "Gabu",
+            "en": "Gabu",
+            "slug": "gabu-gw05"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 226
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.4",
+        "lon": "-13.875"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.4",
-      "lon": "-13.875"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0505",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Sonaco",
-      "en": "Sonaco",
-      "slug": "sonaco-gw0505"
-    },
-    "code": {
+    {
       "id": "GW0505",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW05",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Gabu",
-        "en": "Gabu",
-        "slug": "gabu-gw05"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Sonaco",
+        "en": "Sonaco",
+        "slug": "sonaco-gw0505"
+      },
+      "code": {
+        "id": "GW0505",
+        "iso": null
+      },
+      "parent": {
         "id": "GW05",
         "level": 1,
         "name": {
@@ -1264,76 +1276,80 @@
           "en": "Gabu",
           "slug": "gabu-gw05"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 148
+      },
+      "ancestors": [
+        {
+          "id": "GW05",
+          "level": 1,
+          "name": {
+            "local": "Gabu",
+            "en": "Gabu",
+            "slug": "gabu-gw05"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 148
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.39",
+        "lon": "-14.403"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.39",
-      "lon": "-14.403"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW06",
-    "level": 1,
-    "level_name": {
-      "local": "Região",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Oio",
-      "en": "Oio",
-      "slug": "oio-gw06"
-    },
-    "code": {
+    {
       "id": "GW06",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Região",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Oio",
+        "en": "Oio",
+        "slug": "oio-gw06"
+      },
+      "code": {
+        "id": "GW06",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "sector": 5,
+        "tabanca": 822
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.287",
+        "lon": "-15.341"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gw/regions/oio-gw06/",
+        "api": "https://openadmindata.org/api/gw/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "sector": 5,
-      "tabanca": 822
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.287",
-      "lon": "-15.341"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0601",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Bissora",
-      "en": "Bissora",
-      "slug": "bissora-gw0601"
-    },
-    "code": {
+    {
       "id": "GW0601",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW06",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Oio",
-        "en": "Oio",
-        "slug": "oio-gw06"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Bissora",
+        "en": "Bissora",
+        "slug": "bissora-gw0601"
+      },
+      "code": {
+        "id": "GW0601",
+        "iso": null
+      },
+      "parent": {
         "id": "GW06",
         "level": 1,
         "name": {
@@ -1341,46 +1357,46 @@
           "en": "Oio",
           "slug": "oio-gw06"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 182
+      },
+      "ancestors": [
+        {
+          "id": "GW06",
+          "level": 1,
+          "name": {
+            "local": "Oio",
+            "en": "Oio",
+            "slug": "oio-gw06"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 182
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.198",
+        "lon": "-15.503"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.198",
-      "lon": "-15.503"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0602",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Farim",
-      "en": "Farim",
-      "slug": "farim-gw0602"
-    },
-    "code": {
+    {
       "id": "GW0602",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW06",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Oio",
-        "en": "Oio",
-        "slug": "oio-gw06"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Farim",
+        "en": "Farim",
+        "slug": "farim-gw0602"
+      },
+      "code": {
+        "id": "GW0602",
+        "iso": null
+      },
+      "parent": {
         "id": "GW06",
         "level": 1,
         "name": {
@@ -1388,46 +1404,46 @@
           "en": "Oio",
           "slug": "oio-gw06"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 263
+      },
+      "ancestors": [
+        {
+          "id": "GW06",
+          "level": 1,
+          "name": {
+            "local": "Oio",
+            "en": "Oio",
+            "slug": "oio-gw06"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 263
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.526",
+        "lon": "-15.176"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.526",
-      "lon": "-15.176"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0603",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Mansaba",
-      "en": "Mansaba",
-      "slug": "mansaba-gw0603"
-    },
-    "code": {
+    {
       "id": "GW0603",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW06",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Oio",
-        "en": "Oio",
-        "slug": "oio-gw06"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Mansaba",
+        "en": "Mansaba",
+        "slug": "mansaba-gw0603"
+      },
+      "code": {
+        "id": "GW0603",
+        "iso": null
+      },
+      "parent": {
         "id": "GW06",
         "level": 1,
         "name": {
@@ -1435,46 +1451,46 @@
           "en": "Oio",
           "slug": "oio-gw06"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 145
+      },
+      "ancestors": [
+        {
+          "id": "GW06",
+          "level": 1,
+          "name": {
+            "local": "Oio",
+            "en": "Oio",
+            "slug": "oio-gw06"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 145
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.328",
+        "lon": "-15.199"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.328",
-      "lon": "-15.199"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0604",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Mansoa",
-      "en": "Mansoa",
-      "slug": "mansoa-gw0604"
-    },
-    "code": {
+    {
       "id": "GW0604",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW06",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Oio",
-        "en": "Oio",
-        "slug": "oio-gw06"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Mansoa",
+        "en": "Mansoa",
+        "slug": "mansoa-gw0604"
+      },
+      "code": {
+        "id": "GW0604",
+        "iso": null
+      },
+      "parent": {
         "id": "GW06",
         "level": 1,
         "name": {
@@ -1482,46 +1498,46 @@
           "en": "Oio",
           "slug": "oio-gw06"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 165
+      },
+      "ancestors": [
+        {
+          "id": "GW06",
+          "level": 1,
+          "name": {
+            "local": "Oio",
+            "en": "Oio",
+            "slug": "oio-gw06"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 165
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.05",
+        "lon": "-15.227"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "12.05",
-      "lon": "-15.227"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0605",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Nhacra",
-      "en": "Nhacra",
-      "slug": "nhacra-gw0605"
-    },
-    "code": {
+    {
       "id": "GW0605",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW06",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Oio",
-        "en": "Oio",
-        "slug": "oio-gw06"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Nhacra",
+        "en": "Nhacra",
+        "slug": "nhacra-gw0605"
+      },
+      "code": {
+        "id": "GW0605",
+        "iso": null
+      },
+      "parent": {
         "id": "GW06",
         "level": 1,
         "name": {
@@ -1529,76 +1545,80 @@
           "en": "Oio",
           "slug": "oio-gw06"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 67
+      },
+      "ancestors": [
+        {
+          "id": "GW06",
+          "level": 1,
+          "name": {
+            "local": "Oio",
+            "en": "Oio",
+            "slug": "oio-gw06"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 67
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.972",
+        "lon": "-15.509"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.972",
-      "lon": "-15.509"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW07",
-    "level": 1,
-    "level_name": {
-      "local": "Região",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Quinara",
-      "en": "Quinara",
-      "slug": "quinara-gw07"
-    },
-    "code": {
+    {
       "id": "GW07",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Região",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Quinara",
+        "en": "Quinara",
+        "slug": "quinara-gw07"
+      },
+      "code": {
+        "id": "GW07",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "sector": 4,
+        "tabanca": 220
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.635",
+        "lon": "-14.97"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gw/regions/quinara-gw07/",
+        "api": "https://openadmindata.org/api/gw/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "sector": 4,
-      "tabanca": 220
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.635",
-      "lon": "-14.97"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0701",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Buba",
-      "en": "Buba",
-      "slug": "buba-gw0701"
-    },
-    "code": {
+    {
       "id": "GW0701",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW07",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Quinara",
-        "en": "Quinara",
-        "slug": "quinara-gw07"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Buba",
+        "en": "Buba",
+        "slug": "buba-gw0701"
+      },
+      "code": {
+        "id": "GW0701",
+        "iso": null
+      },
+      "parent": {
         "id": "GW07",
         "level": 1,
         "name": {
@@ -1606,46 +1626,46 @@
           "en": "Quinara",
           "slug": "quinara-gw07"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 0
+      },
+      "ancestors": [
+        {
+          "id": "GW07",
+          "level": 1,
+          "name": {
+            "local": "Quinara",
+            "en": "Quinara",
+            "slug": "quinara-gw07"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.622",
+        "lon": "-14.975"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.622",
-      "lon": "-14.975"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0702",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Empada",
-      "en": "Empada",
-      "slug": "empada-gw0702"
-    },
-    "code": {
+    {
       "id": "GW0702",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW07",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Quinara",
-        "en": "Quinara",
-        "slug": "quinara-gw07"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Empada",
+        "en": "Empada",
+        "slug": "empada-gw0702"
+      },
+      "code": {
+        "id": "GW0702",
+        "iso": null
+      },
+      "parent": {
         "id": "GW07",
         "level": 1,
         "name": {
@@ -1653,46 +1673,46 @@
           "en": "Quinara",
           "slug": "quinara-gw07"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 87
+      },
+      "ancestors": [
+        {
+          "id": "GW07",
+          "level": 1,
+          "name": {
+            "local": "Quinara",
+            "en": "Quinara",
+            "slug": "quinara-gw07"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 87
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.487",
+        "lon": "-15.25"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.487",
-      "lon": "-15.25"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0703",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Fulacunda",
-      "en": "Fulacunda",
-      "slug": "fulacunda-gw0703"
-    },
-    "code": {
+    {
       "id": "GW0703",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW07",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Quinara",
-        "en": "Quinara",
-        "slug": "quinara-gw07"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Fulacunda",
+        "en": "Fulacunda",
+        "slug": "fulacunda-gw0703"
+      },
+      "code": {
+        "id": "GW0703",
+        "iso": null
+      },
+      "parent": {
         "id": "GW07",
         "level": 1,
         "name": {
@@ -1700,46 +1720,46 @@
           "en": "Quinara",
           "slug": "quinara-gw07"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 71
+      },
+      "ancestors": [
+        {
+          "id": "GW07",
+          "level": 1,
+          "name": {
+            "local": "Quinara",
+            "en": "Quinara",
+            "slug": "quinara-gw07"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 71
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.788",
+        "lon": "-15.141"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.788",
-      "lon": "-15.141"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0704",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Tite",
-      "en": "Tite",
-      "slug": "tite-gw0704"
-    },
-    "code": {
+    {
       "id": "GW0704",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW07",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Quinara",
-        "en": "Quinara",
-        "slug": "quinara-gw07"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Tite",
+        "en": "Tite",
+        "slug": "tite-gw0704"
+      },
+      "code": {
+        "id": "GW0704",
+        "iso": null
+      },
+      "parent": {
         "id": "GW07",
         "level": 1,
         "name": {
@@ -1747,76 +1767,80 @@
           "en": "Quinara",
           "slug": "quinara-gw07"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 62
+      },
+      "ancestors": [
+        {
+          "id": "GW07",
+          "level": 1,
+          "name": {
+            "local": "Quinara",
+            "en": "Quinara",
+            "slug": "quinara-gw07"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 62
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.759",
+        "lon": "-15.403"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.759",
-      "lon": "-15.403"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW08",
-    "level": 1,
-    "level_name": {
-      "local": "Região",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Bissau",
-      "en": "Bissau",
-      "slug": "bissau-gw08"
-    },
-    "code": {
-      "id": "GW08",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "sector": 1,
-      "tabanca": 0
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.869",
-      "lon": "-15.612"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0800",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Sector Autonomo de Bissau",
-      "en": "Sector Autonomo de Bissau",
-      "slug": "sector-autonomo-de-bissau-gw0800"
-    },
-    "code": {
-      "id": "GW0800",
-      "iso": null
-    },
-    "parent": {
+    {
       "id": "GW08",
       "level": 1,
+      "level_name": {
+        "local": "Região",
+        "en": "Region"
+      },
       "name": {
         "local": "Bissau",
         "en": "Bissau",
         "slug": "bissau-gw08"
+      },
+      "code": {
+        "id": "GW08",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "sector": 1,
+        "tabanca": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.869",
+        "lon": "-15.612"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gw/regions/bissau-gw08/",
+        "api": "https://openadmindata.org/api/gw/"
       }
     },
-    "ancestors": [
-      {
+    {
+      "id": "GW0800",
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
+      "name": {
+        "local": "Sector Autonomo de Bissau",
+        "en": "Sector Autonomo de Bissau",
+        "slug": "sector-autonomo-de-bissau-gw0800"
+      },
+      "code": {
+        "id": "GW0800",
+        "iso": null
+      },
+      "parent": {
         "id": "GW08",
         "level": 1,
         "name": {
@@ -1824,76 +1848,80 @@
           "en": "Bissau",
           "slug": "bissau-gw08"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 0
+      },
+      "ancestors": [
+        {
+          "id": "GW08",
+          "level": 1,
+          "name": {
+            "local": "Bissau",
+            "en": "Bissau",
+            "slug": "bissau-gw08"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.869",
+        "lon": "-15.612"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.869",
-      "lon": "-15.612"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW09",
-    "level": 1,
-    "level_name": {
-      "local": "Região",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Tombali",
-      "en": "Tombali",
-      "slug": "tombali-gw09"
-    },
-    "code": {
+    {
       "id": "GW09",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Região",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Tombali",
+        "en": "Tombali",
+        "slug": "tombali-gw09"
+      },
+      "code": {
+        "id": "GW09",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "sector": 5,
+        "tabanca": 425
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.306",
+        "lon": "-15.112"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gw/regions/tombali-gw09/",
+        "api": "https://openadmindata.org/api/gw/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "sector": 5,
-      "tabanca": 425
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.306",
-      "lon": "-15.112"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0901",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Bedanda",
-      "en": "Bedanda",
-      "slug": "bedanda-gw0901"
-    },
-    "code": {
+    {
       "id": "GW0901",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW09",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Tombali",
-        "en": "Tombali",
-        "slug": "tombali-gw09"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Bedanda",
+        "en": "Bedanda",
+        "slug": "bedanda-gw0901"
+      },
+      "code": {
+        "id": "GW0901",
+        "iso": null
+      },
+      "parent": {
         "id": "GW09",
         "level": 1,
         "name": {
@@ -1901,46 +1929,46 @@
           "en": "Tombali",
           "slug": "tombali-gw09"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 137
+      },
+      "ancestors": [
+        {
+          "id": "GW09",
+          "level": 1,
+          "name": {
+            "local": "Tombali",
+            "en": "Tombali",
+            "slug": "tombali-gw09"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 137
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.257",
+        "lon": "-15.023"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.257",
-      "lon": "-15.023"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0902",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Cacine",
-      "en": "Cacine",
-      "slug": "cacine-gw0902"
-    },
-    "code": {
+    {
       "id": "GW0902",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW09",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Tombali",
-        "en": "Tombali",
-        "slug": "tombali-gw09"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Cacine",
+        "en": "Cacine",
+        "slug": "cacine-gw0902"
+      },
+      "code": {
+        "id": "GW0902",
+        "iso": null
+      },
+      "parent": {
         "id": "GW09",
         "level": 1,
         "name": {
@@ -1948,46 +1976,46 @@
           "en": "Tombali",
           "slug": "tombali-gw09"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 94
+      },
+      "ancestors": [
+        {
+          "id": "GW09",
+          "level": 1,
+          "name": {
+            "local": "Tombali",
+            "en": "Tombali",
+            "slug": "tombali-gw09"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 94
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.107",
+        "lon": "-14.978"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.107",
-      "lon": "-14.978"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0903",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Catio",
-      "en": "Catio",
-      "slug": "catio-gw0903"
-    },
-    "code": {
+    {
       "id": "GW0903",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW09",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Tombali",
-        "en": "Tombali",
-        "slug": "tombali-gw09"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Catio",
+        "en": "Catio",
+        "slug": "catio-gw0903"
+      },
+      "code": {
+        "id": "GW0903",
+        "iso": null
+      },
+      "parent": {
         "id": "GW09",
         "level": 1,
         "name": {
@@ -1995,46 +2023,46 @@
           "en": "Tombali",
           "slug": "tombali-gw09"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 105
+      },
+      "ancestors": [
+        {
+          "id": "GW09",
+          "level": 1,
+          "name": {
+            "local": "Tombali",
+            "en": "Tombali",
+            "slug": "tombali-gw09"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 105
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.342",
+        "lon": "-15.263"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.342",
-      "lon": "-15.263"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0904",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Quebo",
-      "en": "Quebo",
-      "slug": "quebo-gw0904"
-    },
-    "code": {
+    {
       "id": "GW0904",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW09",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Tombali",
-        "en": "Tombali",
-        "slug": "tombali-gw09"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Quebo",
+        "en": "Quebo",
+        "slug": "quebo-gw0904"
+      },
+      "code": {
+        "id": "GW0904",
+        "iso": null
+      },
+      "parent": {
         "id": "GW09",
         "level": 1,
         "name": {
@@ -2042,46 +2070,46 @@
           "en": "Tombali",
           "slug": "tombali-gw09"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 56
+      },
+      "ancestors": [
+        {
+          "id": "GW09",
+          "level": 1,
+          "name": {
+            "local": "Tombali",
+            "en": "Tombali",
+            "slug": "tombali-gw09"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 56
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.514",
+        "lon": "-14.706"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.514",
-      "lon": "-14.706"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "GW0905",
-    "level": 2,
-    "level_name": {
-      "local": "Sector",
-      "en": "Sector"
-    },
-    "name": {
-      "local": "Komo",
-      "en": "Komo",
-      "slug": "komo-gw0905"
-    },
-    "code": {
+    {
       "id": "GW0905",
-      "iso": null
-    },
-    "parent": {
-      "id": "GW09",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Sector",
+        "en": "Sector"
+      },
       "name": {
-        "local": "Tombali",
-        "en": "Tombali",
-        "slug": "tombali-gw09"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo-gw0905"
+      },
+      "code": {
+        "id": "GW0905",
+        "iso": null
+      },
+      "parent": {
         "id": "GW09",
         "level": 1,
         "name": {
@@ -2089,17 +2117,28 @@
           "en": "Tombali",
           "slug": "tombali-gw09"
         }
-      }
-    ],
-    "children_count": {
-      "tabanca": 33
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "11.197",
-      "lon": "-15.318"
-    },
-    "metadata": {},
-    "source": {}
-  }
-]
+      },
+      "ancestors": [
+        {
+          "id": "GW09",
+          "level": 1,
+          "name": {
+            "local": "Tombali",
+            "en": "Tombali",
+            "slug": "tombali-gw09"
+          }
+        }
+      ],
+      "children_count": {
+        "tabanca": 33
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "11.197",
+        "lon": "-15.318"
+      },
+      "metadata": {},
+      "source": {}
+    }
+  ]
+}

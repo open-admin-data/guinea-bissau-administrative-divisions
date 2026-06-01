@@ -26,5 +26,9 @@
     "lon": "-15.341"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gw/regions/oio-gw06/",
+    "api": "https://openadmindata.org/api/gw/"
+  }
 }

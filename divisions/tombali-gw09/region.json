@@ -26,5 +26,9 @@
     "lon": "-15.112"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gw/regions/tombali-gw09/",
+    "api": "https://openadmindata.org/api/gw/"
+  }
 }

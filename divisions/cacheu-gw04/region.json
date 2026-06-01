@@ -26,5 +26,9 @@
     "lon": "-15.99"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gw/regions/cacheu-gw04/",
+    "api": "https://openadmindata.org/api/gw/"
+  }
 }

@@ -3,7 +3,7 @@
 > 6 sectors, 651 tabancas
 > Code: GW04
 > Coordinates: 12.194, -15.99
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Sectors
 

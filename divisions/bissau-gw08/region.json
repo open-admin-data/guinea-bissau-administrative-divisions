@@ -26,5 +26,9 @@
     "lon": "-15.612"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gw/regions/bissau-gw08/",
+    "api": "https://openadmindata.org/api/gw/"
+  }
 }

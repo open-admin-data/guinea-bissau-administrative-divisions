@@ -3,7 +3,7 @@
 > 3 sectors, 164 tabancas
 > Code: GW02
 > Coordinates: 11.881, -15.786
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Sectors
 

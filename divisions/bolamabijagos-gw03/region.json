@@ -26,5 +26,9 @@
     "lon": "-16.343"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gw/regions/bolamabijagos-gw03/",
+    "api": "https://openadmindata.org/api/gw/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "-14.97"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gw/regions/quinara-gw07/",
+    "api": "https://openadmindata.org/api/gw/"
+  }
 }

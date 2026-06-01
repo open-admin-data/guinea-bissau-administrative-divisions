@@ -26,5 +26,9 @@
     "lon": "-15.786"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gw/regions/biombo-gw02/",
+    "api": "https://openadmindata.org/api/gw/"
+  }
 }

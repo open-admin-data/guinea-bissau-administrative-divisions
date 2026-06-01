@@ -27,7 +27,11 @@
       "lon": "-16.343"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gw/regions/bolamabijagos-gw03/",
+      "api": "https://openadmindata.org/api/gw/"
+    }
   },
   {
     "id": "GW09",
@@ -57,7 +61,11 @@
       "lon": "-15.112"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gw/regions/tombali-gw09/",
+      "api": "https://openadmindata.org/api/gw/"
+    }
   },
   {
     "id": "GW08",
@@ -87,7 +95,11 @@
       "lon": "-15.612"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gw/regions/bissau-gw08/",
+      "api": "https://openadmindata.org/api/gw/"
+    }
   },
   {
     "id": "GW07",
@@ -117,7 +129,11 @@
       "lon": "-14.97"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gw/regions/quinara-gw07/",
+      "api": "https://openadmindata.org/api/gw/"
+    }
   },
   {
     "id": "GW02",
@@ -147,7 +163,11 @@
       "lon": "-15.786"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gw/regions/biombo-gw02/",
+      "api": "https://openadmindata.org/api/gw/"
+    }
   },
   {
     "id": "GW04",
@@ -177,7 +197,11 @@
       "lon": "-15.99"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gw/regions/cacheu-gw04/",
+      "api": "https://openadmindata.org/api/gw/"
+    }
   },
   {
     "id": "GW05",
@@ -207,7 +231,11 @@
       "lon": "-14.187"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gw/regions/gabu-gw05/",
+      "api": "https://openadmindata.org/api/gw/"
+    }
   },
   {
     "id": "GW01",
@@ -237,7 +265,11 @@
       "lon": "-14.755"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gw/regions/bafata-gw01/",
+      "api": "https://openadmindata.org/api/gw/"
+    }
   },
   {
     "id": "GW06",
@@ -267,6 +299,10 @@
       "lon": "-15.341"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gw/regions/oio-gw06/",
+      "api": "https://openadmindata.org/api/gw/"
+    }
   }
 ]

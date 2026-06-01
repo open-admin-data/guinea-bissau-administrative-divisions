@@ -26,5 +26,9 @@
     "lon": "-14.187"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gw/regions/gabu-gw05/",
+    "api": "https://openadmindata.org/api/gw/"
+  }
 }
