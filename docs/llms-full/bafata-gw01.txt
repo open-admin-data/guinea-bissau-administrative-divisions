@@ -3,7 +3,7 @@
 > 6 sectors, 801 tabancas
 > Code: GW01
 > Coordinates: 12.138, -14.755
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Sectors
 

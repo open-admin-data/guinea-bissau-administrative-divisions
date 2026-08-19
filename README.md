@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-01 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/gw](https://openadmindata.org/gw/) |
 | API | [openadmindata.org/api/gw](https://openadmindata.org/api/gw/) |
+| National Anthem | [🎵 Listen & Download Guinea-Bissau National Anthem MP3](https://onlygames.me/national-anthems/gw/) |
 
 ## Browse by Region
 
