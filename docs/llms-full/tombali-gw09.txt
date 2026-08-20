@@ -3,7 +3,7 @@
 > 5 sectors, 425 tabancas
 > Code: GW09
 > Coordinates: 11.306, -15.112
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Sectors
 
