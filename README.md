@@ -12,11 +12,12 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-08 |
 | Website | [openadmindata.org/gw](https://openadmindata.org/gw/) |
 | API | [openadmindata.org/api/gw](https://openadmindata.org/api/gw/) |
 | Flag | [PNG](https://onlygames.me/flags-png/gw/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Guinea-Bissau National Anthem MP3](https://onlygames.me/national-anthems/gw/) |
+| Statistics | [GDP](https://nationdata.org/gdp/country/gnb) · [Population](https://nationdata.org/population/country/gnb) — via [NationData.org](https://nationdata.org) |
 
 ## Browse by Region
 
